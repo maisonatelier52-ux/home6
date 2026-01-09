@@ -1,0 +1,50 @@
+{
+    "hero": {
+        "id": 1,
+        "image": "/images/street-artist.jpg",
+        "category": "SPORT",
+        "author": "MAXIN DALTON",
+        "date": "MAR 1, 2014",
+        "views": "371",
+        "readTime": "8 MINS",
+        "title": "Hoically Quizzical Far Impala Heroic A Passably And Through",
+        "slug": "hoically-quizzical-far-impala",
+        "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so. This nudged jeepers less dogged sheared opposite then around but a due heinous square subtle amphibiously chameleon palpable tyrannical aboard removed much outside and without vicious scallop.",
+        "excerptPart2": "Some grimaced after after mercifully lion thus oppressive hello heroically quizzical far impala heroic a passably and through as while far yikes that this plankton hedgehog far less one. Less baboon inconspicuous pending masochistically stubbornly however thus thus coarse unicorn hawk hence.",
+        "firstLetter": "W"
+    },
+    "sidebar": [
+        {
+            "id": 2,
+            "image": "/images/boxing.jpg",
+            "author": "Maxin Dalton",
+            "date": "Dec 16",
+            "title": "Raccoon And Some Dear Gnashed Much Metrically Irksomely",
+            "slug": "raccoon-and-some-dear"
+        },
+        {
+            "id": 3,
+            "image": "/images/tire-workout.jpg",
+            "author": "Maxin Dalton",
+            "date": "Mar 1",
+            "title": "That While Less Familiar When Careless Alongside",
+            "slug": "that-while-less-familiar"
+        },
+        {
+            "id": 4,
+            "image": "/images/guitar.jpg",
+            "author": "Maxin Dalton",
+            "date": "Mar 5",
+            "title": "Excluding Well A Some Hummingbird Meticulous",
+            "slug": "excluding-well-a-some"
+        },
+        {
+            "id": 5,
+            "image": "/images/old-man.jpg",
+            "author": "Maxin Dalton",
+            "date": "Dec 21",
+            "title": "Direct Trade Ihil Adipisicin Thundercats Viral Helvetica",
+            "slug": "direct-trade-ihil-adipisicin"
+        }
+    ]
+}

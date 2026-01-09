@@ -1,0 +1,24 @@
+{
+    "moduleTitle": {
+        "red": "Module",
+        "rest": "ENAMBELAS"
+    },
+    "description": "Type your intro for this area. You can insert HTML tag, embedd video or GMap.",
+    "items": [
+        {
+            "id": 1,
+            "date": "11:19 pm - May 01, 2018",
+            "title": "Incongruous jeepers jellyfish one far Well known"
+        },
+        {
+            "id": 2,
+            "date": "10:35 pm - December 29, 2016",
+            "title": "This nudged jeepers while much the less"
+        },
+        {
+            "id": 3,
+            "date": "6:20 pm - June 01, 2016",
+            "title": "This nudged jeepers ded sesulky oite ten around style3"
+        }
+    ]
+}

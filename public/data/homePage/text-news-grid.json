@@ -1,0 +1,38 @@
+{
+    "textNews": [
+        {
+            "id": 1,
+            "categories": [
+                "Culture"
+            ],
+            "title": "Incongruous Jeepers Jellyfish One Far Well Known",
+            "slug": "incongruous-jeepers-jellyfish"
+        },
+        {
+            "id": 2,
+            "categories": [
+                "Uncategorized"
+            ],
+            "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around",
+            "slug": "nudged-jeepers-ded-sesulky"
+        },
+        {
+            "id": 3,
+            "categories": [
+                "Culture",
+                "Europe"
+            ],
+            "title": "Timmediately Quail Was Inverse Much So Remade",
+            "slug": "timmediately-quail-inverse"
+        },
+        {
+            "id": 4,
+            "categories": [
+                "Politic",
+                "Sport"
+            ],
+            "title": "This Nudged Jeepers While Much The Less",
+            "slug": "nudged-jeepers-while-much"
+        }
+    ]
+}
