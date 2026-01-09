@@ -4,6 +4,8 @@ import FeatureWithSidebar from "./components/FeatureWithSidebar";
 import textNewsData from "@/public/data/homePage/text-news-grid.json";
 import featureHomeData from "@/public/data/homePage/feature-home-part.json";
 import sidebarModuleData from "@/public/data/homePage/sidebar-module.json";
+import module6Data from "@/public/data/homePage/module-6.json";
+import Module6Carousel from "./components/Module6Carousel";
 
 export default function Home() {
   return (
@@ -18,6 +20,11 @@ export default function Home() {
         module7={featureHomeData.module7}
         module10={featureHomeData.module10}
         hotPeoples={featureHomeData.hotPeoples}
+      />
+
+      <Module6Carousel
+        title={module6Data.title}
+        articles={module6Data.articles}
       />
 
     </div>
