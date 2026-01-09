@@ -6,12 +6,18 @@ interface FeatureWithSidebarProps {
     hero: any;
     sidebarItems: any[];
     sidebarModuleData: any;
+    module7: any;
+    module10: any;
+    hotPeoples: any[];
 }
 
 export default function FeatureWithSidebar({
     hero,
     sidebarItems,
-    sidebarModuleData
+    sidebarModuleData,
+    module7,
+    module10,
+    hotPeoples
 }: FeatureWithSidebarProps) {
     return (
         <section className="w-full  border-b border-gray-300 bg-white">
@@ -23,12 +29,17 @@ export default function FeatureWithSidebar({
                         <FeatureHomePart
                             hero={hero}
                             sidebarItems={sidebarItems}
+                            module7={module7}
+                            module10={module10}
+                            hotPeoples={hotPeoples}
                         />
                     </div>
 
                     {/* Right Sidebar Form/List (Takes 1 column) */}
                     <div className="lg:col-span-1 border-l border-gray-300 pl-4 lg:pl-0 lg:border-none py-8">
-                        <SidebarFormAndList moduleData={sidebarModuleData} />
+                        <SidebarFormAndList
+                            moduleData={sidebarModuleData}                           
+                        />
                     </div>
 
                 </div>

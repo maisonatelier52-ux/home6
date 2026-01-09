@@ -1,6 +1,9 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import FeatureModules from './FeatureModules';
+import SidebarWeather from './SidebarWeather';
+import SidebarHotPeoples from './SidebarHotPeoples';
 
 interface HeroArticle {
     id: number;
@@ -29,15 +32,18 @@ interface SidebarItem {
 interface FeatureHomePartProps {
     hero: HeroArticle;
     sidebarItems: SidebarItem[];
+    module7: any;
+    module10: any;
+    hotPeoples: any[];
 }
 
-export default function FeatureHomePart({ hero, sidebarItems }: FeatureHomePartProps) {
+export default function FeatureHomePart({ hero, sidebarItems, module7, module10, hotPeoples }: FeatureHomePartProps) {
     // Fallback images if real ones aren't available
     const heroImageSrc = "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=2670&auto=format&fit=crop";
     const sidebarImageSrc = "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=300&auto=format&fit=crop";
 
     return (
-        <div className="w-full bg-white mb-8 border-b border-gray-300 lg:border-none pb-8 lg:pb-0">
+        <div className="w-full bg-white mb-0 border-b border-gray-300 md:pl-0 pl-4 lg:border-none pb-8 lg:pb-0">
             {/* 1. Full Width Hero Image Row */}
             <div className="w-full mb-8">
                 <div className="relative w-full aspect-video md:aspect-[2/1.1] overflow-hidden group cursor-pointer">
@@ -53,7 +59,7 @@ export default function FeatureHomePart({ hero, sidebarItems }: FeatureHomePartP
             </div>
 
             {/* 2. Content Row (2 Columns Content + 1 Column Sidebar) */}
-            <div className="flex flex-col lg:flex-row gap-10">
+            <div className="flex flex-col lg:flex-row gap-4">
 
                 {/* Left Side Content (Takes 2 of 3 columns) */}
                 <div className="lg:w-2/3">
@@ -70,7 +76,7 @@ export default function FeatureHomePart({ hero, sidebarItems }: FeatureHomePartP
                         {hero.title}
                     </h2>
 
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-gray-600 leading-relaxed text-[15px]">
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-gray-600 leading-relaxed text-[15px] border-b border-gray-100 pb-10 mb-8">
                         <div>
                             <p>
                                 <span className="float-left text-5xl font-serif text-gray-400 leading-[0.8] mr-2 mt-[-6px]">
@@ -89,10 +95,14 @@ export default function FeatureHomePart({ hero, sidebarItems }: FeatureHomePartP
                             </Link>
                         </div>
                     </div>
+
+                    {/* Left Column Modules */}                   
+                    <FeatureModules module7={module7} module10={module10} />
+                   
                 </div>
 
                 {/* Right Side Sidebar (Takes 1 of 3 columns) */}
-                <div className="lg:w-1/3">
+                <div className="lg:w-1/3 flex flex-col gap-10">
                     <div className="flex flex-col">
                         {sidebarItems.map((item, index) => (
                             <Link
@@ -118,6 +128,13 @@ export default function FeatureHomePart({ hero, sidebarItems }: FeatureHomePartP
                                 </div>
                             </Link>
                         ))}
+                    </div>
+                    <div className='border-l border-gray-300 pl-4'>
+                        {/* Weather Card */}
+                        <SidebarWeather />
+
+                        {/* Hot Peoples */}
+                        <SidebarHotPeoples items={hotPeoples} />
                     </div>
                 </div>
 

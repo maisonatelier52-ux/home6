@@ -15,6 +15,9 @@ export default function Home() {
         hero={featureHomeData.hero}
         sidebarItems={featureHomeData.sidebar}
         sidebarModuleData={sidebarModuleData}
+        module7={featureHomeData.module7}
+        module10={featureHomeData.module10}
+        hotPeoples={featureHomeData.hotPeoples}
       />
 
     </div>

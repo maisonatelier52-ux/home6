@@ -46,5 +46,89 @@
             "title": "Direct Trade Ihil Adipisicin Thundercats Viral Helvetica",
             "slug": "direct-trade-ihil-adipisicin"
         }
+    ],
+    "module7": {
+        "id": "m7",
+        "title": "Module 7",
+        "subtitle": "SUBTITLE",
+        "articles": [
+            {
+                "category": "Uncategorized",
+                "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around woodpecker Style3",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well woodpecker less more so. \n\nThis nudged jeepers less dogged sheared opposite then around but a due heinous square subtle amphibiously chameleon palpable.",
+                "slug": "nudged-jeepers-3"
+            },
+            {
+                "category": "Sport , Uncategorized",
+                "title": "Hoically Quizzical Far Impala Heroic A Passably And Through",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well hawk darn woodpecker less more so. \n\nThis nudged jeepers less dogged sheared opposite then around but a due heinous square subtle amphibiously chameleon palpable.",
+                "slug": "hoically-quizzical-2"
+            }
+        ]
+    },
+    "module10": {
+        "id": "m10",
+        "title": "Module 10",
+        "subtitle": "SUBTITLE",
+        "editor": {
+            "name": "Maxin Dalton",
+            "posts": "23 Posts",
+            "bio": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply.",
+            "image": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?q=80&w=200&auto=format&fit=crop",
+            "social": [
+                {
+                    "platform": "twitter",
+                    "url": "#"
+                },
+                {
+                    "platform": "facebook",
+                    "url": "#"
+                },
+                {
+                    "platform": "youtube",
+                    "url": "#"
+                }
+            ]
+        },
+        "recentPosts": [
+            {
+                "title": "Incongruous Jeepers Jellyfish One Far Well Known",
+                "date": "May 1st, 2018",
+                "image": "https://images.unsplash.com/photo-1533154683836-84ea7a0bc310?q=80&w=150&auto=format&fit=crop",
+                "slug": "incongruous-jeepers-1"
+            },
+            {
+                "title": "This Nudged Jeepers While Much The Less",
+                "date": "December 29th, 2016",
+                "image": "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=150&auto=format&fit=crop",
+                "slug": "nudged-jeepers-less"
+            },
+            {
+                "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
+                "date": "June 1st, 2016",
+                "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=150&auto=format&fit=crop",
+                "slug": "nudged-jeepers-style3"
+            },
+            {
+                "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
+                "date": "March 5th, 2015",
+                "image": "https://images.unsplash.com/photo-1500462859194-88585f59193b?q=80&w=150&auto=format&fit=crop",
+                "slug": "timmediately-quail-salmon"
+            }
+        ]
+    },
+    "hotPeoples": [
+        {
+            "category": "Uncategorized",
+            "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
+            "image": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?q=80&w=150&auto=format&fit=crop",
+            "slug": "nudged-jeepers-hot"
+        },
+        {
+            "category": "Sport , Uncategorized",
+            "title": "Hoically Quizzical Far Impala Heroic A Passably And Through",
+            "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=150&auto=format&fit=crop",
+            "slug": "hoically-quizzical-hot"
+        }
     ]
 }

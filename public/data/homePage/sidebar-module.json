@@ -19,6 +19,42 @@
             "id": 3,
             "date": "6:20 pm - June 01, 2016",
             "title": "This nudged jeepers ded sesulky oite ten around style3"
+        },
+        {
+            "id": 4,
+            "date": "7:20 pm - June 22, 2016",
+            "title": "ded while much the less sesulky oite ten around style3"
+        },
+        {
+            "id": 5,
+            "date": "8:35 pm - July 29, 2016",
+            "title": "This nudged jeepers while much the less"
         }
-    ]
+    ],
+    "articleList": {
+        "title": {
+            "red": "MODULE 1",
+            "rest": "SUBTITLE"
+        },
+        "articles": [
+            {
+                "category": "Culture",
+                "title": "Incongruous Jeepers Jellyfish One Far Well Known",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so. This nudged jeepers less dogged sheared opposite then around but a due heinous",
+                "slug": "incongruous-jeepers-1"
+            },
+            {
+                "category": "Politic , Sport",
+                "title": "This Nudged Jeepers While Much The Less",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so. This nudged jeepers less dogged sheared opposite then around but a due heinous",
+                "slug": "nudged-jeepers-less"
+            },
+            {
+                "category": "Uncategorized",
+                "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so. This nudged jeepers less dogged sheared opposite then around but a due heinous",
+                "slug": "nudged-jeepers-style3"
+            }
+        ]
+    }
 }

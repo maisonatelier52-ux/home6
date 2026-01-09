@@ -1,4 +1,5 @@
 import React from 'react';
+import SidebarArticleList from './SidebarArticleList';
 
 interface ModuleItem {
     id: number;
@@ -11,10 +12,15 @@ interface SidebarFormAndListProps {
         moduleTitle: { red: string; rest: string };
         description: string;
         items: ModuleItem[];
+        articleList?: {
+            title: { red: string; rest: string };
+            articles: any[];
+        };
     };
+    hotPeoples?: any[];
 }
 
-export default function SidebarFormAndList({ moduleData }: SidebarFormAndListProps) {
+export default function SidebarFormAndList({ moduleData, hotPeoples }: SidebarFormAndListProps) {
     return (
         <div className="w-full flex flex-col gap-8">
 
@@ -90,6 +96,16 @@ export default function SidebarFormAndList({ moduleData }: SidebarFormAndListPro
                     ))}
                 </div>
             </div>
+
+            {/* 3. Article List Module (from image) */}
+            {moduleData.articleList && (
+                <SidebarArticleList
+                    title={moduleData.articleList.title}
+                    articles={moduleData.articleList.articles}
+                />
+            )}
+
+
 
         </div>
     );
