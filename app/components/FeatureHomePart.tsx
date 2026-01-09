@@ -39,8 +39,8 @@ interface FeatureHomePartProps {
 
 export default function FeatureHomePart({ hero, sidebarItems, module7, module10, hotPeoples }: FeatureHomePartProps) {
     // Fallback images if real ones aren't available
-    const heroImageSrc = "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=2670&auto=format&fit=crop";
-    const sidebarImageSrc = "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=300&auto=format&fit=crop";
+    const defaultHeroImage = "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=2670&auto=format&fit=crop";
+    const defaultSidebarImage = "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=300&auto=format&fit=crop";
 
     return (
         <div className="w-full bg-white mb-0 border-b border-gray-300 md:pl-0 pl-4 lg:border-none pb-8 lg:pb-0">
@@ -51,7 +51,7 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                         {hero.category}
                     </span>
                     <img
-                        src={heroImageSrc}
+                        src={hero.image || defaultHeroImage}
                         alt={hero.title}
                         className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 filter grayscale-[0.2]"
                     />
@@ -96,9 +96,9 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                         </div>
                     </div>
 
-                    {/* Left Column Modules */}                   
+                    {/* Left Column Modules */}
                     <FeatureModules module7={module7} module10={module10} />
-                   
+
                 </div>
 
                 {/* Right Side Sidebar (Takes 1 of 3 columns) */}
@@ -112,7 +112,7 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                             >
                                 <div className="w-[50px] h-[60px] flex-shrink-0 overflow-hidden bg-gray-100 relative">
                                     <img
-                                        src={sidebarImageSrc}
+                                        src={item.image || defaultSidebarImage}
                                         alt={item.title}
                                         className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                                     />

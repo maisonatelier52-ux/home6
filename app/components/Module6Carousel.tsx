@@ -50,7 +50,7 @@ export default function Module6Carousel({ title, articles }: Module6CarouselProp
                     <div className="absolute w-full h-[1px] bg-gray-300"></div>
                     <div className="relative bg-white px-4">
                         <h2 className="text-sm font-bold uppercase tracking-wider">
-                            <span className="text-red-600">{title.red}</span>
+                            <span className="text-red-700">{title.red}</span>
                             <span className="text-gray-400 ml-1 font-normal">{title.rest}</span>
                         </h2>
                     </div>
@@ -65,7 +65,7 @@ export default function Module6Carousel({ title, articles }: Module6CarouselProp
                                     <span className="text-gray-400 ml-1 font-normal">ON {item.date}</span>
                                 </div>
                                 <Link href={`/post/${item.slug}`}>
-                                    <h3 className="text-[15px] font-bold leading-snug text-gray-900 hover:text-red-600 transition-colors font-serif">
+                                    <h3 className="text-[15px] font-bold leading-snug text-gray-900 hover:underline transition-colors font-serif">
                                         {item.title}
                                     </h3>
                                 </Link>

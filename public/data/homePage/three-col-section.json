@@ -1,0 +1,100 @@
+{
+    "hero": {
+        "category": "NATURE",
+        "title": "Excluding Well A Some Hummingbird Meticulous",
+        "intro": "Locavore mcsweeney's authentic narwhal eu qui. Banksy ea organic duis vinyl. Went wow one that while less familiar when careless alongside duteously mechanic mighty some correctly pill amused much that on thus much immediately quail was inverse much so remade.",
+        "author": "Maxin Dalton",
+        "role": "Editor",
+        "date": "Mar 5, 2011",
+        "contentLeft": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so.",
+        "contentRight": "palpable tyrannical aboard removed much outside and without vicious scallop flapped newt as.",
+        "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1000&auto=format&fit=crop",
+        "slug": "excluding-well-a-some"
+    },
+    "sportNews": {
+        "title": {
+            "red": "SportNews",
+            "rest": "TO EURO CUP"
+        },
+        "articles": [
+            {
+                "category": "Culture",
+                "title": "Incongruous Jeepers Jellyfish One Far Well Known",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much",
+                "slug": "incongruous-jeepers-1"
+            },
+            {
+                "category": "Politic , Sport",
+                "title": "This Nudged Jeepers While Much The Less",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much",
+                "slug": "nudged-jeepers-less"
+            },
+            {
+                "category": "Uncategorized",
+                "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much",
+                "slug": "nudged-jeepers-style3"
+            },
+            {
+                "category": "Culture , Europe",
+                "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much",
+                "slug": "timmediately-quail-salmon"
+            }
+        ]
+    },
+    "coronavirus": {
+        "title": {
+            "red": "Coronavirus",
+            "rest": "WORLD TIMELINE"
+        },
+        "description": "Type your intro for this area. You can insert HTML tag, embedd video or GMap.",
+        "timeline": [
+            {
+                "time": "11:19 pm - May 01, 2018",
+                "text": "Incongruous jeepers jellyfish one far Well known"
+            },
+            {
+                "time": "10:35 pm - December 29, 2016",
+                "text": "This nudged jeepers while much the less"
+            },
+            {
+                "time": "6:20 pm - June 01, 2016",
+                "text": "This nudged jeepers ded sesulky oite ten around style3"
+            },
+            {
+                "time": "7:17 am - March 05, 2015",
+                "text": "Timmediately quail was inverse much so remade dimly salmon"
+            }
+        ]
+    },
+    "culture": {
+        "title": {
+            "red": "Culture",
+            "rest": "MUSIC & DANCE"
+        },
+        "articles": [
+            {
+                "category": "Culture",
+                "title": "Incongruous Jeepers Jellyfish One Far Well Known",
+                "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=150&auto=format&fit=crop",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much Within spread beside the ouch sulky and this wonderfully and as the well and where supply much",
+                "slug": "culture-incongruous"
+            },
+            {
+                "category": "Politic , Sport",
+                "title": "This Nudged Jeepers While Much The Less",
+                "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=150&auto=format&fit=crop",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much Within spread beside the ouch sulky and this wonderfully and as the well and where supply much",
+                "slug": "culture-nudged"
+            },
+            {
+                "category": "Politic , Sport",
+                "title": "This Nudged Jeepers While Much The Less",
+                "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=150&auto=format&fit=crop",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much Within spread beside the ouch sulky and this wonderfully and as the well and where supply much",
+                "slug": "culture-nudged"
+            }
+        ]
+    }
+}
