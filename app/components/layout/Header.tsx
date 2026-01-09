@@ -2,33 +2,21 @@ import React from 'react';
 import { Menu, Sun, Moon, Zap, Facebook, Twitter, Globe, Phone } from 'lucide-react';
 import Link from 'next/link';
 import Navbar from './Navbar';
+import NewsTicker from './NewsTicker';
 
 export default function Header() {
-    return (
-        <header className="w-full flex flex-col bg-white text-black font-sans dark:bg-white dark:text-black">
-            {/* Top Bar - Ticker */}
-            <div className="border-b border-gray-300">
-                <div className="container mx-auto flex items-center h-10 overflow-hidden">
-                    {/* Label */}
-                    <div className="flex-shrink-0 bg-black text-white px-3 py-2.5 h-full flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider">
-                        <Zap size={12} className="fill-white" />
-                        Latest
-                    </div>
+    const tickerItems = [
+        "Timmediately quail was inverse much so remade dimly...",
+        "Unanimous haltered loud one trod trigly style four",
+        "Incongruous jeepers jellyfish one far Well",
+        "Hoically quizzical far impala heroic a passably and through",
+        "Direct trade ihil adipisicin thundercats viral helvetica"
+    ];
 
-                    {/* Ticker Content */}
-                    <div className="flex-1 px-4 text-xs font-semibold text-gray-700 whitespace-nowrap overflow-hidden">
-                        <div className="flex items-center gap-4">
-                            <span className="cursor-pointer hover:underline">Timmediately quail was inverse much so remade dimly...</span>
-                            <span className="text-gray-300">|</span>
-                            <span className="cursor-pointer hover:underline">Unanimous haltered loud one trod trigly style four</span>
-                            <span className="text-gray-300">|</span>
-                            <span className="cursor-pointer hover:underline">Incongruous jeepers jellyfish one far Well</span>
-                            <span className="text-gray-300">|</span>
-                            <span className="cursor-pointer hover:underline">Timmediately quail was inverse much so remade dimly...</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
+    return (
+        <header className="w-full flex flex-col bg-white text-black font-sans dark:bg-white dark:text-black max-w-6xl mx-auto">
+            {/* News Ticker Section */}
+            <NewsTicker items={tickerItems} />
 
             {/* Main Header Area */}
             <div className="container mx-auto px-0 py-4">

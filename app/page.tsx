@@ -8,29 +8,35 @@ import module6Data from "@/public/data/homePage/module-6.json";
 import threeColData from "@/public/data/homePage/three-col-section.json";
 import Module6Carousel from "./components/Module6Carousel";
 import NewsSectionThreeCols from "./components/NewsSectionThreeCols";
+import Footer from "./components/layout/Footer";
 
 export default function Home() {
   return (
     <div className="min-h-screen bg-white">
       <Header />
-      <TextNewsGrid items={textNewsData.textNews} />
 
-      <FeatureWithSidebar
-        hero={featureHomeData.hero}
-        sidebarItems={featureHomeData.sidebar}
-        sidebarModuleData={sidebarModuleData}
-        module7={featureHomeData.module7}
-        module10={featureHomeData.module10}
-        hotPeoples={featureHomeData.hotPeoples}
-      />
+      <div className="max-w-6xl mx-auto">
+        <TextNewsGrid items={textNewsData.textNews} />
 
-      <Module6Carousel
-        title={module6Data.title}
-        articles={module6Data.articles}
-      />
+        <FeatureWithSidebar
+          hero={featureHomeData.hero}
+          sidebarItems={featureHomeData.sidebar}
+          sidebarModuleData={sidebarModuleData}
+          module7={featureHomeData.module7}
+          module10={featureHomeData.module10}
+          hotPeoples={featureHomeData.hotPeoples}
+        />
 
-      <NewsSectionThreeCols data={threeColData} />
+        <Module6Carousel
+          title={module6Data.title}
+          articles={module6Data.articles}
+        />
 
-    </div>
-  );
+        <NewsSectionThreeCols data={threeColData} />
+      </div>
+      
+        <Footer />
+       
+      </div>
+      );
 }

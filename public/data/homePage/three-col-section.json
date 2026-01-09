@@ -96,5 +96,60 @@
                 "slug": "culture-nudged"
             }
         ]
+    },
+    "module15": {
+        "title": {
+            "red": "MODULE 15",
+            "rest": "SUBTITLE"
+        },
+        "description": "Type your intro for this area. You can insert HTML tag, embedd video or GMap.",
+        "articles": [
+            {
+                "title": "Incongruous Jeepers Jellyfish One Far Well Known",
+                "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=150&auto=format&fit=crop",
+                "slug": "incongruous-jeepers-well-known"
+            },
+            {
+                "title": "This Nudged Jeepers While Much The Less",
+                "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?q=80&w=150&auto=format&fit=crop",
+                "slug": "nudged-jeepers-much-less"
+            },
+            {
+                "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
+                "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=150&auto=format&fit=crop",
+                "slug": "nudged-jeepers-style3-module-15"
+            },
+            {
+                "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
+                "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=150&auto=format&fit=crop",
+                "slug": "timmediately-quail-module-15"
+            }
+        ]
+    },
+    "hotWeek": {
+        "title": {
+            "red": "HotWeek",
+            "rest": "TOP PEOPLES"
+        },
+        "articles": [
+            {
+                "category": "Culture",
+                "title": "Incongruous Jeepers Jellyfish One Far Well Known",
+                "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=300&auto=format&fit=crop",
+                "slug": "incongruous-jeepers-well-known-hot"
+            },
+            {
+                "category": "Politic , Sport",
+                "title": "This Nudged Jeepers While Much The Less",
+                "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?q=80&w=300&auto=format&fit=crop",
+                "slug": "nudged-jeepers-much-less-hot"
+            },
+            {
+                "category": "Uncategorized",
+                "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
+                "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=300&auto=format&fit=crop",
+                "slug": "nudged-jeepers-style3-hot"
+            }
+        ]
     }
 }
