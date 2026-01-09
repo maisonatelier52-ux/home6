@@ -32,7 +32,7 @@ export default function SidebarHotPeoples({ items }: SidebarHotPeoplesProps) {
                     >
                         <div className="flex-1">
                             <span className="text-[10px] font-bold text-black mb-1.5 block">{item.category}</span>
-                            <h3 className="text-sm font-bold leading-snug text-gray-900 font-serif group-hover:underline">
+                            <h3 className="text-md font-bold leading-snug text-gray-900 font-serif group-hover:underline">
                                 {item.title}
                             </h3>
                         </div>
