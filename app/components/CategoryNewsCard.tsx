@@ -8,6 +8,7 @@ interface CategoryNewsCardProps {
     readTime: string;
     comments: number;
     title: string;
+    slug: string;
     image: string;
     excerpt: string;
     tags: string[];
@@ -20,6 +21,7 @@ export default function CategoryNewsCard({
     readTime,
     comments,
     title,
+    slug,
     image,
     excerpt,
     tags
@@ -47,7 +49,9 @@ export default function CategoryNewsCard({
 
             {/* Title */}
             <h2 className="text-2xl md:text-3xl font-serif font-bold text-gray-900 mb-4 leading-tight hover:underline cursor-pointer transition-all duration-200">
-                {title}
+                <Link href={`/article/${slug}`}>
+                    {title}
+                </Link>
             </h2>
 
             {/* Content Section */}

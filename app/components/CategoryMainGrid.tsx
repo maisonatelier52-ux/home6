@@ -10,13 +10,16 @@ interface CategoryMainGridProps {
         readTime: string;
         comments: number;
         title: string;
+        slug: string;
         image: string;
         excerpt: string;
         tags: string[];
     }>;
+    recentPosts?: Array<{ title: string; slug: string }>;
+    tags?: string[];
 }
 
-export default function CategoryMainGrid({ newsCards = [] }: CategoryMainGridProps) {
+export default function CategoryMainGrid({ newsCards = [], recentPosts = [], tags = [] }: CategoryMainGridProps) {
     return (
         <section className="py-12 bg-gray-50/50">
             <div className="container mx-auto max-w-6xl px-4 md:px-0">
@@ -41,7 +44,7 @@ export default function CategoryMainGrid({ newsCards = [] }: CategoryMainGridPro
 
                     {/* Right Column (1/4) */}
                     <div className="lg:w-1/4">
-                        <CategorySidebar />
+                        <CategorySidebar recentPosts={recentPosts} tags={tags} />
                     </div>
                 </div>
             </div>

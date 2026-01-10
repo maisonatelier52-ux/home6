@@ -21,16 +21,30 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
         notFound();
     }
 
-    // Attempt to load the news data for this category
+    // Load dynamic data from JSON files
     let newsCards = [];
+    let recentPosts = [];
+    let tags = [];
+
     try {
-        // We use a dynamic import for the specific category JSON
-        // Note: For this to work efficiently, the files must exist in the expected path
-        const data = await import(`@/public/data/categoryNews/${lowerSlug}.json`);
-        newsCards = data.default;
+        const newsData = await import(`@/public/data/categoryNews/${lowerSlug}.json`);
+        newsCards = newsData.default;
     } catch (error) {
         console.warn(`No news data found for category: ${lowerSlug}`);
-        newsCards = []; // Fallback to empty if file doesn't exist
+    }
+
+    try {
+        const recentData = await import(`@/public/data/recentPosts.json`);
+        recentPosts = recentData.default;
+    } catch (error) {
+        console.warn(`No recent posts data found`);
+    }
+
+    try {
+        const tagsData = await import(`@/public/data/tags.json`);
+        tags = tagsData.default;
+    } catch (error) {
+        console.warn(`No tags data found`);
     }
 
     return (
@@ -44,7 +58,11 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
                     description={category.description}
                 />
 
-                <CategoryMainGrid newsCards={newsCards} />
+                <CategoryMainGrid
+                    newsCards={newsCards}
+                    recentPosts={recentPosts}
+                    tags={tags}
+                />
             </main>
 
             <Footer />
