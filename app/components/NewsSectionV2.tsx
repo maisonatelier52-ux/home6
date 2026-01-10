@@ -34,7 +34,7 @@ export default function NewsSectionV2({ data }: NewsSectionV2Props) {
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-4">
 
                     {/* First Column (1/4 width - col-span-3) */}
-                    <div className="lg:col-span-3 border-r border-gray-300 pr-0 lg:pr-8">
+                    <div className="lg:col-span-3 md:border-r border-gray-300 pr-0 lg:pr-8">
                         <SidebarArticleList
                             title={data.col1.title}
                             articles={data.col1.articles}
