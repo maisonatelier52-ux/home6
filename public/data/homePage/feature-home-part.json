@@ -1,7 +1,7 @@
 {
     "hero": {
         "id": 1,
-        "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=2670&auto=format&fit=crop",
+        "image":  "/images/drawingGuy.webp",
         "category": "SPORT",
         "author": "MAXIN DALTON",
         "date": "MAR 1, 2014",
@@ -19,7 +19,7 @@
             "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=300&auto=format&fit=crop",
             "author": "Maxin Dalton",
             "date": "Dec 16",
-            "title": "Raccoon And Some Dear Gnashed Much Metrically Irksomely",
+            "title": "Raccoon And Some Dear Gnashed Much Metrically",
             "slug": "raccoon-and-some-dear"
         },
         {
@@ -74,7 +74,7 @@
             "name": "Maxin Dalton",
             "posts": "23 Posts",
             "bio": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply.",
-            "image": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?q=80&w=200&auto=format&fit=crop",
+            "image":  "/images/maxin dalton.webp",
             "social": [
                 {
                     "platform": "twitter",

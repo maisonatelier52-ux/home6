@@ -14,13 +14,21 @@ interface HeroProps {
         image: string;
         slug: string;
     };
+    aspectRatio?: string;
+    showItalicIntro?: boolean;
+    titleSize?: string;
 }
 
-export default function ColHeroArticle({ data }: HeroProps) {
+export default function ColHeroArticle({
+    data,
+    aspectRatio = "aspect-[4/3]",
+    showItalicIntro = true,
+    titleSize = "text-3xl"
+}: HeroProps) {
     return (
-        <div className="flex flex-col">
+        <div className="flex flex-col group">
             {/* Main Image */}
-            <div className="relative w-full aspect-[4/3] bg-gray-100 mb-6 group overflow-hidden">
+            <div className={`relative w-full ${aspectRatio} bg-gray-100 mb-6 overflow-hidden`}>
                 <span className="absolute top-0 left-0 bg-[#e43b3b] text-white text-[10px] font-bold uppercase py-1 px-3 z-10 tracking-wider [writing-mode:vertical-rl] rotate-180">
                     {data.category}
                 </span>
@@ -32,12 +40,12 @@ export default function ColHeroArticle({ data }: HeroProps) {
             </div>
 
             {/* Title */}
-            <h2 className="text-3xl font-bold font-serif leading-tight mb-4 text-gray-900 group-hover:underline cursor-pointer">
+            <h2 className={`${titleSize} font-bold font-serif leading-tight mb-4 text-gray-900 group-hover:underline cursor-pointer`}>
                 {data.title}
             </h2>
 
             {/* Intro */}
-            <p className="text-gray-500 italic text-[15px] leading-relaxed mb-4">
+            <p className={`text-gray-600 ${showItalicIntro ? 'italic' : ''} text-[15px] leading-relaxed mb-4`}>
                 {data.intro}
             </p>
 

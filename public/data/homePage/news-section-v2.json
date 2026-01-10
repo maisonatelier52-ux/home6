@@ -1,0 +1,86 @@
+{
+    "sectionHeader": {
+        "title": "Corona Virus News",
+        "subtitle": "World will be not same again. Follow the Progress"
+    },
+    "col1": {
+        "title": {
+            "red": "Culture",
+            "rest": ""
+        },
+        "articles": [
+            {
+                "category": "Culture",
+                "title": "Incongruous Jeepers Jellyfish One Far Well Known",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply",
+                "slug": "incongruous-jeepers-well-known-v2"
+            },
+            {
+                "category": "Politic , Sport",
+                "title": "This Nudged Jeepers While Much The Less",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply",
+                "slug": "nudged-jeepers-less-v2"
+            },
+            {
+                "category": "Uncategorized",
+                "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply",
+                "slug": "nudged-jeepers-style3-v2"
+            },
+            {
+                "category": "Culture , Europe",
+                "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply",
+                "slug": "timmediately-quail-salmon-v2"
+            },
+            {
+                "category": "Europe , Finance",
+                "title": "Unanimous Haltered Loud One Trod Trigly Style Four",
+                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply",
+                "slug": "unanimous-haltered-loud-v2"
+            }
+        ]
+    },
+    "col2": {
+        "hero": {
+            "category": "UNCATEGORIZED",
+            "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
+            "intro": "This nudged jeepers less dogged sheared opposite then around but a due heinous square subtle amphibiously chameleon palpable tyrannical aboard removed much outside and without vicious scallop flapped newt as.",
+            "author": "Maxin Dalton",
+            "role": "Editor",
+            "date": "Jun 1, 2016",
+            "contentLeft": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so.",
+            "contentRight": "palpable tyrannical aboard removed much outside and without vicious scallop flapped newt as.\n\nSome grimaced after after mercifully lion thus oppressive hello heroically quizzical far impala heroic a passably and through.",
+            "image": "/images/workout.webp",
+            "slug": "this-nudged-jeepers"
+        },
+        "bullets": [
+            {
+                "title": "Unanimous Haltered Loud One Trod Trigly Style Four",
+                "slug": "unanimous-haltered-bullet"
+            },
+            {
+                "title": "Heared Opposite Then Around But A Heinous Square Amphibisly",
+                "slug": "heared-opposite-bullet"
+            },
+            {
+                "title": "Hoically Quizzical Far Impala Heroic A Passably And Through",
+                "slug": "hoically-quizzical-bullet"
+            }
+        ]
+    },
+    "col3": {
+        "hero": {
+            "category": "CULTURE",
+            "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
+            "intro": "Nesciunt mumblecore blog, wayfarers voluptate VHS vice before they sold out delectus direct trade. Wullamco dolore",
+            "author": "Maxin Dalton",
+            "role": "Editor",
+            "date": "Mar 5, 2015",
+            "contentLeft": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so",
+            "contentRight": "but a due so well and where supply much.\n\nThis nudged jeepers less dogged sheared opposite then around.",
+            "image": "/images/beardguy.webp",
+            "slug": "timmediately-quail-v2"
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "sectionHeader": {
+        "title": "Corona Virus News",
+        "subtitle": "World will be not same again. Follow the Progress"
+    },
+    "columns": [
+        {
+            "type": "image",
+            "image": "/images/boxwerbw.webp"
+        },
+        {
+            "type": "articles",
+            "header": {
+                "red": "TENNIS",
+                "rest": "SUBTITLE"
+            },
+            "articles": [
+                {
+                    "category": "Culture",
+                    "title": "Incongruous Jeepers Jellyfish One Far Well Known",
+                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
+                    "slug": "incongruous-jeepers-jellyfish"
+                },
+                {
+                    "category": "Politic , Sport",
+                    "title": "This Nudged Jeepers While Much The Less",
+                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
+                    "slug": "this-nudged-jeepers-less"
+                }
+            ]
+        },
+        {
+            "type": "articles",
+            "header": {
+                "red": "MMA",
+                "rest": "SUBTITLE"
+            },
+            "articles": [
+                {
+                    "category": "Culture",
+                    "title": "Incongruous Jeepers Jellyfish One Far Well Known",
+                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
+                    "slug": "incongruous-jeepers-jellyfish-2"
+                },
+                {
+                    "category": "Politic , Sport",
+                    "title": "This Nudged Jeepers While Much The Less",
+                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
+                    "slug": "this-nudged-jeepers-less-2"
+                }
+            ]
+        },
+        {
+            "type": "articles",
+            "header": {
+                "red": "MMA",
+                "rest": "SUBTITLE"
+            },
+            "articles": [
+                {
+                    "category": "Culture",
+                    "title": "Incongruous Jeepers Jellyfish One Far Well Known",
+                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
+                    "slug": "incongruous-jeepers-jellyfish-3"
+                },
+                {
+                    "category": "Politic , Sport",
+                    "title": "This Nudged Jeepers While Much The Less",
+                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
+                    "slug": "this-nudged-jeepers-less-3"
+                }
+            ]
+        },
+        {
+            "type": "articles",
+            "header": {
+                "red": "BOXING",
+                "rest": "SUBTITLE"
+            },
+            "articles": [
+                {
+                    "category": "Culture",
+                    "title": "Incongruous Jeepers Jellyfish One Far Well Known",
+                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
+                    "slug": "incongruous-jeepers-jellyfish-4"
+                },
+                {
+                    "category": "Politic , Sport",
+                    "title": "This Nudged Jeepers While Much The Less",
+                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
+                    "slug": "this-nudged-jeepers-less-4"
+                }
+            ]
+        }
+    ]
+}

@@ -59,7 +59,7 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
             </div>
 
             {/* 2. Content Row (2 Columns Content + 1 Column Sidebar) */}
-            <div className="flex flex-col lg:flex-row gap-4">
+            <div className="flex flex-col lg:flex-row gap-4 border-b border-gray-300">
 
                 {/* Left Side Content (Takes 2 of 3 columns) */}
                 <div className="lg:w-2/3">
@@ -76,7 +76,7 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                         {hero.title}
                     </h2>
 
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-gray-600 leading-relaxed text-[15px] border-b border-gray-100 pb-10 mb-8">
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-gray-600 leading-relaxed text-[15px] pb-2 mb-8">
                         <div>
                             <p>
                                 <span className="float-left text-5xl font-serif text-gray-400 leading-[0.8] mr-2 mt-[-6px]">
@@ -96,8 +96,6 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                         </div>
                     </div>
 
-                    {/* Left Column Modules */}
-                    <FeatureModules module7={module7} module10={module10} />
 
                 </div>
 
@@ -108,7 +106,7 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                             <Link
                                 key={item.id}
                                 href={`/post/${item.slug}`}
-                                className={`group flex items-start gap-4 py-6 ${index !== 0 ? 'border-t border-gray-300' : ''}`}
+                                className={`group flex items-start gap-4 py-4`}
                             >
                                 <div className="w-[50px] h-[60px] flex-shrink-0 overflow-hidden bg-gray-100 relative">
                                     <img
@@ -129,16 +127,12 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                             </Link>
                         ))}
                     </div>
-                    <div className='border-l border-gray-300 pl-4'>
-                        {/* Weather Card */}
-                        <SidebarWeather />
-
-                        {/* Hot Peoples */}
-                        <SidebarHotPeoples items={hotPeoples} />
-                    </div>
                 </div>
 
             </div>
+            {/* Left Column Modules */}
+            <FeatureModules module7={module7} module10={module10} hotPeoples={hotPeoples} />
+
         </div>
     );
 }

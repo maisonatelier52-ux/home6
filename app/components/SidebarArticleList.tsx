@@ -38,7 +38,7 @@ export default function SidebarArticleList({ title, articles }: SidebarArticleLi
                                 {article.title}
                             </h3>
                         </Link>
-                        <p className="text-gray-500 text-[14px] leading-relaxed">
+                        <p className="text-gray-600 text-[14px] leading-relaxed">
                             {article.excerpt}
                         </p>
                     </div>
