@@ -22,7 +22,7 @@ export default function NewsSectionThreeCols({ data }: NewsSectionThreeColsProps
             <div className="container mx-auto px-4 md:px-0">
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-4">
                     {/* First Column (2/4 width) */}
-                    <div className="lg:col-span-6 border-r border-gray-300 pr-0 md:pr-4">
+                    <div className="lg:col-span-6 md:border-r border-gray-300 pr-0 md:pr-4">
                         <ColHeroArticle data={data.hero} />
                         <div className="mt-12 pt-8 border-t border-gray-300">
                             <Module15
@@ -34,7 +34,7 @@ export default function NewsSectionThreeCols({ data }: NewsSectionThreeColsProps
                     </div>
 
                     {/* Second Column (1/4 width) */}
-                    <div className="lg:col-span-3 border-r border-gray-300 pr-0 md:pr-10">
+                    <div className="lg:col-span-3 md:border-r border-gray-300 pr-0 md:pr-10">
                         <SportNewsCol
                             title={data.sportNews.title}
                             articles={data.sportNews.articles}

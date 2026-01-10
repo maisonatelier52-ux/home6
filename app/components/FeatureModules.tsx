@@ -142,7 +142,7 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
 
             {/* Right Sidebar (Takes 1/3 width) */}
             <div className="lg:w-1/3">
-                <div className='border-l border-gray-300 pl-4 h-full'>
+                <div className='md:border-l border-gray-300 pl-0 md:pl-4 h-full'>
                     {/* Weather Card */}
                     <SidebarWeather />
 
