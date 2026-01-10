@@ -42,7 +42,7 @@ export default function NewsSectionV2({ data }: NewsSectionV2Props) {
                     </div>
 
                     {/* Second Column (2/4 width - col-span-6) */}
-                    <div className="lg:col-span-6 border-r border-gray-300 pr-0 lg:pr-8">
+                    <div className="lg:col-span-6 md:border-r border-gray-300 pr-0 lg:pr-8">
                         <ColHeroArticle
                             data={data.col2.hero}
                             aspectRatio="aspect-[2/1.1]"
