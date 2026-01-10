@@ -22,9 +22,9 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
     }
 
     // Load dynamic data from JSON files
-    let newsCards = [];
-    let recentPosts = [];
-    let tags = [];
+    let newsCards: any[] = [];
+    let recentPosts: { title: string; slug: string }[] = [];
+    let tags: string[] = [];
 
     try {
         const newsData = await import(`@/public/data/categoryNews/${lowerSlug}.json`);
