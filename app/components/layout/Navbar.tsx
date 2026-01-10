@@ -43,14 +43,16 @@ export default function Navbar() {
             ]
         },
         {
-            label: 'CATEGORY LAYOUTS',
+            label: 'CATEGORY',
             href: '#',
             hasDropdown: true,
             dropdownItems: [
-                { label: 'LIST LAYOUT', href: '#' },
-                { label: 'GRID LAYOUT', href: '#' },
-                { label: 'MASONRY LAYOUT', href: '#' },
-                { label: 'BIG THUMB', href: '#' },
+                { label: 'CULTURE', href: '/category/culture' },
+                { label: 'FINANCE', href: '/category/finance' },
+                { label: 'NATURE', href: '/category/nature' },
+                { label: 'POLITICS', href: '/category/politics' },
+                { label: 'SPORT', href: '/category/sport' },
+                { label: 'TOPSHOT', href: '/category/topshot' },
             ]
         },
         {
