@@ -1,0 +1,32 @@
+{
+    "culture": {
+        "title": "Culture",
+        "count": 6,
+        "description": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn."
+    },
+    "finance": {
+        "title": "Finance",
+        "count": 12,
+        "description": "Financial markets and economic trends analysis from around the globe, focusing on investments, banking, and fiscal policy."
+    },
+    "nature": {
+        "title": "Nature",
+        "count": 8,
+        "description": "Exploring the wonders of the natural world, from wildlife conservation to environmental breakthroughs and the beauty of our planet."
+    },
+    "politics": {
+        "title": "Politics",
+        "count": 15,
+        "description": "In-depth coverage of political events, governance, and policy-making at local, national, and international levels."
+    },
+    "sport": {
+        "title": "Sport",
+        "count": 24,
+        "description": "Latest scores, athlete profiles, and comprehensive coverage of sporting events across the globe, from football to athletics."
+    },
+    "topshot": {
+        "title": "Topshot",
+        "count": 5,
+        "description": "Compelling visual storytelling and iconic photography that captures the most significant moments in news and culture."
+    }
+}
