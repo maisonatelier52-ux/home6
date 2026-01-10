@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { Search, ChevronDown, Menu, X } from 'lucide-react';
 
 interface DropdownItem {
@@ -18,6 +19,7 @@ interface NavItem {
 }
 
 export default function Navbar() {
+    const pathname = usePathname();
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const [activeDropdown, setActiveDropdown] = useState<number | null>(null);
 
@@ -34,7 +36,6 @@ export default function Navbar() {
         {
             label: 'HOME',
             href: '/',
-            color: 'text-red-600',
             hasDropdown: true,
             dropdownItems: [
                 { label: 'HOME 1', href: '#' },
@@ -89,6 +90,15 @@ export default function Navbar() {
         { label: '404', href: '#' },
     ];
 
+    // Helper to check if a main nav item or any of its dropdown items is active
+    const isItemActive = (item: NavItem) => {
+        if (item.href !== '#' && pathname === item.href) return true;
+        if (item.dropdownItems) {
+            return item.dropdownItems.some(drop => drop.href === pathname);
+        }
+        return false;
+    };
+
     return (
         <nav className="w-full border-t border-b border-gray-300 bg-white sticky top-0 z-[100]">
             <div className="container mx-auto px-4">
@@ -107,41 +117,44 @@ export default function Navbar() {
 
                     {/* Desktop Navigation */}
                     <ul className="hidden lg:flex items-center h-full gap-8 text-[12px] font-bold uppercase tracking-wider relative z-50">
-                        {navItems.map((item, index) => (
-                            <li
-                                key={index}
-                                className={`flex items-center h-full group relative cursor-pointer ${item.color || 'text-gray-800'}`}
-                            >
-                                <Link
-                                    href={item.href}
-                                    className="flex items-center gap-1 hover:text-red-600 transition-colors duration-200"
+                        {navItems.map((item, index) => {
+                            const active = isItemActive(item);
+                            return (
+                                <li
+                                    key={index}
+                                    className={`flex items-center h-full group relative cursor-pointer ${active ? 'text-red-600' : 'text-gray-800'}`}
                                 >
-                                    {item.label}
-                                    {item.hasDropdown && (
-                                        <ChevronDown size={14} className="mt-[-2px] opacity-70" strokeWidth={2.5} />
-                                    )}
-                                </Link>
+                                    <Link
+                                        href={item.href}
+                                        className="flex items-center gap-1 hover:text-red-600 transition-colors duration-200"
+                                    >
+                                        {item.label}
+                                        {item.hasDropdown && (
+                                            <ChevronDown size={14} className={`mt-[-2px] opacity-70 ${active ? 'text-red-600' : ''}`} strokeWidth={2.5} />
+                                        )}
+                                    </Link>
 
-                                {/* Dropdown Menu */}
-                                {item.hasDropdown && item.dropdownItems && (
-                                    <div className="absolute top-full left-0 w-48 bg-white border border-gray-300 shadow-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-2 group-hover:translate-y-0 z-50">
-                                        <div className="h-0.5 w-full bg-red-600 top-0 absolute"></div>
-                                        <ul className="flex flex-col py-2">
-                                            {item.dropdownItems.map((dropItem, dropIndex) => (
-                                                <li key={dropIndex}>
-                                                    <Link
-                                                        href={dropItem.href}
-                                                        className="block px-4 py-2 text-gray-600 hover:bg-gray-50 hover:text-red-600 transition-colors text-[11px] font-bold"
-                                                    >
-                                                        {dropItem.label}
-                                                    </Link>
-                                                </li>
-                                            ))}
-                                        </ul>
-                                    </div>
-                                )}
-                            </li>
-                        ))}
+                                    {/* Dropdown Menu */}
+                                    {item.hasDropdown && item.dropdownItems && (
+                                        <div className="absolute top-full left-0 w-48 bg-white border border-gray-300 shadow-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-2 group-hover:translate-y-0 z-50">
+                                            <div className="h-0.5 w-full bg-red-600 top-0 absolute"></div>
+                                            <ul className="flex flex-col py-2">
+                                                {item.dropdownItems.map((dropItem, dropIndex) => (
+                                                    <li key={dropIndex}>
+                                                        <Link
+                                                            href={dropItem.href}
+                                                            className={`block px-4 py-2 hover:bg-gray-50 hover:text-red-600 transition-colors text-[11px] font-bold ${pathname === dropItem.href ? 'text-red-600' : 'text-gray-600'}`}
+                                                        >
+                                                            {dropItem.label}
+                                                        </Link>
+                                                    </li>
+                                                ))}
+                                            </ul>
+                                        </div>
+                                    )}
+                                </li>
+                            );
+                        })}
                     </ul>
 
                     {/* Search Icon */}
@@ -156,47 +169,50 @@ export default function Navbar() {
                 {isMenuOpen && (
                     <div className="lg:hidden bg-white border-t border-gray-200 py-2 pb-6 absolute left-0 right-0 shadow-xl z-[90] max-h-[80vh] overflow-y-auto">
                         <ul className="flex flex-col text-[12px] font-bold uppercase tracking-wider">
-                            {navItems.map((item, index) => (
-                                <li key={index} className="border-b border-gray-50 last:border-none">
-                                    <div className="flex items-center justify-between px-4 py-3">
-                                        <Link
-                                            href={item.href}
-                                            className={`flex-1 hover:text-red-600 transition-colors ${item.color || 'text-gray-800'}`}
-                                            onClick={() => !item.hasDropdown && setIsMenuOpen(false)}
-                                        >
-                                            {item.label}
-                                        </Link>
-                                        {item.hasDropdown && (
-                                            <button
-                                                onClick={() => toggleDropdown(index)}
-                                                className="p-1 hover:bg-gray-100 rounded"
+                            {navItems.map((item, index) => {
+                                const active = isItemActive(item);
+                                return (
+                                    <li key={index} className="border-b border-gray-50 last:border-none">
+                                        <div className="flex items-center justify-between px-4 py-3">
+                                            <Link
+                                                href={item.href}
+                                                className={`flex-1 hover:text-red-600 transition-colors ${active ? 'text-red-600' : 'text-gray-800'}`}
+                                                onClick={() => !item.hasDropdown && setIsMenuOpen(false)}
                                             >
-                                                <ChevronDown
-                                                    size={18}
-                                                    className={`transition-transform duration-200 ${activeDropdown === index ? 'rotate-180' : ''}`}
-                                                />
-                                            </button>
-                                        )}
-                                    </div>
+                                                {item.label}
+                                            </Link>
+                                            {item.hasDropdown && (
+                                                <button
+                                                    onClick={() => toggleDropdown(index)}
+                                                    className="p-1 hover:bg-gray-100 rounded"
+                                                >
+                                                    <ChevronDown
+                                                        size={18}
+                                                        className={`transition-transform duration-200 ${activeDropdown === index ? 'rotate-180' : ''} ${active ? 'text-red-600' : ''}`}
+                                                    />
+                                                </button>
+                                            )}
+                                        </div>
 
-                                    {/* Mobile Dropdown Items */}
-                                    {item.hasDropdown && item.dropdownItems && activeDropdown === index && (
-                                        <ul className="bg-gray-50 py-2 border-t border-gray-100">
-                                            {item.dropdownItems.map((dropItem, dropIndex) => (
-                                                <li key={dropIndex}>
-                                                    <Link
-                                                        href={dropItem.href}
-                                                        className="block px-8 py-2 text-gray-600 hover:text-red-600 text-[11px] font-bold"
-                                                        onClick={() => setIsMenuOpen(false)}
-                                                    >
-                                                        {dropItem.label}
-                                                    </Link>
-                                                </li>
-                                            ))}
-                                        </ul>
-                                    )}
-                                </li>
-                            ))}
+                                        {/* Mobile Dropdown Items */}
+                                        {item.hasDropdown && item.dropdownItems && activeDropdown === index && (
+                                            <ul className="bg-gray-50 py-2 border-t border-gray-100">
+                                                {item.dropdownItems.map((dropItem, dropIndex) => (
+                                                    <li key={dropIndex}>
+                                                        <Link
+                                                            href={dropItem.href}
+                                                            className={`block px-8 py-2 hover:text-red-600 text-[11px] font-bold ${pathname === dropItem.href ? 'text-red-600' : 'text-gray-600'}`}
+                                                            onClick={() => setIsMenuOpen(false)}
+                                                        >
+                                                            {dropItem.label}
+                                                        </Link>
+                                                    </li>
+                                                ))}
+                                            </ul>
+                                        )}
+                                    </li>
+                                );
+                            })}
                         </ul>
                     </div>
                 )}
