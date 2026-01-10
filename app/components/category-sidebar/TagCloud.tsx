@@ -14,7 +14,7 @@ export default function TagCloud({ tags = [] }: TagCloudProps) {
 
     return (
         <div>
-            <h3 className="text-sm font-bold uppercase tracking-widest text-gray-900 mb-6 border-b border-gray-100 pb-2">
+            <h3 className="text-sm font-bold uppercase tracking-widest text-gray-900 mb-2 border-b border-gray-100 pb-2">
                 TAG
             </h3>
             <div className="flex flex-wrap gap-2">

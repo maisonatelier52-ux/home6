@@ -27,7 +27,7 @@ export default function CategoryNewsCard({
     tags
 }: CategoryNewsCardProps) {
     return (
-        <div className="bg-white border border-gray-100 p-6 mb-8 hover:shadow-sm transition-shadow duration-300">
+        <div className="bg-white border border-gray-300 p-6 mb-0 hover:shadow-sm transition-shadow duration-300">
             {/* Top Metadata */}
             <div className="flex flex-wrap items-center justify-between text-[11px] text-gray-400 mb-4 uppercase font-bold tracking-wider">
                 <div className="flex items-center gap-2">
@@ -71,8 +71,8 @@ export default function CategoryNewsCard({
             </div>
 
             {/* Bottom Tags */}
-            <div className="mt-6 pt-4 border-t border-gray-100">
-                <div className="flex flex-wrap gap-2 text-[11px] text-gray-500 font-bold uppercase tracking-widest">
+            <div className="mt-6 pt-4 border-t border-gray-300">
+                <div className="flex flex-wrap gap-2 text-[10px] text-gray-500 font-bold uppercase tracking-widest">
                     <span>Tags:</span>
                     {tags.map((tag, i) => (
                         <Link key={i} href="#" className="text-gray-800 hover:underline transition-colors">

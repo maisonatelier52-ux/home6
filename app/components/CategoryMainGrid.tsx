@@ -1,6 +1,7 @@
 import React from 'react';
 import CategoryNewsCard from './CategoryNewsCard';
 import CategorySidebar from './CategorySidebar';
+import StickyBox from './StickyBox';
 
 interface CategoryMainGridProps {
     newsCards: Array<{
@@ -26,7 +27,7 @@ export default function CategoryMainGrid({ newsCards = [], recentPosts = [], tag
                 <div className="flex flex-col lg:flex-row gap-12">
                     {/* Left Column (3/4) */}
                     <div className="lg:w-3/4">
-                        <div className="flex flex-col">
+                        <div className="flex flex-col gap-8">
                             {newsCards.length > 0 ? (
                                 newsCards.map((card, index) => (
                                     <CategoryNewsCard
@@ -42,9 +43,11 @@ export default function CategoryMainGrid({ newsCards = [], recentPosts = [], tag
                         </div>
                     </div>
 
-                    {/* Right Column (1/4) */}
+                    {/* Right Column (1/4) - Smart Sticky Sidebar */}
                     <div className="lg:w-1/4">
-                        <CategorySidebar recentPosts={recentPosts} tags={tags} />
+                        <StickyBox offsetTop={30}>
+                            <CategorySidebar recentPosts={recentPosts} tags={tags} />
+                        </StickyBox>
                     </div>
                 </div>
             </div>
