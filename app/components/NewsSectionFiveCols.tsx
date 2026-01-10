@@ -22,11 +22,11 @@ export default function NewsSectionFiveCols({ data }: NewsSectionFiveColsProps) 
                     subtitle={data.sectionHeader?.subtitle}
                 />
 
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 border-t border-gray-300">
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 md:border-t border-gray-300">
                     {data.columns.map((col, index) => (
                         <div
                             key={index}
-                            className={`px-4 py-4 ${index !== data.columns.length - 1 ? 'border-r border-gray-200' : ''}`}
+                            className={`px-4 py-4 ${index !== data.columns.length - 1 ? 'md:border-r border-gray-200' : ''}`}
                         >
                             {col.type === 'image' ? (
                                 <div className="w-full h-full min-h-[300px] relative">
