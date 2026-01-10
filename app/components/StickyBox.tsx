@@ -8,7 +8,7 @@ interface StickyBoxProps {
     offsetBottom?: number;
 }
 
-export default function StickyBox({ children, offsetTop = 30, offsetBottom = 20 }: StickyBoxProps) {
+export default function StickyBox({ children, offsetTop = 30, offsetBottom = 30 }: StickyBoxProps) {
     const scrollPaneRef = useRef<HTMLDivElement>(null);
     const containerRef = useRef<HTMLDivElement>(null);
 
