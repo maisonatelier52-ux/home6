@@ -34,7 +34,7 @@ export default function Footer() {
 
                     {/* About Us */}
                     <div className="flex flex-col gap-6">
-                        <h3 className="text-white text-lg font-bold font-serif">About Us</h3>
+                        <h3 className="text-white text-md font-bold font-serif">About Us</h3>
                         <div className="flex flex-col gap-4 text-sm leading-relaxed text-gray-400">
                             <p>
                                 Within spread beside the ouch sulky this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker.
@@ -47,7 +47,7 @@ export default function Footer() {
 
                     {/* Tag Cloud */}
                     <div className="flex flex-col gap-6">
-                        <h3 className="text-white text-lg font-bold font-serif">Tag Cloud</h3>
+                        <h3 className="text-white text-md font-bold font-serif">Tag Cloud</h3>
                         <div className="flex flex-wrap gap-2">
                             {tags.map((tag, index) => (
                                 <Link
@@ -63,7 +63,7 @@ export default function Footer() {
 
                     {/* Hot News */}
                     <div className="flex flex-col gap-6">
-                        <h3 className="text-white text-lg font-bold font-serif">Hot News</h3>
+                        <h3 className="text-white text-md font-bold font-serif">Hot News</h3>
                         <div className="flex flex-col divide-y divide-gray-800">
                             {hotNews.map((news, index) => (
                                 <div key={index} className="flex gap-4 py-4 first:pt-0 group">
@@ -84,7 +84,7 @@ export default function Footer() {
 
                     {/* Meta */}
                     <div className="flex flex-col gap-6">
-                        <h3 className="text-white text-lg font-bold font-serif">Meta</h3>
+                        <h3 className="text-white text-md font-bold font-serif">Meta</h3>
                         <div className="flex flex-col divide-y divide-gray-800 text-sm">
                             <Link href="/login" className="py-3 flex items-center gap-2 hover:underline group">
                                 <span className="text-gray-500 group-hover:text-white">»</span> Log in
