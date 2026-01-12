@@ -23,7 +23,7 @@ export default function Header() {
                 <div className="flex flex-col md:flex-row items-center justify-between gap-6">
 
                     {/* Left Controls */}
-                    <div className="flex items-center gap-4 w-full md:w-auto justify-center md:justify-start">
+                    <div className="hidden md:flex items-center gap-4 w-full md:w-auto justify-center md:justify-start">
                         <button className="h-6 w-10 border border-gray-300 flex items-center justify-center hover:bg-black hover:text-white hover:border-black transition-colors duration-200">
                             <Menu size={16} />
                         </button>
@@ -50,7 +50,7 @@ export default function Header() {
                     </div>
 
                     {/* Right Socials */}
-                    <div className="flex items-center gap-3 w-full md:w-auto justify-center md:justify-end">
+                    <div className="hidden md:flex items-center gap-3 w-full md:w-auto justify-center md:justify-end">
                         <SocialButton icon={<Phone size={16} />} />
                         <SocialButton icon={<Globe size={16} />} />
                         <SocialButton icon={<Twitter size={16} />} />
