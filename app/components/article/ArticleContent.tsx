@@ -14,7 +14,7 @@ interface ArticleBodyProps {
 
 export default function ArticleBody({ image, content }: ArticleBodyProps) {
     return (
-        <div className="flex flex-col gap-6 text-gray-700 dark:text-gray-300 font-serif leading-relaxed text-[17px]">
+        <div className="flex flex-col gap-6 text-gray-700 font-serif leading-relaxed text-[17px]">
             {/* Feature Image */}
             <div className="w-full mb-4">
                 <img
@@ -29,7 +29,7 @@ export default function ArticleBody({ image, content }: ArticleBodyProps) {
                 switch (block.type) {
                     case 'intro':
                         return (
-                            <p key={index} className="text-xl md:text-2xl font-bold text-gray-900 dark:text-gray-100 leading-snug mb-2">
+                            <p key={index} className="text-xl md:text-2xl font-bold text-gray-900 leading-snug mb-2">
                                 {block.text}
                             </p>
                         );
@@ -38,7 +38,7 @@ export default function ArticleBody({ image, content }: ArticleBodyProps) {
                         if (block.hasDropCap) {
                             return (
                                 <p key={index} className="mb-2">
-                                    <span className="float-left text-[85px] line-height-[60px] font-bold text-black dark:text-white mr-3 mt-[-15px] font-serif">
+                                    <span className="float-left text-[85px] line-height-[60px] font-bold text-black mr-3 mt-[-15px] font-serif">
                                         {block.text?.charAt(0)}
                                     </span>
                                     {block.text?.substring(1)}
@@ -58,14 +58,14 @@ export default function ArticleBody({ image, content }: ArticleBodyProps) {
                             6: "text-base"
                         };
                         return (
-                            <Level key={index} className={`${sizes[block.level || 2]} font-bold text-gray-900 dark:text-gray-100 mt-6 mb-2 font-serif`}>
+                            <Level key={index} className={`${sizes[block.level || 2]} font-bold text-gray-900 mt-6 mb-2 font-serif`}>
                                 {block.text}
                             </Level>
                         );
 
                     case 'quote':
                         return (
-                            <blockquote key={index} className="border-l-4 border-gray-200 dark:border-gray-700 pl-6 py-1 my-6 italic text-gray-900 dark:text-gray-100 font-bold text-lg">
+                            <blockquote key={index} className="border-l-4 border-gray-200 pl-6 py-1 my-6 italic text-gray-900 font-bold text-lg">
                                 {block.text}
                             </blockquote>
                         );

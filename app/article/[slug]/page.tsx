@@ -34,7 +34,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const tags = tagsData;
 
     return (
-        <div className="bg-white dark:bg-gray-900 min-h-screen transition-colors duration-300">
+        <div className="bg-white min-h-screen transition-colors duration-300">
             <Header />
             <main className="container mx-auto max-w-6xl px-4 md:px-0 py-12">
                 <div className="flex flex-col lg:flex-row gap-12">

@@ -14,7 +14,7 @@ export default function Header() {
     ];
 
     return (
-        <header className="w-full flex flex-col bg-white text-black font-sans dark:bg-white dark:text-black max-w-6xl mx-auto">
+        <header className="w-full flex flex-col bg-white text-black font-sans max-w-6xl mx-auto">
             {/* News Ticker Section */}
             <NewsTicker items={tickerItems} />
 

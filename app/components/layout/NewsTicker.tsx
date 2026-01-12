@@ -12,7 +12,7 @@ export default function NewsTicker({ items }: NewsTickerProps) {
     const displayItems = [...items, ...items];
 
     return (
-        <div className="border-b border-gray-300 bg-white dark:bg-white overflow-hidden relative">
+        <div className="border-b border-gray-300 bg-white overflow-hidden relative">
             <div className="container mx-auto flex items-center h-10">
                 {/* Fixed Label with higher index to appear over the scrolling text */}
                 <div className="flex-shrink-0 bg-black text-white px-3 py-2.5 h-full flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider relative z-20">
