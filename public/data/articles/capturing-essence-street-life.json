@@ -1,0 +1,43 @@
+{
+    "id": "4",
+    "slug": "capturing-essence-street-life",
+    "title": "Capturing the Essence of Street Life through Lense",
+    "category": "Culture",
+    "date": "June 20, 2020",
+    "views": "850",
+    "readTime": "3 Mins",
+    "comments": 1,
+    "image": "/images/eyepaint.webp",
+    "tags": [
+        "Photography",
+        "Street",
+        "Life"
+    ],
+    "author": {
+        "name": "Maxin Dalton",
+        "role": "Editor",
+        "postsCount": 23,
+        "image": "/images/maxin dalton.webp",
+        "bio": "Photographer and writer with a passion for urban stories."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "Street photography is more than just taking pictures of people in public. It's about capturing a moment, a look, or an interaction."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "It requires patience, observation, and a quick eye for composition. The best street photographs are those that reveal the extraordinary in the ordinary. A shaft of light hitting a building, a fleeting expression on a stranger's face, the juxtaposition of old and new."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "The Decisive Moment"
+        },
+        {
+            "type": "paragraph",
+            "text": "Henri Cartier-Bresson coined the term 'the decisive moment' to describe that split second when all the elements of a scene come together perfectly. In street photography, missing that moment means missing the shot forever."
+        }
+    ]
+}
