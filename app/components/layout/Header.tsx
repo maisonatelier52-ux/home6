@@ -1,7 +1,7 @@
 import React from 'react';
 import { Menu, Sun, Moon, Zap, Facebook, Twitter, Globe, Phone } from 'lucide-react';
 import Link from 'next/link';
-import Navbar from './Navbar';
+
 import NewsTicker from './NewsTicker';
 
 export default function Header() {
@@ -45,7 +45,7 @@ export default function Header() {
                             <img
                                 src="/images/logo-TQFP.svg"
                                 alt="The Quest for Profit"
-                                className="h-8 md:h-9 w-auto"
+                                className="h-8 md:h-9 w-auto "
                             />
                         </Link>
                     </div>
@@ -59,7 +59,6 @@ export default function Header() {
                     </div>
                 </div>
             </div>
-            <Navbar />
         </header>
     );
 }

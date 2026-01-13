@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "The Quest for Profit | Financial Insights & Market Analysis",
   description: "Your ultimate destination for business, finance, and wealth management insights. High-authority news for the modern investor.",
   icons: {
-    icon: "/images/favicon-TQFP.svg",
+    icon: "/images/favicon-TQFP2.svg",
   },
 };
 

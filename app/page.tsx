@@ -1,4 +1,5 @@
 import Header from "./components/layout/Header";
+import Navbar from "./components/layout/Navbar";
 import TextNewsGrid from "./components/TextNewsGrid";
 import FeatureWithSidebar from "./components/FeatureWithSidebar";
 import textNewsData from "@/public/data/homePage/text-news-grid.json";
@@ -18,6 +19,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-white">
       <Header />
+      <Navbar />
 
       <div className="max-w-6xl mx-auto">
         <TextNewsGrid items={textNewsData.textNews} />

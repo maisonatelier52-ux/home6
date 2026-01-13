@@ -1,4 +1,5 @@
 import Header from "../../components/layout/Header";
+import Navbar from "../../components/layout/Navbar";
 import Footer from "../../components/layout/Footer";
 import CategoryHeader from "../../components/CategoryHeader";
 import CategoryMainGrid from "../../components/CategoryMainGrid";
@@ -50,6 +51,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
     return (
         <div className="min-h-screen bg-white">
             <Header />
+            <Navbar />
 
             <main className="mx-auto">
                 <CategoryHeader

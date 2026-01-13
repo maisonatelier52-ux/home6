@@ -1,6 +1,7 @@
 import React from 'react';
 import { notFound } from 'next/navigation';
 import Header from '../../components/layout/Header';
+import Navbar from '../../components/layout/Navbar';
 import Footer from '../../components/layout/Footer';
 import ArticleHeader from '../../components/article/ArticleHeader';
 import ArticleContent from '../../components/article/ArticleContent';
@@ -70,6 +71,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     return (
         <div className="bg-white min-h-screen transition-colors duration-300">
             <Header />
+            <Navbar />
             <main className="container mx-auto max-w-6xl px-4 md:px-0 py-12">
                 <div className="flex flex-col lg:flex-row gap-12">
                     {/* Main Content Column (2/3 width) */}

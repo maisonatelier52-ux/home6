@@ -94,7 +94,7 @@ export default function Navbar() {
     };
 
     return (
-        <nav className="w-full border-t border-b border-gray-300 bg-white sticky top-0 z-[100]">
+        <nav className="w-full border-t border-b border-gray-300 bg-white sticky top-0 z-[100] max-w-6xl mx-auto">
             <div className="container mx-auto px-4">
                 <div className="flex items-center justify-between h-[40px] lg:h-[40px]">
 
@@ -110,7 +110,7 @@ export default function Navbar() {
                     </div>
 
                     {/* Desktop Navigation */}
-                    <ul className="hidden lg:flex items-center h-full gap-8 text-[12px] font-bold uppercase tracking-wider relative z-50">
+                    <ul className="hidden lg:flex items-center h-full gap-8 text-[11px] font-bold uppercase tracking-wider relative z-50">
                         {navItems.map((item, index) => {
                             const active = isItemActive(item);
                             return (
