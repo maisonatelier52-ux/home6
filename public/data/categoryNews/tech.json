@@ -9,7 +9,7 @@
         "views": "45k",
         "readTime": "9 Mins",
         "comments": 289,
-        "image": "/images/news/tech-1.jpg",
+        "image": "/images/news/tech-1.webp",
         "excerpt": "Silicon Valley is shifting its focus from training larger models to building specialized, efficient AI agents that can perform complex business tasks...",
         "tags": [
             "AI",
@@ -28,7 +28,7 @@
         "views": "21k",
         "readTime": "10 Mins",
         "comments": 54,
-        "image": "/images/news/tech-2.jpg",
+        "image": "/images/news/tech-2.webp",
         "excerpt": "Researchers have achieved a record 1,000-qubit threshold with error correction, bringing us one step closer to a cryptographically relevant quantum computer...",
         "tags": [
             "Quantum",
@@ -47,7 +47,7 @@
         "views": "33k",
         "readTime": "8 Mins",
         "comments": 142,
-        "image": "/images/news/tech-3.jpg",
+        "image": "/images/news/tech-3.webp",
         "excerpt": "New EU regulations are forcing big tech firms to overhaul their advertising models, sparking a multi-billion dollar fight for control over the digital profile...",
         "tags": [
             "Privacy",
@@ -66,7 +66,7 @@
         "views": "19k",
         "readTime": "7 Mins",
         "comments": 61,
-        "image": "/images/news/tech-4.jpg",
+        "image": "/images/news/tech-4.webp",
         "excerpt": "While the tech for self-driving cars is mature, the physical and legal infrastructure of our cities remains the biggest bottleneck for mass adoption...",
         "tags": [
             "AVs",
@@ -85,7 +85,7 @@
         "views": "26k",
         "readTime": "6 Mins",
         "comments": 95,
-        "image": "/images/news/tech-5.jpg",
+        "image": "/images/news/tech-5.webp",
         "excerpt": "A breakthrough in solid-state electrolyte design promises to double EV range and halve charging times, potentially ending range anxiety for good...",
         "tags": [
             "Green Tech",

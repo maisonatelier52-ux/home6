@@ -9,7 +9,7 @@
         "views": "10.2k",
         "readTime": "7 Mins",
         "comments": 28,
-        "image": "/images/news/business-1.jpg",
+        "image": "/images/news/business-1.webp",
         "excerpt": "A series of high-profile mergers and acquisitions in the industrial manufacturing space has caught investors by surprise, signaling a major consolidation phase...",
         "tags": [
             "Mergers",
@@ -28,7 +28,7 @@
         "views": "15.5k",
         "readTime": "9 Mins",
         "comments": 64,
-        "image": "/images/news/business-2.jpg",
+        "image": "/images/news/business-2.webp",
         "excerpt": "Venture capital activity is showing signs of a rebound as several large-scale Series C rounds were closed last week, hinting at renewed confidence in high-growth firms...",
         "tags": [
             "Startups",
@@ -47,7 +47,7 @@
         "views": "25k",
         "readTime": "10 Mins",
         "comments": 412,
-        "image": "/images/news/business-3.jpg",
+        "image": "/images/news/business-3.webp",
         "excerpt": "New data from major tech firms reveals conflicting results regarding productivity and innovation in hybrid versus fully remote environments...",
         "tags": [
             "Remote Work",
@@ -66,7 +66,7 @@
         "views": "9.8k",
         "readTime": "6 Mins",
         "comments": 19,
-        "image": "/images/news/business-4.jpg",
+        "image": "/images/news/business-4.webp",
         "excerpt": "Major retailers are investing billions into AI-powered logistics to bridge the gap between their physical stores and online platforms...",
         "tags": [
             "Retail",
@@ -85,7 +85,7 @@
         "views": "12k",
         "readTime": "8 Mins",
         "comments": 35,
-        "image": "/images/news/business-5.jpg",
+        "image": "/images/news/business-5.webp",
         "excerpt": "Sustainability is no longer a PR buzzword; it's a core competitive advantage. We look at three companies leading the shift toward ethical sourcing...",
         "tags": [
             "Sustainability",
