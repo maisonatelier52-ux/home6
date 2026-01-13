@@ -44,7 +44,7 @@ export default function Header() {
                  The image shows 'javapaper.wpbromo.com' which looks like a logo image but I'll emulate it with text. */}
                         <Link href="/" className="inline-block">
                             <span className="text-2xl md:text-3xl font-bold tracking-tight text-slate-800">
-                                javapaper.wpbromo.com
+                                thequestforprofit.com
                             </span>
                         </Link>
                     </div>
