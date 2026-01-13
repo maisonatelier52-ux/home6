@@ -1,39 +1,97 @@
 [
     {
-        "date": "December 10, 2023",
-        "categories": [
-            "Finance"
-        ],
-        "views": "1520",
-        "readTime": "6 Mins",
-        "comments": 3,
-        "title": "Global Market Trends and Economic Stability in 2024",
-        "slug": "global-market-trends-2024",
-        "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=500&auto=format&fit=crop&q=60",
-        "excerpt": "Analyzing the latest shifts in global economic policy and their potential impact on stock markets and international trade stability.",
+        "id": "fin-1",
+        "slug": "fed-interest-rate-outlook",
+        "title": "Federal Reserve Signals Slower Rate Cuts for 2026",
+        "category": "Finance",
+        "date": "October 24, 2025",
+        "author": "Sarah Jenkins",
+        "views": "18.2k",
+        "readTime": "8 Mins",
+        "comments": 156,
+        "image": "/images/news/finance-1.jpg",
+        "excerpt": "Investors are recalibrating their portfolios after the Fed chair's latest speech hinted at a 'higher for longer' approach to interest rates...",
         "tags": [
-            "Economy",
-            "Investing",
-            "Finance"
+            "Fed",
+            "Interest Rates",
+            "Inflation",
+            "Economy"
         ]
     },
     {
-        "date": "November 22, 2023",
-        "categories": [
-            "Finance",
-            "Technology"
-        ],
-        "views": "2100",
-        "readTime": "5 Mins",
-        "comments": 7,
-        "title": "The Rise of FinTech: Transforming Modern Banking",
-        "slug": "rise-of-fintech-banking",
-        "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=500&auto=format&fit=crop&q=60",
-        "excerpt": "How new tech startups are challenging traditional banking structures and changing the way we manage our personal finances.",
+        "id": "fin-2",
+        "slug": "personal-finance-high-yield-savings",
+        "title": "Maximizing Returns in a High-Yield Environment",
+        "category": "Finance",
+        "date": "October 22, 2025",
+        "author": "James O'Connor",
+        "views": "35k",
+        "readTime": "6 Mins",
+        "comments": 89,
+        "image": "/images/news/finance-2.jpg",
+        "excerpt": "With benchmark rates sitting at decade highs, we explore the best strategies for retail investors to lock in risk-free returns before the cycle turns...",
         "tags": [
+            "Savings",
+            "Investing",
+            "Wealth",
+            "Banking"
+        ]
+    },
+    {
+        "id": "fin-3",
+        "slug": "pension-reform-global-crisis",
+        "title": "Pension Reform: Tackling the Impending Global Crisis",
+        "category": "Finance",
+        "date": "October 20, 2025",
+        "author": "David Smith",
+        "views": "12k",
+        "readTime": "10 Mins",
+        "comments": 42,
+        "image": "/images/news/finance-3.jpg",
+        "excerpt": "Aging populations and underfunded public pensions are forcing governments to consider radical shifts in retirement ages and social security contributions...",
+        "tags": [
+            "Retirement",
+            "Pensions",
+            "Demographics",
+            "Social Security"
+        ]
+    },
+    {
+        "id": "fin-4",
+        "slug": "fintech-disruption-traditional-banking",
+        "title": "FinTech Disruption and the Survival of Traditional Banks",
+        "category": "Finance",
+        "date": "October 18, 2025",
+        "author": "Alex Thorne",
+        "views": "21.5k",
+        "readTime": "7 Mins",
+        "comments": 73,
+        "image": "/images/news/finance-4.jpg",
+        "excerpt": "Neobanks are capturing record market share among Gen Z and Millennials, forcing legacy institutions to spend billions on digital transformations...",
+        "tags": [
+            "FinTech",
             "Banking",
-            "Tech",
-            "Startup"
+            "Disruption",
+            "Innovation"
+        ]
+    },
+    {
+        "id": "fin-5",
+        "slug": "real-estate-investment-strategies-2026",
+        "title": "Real Estate Investment Strategies for the New Era",
+        "category": "Finance",
+        "date": "October 16, 2025",
+        "author": "Maria Sanchez",
+        "views": "28k",
+        "readTime": "9 Mins",
+        "comments": 124,
+        "image": "/images/news/finance-5.jpg",
+        "excerpt": "Residential markets are cooling while industrial and data center properties are booming. We break down the winners and losers in the current real estate cycle...",
+        "tags": [
+            "Real Estate",
+            "Investing",
+            "Property",
+            "Yield"
         ]
     }
 ]

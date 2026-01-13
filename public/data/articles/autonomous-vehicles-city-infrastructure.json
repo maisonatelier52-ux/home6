@@ -1,0 +1,61 @@
+{
+    "id": "tech-4",
+    "slug": "autonomous-vehicles-city-infrastructure",
+    "title": "Are Cities Ready for the Autonomous Vehicle Revolution?",
+    "category": "Tech",
+    "date": "October 18, 2025",
+    "views": "19k",
+    "readTime": "7 Mins",
+    "comments": 61,
+    "image": "/images/news/tech-4.jpg",
+    "tags": [
+        "AVs",
+        "Transportation",
+        "Cities",
+        "Infrastructure"
+    ],
+    "author": {
+        "name": "Michael Chen",
+        "role": "Smart City Correspondent",
+        "postsCount": 89,
+        "image": "/images/authors/michael.jpg",
+        "bio": "Michael travels the world looking at how technology is reshaping urban life."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "While the tech for self-driving cars is mature, the physical and legal infrastructure of our cities remains the biggest bottleneck for mass adoption."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "If you visit San Francisco or Phoenix tonight, you'll see driverless Waymo and Cruise vehicles navigating complex urban traffic. The software works. We've solved the '95%' problem. But the final '5%'—handling a snowstorm, interpreting a traffic cop's hand signals, or dodging an unpredictable child—is proving to be a monumental challenge. And even if we solve the tech, our cities aren't built for a world of autonomous vehicles (AVs). From curb management to liability laws, the urban operating system needs a complete reboot."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "The Curb Management Crisis"
+        },
+        {
+            "type": "paragraph",
+            "text": "Most of our city streets are designed for parking. But in an AV-dominated world, we don't need parking; we need pick-up and drop-off zones. If every car on the road is a shared autonomous taxi, the curb becomes the most valuable real estate in the city. Cities are currently struggling to manage 'delivery bots' and Uber/Lyft double-parking. AVs will exacerbate this a thousand-fold. Innovative cities are experimenting with 'Dynamic Curb Pricing'—charging vehicles based on their dwell time and the current demand for the space."
+        },
+        {
+            "type": "paragraph",
+            "text": "Then there is the issue of infrastructure communication. For AVs to be truly safe and efficient, they need to communicate with the traffic lights, the street sensors, and each other (V2X communication). This requires a massive investment in 5G and fiber-optic networks across entire metropolitan areas. Who pays for this? The taxpayers? The car manufacturers? The answer will determine the speed of the rollout."
+        },
+        {
+            "type": "quote",
+            "text": "Autonomous vehicles aren't a new kind of car; they are a new kind of public transport."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "The Ethical and Legal Maze"
+        },
+        {
+            "type": "paragraph",
+            "text": "Finally, we have the 'Trolley Problem' for real life. Who is responsible when an AV kills someone? The software developer? The sensor manufacturer? The city for not maintaining the road markings? Current insurance models are built on human error. Overhauling these to account for probabilistic software decisions will take years of legislative work. But the payoff is clear: over 35,000 people die on US roads every year. If AVs can reduce that by 90%, the infrastructure cost is a bargain."
+        }
+    ]
+}

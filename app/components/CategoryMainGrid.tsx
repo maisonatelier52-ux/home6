@@ -6,7 +6,8 @@ import StickyBox from './StickyBox';
 interface CategoryMainGridProps {
     newsCards: Array<{
         date: string;
-        categories: string[];
+        categories?: string[];
+        category?: string;
         views: string;
         readTime: string;
         comments: number;

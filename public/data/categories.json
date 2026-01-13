@@ -1,32 +1,32 @@
 {
-    "culture": {
-        "title": "Culture",
-        "count": 6,
-        "description": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn."
+    "politics": {
+        "title": "Politics",
+        "count": 5,
+        "description": "In-depth coverage of political events, governance, and policy-making impacting the global landscape."
+    },
+    "markets": {
+        "title": "Markets",
+        "count": 5,
+        "description": "Real-time analysis of stock markets, bonds, commodities, and global economic trends."
+    },
+    "business": {
+        "title": "Business",
+        "count": 5,
+        "description": "Breaking news on corporations, startups, mergers, and executive leadership."
     },
     "finance": {
         "title": "Finance",
-        "count": 12,
-        "description": "Financial markets and economic trends analysis from around the globe, focusing on investments, banking, and fiscal policy."
-    },
-    "nature": {
-        "title": "Nature",
-        "count": 8,
-        "description": "Exploring the wonders of the natural world, from wildlife conservation to environmental breakthroughs and the beauty of our planet."
-    },
-    "politics": {
-        "title": "Politics",
-        "count": 15,
-        "description": "In-depth coverage of political events, governance, and policy-making at local, national, and international levels."
-    },
-    "sport": {
-        "title": "Sport",
-        "count": 24,
-        "description": "Latest scores, athlete profiles, and comprehensive coverage of sporting events across the globe, from football to athletics."
-    },
-    "topshot": {
-        "title": "Topshot",
         "count": 5,
-        "description": "Compelling visual storytelling and iconic photography that captures the most significant moments in news and culture."
+        "description": "Expert advice on banking, investment strategies, and fiscal responsibility."
+    },
+    "tech": {
+        "title": "Tech",
+        "count": 5,
+        "description": "The latest innovations in technology, AI, software, and consumer electronics."
+    },
+    "wealth": {
+        "title": "Wealth",
+        "count": 5,
+        "description": "Insights into luxury living, high-net-worth management, and legacy building."
     }
 }

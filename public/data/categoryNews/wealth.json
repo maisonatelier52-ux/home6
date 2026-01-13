@@ -1,0 +1,97 @@
+[
+    {
+        "id": "wth-1",
+        "slug": "luxury-real-estate-hidden-hubs",
+        "title": "Beyond Dubai and Monaco: The New Luxury Real Estate Hubs",
+        "category": "Wealth",
+        "date": "October 24, 2025",
+        "author": "Maria Sanchez",
+        "views": "38k",
+        "readTime": "11 Mins",
+        "comments": 45,
+        "image": "/images/news/wealth-1.jpg",
+        "excerpt": "Ultra-high-net-worth individuals are flocking to tertiary cities and remote retreats, looking for privacy and community over traditional flashiness...",
+        "tags": [
+            "Luxury",
+            "Real Estate",
+            "UHNW",
+            "Travel"
+        ]
+    },
+    {
+        "id": "wth-2",
+        "slug": "art-market-digital-provenance",
+        "title": "The Art Market 2.0: Digital Provenance and Rarity",
+        "category": "Wealth",
+        "date": "October 22, 2025",
+        "author": "David Smith",
+        "views": "15k",
+        "readTime": "8 Mins",
+        "comments": 22,
+        "image": "/images/news/wealth-2.jpg",
+        "excerpt": "Blockchain isn't just for digital art; it's becoming the gold standard for tracking physical masterpieces, reducing fraud and increasing liquidity...",
+        "tags": [
+            "Art",
+            "Investing",
+            "Blockchain",
+            "Wealth"
+        ]
+    },
+    {
+        "id": "wth-3",
+        "slug": "family-office-trends-2026",
+        "title": "Family Office 2.0: Managing Legacy in a Turbulent Century",
+        "category": "Wealth",
+        "date": "October 20, 2025",
+        "author": "James O'Connor",
+        "views": "12k",
+        "readTime": "9 Mins",
+        "comments": 15,
+        "image": "/images/news/wealth-3.jpg",
+        "excerpt": "The multi-generational transfer of wealth is facing new challenges, from ESG requirements to the complexities of digital asset inheritance...",
+        "tags": [
+            "Family Office",
+            "Inheritance",
+            "Legacy",
+            "Investing"
+        ]
+    },
+    {
+        "id": "wth-4",
+        "slug": "luxury-yachting-sustainable-shifts",
+        "title": "The Rise of the Zero-Emission Superyacht",
+        "category": "Wealth",
+        "date": "October 18, 2025",
+        "author": "Robert Miller",
+        "views": "24k",
+        "readTime": "7 Mins",
+        "comments": 38,
+        "image": "/images/news/wealth-4.jpg",
+        "excerpt": "Hydrogen fuel cells and high-tech sails are transforming the world's most exclusive shipyards as the elite look to reduce their carbon wake...",
+        "tags": [
+            "Yachting",
+            "Luxury",
+            "Sustainability",
+            "Design"
+        ]
+    },
+    {
+        "id": "wth-5",
+        "slug": "longevity-science-ultimate-investment",
+        "title": "Longevity Science: The Ultimate Wealth Investment",
+        "category": "Wealth",
+        "date": "October 16, 2025",
+        "author": "Jessica Wu",
+        "views": "52k",
+        "readTime": "12 Mins",
+        "comments": 194,
+        "image": "/images/news/wealth-5.jpg",
+        "excerpt": "Billionaires are funnelling record sums into biogerontology, hoping to turn back the clock with personalized therapies and cellular reprogramming...",
+        "tags": [
+            "Health",
+            "Longevity",
+            "Science",
+            "Wealth"
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+{
+    "id": "wth-4",
+    "slug": "luxury-yachting-sustainable-shifts",
+    "title": "The Rise of the Zero-Emission Superyacht",
+    "category": "Wealth",
+    "date": "October 18, 2025",
+    "views": "24k",
+    "readTime": "7 Mins",
+    "comments": 38,
+    "image": "/images/news/wealth-4.jpg",
+    "tags": [
+        "Yachting",
+        "Luxury",
+        "Sustainability",
+        "Design"
+    ],
+    "author": {
+        "name": "Robert Miller",
+        "role": "Marine Innovation Analyst",
+        "postsCount": 215,
+        "image": "/images/authors/robert.jpg",
+        "bio": "Robert tracks the evolution of luxury on the high seas."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "Hydrogen fuel cells and high-tech sails are transforming the world's most exclusive shipyards as the elite look to reduce their carbon wake."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "The image of the superyacht—a diesel-guzzling monument to excess—is being challenged from within. A new generation of owners, conscious of their public image and the health of the oceans they enjoy, are demanding 'Green Luxury.' shipyards like Feadship and Lürssen are responding with silent, zero-emission vessels powered by hydrogen fuel cells and wind-assist technologies. These aren't just eco-friendly; they offer a better experience—no noise, no fumes, and access to pristine marine reserves where traditional engines are banned."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Technological Masterpieces"
+        },
+        {
+            "type": "paragraph",
+            "text": "The engineering required for these ships is mind-boggling. Automated wingsails can now propel 100-meter vessels with the touch of a button, while advanced hull designs reduce drag and energy consumption. Waste heat from the engines is used to heat swimming pools and run desalination plants. These 'floating cities' are essentially testbeds for the maritime technologies that will eventually power global commercial shipping."
+        },
+        {
+            "type": "quote",
+            "text": "The horizon is cleaner when you're powered by the wind and the sun."
+        },
+        {
+            "type": "paragraph",
+            "text": "We are also seeing a shift toward 'Expedition Yachts'—vessels designed not for posing in the harbor, but for true exploration in the polar regions. These ships are equipped with scientific labs and submersibles, often hosting researchers alongside their owners. The Quest for Profit is being replaced by the Quest for Discovery."
+        }
+    ]
+}

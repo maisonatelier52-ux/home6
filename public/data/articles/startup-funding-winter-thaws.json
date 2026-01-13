@@ -1,0 +1,61 @@
+{
+    "id": "biz-2",
+    "slug": "startup-funding-winter-thaws",
+    "title": "Is the Startup Funding Winter Finally Thawing?",
+    "category": "Business",
+    "date": "October 23, 2025",
+    "views": "15.5k",
+    "readTime": "9 Mins",
+    "comments": 64,
+    "image": "/images/news/business-2.jpg",
+    "tags": [
+        "Startups",
+        "VC",
+        "Funding",
+        "Growth"
+    ],
+    "author": {
+        "name": "Jessica Wu",
+        "role": "Startup & VC Correspondent",
+        "postsCount": 310,
+        "image": "/images/authors/jessica.jpg",
+        "bio": "Jessica covers the intersection of innovation and capital."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "Venture capital activity is showing signs of a rebound as several large-scale Series C rounds were closed last week, hinting at renewed confidence in high-growth firms."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "The past two years have been a 'funding winter' for the startup ecosystem. The era of free-flowing capital and zero-interest-rate-driven valuations vanished overnight, replaced by a grueling focus on 'burn rates' and 'path to profitability.' Many promising companies were forced to fold or accept punishing 'down rounds.' But the tides are turning. Key indicators suggest that venture capitalists, who have been sitting on trillions in 'dry powder,' are finally starting to deploy capital again."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Quality Over Quantity"
+        },
+        {
+            "type": "paragraph",
+            "text": "The new funding landscape is vastly different from the 2021 peak. Investors are no longer chasing growth metrics that lack a bottom-line reality. The companies getting funded today are those with a clear, defensible business model and a sustainable cost structure. We're seeing a shift from B2C 'app-based' disruptions to heavy B2B enterprise software and climate tech. Investors are looking for 'resilience'—companies that can thrive even in a high-interest-rate environment."
+        },
+        {
+            "type": "paragraph",
+            "text": "AI remains the outlier. While other sectors struggle for attention, anything with an AI-first approach is still attracting significant premiums. However, even here, the 'hype-to-reality' check is becoming more rigorous. Founders are expected to show more than just an integration with a popular LLM; they need to show proprietary data sets and deep integration into existing workflows."
+        },
+        {
+            "type": "quote",
+            "text": "The surviving startups are leaner, meaner, and far more likely to yield long-term returns."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "The IPO Window"
+        },
+        {
+            "type": "paragraph",
+            "text": "The ultimate test for this thaw will be the public markets. The IPO window has been mostly shut for twenty-four months, creating a massive backlog of 'unicorns' looking for an exit. If the upcoming debuts of several major tech firms are successful, it will give VCs the signal they need to open the floodgates. For now, the sentiment is one of 'cautious reentry.' The winter isn't over, but the first flowers are definitely starting to bloom."
+        }
+    ]
+}

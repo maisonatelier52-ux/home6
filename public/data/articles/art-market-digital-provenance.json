@@ -1,0 +1,52 @@
+{
+    "id": "wth-2",
+    "slug": "art-market-digital-provenance",
+    "title": "The Art Market 2.0: Digital Provenance and Rarity",
+    "category": "Wealth",
+    "date": "October 22, 2025",
+    "views": "15k",
+    "readTime": "8 Mins",
+    "comments": 22,
+    "image": "/images/news/wealth-2.jpg",
+    "tags": [
+        "Art",
+        "Investing",
+        "Blockchain",
+        "Wealth"
+    ],
+    "author": {
+        "name": "David Smith",
+        "role": "Art & Alternative Asset Editor",
+        "postsCount": 204,
+        "image": "/images/authors/david.jpg",
+        "bio": "David examines the financialization of culture and the arts."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "Blockchain isn't just for digital art; it's becoming the gold standard for tracking physical masterpieces, reducing fraud and increasing liquidity."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "The traditional art market has long been criticized for its opacity and reliance on 'experts' whose opinions can be subjective or even compromised. Fraud and looting have plagued the industry for centuries. But a technological revolution is underway. By attaching a secure, blockchain-based 'digital twin' to physical artworks, auction houses and galleries are creating a permanent, immutable record of ownership and condition. This is the end of the forged provenance."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Fractional Ownership"
+        },
+        {
+            "type": "paragraph",
+            "text": "This technology also unlocks 'fractional ownership.' Instead of needing $50 million to buy a Picasso, an investor can now buy a $500 share of that same painting. We are seeing platforms that allow everyday investors to diversify into blue-chip art, much like they would into stocks or bonds. This 'financialization' of art is controversial among purists, but it is undoubtedly bringing more liquidity and more eyes to the market."
+        },
+        {
+            "type": "quote",
+            "text": "Art is an asset, but it is also a legacy. Technology is making that legacy easier to protect and share."
+        },
+        {
+            "type": "paragraph",
+            "text": "We are also seeing a shift in what is considered 'valuable.' As Gen Z enters the high-net-worth segment, they are bringing different tastes—favoring contemporary artists who use digital mediums and social activism. The next generation of masterpieces may be born on a tablet, but their value is being established on the blockchain."
+        }
+    ]
+}

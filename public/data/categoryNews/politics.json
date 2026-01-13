@@ -1,0 +1,97 @@
+[
+    {
+        "id": "pol-1",
+        "slug": "global-summit-inflation-concerns",
+        "title": "Global Summit Addresses Rising Inflation Concerns",
+        "category": "Politics",
+        "date": "October 24, 2025",
+        "author": "Sarah Jenkins",
+        "views": "12.5k",
+        "readTime": "8 Mins",
+        "comments": 45,
+        "image": "/images/news/politics-1.jpg",
+        "excerpt": "World leaders gathered today to discuss the pressing issue of rising global inflation. The summit focused on collaborative strategies to stabilize currencies and protect consumer purchasing power...",
+        "tags": [
+            "Inflation",
+            "Global Summit",
+            "Economy",
+            "Policy"
+        ]
+    },
+    {
+        "id": "pol-2",
+        "slug": "trade-policy-shifts-asia",
+        "title": "New Trade Policy Shifts Economic Alliances in Asia",
+        "category": "Politics",
+        "date": "October 22, 2025",
+        "author": "Michael Chen",
+        "views": "8.2k",
+        "readTime": "6 Mins",
+        "comments": 32,
+        "image": "/images/news/politics-2.jpg",
+        "excerpt": "A landmark trade agreement signed this week has signaled a significant shift in economic alliances across the Asian continent, potentially reshaping supply chains for the next decade...",
+        "tags": [
+            "Trade",
+            "Asia",
+            "Economy",
+            "Diplomacy"
+        ]
+    },
+    {
+        "id": "pol-3",
+        "slug": "election-uncertainty-markets",
+        "title": "Election Year Uncertainty Rattles Market Confidence",
+        "category": "Politics",
+        "date": "October 20, 2025",
+        "author": "James O'Connor",
+        "views": "15k",
+        "readTime": "7 Mins",
+        "comments": 89,
+        "image": "/images/news/politics-3.jpg",
+        "excerpt": "As the election year approaches, market volatility has increased. Investors are closely watching campaign promises and polling data, trying to predict the regulatory landscape of the future...",
+        "tags": [
+            "Election",
+            "Markets",
+            "Uncertainty",
+            "Campaign"
+        ]
+    },
+    {
+        "id": "pol-4",
+        "slug": "senate-passes-infrastructure-bill",
+        "title": "Senate Passes Landmark Infrastructure Bill",
+        "category": "Politics",
+        "date": "October 18, 2025",
+        "author": "Emily Rodriguez",
+        "views": "9.5k",
+        "readTime": "5 Mins",
+        "comments": 21,
+        "image": "/images/news/politics-4.jpg",
+        "excerpt": "In a rare display of bipartisan unity, the Senate has passed a comprehensive infrastructure bill aimed at modernizing the nation's transportation network and energy grid...",
+        "tags": [
+            "Senate",
+            "Infrastructure",
+            "Law",
+            "Bipartisan"
+        ]
+    },
+    {
+        "id": "pol-5",
+        "slug": "diplomatic-tensions-ease",
+        "title": "Diplomatic Tensions Ease After High-Level Talks",
+        "category": "Politics",
+        "date": "October 15, 2025",
+        "author": "David Smith",
+        "views": "7.1k",
+        "readTime": "6 Mins",
+        "comments": 15,
+        "image": "/images/news/politics-5.jpg",
+        "excerpt": "Months of escalating rhetoric appear to be cooling down following a series of high-level diplomatic meetings held in Geneva this weekend...",
+        "tags": [
+            "Diplomacy",
+            "Peace",
+            "International Relations",
+            "Geneva"
+        ]
+    }
+]

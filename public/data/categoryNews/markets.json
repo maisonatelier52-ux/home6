@@ -1,0 +1,97 @@
+[
+    {
+        "id": "mkt-1",
+        "slug": "tech-stocks-rally-ai",
+        "title": "Tech Stocks Rally as AI Adoption Accelerates",
+        "category": "Markets",
+        "date": "October 24, 2025",
+        "author": "Jessica Wu",
+        "views": "22k",
+        "readTime": "5 Mins",
+        "comments": 112,
+        "image": "/images/news/markets-1.jpg",
+        "excerpt": "The Nasdaq surged to new highs today as quarterly earnings reports highlighted a faster-than-expected adoption of artificial intelligence across enterprise sectors...",
+        "tags": [
+            "Tech",
+            "AI",
+            "Nasdaq",
+            "Earnings"
+        ]
+    },
+    {
+        "id": "mkt-2",
+        "slug": "oil-prices-plunge-demand",
+        "title": "Oil Prices Plunge Amid Demand Fears",
+        "category": "Markets",
+        "date": "October 23, 2025",
+        "author": "Robert Miller",
+        "views": "14k",
+        "readTime": "4 Mins",
+        "comments": 56,
+        "image": "/images/news/markets-2.jpg",
+        "excerpt": "Crude oil futures tumbled sharply on Wednesday as weak manufacturing data from China stoked fears of a global slowdown in energy consumption...",
+        "tags": [
+            "Oil",
+            "Energy",
+            "Commodities",
+            "China"
+        ]
+    },
+    {
+        "id": "mkt-3",
+        "slug": "crypto-regulation-framework-eu",
+        "title": "Crypto Regulation Framework Unveiled in EU",
+        "category": "Markets",
+        "date": "October 21, 2025",
+        "author": "Alex Thorne",
+        "views": "31k",
+        "readTime": "8 Mins",
+        "comments": 204,
+        "image": "/images/news/markets-3.jpg",
+        "excerpt": "European regulators have released the final text of the MiCA 2.0 legislation, setting a global standard for the supervision of digital assets and stablecoins...",
+        "tags": [
+            "Crypto",
+            "Bitcoin",
+            "Regulation",
+            "EU"
+        ]
+    },
+    {
+        "id": "mkt-4",
+        "slug": "bond-yields-invert-recession",
+        "title": "Bond Yields Invert Signaling Recession Risk",
+        "category": "Markets",
+        "date": "October 19, 2025",
+        "author": "Sarah Jenkins",
+        "views": "11k",
+        "readTime": "6 Mins",
+        "comments": 40,
+        "image": "/images/news/markets-4.jpg",
+        "excerpt": "The spread between the 2-year and 10-year Treasury yields inverted to its deepest level in four decades, flashing a classic warning signal for an impending recession...",
+        "tags": [
+            "Bonds",
+            "Recession",
+            "Economy",
+            "Fed"
+        ]
+    },
+    {
+        "id": "mkt-5",
+        "slug": "gold-hits-record-high-safe-haven",
+        "title": "Gold Hits Record High as Safe Haven Asset",
+        "category": "Markets",
+        "date": "October 16, 2025",
+        "author": "Maria Sanchez",
+        "views": "18k",
+        "readTime": "5 Mins",
+        "comments": 67,
+        "image": "/images/news/markets-5.jpg",
+        "excerpt": "Investors fleeing geopolitical instability and currency volatility have poured capital into gold, pushing the precious metal past the $3,000 mark for the first time...",
+        "tags": [
+            "Gold",
+            "Investing",
+            "Commodities",
+            "Wealth"
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+{
+    "id": "wth-1",
+    "slug": "luxury-real-estate-hidden-hubs",
+    "title": "Beyond Dubai and Monaco: The New Luxury Real Estate Hubs",
+    "category": "Wealth",
+    "date": "October 24, 2025",
+    "views": "38k",
+    "readTime": "11 Mins",
+    "comments": 45,
+    "image": "/images/news/wealth-1.jpg",
+    "tags": [
+        "Luxury",
+        "Real Estate",
+        "UHNW",
+        "Travel"
+    ],
+    "author": {
+        "name": "Maria Sanchez",
+        "role": "Luxury Lifestyle Correspondent",
+        "postsCount": 77,
+        "image": "/images/authors/maria.jpg",
+        "bio": "Maria tracks the habits and habitats of the global elite."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "Ultra-high-net-worth individuals are flocking to tertiary cities and remote retreats, looking for privacy and community over traditional flashiness."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "The geography of wealth is changing. For decades, the global elite were concentrated in a handful of 'Alpha Cities'—New York, London, Hong Kong, and luxury enclaves like St. Tropez. But the post-pandemic world has reset priorities. Privacy, biological security, and environmental stability are the new status symbols. We are seeing a massive flight to 'Hidden Hubs': places like Telluride in Colorado, the Alentejo coast in Portugal, and certain islands in the Japanese archipelago."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "The Billionaire Bunker Trend"
+        },
+        {
+            "type": "paragraph",
+            "text": "It's not just about a pretty view. Many of these new properties are being built with extreme self-sufficiency in mind. From vertically integrated food production to independent water filtration and off-grid energy systems, these estates are designed to function autonomously for months. This 'survivalist luxury' is a growing market, with specialized architecture firms charging premiums for 'discreet' fortification and high-tech security that blends seamlessly into the landscape."
+        },
+        {
+            "type": "paragraph",
+            "text": "This shift is having a profound impact on local economies. Small towns that once relied on seasonal tourism are becoming year-round enclaves for the ultra-wealthy. This brings investment and high-end services, but also drives up property values, pushing out the local population. Managing this friction is the new challenge for local governments in these emerging 'Wealth Sanctuaries.'"
+        },
+        {
+            "type": "quote",
+            "text": "In the ultimate quest for profit, the final prize is peace of mind."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "The Rise of Regenerative Estates"
+        },
+        {
+            "type": "paragraph",
+            "text": "A more positive trend is the 'Regenerative Estate.' Instead of just consuming resources, these properties are designed to improve the local ecosystem. Owners are investing in reforestation, rewilding, and carbon-sequestration projects alongside their villas. This allows them to align their lifestyle with their ESG commitments (and their public image). Being a good steward of the land is the new way to show off."
+        }
+    ]
+}

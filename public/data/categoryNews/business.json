@@ -1,0 +1,97 @@
+[
+    {
+        "id": "biz-1",
+        "slug": "merger-mania-industrial-sector",
+        "title": "Merger Mania Hits the Industrial Sector",
+        "category": "Business",
+        "date": "October 24, 2025",
+        "author": "Robert Miller",
+        "views": "10.2k",
+        "readTime": "7 Mins",
+        "comments": 28,
+        "image": "/images/news/business-1.jpg",
+        "excerpt": "A series of high-profile mergers and acquisitions in the industrial manufacturing space has caught investors by surprise, signaling a major consolidation phase...",
+        "tags": [
+            "Mergers",
+            "Industry",
+            "M&A",
+            "Stocks"
+        ]
+    },
+    {
+        "id": "biz-2",
+        "slug": "startup-funding-winter-thaws",
+        "title": "Is the Startup Funding Winter Finally Thawing?",
+        "category": "Business",
+        "date": "October 23, 2025",
+        "author": "Jessica Wu",
+        "views": "15.5k",
+        "readTime": "9 Mins",
+        "comments": 64,
+        "image": "/images/news/business-2.jpg",
+        "excerpt": "Venture capital activity is showing signs of a rebound as several large-scale Series C rounds were closed last week, hinting at renewed confidence in high-growth firms...",
+        "tags": [
+            "Startups",
+            "VC",
+            "Funding",
+            "Growth"
+        ]
+    },
+    {
+        "id": "biz-3",
+        "slug": "remote-work-productivity-debate",
+        "title": "The Great Remote Work Productivity Debate Intensifies",
+        "category": "Business",
+        "date": "October 21, 2025",
+        "author": "Sarah Jenkins",
+        "views": "25k",
+        "readTime": "10 Mins",
+        "comments": 412,
+        "image": "/images/news/business-3.jpg",
+        "excerpt": "New data from major tech firms reveals conflicting results regarding productivity and innovation in hybrid versus fully remote environments...",
+        "tags": [
+            "Remote Work",
+            "Management",
+            "Culture",
+            "HR"
+        ]
+    },
+    {
+        "id": "biz-4",
+        "slug": "retail-giants-omnichannel-strategy",
+        "title": "Retail Giants Pivot to Advanced Omnichannel Strategies",
+        "category": "Business",
+        "date": "October 19, 2025",
+        "author": "Michael Chen",
+        "views": "9.8k",
+        "readTime": "6 Mins",
+        "comments": 19,
+        "image": "/images/news/business-4.jpg",
+        "excerpt": "Major retailers are investing billions into AI-powered logistics to bridge the gap between their physical stores and online platforms...",
+        "tags": [
+            "Retail",
+            "AI",
+            "Logistics",
+            "Commerce"
+        ]
+    },
+    {
+        "id": "biz-5",
+        "slug": "sustainable-supply-chain-leaders",
+        "title": "Meet the Leaders of the Sustainable Supply Chain Revolution",
+        "category": "Business",
+        "date": "October 17, 2025",
+        "author": "Emily Rodriguez",
+        "views": "12k",
+        "readTime": "8 Mins",
+        "comments": 35,
+        "image": "/images/news/business-5.jpg",
+        "excerpt": "Sustainability is no longer a PR buzzword; it's a core competitive advantage. We look at three companies leading the shift toward ethical sourcing...",
+        "tags": [
+            "Sustainability",
+            "Supply Chain",
+            "ESG",
+            "Ethics"
+        ]
+    }
+]

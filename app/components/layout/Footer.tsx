@@ -12,14 +12,14 @@ export default function Footer() {
 
     const hotNews = [
         {
-            author: "Maxin Dalton",
-            title: "Heared Opposite Then Around But A Heinous Square Amphibisly",
-            slug: "heared-opposite-around"
+            author: "Jessica Wu",
+            title: "Generative AI: Moving Beyond the Hype to Enterprise Reality",
+            slug: "generative-ai-the-next-frontier"
         },
         {
-            author: "Maxin Dalton",
-            title: "Excluding Well A Some Hummingbird Meticulous",
-            slug: "excluding-well-some"
+            author: "Sarah Jenkins",
+            title: "Federal Reserve Signals Slower Rate Cuts for 2026",
+            slug: "fed-interest-rate-outlook"
         }
     ];
 
@@ -37,10 +37,10 @@ export default function Footer() {
                         <h3 className="text-white text-md font-bold font-serif">About Us</h3>
                         <div className="flex flex-col gap-4 text-sm leading-relaxed text-gray-400">
                             <p>
-                                Within spread beside the ouch sulky this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker.
+                                The Quest for Profit is your premier source for global economic analysis, market intelligence, and wealth management strategies.
                             </p>
                             <p>
-                                Within spread beside the ouch sulky and this wonderfully and as the well where supply much hyena so tolerantly recast hawk darn woodpecker.
+                                We bridge the gap between complex algorithms and business outcomes, providing the clarity needed to navigate the modern financial landscape.
                             </p>
                         </div>
                     </div>
@@ -72,7 +72,7 @@ export default function Footer() {
                                         <span className="text-gray-400 font-bold">{news.author}</span>
                                     </div>
                                     <div className="w-[1px] bg-gray-800 h-10 self-center"></div>
-                                    <Link href={`/post/${news.slug}`}>
+                                    <Link href={`/article/${news.slug}`}>
                                         <h4 className="text-sm font-bold leading-snug group-hover:underline text-gray-300 transition-colors">
                                             {news.title}
                                         </h4>
@@ -105,14 +105,14 @@ export default function Footer() {
                 {/* Bottom Bar */}
                 <div className="pt-6 border-t border-gray-800 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
                     <div className="flex flex-wrap justify-center md:justify-start items-center gap-x-6 gap-y-2 text-sm font-bold">
-                        <Link href="/horror" className="hover:underline hover:text-white">Horror</Link>
-                        <Link href="/cultural" className="hover:underline hover:text-white">Cultural</Link>
-                        <Link href="/illustrator" className="hover:underline hover:text-white">Illustrator</Link>
+                        <Link href="/category/finance" className="hover:underline hover:text-white">Finance</Link>
+                        <Link href="/category/politics" className="hover:underline hover:text-white">Politics</Link>
+                        <Link href="/category/wealth" className="hover:underline hover:text-white">Wealth</Link>
                     </div>
 
                     <div className="flex flex-col md:flex-row items-center gap-4 md:gap-8">
                         <p className="text-[12px] text-gray-500">
-                            © Copyright 2022 - My Blog. All Rights Reserved
+                            © Copyright 2025 - The Quest for Profit. All Rights Reserved
                         </p>
                         <button
                             onClick={scrollToTop}

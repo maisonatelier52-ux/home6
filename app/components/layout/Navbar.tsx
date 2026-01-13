@@ -48,12 +48,12 @@ export default function Navbar() {
             href: '#',
             hasDropdown: true,
             dropdownItems: [
-                { label: 'CULTURE', href: '/category/culture' },
-                { label: 'FINANCE', href: '/category/finance' },
-                { label: 'NATURE', href: '/category/nature' },
                 { label: 'POLITICS', href: '/category/politics' },
-                { label: 'SPORT', href: '/category/sport' },
-                { label: 'TOPSHOT', href: '/category/topshot' },
+                { label: 'MARKETS', href: '/category/markets' },
+                { label: 'BUSINESS', href: '/category/business' },
+                { label: 'FINANCE', href: '/category/finance' },
+                { label: 'TECH', href: '/category/tech' },
+                { label: 'WEALTH', href: '/category/wealth' },
             ]
         },
         {

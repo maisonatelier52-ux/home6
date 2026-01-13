@@ -1,0 +1,57 @@
+{
+    "id": "pol-4",
+    "slug": "senate-passes-infrastructure-bill",
+    "title": "Senate Passes Landmark Infrastructure Bill",
+    "category": "Politics",
+    "date": "October 18, 2025",
+    "views": "9.5k",
+    "readTime": "5 Mins",
+    "comments": 21,
+    "image": "/images/news/politics-4.jpg",
+    "tags": [
+        "Senate",
+        "Infrastructure",
+        "Law",
+        "Bipartisan"
+    ],
+    "author": {
+        "name": "Emily Rodriguez",
+        "role": "Capitol Hill Reporter",
+        "postsCount": 112,
+        "image": "/images/authors/emily.jpg",
+        "bio": "Emily has covered three administrations and countless legislative battles."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "In a rare display of bipartisan unity, the Senate has passed a comprehensive infrastructure bill aimed at modernizing the nation's transportation network and energy grid."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "The final vote count of 68-32 exceeded expectations, signaling a desperate hunger among constituents for tangible repairs to crumbling bridges and roads. The trillion-dollar package includes significant funding for high-speed rail, broadband internet expansion in rural areas, and a nationwide network of electric vehicle charging stations. It is being hailed as the most significant investment in public works since the Eisenhower era."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "What's in the Bill?"
+        },
+        {
+            "type": "paragraph",
+            "text": "Beyond the concrete and steel, the bill allocates billions for 'smart city' technologies. This includes traffic management systems powered by AI and modernized water treatment facilities. The clean energy component is also substantial, offering tax credits for wind and solar projects that are expected to create thousands of jobs. 'This isn't just about fixing potholes,' said the Majority Leader. 'It is about positioning America to compete in the 21st century.'"
+        },
+        {
+            "type": "quote",
+            "text": "We are building the spine of a new economy, one that is faster, cleaner, and stronger."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Funding Controversy"
+        },
+        {
+            "type": "paragraph",
+            "text": "The debate over how to pay for these ambitions was heated. The final compromise involves a mix of repurposed emergency funds, stricter tax enforcement on cryptocurrency, and a small levy on corporate stock buybacks. Critics argue this will stifle investment, but proponents say the long-term ROI of infrastructure far outweighs the cost. The bill now heads to the House, where a swift passage is expected despite some grumbling from the fringes of both parties."
+        }
+    ]
+}

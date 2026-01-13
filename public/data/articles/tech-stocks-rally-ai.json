@@ -1,0 +1,52 @@
+{
+    "id": "mkt-1",
+    "slug": "tech-stocks-rally-ai",
+    "title": "Tech Stocks Rally as AI Adoption Accelerates",
+    "category": "Markets",
+    "date": "October 24, 2025",
+    "views": "22k",
+    "readTime": "5 Mins",
+    "comments": 112,
+    "image": "/images/news/markets-1.jpg",
+    "tags": [
+        "Tech",
+        "AI",
+        "Nasdaq",
+        "Earnings"
+    ],
+    "author": {
+        "name": "Jessica Wu",
+        "role": "Tech Market Strategist",
+        "postsCount": 310,
+        "image": "/images/authors/jessica.jpg",
+        "bio": "Jessica covers the intersection of Silicon Valley and Wall Street."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "The Nasdaq surged to new highs today as quarterly earnings reports highlighted a faster-than-expected adoption of artificial intelligence across enterprise sectors."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "It was a sea of green on the trading floor as cloud computing giants reported triple-digit growth in their AI divisions. The narrative has shifted from 'potential' to 'revenue,' validating the massive capital expenditures of the past two years. Analysts at Goldman Sachs upgraded the entire semiconductor sector, revising price targets upward by an average of 20%. 'This is the iPhone moment for enterprise software,' wrote one strategist."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Beyond the Magnificent Seven"
+        },
+        {
+            "type": "paragraph",
+            "text": "What is notable about this rally is its breadth. In previous quarters, gains were concentrated in a handful of mega-cap stocks. Today, we saw small and mid-cap tech firms joining the party. Companies providing the 'picks and shovels' of the AI gold rush—cooling systems, data center infrastructure, and cybersecurity—are outperforming the indices. This breadth suggests a healthier, more sustainable bull market."
+        },
+        {
+            "type": "quote",
+            "text": "The productivity boom is real. AI isn't coming; it's here, and it's monetizing."
+        },
+        {
+            "type": "paragraph",
+            "text": "However, valuations are becoming stretched. The P/E ratio of the Nasdaq 100 is now sitting at levels not seen since the dot-com bubble. Bears argue that a correction is inevitable, citing rising bond yields as a potential catalyst. But for now, FOMO (Fear Of Missing Out) is the dominant sentiment driving liquidity into the market."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "mkt-2",
+    "slug": "oil-prices-plunge-demand",
+    "title": "Oil Prices Plunge Amid Demand Fears",
+    "category": "Markets",
+    "date": "October 23, 2025",
+    "views": "14k",
+    "readTime": "4 Mins",
+    "comments": 56,
+    "image": "/images/news/markets-2.jpg",
+    "tags": [
+        "Oil",
+        "Energy",
+        "Commodities",
+        "China"
+    ],
+    "author": {
+        "name": "Robert Miller",
+        "role": "Energy Markets Analyst",
+        "postsCount": 150,
+        "image": "/images/authors/robert.jpg",
+        "bio": "Robert tracks global energy flows and commodity cycles."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "Crude oil futures tumbled sharply on Wednesday as weak manufacturing data from China stoked fears of a global slowdown in energy consumption."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "Brent crude fell below $70 a barrel for the first time in six months, erasing all gains made earlier in the year. The catalyst was the release of China's PMI data, which showed factory activity contracting at its fastest pace in three years. As the world's largest oil importer, China's economic health is the single biggest variable in the energy market equation."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "OPEC+ Dilemma"
+        },
+        {
+            "type": "paragraph",
+            "text": "This sell-off puts significant pressure on OPEC+. The cartel had planned to unwind some of its voluntary production cuts next month, but the market is clearly signaling that there is no appetite for extra barrels. Delegates are reportedly holding emergency discussions, with Saudi Arabia pushing for an extension of the cuts to stabilize prices. However, smaller members, desperate for revenue, oppose further restrictions."
+        },
+        {
+            "type": "quote",
+            "text": "The market is drowning in supply just as the economic engine is sputtering."
+        },
+        {
+            "type": "paragraph",
+            "text": "Conversely, this is good news for central banks fighting inflation. Lower fuel prices act like a tax cut for consumers and reduce transport costs for businesses. If the downtrend holds, it could pave the way for earlier interest rate cuts in the US and Europe."
+        }
+    ]
+}

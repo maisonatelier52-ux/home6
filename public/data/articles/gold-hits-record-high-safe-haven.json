@@ -1,0 +1,52 @@
+{
+    "id": "mkt-5",
+    "slug": "gold-hits-record-high-safe-haven",
+    "title": "Gold Hits Record High as Safe Haven Asset",
+    "category": "Markets",
+    "date": "October 16, 2025",
+    "views": "18k",
+    "readTime": "5 Mins",
+    "comments": 67,
+    "image": "/images/news/markets-5.jpg",
+    "tags": [
+        "Gold",
+        "Investing",
+        "Commodities",
+        "Wealth"
+    ],
+    "author": {
+        "name": "Maria Sanchez",
+        "role": "Commodities Specialist",
+        "postsCount": 77,
+        "image": "/images/authors/maria.jpg",
+        "bio": "Maria focuses on precious metals and agricultural futures."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "Investors fleeing geopolitical instability and currency volatility have poured capital into gold, pushing the precious metal past the $3,000 mark for the first time."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "The yellow metal has always been the ultimate hedge against chaos. With conflict simmering in three regions and central banks buying bullion at record rates to diversify away from the dollar, demand is overwhelming supply. Retail investors are also joining the fray, with coin dealers reporting shortages of physical bullion."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "De-Dollarization Trend"
+        },
+        {
+            "type": "paragraph",
+            "text": "A key driver of this rally is the structural shift in the global monetary system. Steps by the BRICS nations to trade in local currencies have reduced demand for US Treasuries, leading central banks to pivot to gold as a neutral reserve asset. 'It is a vote of no confidence in fiat currency,' says fund manager Ray Dalio."
+        },
+        {
+            "type": "quote",
+            "text": "Gold is money. Everything else is credit."
+        },
+        {
+            "type": "paragraph",
+            "text": "Mining stocks have lagged the spot price but are now playing catch-up. Junior miners, in particular, are seeing massive volume as speculators bet on M&A activity. For the average portfolio, financial advisors recommend a 5-10% allocation to precious metals, but many are now asking if that is enough in this new era of permanent crisis."
+        }
+    ]
+}

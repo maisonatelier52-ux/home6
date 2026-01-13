@@ -3,7 +3,8 @@ import Link from 'next/link';
 
 interface CategoryNewsCardProps {
     date: string;
-    categories: string[];
+    categories?: string[];
+    category?: string;
     views: string;
     readTime: string;
     comments: number;
@@ -17,6 +18,7 @@ interface CategoryNewsCardProps {
 export default function CategoryNewsCard({
     date,
     categories,
+    category,
     views,
     readTime,
     comments,
@@ -26,6 +28,8 @@ export default function CategoryNewsCard({
     excerpt,
     tags
 }: CategoryNewsCardProps) {
+    const displayCategories = categories || (category ? [category] : []);
+
     return (
         <div className="bg-white border border-gray-300 p-6 mb-0 hover:shadow-sm transition-shadow duration-300">
             {/* Top Metadata */}
@@ -33,9 +37,9 @@ export default function CategoryNewsCard({
                 <div className="flex items-center gap-2">
                     <span className="text-gray-400">{date}</span>
                     <div className="flex gap-1 ml-1">
-                        {categories.map((cat, i) => (
+                        {displayCategories.map((cat, i) => (
                             <Link key={i} href={`/category/${cat.toLowerCase()}`} className="text-gray-800 hover:underline transition-all underline decoration-gray-300 underline-offset-2">
-                                {cat}{i < categories.length - 1 ? ',' : ''}
+                                {cat}{i < displayCategories.length - 1 ? ',' : ''}
                             </Link>
                         ))}
                     </div>

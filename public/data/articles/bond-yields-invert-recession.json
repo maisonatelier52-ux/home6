@@ -1,0 +1,52 @@
+{
+    "id": "mkt-4",
+    "slug": "bond-yields-invert-recession",
+    "title": "Bond Yields Invert Signaling Recession Risk",
+    "category": "Markets",
+    "date": "October 19, 2025",
+    "views": "11k",
+    "readTime": "6 Mins",
+    "comments": 40,
+    "image": "/images/news/markets-4.jpg",
+    "tags": [
+        "Bonds",
+        "Recession",
+        "Economy",
+        "Fed"
+    ],
+    "author": {
+        "name": "Sarah Jenkins",
+        "role": "Senior Market Analyst",
+        "postsCount": 142,
+        "image": "/images/authors/sarah.jpg",
+        "bio": "Sarah breaks down complex macroeconomic indicators for the everyday investor."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "The spread between the 2-year and 10-year Treasury yields inverted to its deepest level in four decades, flashing a classic warning signal for an impending recession."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "An inverted yield curve occurs when short-term debt instruments have higher yields than long-term instruments of the same credit quality. Historically, this anomaly has preceded every recession since 1955. It reflects investor pessimism about the near-term economic outlook, forcing them to lock in lower long-term rates now rather than risk holding cash."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "The Fed's Tightrope"
+        },
+        {
+            "type": "paragraph",
+            "text": "The message from the bond market is clear: the Federal Reserve has over-tightened. Traders are pricing in rapid rate cuts starting in Q1 2026 to combat a slowdown. However, the Fed remains hawkish, citing stubborn wage inflation. This disconnect between market expectations and central bank guidance is creating volatility across asset classes."
+        },
+        {
+            "type": "quote",
+            "text": "The bond market is the smartest guy in the room, and right now, he is screaming 'Fire!'"
+        },
+        {
+            "type": "paragraph",
+            "text": "Corporate credit spreads are also widening. Companies with weaker balance sheets are finding it increasingly expensive to refinance debt. If this trend continues, we could see a wave of defaults in the high-yield sector, further tightening financial conditions and accelerating variables for a hard landing."
+        }
+    ]
+}

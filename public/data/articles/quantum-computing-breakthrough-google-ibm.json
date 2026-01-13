@@ -1,0 +1,61 @@
+{
+    "id": "tech-2",
+    "slug": "quantum-computing-breakthrough-google-ibm",
+    "title": "Quantum Computing Breakthrough: IBM and Google Close the Gap",
+    "category": "Tech",
+    "date": "October 22, 2025",
+    "views": "21k",
+    "readTime": "10 Mins",
+    "comments": 54,
+    "image": "/images/news/tech-2.jpg",
+    "tags": [
+        "Quantum",
+        "Computing",
+        "Hardware",
+        "Future"
+    ],
+    "author": {
+        "name": "Alex Thorne",
+        "role": "Advanced Computing Editor",
+        "postsCount": 98,
+        "image": "/images/authors/alex.jpg",
+        "bio": "Alex covers the edge of the possible, from fusion energy to quantum bits."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "Researchers at IBM and Google have independently achieved a record 1,000-qubit threshold with integrated error correction, bringing us one step closer to a cryptographically relevant quantum computer."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "The 'Quantum Winter'—a period of skepticism regarding the practical utility of quantum computers—seems to be thawing. For years, the challenge wasn't just building more qubits, but keeping them 'stable' enough to perform calculations. Qubits are notoriously prone to 'decoherence' caused by the slightest environmental vibration or temperature change. The recent breakthrough involves 'logical qubits'—groups of physical qubits that work together to detect and correct errors in real-time. This is the difference between a noisy prototype and a reliable machine."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "The Post-Quantum Era"
+        },
+        {
+            "type": "paragraph",
+            "text": "The implications are immense. A sufficiently powerful quantum computer could, in theory, crack the RSA encryption that protects almost all modern internet communication. For the 'Quest for Profit,' this creates an immediate and lucrative market for 'Post-Quantum Cryptography' (PQC). Governments and financial institutions are already spending billions to upgrade their systems before the 'Q-Day'—the day the first quantum computer breaks current encryption."
+        },
+        {
+            "type": "paragraph",
+            "text": "But it's not just about breaking things. Quantum computers are infinitely better than classical machines at simulating molecules. This will revolutionize material science, drug discovery, and clean energy. Imagine designing a fertilizer that requires 90% less energy to produce, or a battery that can hold 5x the charge. The companies that control these 'First Generation' quantum machines will have a competitive advantage that is impossible to replicate."
+        },
+        {
+            "type": "quote",
+            "text": "Classical computers calculate. Quantum computers explore. We are about to see the universe in high-resolution for the first time."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "The Road to Commercialization"
+        },
+        {
+            "type": "paragraph",
+            "text": "We are still several years away from a quantum machine on every desk (if that ever happens). For now, the model is 'Quantum-as-a-Service' (QaaS). Users access quantum processors via the cloud, running specific sub-routines of an algorithm that are too complex for silicon. The next major milestone is 'Quantum Advantage' in a real-world commercial task—like optimizing a global airline's flight schedule or simulating a new carbon-capture material. Whoever gets there first wins the 21st century."
+        }
+    ]
+}
