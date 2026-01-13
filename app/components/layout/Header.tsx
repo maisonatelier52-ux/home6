@@ -40,12 +40,13 @@ export default function Header() {
 
                     {/* Center Logo */}
                     <div className="flex-1 text-center">
-                        {/* Using text representation since I don't have the logo asset. 
-                 The image shows 'javapaper.wpbromo.com' which looks like a logo image but I'll emulate it with text. */}
-                        <Link href="/" className="inline-block">
-                            <span className="text-2xl md:text-3xl font-bold tracking-tight text-slate-800">
-                                thequestforprofit.com
-                            </span>
+
+                        <Link href="/" className="inline-block py-0">
+                            <img
+                                src="/images/logo-TQFP.svg"
+                                alt="The Quest for Profit"
+                                className="h-8 md:h-9 w-auto"
+                            />
                         </Link>
                     </div>
 
