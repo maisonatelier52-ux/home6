@@ -36,12 +36,6 @@ export default function Navbar() {
         {
             label: 'HOME',
             href: '/',
-            hasDropdown: true,
-            dropdownItems: [
-                { label: 'HOME 1', href: '#' },
-                { label: 'HOME 2', href: '#' },
-                { label: 'HOME 3', href: '#' },
-            ]
         },
         {
             label: 'CATEGORY',
