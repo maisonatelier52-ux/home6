@@ -19,6 +19,31 @@ interface ArticlePageProps {
     params: Promise<{ slug: string }>;
 }
 
+export async function generateMetadata({ params }: ArticlePageProps) {
+    const { slug } = await params;
+    let article;
+
+    try {
+        const articleData = await import(`@/public/data/articles/${slug}.json`);
+        article = articleData.default;
+    } catch {
+        return {
+            title: 'Article Not Found',
+        };
+    }
+
+    return {
+        title: `${article.title} | The Quest for Profit`,
+        description: article.content[0]?.text || article.title,
+        openGraph: {
+            title: article.title,
+            description: article.content[0]?.text || article.title,
+            images: [article.image],
+            type: 'article',
+        },
+    };
+}
+
 export default async function ArticlePage({ params }: ArticlePageProps) {
     const { slug } = await params;
     let article;

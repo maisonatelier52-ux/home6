@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "The Quest for Profit | Financial Insights & Market Analysis",
+  title: "TQFP | Financial Insights & Market Analysis",
   description: "Your ultimate destination for business, finance, and wealth management insights. High-authority news for the modern investor.",
   icons: {
     icon: "/images/favicon-TQFP2.svg",
