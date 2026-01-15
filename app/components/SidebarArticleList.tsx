@@ -33,7 +33,7 @@ export default function SidebarArticleList({ title, articles }: SidebarArticleLi
                         <span className="text-[10px] font-bold uppercase text-black">
                             {article.category}
                         </span>
-                        <Link href={`/post/${article.slug}`}>
+                        <Link href={`/article/${article.slug}`}>
                             <h3 className="text-lg font-bold font-serif leading-tight hover:underline transition-colors">
                                 {article.title}
                             </h3>

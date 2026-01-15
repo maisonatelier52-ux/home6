@@ -1,94 +1,94 @@
 {
     "sectionHeader": {
-        "title": "Corona Virus News",
-        "subtitle": "World will be not same again. Follow the Progress"
+        "title": "Technology & Innovation",
+        "subtitle": "Tracking the cutting edge of human progress."
     },
     "columns": [
         {
             "type": "image",
-            "image": "/images/boxwerbw.webp"
+            "image": "/images/news/tech-4.webp"
         },
         {
             "type": "articles",
             "header": {
-                "red": "TENNIS",
-                "rest": "SUBTITLE"
+                "red": "AI",
+                "rest": "AGENTS"
             },
             "articles": [
                 {
-                    "category": "Culture",
-                    "title": "Incongruous Jeepers Jellyfish One Far Well Known",
-                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
-                    "slug": "incongruous-jeepers-jellyfish"
+                    "category": "Tech",
+                    "title": "Generative AI: Moving Beyond the Hype to Enterprise Reality",
+                    "excerpt": "Silicon Valley is shifting its focus from training larger models to building specialized, efficient AI agents.",
+                    "slug": "generative-ai-the-next-frontier"
                 },
                 {
-                    "category": "Politic , Sport",
-                    "title": "This Nudged Jeepers While Much The Less",
-                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
-                    "slug": "this-nudged-jeepers-less"
+                    "category": "Tech",
+                    "title": "The Privacy Wars: Apple, Meta, and Regulators",
+                    "excerpt": "New EU regulations are forcing big tech firms to overhaul their advertising models.",
+                    "slug": "privacy-wars-apple-meta-regulators"
                 }
             ]
         },
         {
             "type": "articles",
             "header": {
-                "red": "MMA",
-                "rest": "SUBTITLE"
+                "red": "QUANTUM",
+                "rest": "COMPUTING"
             },
             "articles": [
                 {
-                    "category": "Culture",
-                    "title": "Incongruous Jeepers Jellyfish One Far Well Known",
-                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
-                    "slug": "incongruous-jeepers-jellyfish-2"
+                    "category": "Tech",
+                    "title": "Quantum Computing Breakthrough: IBM and Google",
+                    "excerpt": "Researchers have achieved a record 1,000-qubit threshold with error correction.",
+                    "slug": "quantum-computing-breakthrough-google-ibm"
                 },
                 {
-                    "category": "Politic , Sport",
-                    "title": "This Nudged Jeepers While Much The Less",
-                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
-                    "slug": "this-nudged-jeepers-less-2"
+                    "category": "Tech",
+                    "title": "Solid-State Batteries: The Holy Grail of Clean Energy",
+                    "excerpt": "A breakthrough in solid-state electrolyte design promises to double EV range.",
+                    "slug": "green-tech-battery-innovation-2026"
                 }
             ]
         },
         {
             "type": "articles",
             "header": {
-                "red": "MMA",
-                "rest": "SUBTITLE"
+                "red": "FUTURE",
+                "rest": "CITIES"
             },
             "articles": [
                 {
-                    "category": "Culture",
-                    "title": "Incongruous Jeepers Jellyfish One Far Well Known",
-                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
-                    "slug": "incongruous-jeepers-jellyfish-3"
+                    "category": "Tech",
+                    "title": "Are Cities Ready for the Autonomous Vehicle Revolution?",
+                    "excerpt": "Physical and legal infrastructure remains the biggest bottleneck for mass adoption.",
+                    "slug": "autonomous-vehicles-city-infrastructure"
                 },
                 {
-                    "category": "Politic , Sport",
-                    "title": "This Nudged Jeepers While Much The Less",
-                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
-                    "slug": "this-nudged-jeepers-less-3"
+                    "category": "Tech",
+                    "title": "Cybersecurity in the Age of Post-Quantum Cryptography",
+                    "excerpt": "Major banks are already preparing for a world where current encryption is obsolete.",
+                    "slug": "autonomous-vehicles-city-infrastructure"
                 }
             ]
         },
         {
             "type": "articles",
             "header": {
-                "red": "BOXING",
-                "rest": "SUBTITLE"
+                "red": "SPACE",
+                "rest": "ECONOMY"
             },
             "articles": [
                 {
-                    "category": "Culture",
-                    "title": "Incongruous Jeepers Jellyfish One Far Well Known",
-                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
-                    "slug": "incongruous-jeepers-jellyfish-4"
+                    "category": "Tech",
+                    "title": "The Commercial Space Race: Mining Asteroids",
+                    "excerpt": "Private firms are already scouting for mineral-rich asteroids to fuel the next industrial revolution.",
+                    "slug": "art-market-digital-provenance"
                 },
                 {
-                    "category": "Politic , Sport",
-                    "title": "This Nudged Jeepers While Much The Less",
-                    "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where",
-                    "slug": "this-nudged-jeepers-less-4"
+                    "category": "Tech",
+                    "title": "Satellite Internet and Global Connectivity",
+                    "excerpt": "Low-earth orbit constellations are bringing high-speed data to the most remote corners of the planet.",
+                    "slug": "quantum-computing-breakthrough-google-ibm"
                 }
             ]
         }

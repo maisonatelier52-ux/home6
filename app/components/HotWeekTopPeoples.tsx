@@ -32,7 +32,7 @@ export default function HotWeekTopPeoples({ title, articles }: HotWeekTopPeoples
                             <span className="text-[10px] font-bold uppercase text-black">
                                 {article.category}
                             </span>
-                            <Link href={`/post/${article.slug}`}>
+                            <Link href={`/article/${article.slug}`}>
                                 <h3 className="text-[15px] font-bold font-serif leading-tight group-hover:underline text-gray-900 transition-colors">
                                     {article.title}
                                 </h3>

@@ -1,0 +1,48 @@
+{
+    "id": "pol-3",
+    "slug": "election-polling-demographics-shift",
+    "title": "Election Polling: New Data Suggests Shifting Demographics",
+    "category": "Politics",
+    "date": "October 24, 2025",
+    "views": "18.2k",
+    "readTime": "6 Mins",
+    "comments": 32,
+    "image": "/images/news/politics-2.webp",
+    "tags": [
+        "Elections",
+        "Demographics",
+        "Polling",
+        "Politics"
+    ],
+    "author": {
+        "name": "Robert Miller",
+        "role": "Political Columnist",
+        "postsCount": 89,
+        "image": "/images/authors/robert.jpg",
+        "bio": "Robert Miller specializes in electoral data and the sociology of voting patterns."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "The latest polling data reveals significant shifts in voter behavior, with younger demographics prioritizing climate policy over traditional economic indicators."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "Recent surveys conducted across a broad cross-section of the electorate have sent shockwaves through traditional political strategist circles. For decades, the mantra of 'it's the economy, stupid' has dominated campaign playbooks. However, new data suggests that for Gen Z and Millennial voters, the definition of 'the economy' is increasingly inseparable from environmental sustainability and social equity."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "The Climate Factor"
+        },
+        {
+            "type": "paragraph",
+            "text": "Among voters under 30, climate change has surged to the number one priority, outranking even immediate employment concerns and housing affordability. This demographic block is not just concerned about the future; they are voting based on it. Candidates who fail to articulate a robust, actionable green transition plan are seeing their support crater in urban and suburban cores."
+        },
+        {
+            "type": "paragraph",
+            "text": "Furthermore, the data shows a significant increase in political engagement among these groups. Turnout projections for the upcoming cycle are at record highs, potentially tipping the balance in several key swing districts. The old guard of political consultants is now scrambling to adapt their messaging to a more demanding and information-savvy audience."
+        }
+    ]
+}

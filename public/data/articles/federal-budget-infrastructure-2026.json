@@ -1,0 +1,44 @@
+{
+    "id": "pol-4",
+    "slug": "federal-budget-infrastructure-2026",
+    "title": "Federal Budget: Infrastructure Focus for 2026",
+    "category": "Politics",
+    "date": "October 24, 2025",
+    "views": "9.8k",
+    "readTime": "7 Mins",
+    "comments": 18,
+    "image": "/images/news/politics-3.webp",
+    "tags": [
+        "Budget",
+        "Infrastructure",
+        "Policy",
+        "Transport"
+    ],
+    "author": {
+        "name": "Sarah Jenkins",
+        "role": "Senior Political Analyst",
+        "postsCount": 142,
+        "image": "/images/authors/sarah.jpg",
+        "bio": "Sarah Jenkins has covered global politics for over a decade, specializing in economic policy and international summits."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "The new budget proposal prioritizes green energy infrastructure and high-speed rail development across major corridors, signaling a shift in national priorities."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "The 2026 federal budget proposal, unveiled this morning, represents one of the most significant pivots in national spending in recent history. With a clear focus on long-term resilience, the administration has allocated hundreds of billions to the modernization of the energy grid and the expansion of transit networks. The goal is clear: to decouple economic growth from carbon emissions while creating thousands of high-skilled jobs."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "High-Speed Rail Expansion"
+        },
+        {
+            "type": "paragraph",
+            "text": "A centerpiece of the plan is the multi-year commitment to high-speed rail. For the first time, funding has been secured for dedicated corridors connecting regional hubs, aiming to reduce the reliance on short-haul flights. This move is expected to transform the landscape of regional commerce and tourism, though it faces stiff opposition from traditional transport lobbyists."
+        }
+    ]
+}

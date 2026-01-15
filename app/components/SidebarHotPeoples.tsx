@@ -27,7 +27,7 @@ export default function SidebarHotPeoples({ items }: SidebarHotPeoplesProps) {
                 {items.map((item, index) => (
                     <Link
                         key={index}
-                        href={`/post/${item.slug}`}
+                        href={`/article/${item.slug}`}
                         className={`group flex items-start gap-4 py-0 ${index !== 0 ? 'border-t border-gray-100' : ''}`}
                     >
                         <div className="flex-1">

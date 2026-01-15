@@ -30,7 +30,7 @@ export default function SportNewsCol({ title, articles }: SportNewsColProps) {
                         <span className="text-[10px] font-bold uppercase text-black">
                             {article.category}
                         </span>
-                        <Link href={`/post/${article.slug}`}>
+                        <Link href={`/article/${article.slug}`}>
                             <h3 className="text-[18px] font-bold font-serif leading-tight hover:underline transition-colors">
                                 {article.title}
                             </h3>

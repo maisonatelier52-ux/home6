@@ -1,154 +1,154 @@
 {
     "hero": {
-        "category": "NATURE",
-        "title": "Excluding Well A Some Hummingbird Meticulous",
-        "intro": "Locavore mcsweeney's authentic narwhal eu qui. Banksy ea organic duis vinyl. Went wow one that while less familiar when careless alongside duteously mechanic mighty some correctly pill amused much that on thus much immediately quail was inverse much so remade.",
-        "author": "Maxin Dalton",
-        "role": "Editor",
-        "date": "Mar 5, 2011",
-        "contentLeft": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so.",
-        "contentRight": "palpable tyrannical aboard removed much outside and without vicious scallop flapped newt as.",
-        "image":  "/images/guywithgun.webp",
-        "slug": "excluding-well-a-some"
+        "category": "MARKETS",
+        "title": "Quantum Computing Breakthrough: IBM and Google Close the Gap",
+        "intro": "Researchers have achieved a record 1,000-qubit threshold with error correction, bringing us one step closer to a cryptographically relevant quantum computer. The implications for financial modeling and cryptosecurity are profound, marking a new chapter in computational finance.",
+        "author": "Alex Thorne",
+        "role": "Tech Strategist",
+        "date": "Oct 22, 2025",
+        "contentLeft": "The achievement represents a 10x increase in reliable qubit density compared to last year's benchmarks.",
+        "contentRight": "IBM and Google are both racing to achieve commercial-grade quantum advantage within the next five years.",
+        "image": "/images/news/tech-2.webp",
+        "slug": "quantum-computing-breakthrough-google-ibm"
     },
     "sportNews": {
         "title": {
-            "red": "SportNews",
-            "rest": "TO EURO CUP"
+            "red": "Market",
+            "rest": "MOVERS & SHAKERS"
         },
         "articles": [
             {
-                "category": "Culture",
-                "title": "Incongruous Jeepers Jellyfish One Far Well Known",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much",
-                "slug": "incongruous-jeepers-1"
+                "category": "Markets",
+                "title": "Oil Prices Surge Amid Geopolitical Tensions in the Middle East",
+                "excerpt": "Global energy markets are on edge as supply chain concerns mount, driving crude prices to an 18-month high.",
+                "slug": "oil-prices-plunge-demand"
             },
             {
-                "category": "Politic , Sport",
-                "title": "This Nudged Jeepers While Much The Less",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much",
-                "slug": "nudged-jeepers-less"
+                "category": "Markets",
+                "title": "Bitcoin Hits New Milestone as Institutional Interest Grows",
+                "excerpt": "Digital assets are seeing a resurgence as major hedge funds allocate significant capital to crypto portfolios.",
+                "slug": "crypto-regulation-framework-eu"
             },
             {
-                "category": "Uncategorized",
-                "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much",
-                "slug": "nudged-jeepers-style3"
+                "category": "Markets",
+                "title": "Treasury Yields Stabilize Following Fed Announcement",
+                "excerpt": "Bond investors are breathing a sigh of relief as volatility decreases in the sovereign debt markets.",
+                "slug": "fed-interest-rate-outlook"
             },
             {
-                "category": "Culture , Europe",
-                "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much",
-                "slug": "timmediately-quail-salmon"
+                "category": "Markets",
+                "title": "Gold: The Safe Haven Play of the Decade?",
+                "excerpt": "Precious metals are outperforming equities as investors seek a hedge against prolonged global inflation.",
+                "slug": "gold-hits-record-high-safe-haven"
             }
         ]
     },
     "coronavirus": {
         "title": {
-            "red": "Coronavirus",
-            "rest": "WORLD TIMELINE"
+            "red": "Latest",
+            "rest": "HEADLINES"
         },
-        "description": "Type your intro for this area. You can insert HTML tag, embedd video or GMap.",
+        "description": "Stay updated with real-time alerts from our global newsroom tracking the most significant economic shifts.",
         "timeline": [
             {
-                "time": "11:19 pm - May 01, 2018",
-                "text": "Incongruous jeepers jellyfish one far Well known"
+                "time": "Oct 24, 2025",
+                "text": "Generative AI: Moving Beyond the Hype to Enterprise Reality"
             },
             {
-                "time": "10:35 pm - December 29, 2016",
-                "text": "This nudged jeepers while much the less"
+                "time": "Oct 24, 2025",
+                "text": "Federal Reserve Signals Slower Rate Cuts for 2026"
             },
             {
-                "time": "6:20 pm - June 01, 2016",
-                "text": "This nudged jeepers ded sesulky oite ten around style3"
+                "time": "Oct 24, 2025",
+                "text": "Merger Mania Hits the Industrial Sector"
             },
             {
-                "time": "7:17 am - March 05, 2015",
-                "text": "Timmediately quail was inverse much so remade dimly salmon"
+                "time": "Oct 24, 2025",
+                "text": "Luxury Real Estate: The New Era of Sustainable Mansions"
             }
         ]
     },
     "culture": {
         "title": {
-            "red": "Culture",
-            "rest": "MUSIC & DANCE"
+            "red": "Business",
+            "rest": "INTELLIGENCE"
         },
         "articles": [
             {
-                "category": "Culture",
-                "title": "Incongruous Jeepers Jellyfish One Far Well Known",
-                "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=150&auto=format&fit=crop",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much Within spread beside the ouch sulky and this wonderfully and as the well and where supply much",
-                "slug": "culture-incongruous"
+                "category": "Business",
+                "title": "Startup Funding Winter Thaws: Venture Capital Returns",
+                "image": "/images/news/business-2.webp",
+                "excerpt": "After a quiet 24 months, VCs are aggressively deploying dry powder into high-growth specialized AI startups.",
+                "slug": "startup-funding-winter-thaws"
             },
             {
-                "category": "Politic , Sport",
-                "title": "This Nudged Jeepers While Much The Less",
-                "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=150&auto=format&fit=crop",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much Within spread beside the ouch sulky and this wonderfully and as the well and where supply much",
-                "slug": "culture-nudged"
+                "category": "Business",
+                "title": "Remote Work Productivity Debate: The CEO Mandate",
+                "image": "/images/news/business-3.webp",
+                "excerpt": "Fortune 500 leaders are increasingly calling employees back to the office, citing cultural erosion and slower innovation.",
+                "slug": "remote-work-productivity-debate"
             },
             {
-                "category": "Politic , Sport",
-                "title": "This Nudged Jeepers While Much The Less",
-                "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=150&auto=format&fit=crop",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much Within spread beside the ouch sulky and this wonderfully and as the well and where supply much",
-                "slug": "culture-nudged"
+                "category": "Business",
+                "title": "Retail Giants Pivot to Omnichannel Strategy",
+                "image": "/images/news/business-4.webp",
+                "excerpt": "The line between e-commerce and physical retail continues to blur as giants invest billions in logistics integration.",
+                "slug": "retail-giants-omnichannel-strategy"
             }
         ]
     },
     "module15": {
         "title": {
-            "red": "MODULE 15",
-            "rest": "SUBTITLE"
+            "red": "Wealth",
+            "rest": "MANAGEMENT"
         },
-        "description": "Type your intro for this area. You can insert HTML tag, embedd video or GMap.",
+        "description": "Strategies for capital preservation and high-alpha returns in a volatile global economy.",
         "articles": [
             {
-                "title": "Incongruous Jeepers Jellyfish One Far Well Known",
-                "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=150&auto=format&fit=crop",
-                "slug": "incongruous-jeepers-well-known"
+                "title": "The Rise of Private Family Offices",
+                "image": "/images/news/wealth-3.webp",
+                "slug": "rise-private-family-offices"
             },
             {
-                "title": "This Nudged Jeepers While Much The Less",
-                "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?q=80&w=150&auto=format&fit=crop",
-                "slug": "nudged-jeepers-much-less"
+                "title": "Superyachts and Sustainability: A Paradox?",
+                "image": "/images/news/wealth-4.webp",
+                "slug": "superyachts-sustainability-paradox"
             },
             {
-                "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
-                "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=150&auto=format&fit=crop",
-                "slug": "nudged-jeepers-style3-module-15"
+                "title": "Fine Art Market Trends: Digital Provenance and AI",
+                "image": "/images/news/wealth-2.webp",
+                "slug": "collecting-future-digital-art-nfts"
             },
             {
-                "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
-                "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=150&auto=format&fit=crop",
-                "slug": "timmediately-quail-module-15"
+                "title": "Bio-Hacking and Longevity: The Ultimate Investment",
+                "image": "/images/news/wealth-5.webp",
+                "slug": "bio-hacking-longevity-ultimate-investment"
             }
         ]
     },
     "hotWeek": {
         "title": {
-            "red": "HotWeek",
-            "rest": "TOP PEOPLES"
+            "red": "Top",
+            "rest": "STORIES"
         },
         "articles": [
             {
-                "category": "Culture",
-                "title": "Incongruous Jeepers Jellyfish One Far Well Known",
-                "image":  "/images/girl1.webp",
-                "slug": "incongruous-jeepers-well-known-hot"
+                "category": "Politics",
+                "title": "Trade Policy Shifts: Impact on Asian Markets",
+                "image": "/images/news/politics-2.webp",
+                "slug": "trade-policy-shifts-asia"
             },
             {
-                "category": "Politic , Sport",
-                "title": "This Nudged Jeepers While Much The Less",
-                "image":  "/images/girl2.webp",
-                "slug": "nudged-jeepers-much-less-hot"
+                "category": "Finance",
+                "title": "Savings Strategies in a High-Interest Environment",
+                "image": "/images/news/finance-2.webp",
+                "slug": "personal-finance-high-yield-savings"
             },
             {
-                "category": "Uncategorized",
-                "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
-                "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=300&auto=format&fit=crop",
-                "slug": "nudged-jeepers-style3-hot"
+                "category": "Tech",
+                "title": "The Privacy Wars: Apple, Meta, and Regulators",
+                "image": "/images/news/tech-3.webp",
+                "slug": "privacy-wars-apple-meta-regulators"
             }
         ]
     }

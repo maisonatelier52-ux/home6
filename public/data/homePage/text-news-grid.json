@@ -1,38 +1,36 @@
 {
     "textNews": [
         {
-            "id": 1,
+            "id": "pol-1",
             "categories": [
-                "Culture"
+                "Politics"
             ],
-            "title": "Incongruous Jeepers Jellyfish One Far Well Known",
-            "slug": "incongruous-jeepers-jellyfish"
+            "title": "Global Summit Addresses Rising Inflation Concerns",
+            "slug": "global-summit-inflation-concerns"
         },
         {
-            "id": 2,
+            "id": "mkt-1",
             "categories": [
-                "Uncategorized"
+                "Markets"
             ],
-            "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around",
-            "slug": "nudged-jeepers-ded-sesulky"
+            "title": "Tech Stocks Rally as AI Adoption Accelerates",
+            "slug": "tech-stocks-rally-ai"
         },
         {
-            "id": 3,
+            "id": "tech-1",
             "categories": [
-                "Culture",
-                "Europe"
+                "Tech"
             ],
-            "title": "Timmediately Quail Was Inverse Much So Remade",
-            "slug": "timmediately-quail-inverse"
+            "title": "Generative AI: Moving Beyond the Hype to Enterprise Reality",
+            "slug": "generative-ai-the-next-frontier"
         },
         {
-            "id": 4,
+            "id": "fin-1",
             "categories": [
-                "Politic",
-                "Sport"
+                "Finance"
             ],
-            "title": "This Nudged Jeepers While Much The Less",
-            "slug": "nudged-jeepers-while-much"
+            "title": "Federal Reserve Signals Slower Rate Cuts for 2026",
+            "slug": "fed-interest-rate-outlook"
         }
     ]
 }

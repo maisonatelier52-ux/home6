@@ -1,80 +1,80 @@
 {
     "hero": {
-        "id": 1,
-        "image":  "/images/drawingGuy.webp",
-        "category": "SPORT",
-        "author": "MAXIN DALTON",
-        "date": "MAR 1, 2014",
-        "views": "371",
-        "readTime": "8 MINS",
-        "title": "Hoically Quizzical Far Impala Heroic A Passably And Through",
-        "slug": "hoically-quizzical-far-impala",
-        "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so. This nudged jeepers less dogged sheared opposite then around but a due heinous square subtle amphibiously chameleon palpable tyrannical aboard removed much outside and without vicious scallop.",
-        "excerptPart2": "Some grimaced after after mercifully lion thus oppressive hello heroically quizzical far impala heroic a passably and through as while far yikes that this plankton hedgehog far less one. Less baboon inconspicuous pending masochistically stubbornly however thus thus coarse unicorn hawk hence.",
-        "firstLetter": "W"
+        "id": "pol-2",
+        "image": "/images/news/politics-2.webp",
+        "category": "POLITICS",
+        "author": "MICHAEL CHEN",
+        "date": "OCT 22, 2025",
+        "views": "8.2K",
+        "readTime": "6 MINS",
+        "title": "Trade Policy Shifts: Impact on Asian Markets",
+        "slug": "trade-policy-shifts-asia",
+        "excerpt": "A landmark trade agreement signed this week has signaled a significant shift in economic alliances across the Asian continent, potentially reshaping supply chains for the next decade. The signing ceremony in Singapore was more than just a photo opportunity; it marked the culmination of years of negotiation.",
+        "excerptPart2": "The new pact, dubbed the 'Pan-Asian Economic Framework,' brings together twelve nations in a bloc that represents nearly 30% of the global GDP. Analysts are calling this a geopolitical game-changer, building a more self-sustaining ecosystem by reducing reliance on Western markets.",
+        "firstLetter": "A"
     },
     "sidebar": [
         {
-            "id": 2,
-            "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=300&auto=format&fit=crop",
-            "author": "Maxin Dalton",
-            "date": "Dec 16",
-            "title": "Raccoon And Some Dear Gnashed Much Metrically",
-            "slug": "raccoon-and-some-dear"
+            "id": "mkt-1",
+            "image": "/images/news/markets-1.webp",
+            "author": "Jessica Wu",
+            "date": "Oct 24",
+            "title": "Tech Stocks Rally as AI Adoption Accelerates",
+            "slug": "tech-stocks-rally-ai"
         },
         {
-            "id": 3,
-            "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=300&auto=format&fit=crop",
-            "author": "Maxin Dalton",
-            "date": "Mar 1",
-            "title": "That While Less Familiar When Careless Alongside",
-            "slug": "that-while-less-familiar"
+            "id": "fin-1",
+            "image": "/images/news/finance-1.webp",
+            "author": "Sarah Jenkins",
+            "date": "Oct 24",
+            "title": "Federal Reserve Signals Slower Rate Cuts for 2026",
+            "slug": "fed-interest-rate-outlook"
         },
         {
-            "id": 4,
-            "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=300&auto=format&fit=crop",
-            "author": "Maxin Dalton",
-            "date": "Mar 5",
-            "title": "Excluding Well A Some Hummingbird Meticulous",
-            "slug": "excluding-well-a-some"
+            "id": "biz-1",
+            "image": "/images/news/business-1.webp",
+            "author": "Robert Miller",
+            "date": "Oct 24",
+            "title": "Merger Mania Hits the Industrial Sector",
+            "slug": "merger-mania-industrial-sector"
         },
         {
-            "id": 5,
-            "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=300&auto=format&fit=crop",
-            "author": "Maxin Dalton",
-            "date": "Dec 21",
-            "title": "Direct Trade Ihil Adipisicin Thundercats Viral Helvetica",
-            "slug": "direct-trade-ihil-adipisicin"
+            "id": "tech-1",
+            "image": "/images/news/tech-1.webp",
+            "author": "Jessica Wu",
+            "date": "Oct 24",
+            "title": "Generative AI: Moving Beyond the Hype to Enterprise Reality",
+            "slug": "generative-ai-the-next-frontier"
         }
     ],
     "module7": {
         "id": "m7",
-        "title": "Module 7",
-        "subtitle": "SUBTITLE",
+        "title": "Global Politics",
+        "subtitle": "WORLD AFFAIRS",
         "articles": [
             {
-                "category": "Uncategorized",
-                "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around woodpecker Style3",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well woodpecker less more so. \n\nThis nudged jeepers less dogged sheared opposite then around but a due heinous square subtle amphibiously chameleon palpable.",
-                "slug": "nudged-jeepers-3"
+                "category": "Politics",
+                "title": "Global Summit Addresses Rising Inflation Concerns",
+                "excerpt": "World leaders gathered today to discuss the pressing issue of rising global inflation. The summit focused on collaborative strategies to stabilize currencies and protect consumer purchasing power.",
+                "slug": "global-summit-inflation-concerns"
             },
             {
-                "category": "Sport , Uncategorized",
-                "title": "Hoically Quizzical Far Impala Heroic A Passably And Through",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well hawk darn woodpecker less more so. \n\nThis nudged jeepers less dogged sheared opposite then around but a due heinous square subtle amphibiously chameleon palpable.",
-                "slug": "hoically-quizzical-2"
+                "category": "Politics",
+                "title": "Election Polling: New Data Suggests Shifting Demographics",
+                "excerpt": "The latest polling data reveals significant shifts in voter behavior, with younger demographics prioritizing climate policy over traditional economic indicators.",
+                "slug": "election-polling-demographics-shift"
             }
         ]
     },
     "module10": {
         "id": "m10",
-        "title": "Module 10",
-        "subtitle": "SUBTITLE",
+        "title": "Tech Strategist",
+        "subtitle": "EXPERT ANALYSIS",
         "editor": {
-            "name": "Maxin Dalton",
-            "posts": "23 Posts",
-            "bio": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply.",
-            "image":  "/images/maxin dalton.webp",
+            "name": "Jessica Wu",
+            "posts": "310 Posts",
+            "bio": "Jessica spans the gap between complex algorithms and business outcomes, focusing on the real-world deployment of Agentic AI.",
+            "image": "/images/authors/jessica.jpg",
             "social": [
                 {
                     "platform": "twitter",
@@ -92,43 +92,43 @@
         },
         "recentPosts": [
             {
-                "title": "Incongruous Jeepers Jellyfish One Far Well Known",
-                "date": "May 1st, 2018",
-                "image": "https://images.unsplash.com/photo-1533154683836-84ea7a0bc310?q=80&w=150&auto=format&fit=crop",
-                "slug": "incongruous-jeepers-1"
+                "title": "Generative AI: Moving Beyond the Hype to Enterprise Reality",
+                "date": "Oct 24, 2025",
+                "image": "/images/news/tech-1.webp",
+                "slug": "generative-ai-the-next-frontier"
             },
             {
-                "title": "This Nudged Jeepers While Much The Less",
-                "date": "December 29th, 2016",
-                "image": "https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=150&auto=format&fit=crop",
-                "slug": "nudged-jeepers-less"
+                "title": "The Privacy Wars: Apple, Meta, and the Battle for Your Data",
+                "date": "Oct 20, 2025",
+                "image": "/images/news/tech-3.webp",
+                "slug": "privacy-wars-apple-meta-regulators"
             },
             {
-                "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
-                "date": "June 1st, 2016",
-                "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=150&auto=format&fit=crop",
-                "slug": "nudged-jeepers-style3"
+                "title": "Luxury Real Estate: The New Era of Sustainable Mansions",
+                "date": "Oct 24, 2025",
+                "image": "/images/news/wealth-1.webp",
+                "slug": "luxury-real-estate-sustainable-mansions"
             },
             {
-                "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
-                "date": "March 5th, 2015",
-                "image": "https://images.unsplash.com/photo-1533154683836-84ea7a0bc310?q=80&w=150&auto=format&fit=crop",
-                "slug": "timmediately-quail-salmon"
+                "title": "Tech Stocks Rally as AI Adoption Accelerates",
+                "date": "Oct 24, 2025",
+                "image": "/images/news/markets-1.webp",
+                "slug": "tech-stocks-rally-ai"
             }
         ]
     },
     "hotPeoples": [
         {
-            "category": "Uncategorized",
-            "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
-            "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=150&auto=format&fit=crop",
-            "slug": "nudged-jeepers-hot"
+            "category": "Wealth",
+            "title": "Collecting the Future: Digital Art and NFTs",
+            "image": "/images/news/wealth-2.webp",
+            "slug": "collecting-future-digital-art-nfts"
         },
         {
-            "category": "Sport , Uncategorized",
-            "title": "Hoically Quizzical Far Impala Heroic A Passably And Through",
-            "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=150&auto=format&fit=crop",
-            "slug": "hoically-quizzical-hot"
+            "category": "Wealth",
+            "title": "The Rise of Private Family Offices",
+            "image": "/images/news/wealth-3.webp",
+            "slug": "rise-private-family-offices"
         }
     ]
 }

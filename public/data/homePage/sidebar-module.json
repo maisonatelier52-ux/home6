@@ -1,59 +1,60 @@
 {
     "moduleTitle": {
-        "red": "Module",
-        "rest": "ENAMBELAS"
+        "red": "Market",
+        "rest": "ALERTS"
     },
-    "description": "Type your intro for this area. You can insert HTML tag, embedd video or GMap.",
+    "description": "Critical updates and real-time market movement summaries for the active trader.",
     "items": [
         {
-            "id": 1,
-            "date": "11:19 pm - May 01, 2018",
-            "title": "Incongruous jeepers jellyfish one far Well known"
+            "id": "mkt-1",
+            "date": "Oct 24, 2025",
+            "title": "Tech Stocks Rally as AI Adoption Accelerates"
         },
         {
-            "id": 2,
-            "date": "10:35 pm - December 29, 2016",
-            "title": "This nudged jeepers while much the less"
+            "id": "fin-1",
+            "date": "Oct 24, 2025",
+            "title": "Federal Reserve Signals Slower Rate Cuts for 2026"
         },
         {
-            "id": 3,
-            "date": "6:20 pm - June 01, 2016",
-            "title": "This nudged jeepers ded sesulky oite ten around style3"
+            "id": "biz-1",
+            "date": "Oct 24, 2025",
+            "title": "Merger Mania Hits the Industrial Sector"
         },
         {
-            "id": 4,
-            "date": "7:20 pm - June 22, 2016",
-            "title": "ded while much the less sesulky oite ten around style3"
-        },
-        {
-            "id": 5,
-            "date": "8:35 pm - July 29, 2016",
-            "title": "This nudged jeepers while much the less"
+            "id": "pol-2",
+            "date": "Oct 22, 2025",
+            "title": "Trade Policy Shifts: Impact on Asian Markets"
         }
     ],
     "articleList": {
         "title": {
-            "red": "MODULE 1",
-            "rest": "SUBTITLE"
+            "red": "Policy",
+            "rest": "BRIEFINGS"
         },
         "articles": [
             {
-                "category": "Culture",
-                "title": "Incongruous Jeepers Jellyfish One Far Well Known",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so. This nudged jeepers less dogged sheared opposite then around but a due heinous",
-                "slug": "incongruous-jeepers-1"
+                "category": "Politics",
+                "title": "Global Summit Addresses Rising Inflation Concerns",
+                "excerpt": "World leaders gathered today to discuss the pressing issue of rising global inflation and collaborative strategies to stabilize currencies.",
+                "slug": "global-summit-inflation-concerns"
             },
             {
-                "category": "Politic , Sport",
-                "title": "This Nudged Jeepers While Much The Less",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so. This nudged jeepers less dogged sheared opposite then around but a due heinous",
-                "slug": "nudged-jeepers-less"
+                "category": "Politics",
+                "title": "Election Polling: New Data Suggests Shifting Demographics",
+                "excerpt": "The latest polling data reveals significant shifts in voter behavior, with younger demographics prioritizing climate policy.",
+                "slug": "election-polling-demographics-shift"
             },
             {
-                "category": "Uncategorized",
-                "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so. This nudged jeepers less dogged sheared opposite then around but a due heinous",
-                "slug": "nudged-jeepers-style3"
+                "category": "Politics",
+                "title": "Federal Budget: Infrastructure Focus for 2026",
+                "excerpt": "The new budget proposal prioritizes green energy infrastructure and high-speed rail development across major corridors.",
+                "slug": "federal-budget-infrastructure-2026"
+            },
+            {
+                "category": "Business",
+                "title": "Cross-Border Regulatory Alignment on AI",
+                "excerpt": "International regulators are moving towards a shared framework for AI ethics and safety to prevent market fragmentation.",
+                "slug": "ai-regulatory-alignment-global"
             }
         ]
     }

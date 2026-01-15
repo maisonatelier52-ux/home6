@@ -6,7 +6,7 @@ import SidebarWeather from './SidebarWeather';
 import SidebarHotPeoples from './SidebarHotPeoples';
 
 interface HeroArticle {
-    id: number;
+    id: string;
     image: string;
     category: string;
     author: string;
@@ -21,7 +21,7 @@ interface HeroArticle {
 }
 
 interface SidebarItem {
-    id: number;
+    id: string;
     image: string;
     author: string;
     date: string;
@@ -53,7 +53,7 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                     <img
                         src={hero.image || defaultHeroImage}
                         alt={hero.title}
-                        className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 filter grayscale-[0.2]"
+                        className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 filter"
                     />
                 </div>
             </div>
@@ -88,7 +88,7 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                         <div>
                             <p className="mb-4">{hero.excerptPart2}</p>
                             <Link
-                                href={`/post/${hero.slug}`}
+                                href={`/article/${hero.slug}`}
                                 className="inline-flex items-center text-[11px] font-bold uppercase text-black hover:text-[#e43b3b] transition-colors mt-2"
                             >
                                 Read the Post <span className="ml-1">→</span>
@@ -105,7 +105,7 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                         {sidebarItems.map((item, index) => (
                             <Link
                                 key={item.id}
-                                href={`/post/${item.slug}`}
+                                href={`/article/${item.slug}`}
                                 className={`group flex items-start gap-4 py-4`}
                             >
                                 <div className="w-[50px] h-[60px] flex-shrink-0 overflow-hidden bg-gray-100 relative">

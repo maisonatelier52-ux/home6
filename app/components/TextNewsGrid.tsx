@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 
 interface TextNewsItem {
-    id: number;
+    id: string;
     categories: string[];
     title: string;
     slug: string;
@@ -20,7 +20,7 @@ export default function TextNewsGrid({ items }: TextNewsGridProps) {
                     {items.map((item) => (
                         <Link
                             key={item.id}
-                            href={`/post/${item.slug}`}
+                            href={`/article/${item.slug}`}
                             className="group block py-6 px-0 md:px-6 first:pl-0 last:pr-0"
                         >
                             <div className="flex flex-col gap-2">

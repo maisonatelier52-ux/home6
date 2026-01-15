@@ -45,7 +45,7 @@ export default function Module15({ title, description, articles }: Module15Props
                             />
                         </div>
                         <div className="flex-1">
-                            <Link href={`/post/${article.slug}`}>
+                            <Link href={`/article/${article.slug}`}>
                                 <h3 className="text-[15px] font-bold font-serif leading-snug hover:underline text-gray-900 transition-colors">
                                     {article.title}
                                 </h3>

@@ -1,86 +1,86 @@
 {
     "sectionHeader": {
-        "title": "Corona Virus News",
-        "subtitle": "World will be not same again. Follow the Progress"
+        "title": "Finance & Economics",
+        "subtitle": "Global wealth management and monetary policy analysis."
     },
     "col1": {
         "title": {
-            "red": "Culture",
-            "rest": ""
+            "red": "Finance",
+            "rest": "WATCH"
         },
         "articles": [
             {
-                "category": "Culture",
-                "title": "Incongruous Jeepers Jellyfish One Far Well Known",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply",
-                "slug": "incongruous-jeepers-well-known-v2"
+                "category": "Finance",
+                "title": "Federal Reserve Signals Slower Rate Cuts for 2026",
+                "excerpt": "Investors are recalibrating their portfolios as the central bank maintains a cautious stance on monetary easing.",
+                "slug": "fed-interest-rate-outlook"
             },
             {
-                "category": "Politic , Sport",
-                "title": "This Nudged Jeepers While Much The Less",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply",
-                "slug": "nudged-jeepers-less-v2"
+                "category": "Finance",
+                "title": "Savings Strategies in a High-Interest Environment",
+                "excerpt": "From high-yield savings accounts to laddered CDs, discover how to maximize returns on your cash reserves.",
+                "slug": "personal-finance-high-yield-savings"
             },
             {
-                "category": "Uncategorized",
-                "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply",
-                "slug": "nudged-jeepers-style3-v2"
+                "category": "Finance",
+                "title": "Deciphering the Bond Market: A Guide for Investors",
+                "excerpt": "Understanding the inverse relationship between prices and yields is critical in the current economic cycle.",
+                "slug": "bond-yields-invert-recession"
             },
             {
-                "category": "Culture , Europe",
-                "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply",
-                "slug": "timmediately-quail-salmon-v2"
+                "category": "Finance",
+                "title": "Tax Planning for the Next Fiscal Year",
+                "excerpt": "Early preparation is key to optimizing your tax liability and taking advantage of new exemption thresholds.",
+                "slug": "pension-reform-global-crisis"
             },
             {
-                "category": "Europe , Finance",
-                "title": "Unanimous Haltered Loud One Trod Trigly Style Four",
-                "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply",
-                "slug": "unanimous-haltered-loud-v2"
+                "category": "Finance",
+                "title": "The Evolution of Digital Currencies",
+                "excerpt": "Sovereign digital currencies are moving from pilot phases to real-world deployment across major economies.",
+                "slug": "crypto-regulation-framework-eu"
             }
         ]
     },
     "col2": {
         "hero": {
-            "category": "UNCATEGORIZED",
-            "title": "This Nudged Jeepers Ded Sesulky Oite Ten Around Style3",
-            "intro": "This nudged jeepers less dogged sheared opposite then around but a due heinous square subtle amphibiously chameleon palpable tyrannical aboard removed much outside and without vicious scallop flapped newt as.",
-            "author": "Maxin Dalton",
-            "role": "Editor",
-            "date": "Jun 1, 2016",
-            "contentLeft": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so.",
-            "contentRight": "palpable tyrannical aboard removed much outside and without vicious scallop flapped newt as.\n\nSome grimaced after after mercifully lion thus oppressive hello heroically quizzical far impala heroic a passably and through.",
-            "image": "/images/workout.webp",
-            "slug": "this-nudged-jeepers"
+            "category": "FINANCE",
+            "title": "Federal Reserve Signals Slower Rate Cuts for 2026",
+            "intro": "The Federal Open Market Committee revealed today that while inflation is moderating, the path to a 2% target remains complex. This has immediate implications for mortgage rates and corporate borrowing costs.",
+            "author": "Sarah Jenkins",
+            "role": "Economic Analyst",
+            "date": "Oct 24, 2025",
+            "contentLeft": "The Fed's 'higher for longer' rhetoric is putting pressure on the housing market and commercial real estate sectors.",
+            "contentRight": "Analysts expect only two quarter-point cuts in the next twelve months, down from the previous forecast of four.\n\nMilitary spending and infrastructure stimulus are cited as factors keeping the economy 'hotter' than anticipated.",
+            "image": "/images/news/finance-1.webp",
+            "slug": "fed-interest-rate-outlook"
         },
         "bullets": [
             {
-                "title": "Unanimous Haltered Loud One Trod Trigly Style Four",
-                "slug": "unanimous-haltered-bullet"
+                "title": "Yield Curve Inversion: What It Means for 2026",
+                "slug": "bond-yields-invert-recession"
             },
             {
-                "title": "Heared Opposite Then Around But A Heinous Square Amphibisly",
-                "slug": "heared-opposite-bullet"
+                "title": "Inflation Data Beats Expectations",
+                "slug": "global-summit-inflation-concerns"
             },
             {
-                "title": "Hoically Quizzical Far Impala Heroic A Passably And Through",
-                "slug": "hoically-quizzical-bullet"
+                "title": "Job Market Remains Resilient Despite Headwinds",
+                "slug": "startup-funding-winter-thaws"
             }
         ]
     },
     "col3": {
         "hero": {
-            "category": "CULTURE",
-            "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
-            "intro": "Nesciunt mumblecore blog, wayfarers voluptate VHS vice before they sold out delectus direct trade. Wullamco dolore",
-            "author": "Maxin Dalton",
-            "role": "Editor",
-            "date": "Mar 5, 2015",
-            "contentLeft": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so",
-            "contentRight": "but a due so well and where supply much.\n\nThis nudged jeepers less dogged sheared opposite then around.",
-            "image": "/images/beardGuy.webp",
-            "slug": "timmediately-quail-v2"
+            "category": "FINANCE",
+            "title": "Savings Strategies in a High-Interest Environment",
+            "intro": "For the first time in a generation, 'cash is king' as risk-free returns reach levels not seen since the early 2000s.",
+            "author": "Mark Stevens",
+            "role": "Wealth Manager",
+            "date": "Oct 22, 2025",
+            "contentLeft": "High-yield savings accounts are now yielding over 5% annually, providing a safe haven for capital.",
+            "contentRight": "Experts suggest locking in these rates now before the central bank begins its late-2026 easing cycle.\n\nDiversification into short-term treasuries remains a popular play.",
+            "image": "/images/news/finance-2.webp",
+            "slug": "personal-finance-high-yield-savings"
         }
     }
 }

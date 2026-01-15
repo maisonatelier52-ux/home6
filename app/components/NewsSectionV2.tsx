@@ -56,7 +56,7 @@ export default function NewsSectionV2({ data }: NewsSectionV2Props) {
                                 {data.col2.bullets.map((bullet: any, index: number) => (
                                     <li key={index} className="flex items-start gap-2 group">
                                         <span className="text-black text-xs mt-1">•</span>
-                                        <Link href={`/post/${bullet.slug}`}>
+                                        <Link href={`/article/${bullet.slug}`}>
                                             <h4 className="text-[16px] font-bold text-gray-900 group-hover:underline transition-colors tracking-tight">
                                                 {bullet.title}
                                             </h4>

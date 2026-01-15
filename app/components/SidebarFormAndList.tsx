@@ -2,7 +2,7 @@ import React from 'react';
 import SidebarArticleList from './SidebarArticleList';
 
 interface ModuleItem {
-    id: number;
+    id: string;
     date: string;
     title: string;
 }

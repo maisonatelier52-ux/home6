@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 interface Article {
-    id: number;
+    id: string;
     author: string;
     date: string;
     title: string;
@@ -64,7 +64,7 @@ export default function Module6Carousel({ title, articles }: Module6CarouselProp
                                     <span className="text-black">{item.author}</span>
                                     <span className="text-gray-400 ml-1 font-normal">ON {item.date}</span>
                                 </div>
-                                <Link href={`/post/${item.slug}`}>
+                                <Link href={`/article/${item.slug}`}>
                                     <h3 className="text-[15px] font-bold leading-snug text-gray-900 hover:underline transition-colors font-serif">
                                         {item.title}
                                     </h3>

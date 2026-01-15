@@ -1,0 +1,44 @@
+{
+    "id": "biz-2",
+    "slug": "ai-regulatory-alignment-global",
+    "title": "Cross-Border Regulatory Alignment on AI",
+    "category": "Business",
+    "date": "October 24, 2025",
+    "views": "15.1k",
+    "readTime": "9 Mins",
+    "comments": 24,
+    "image": "/images/news/business-2.webp",
+    "tags": [
+        "AI",
+        "Regulation",
+        "Ethics",
+        "Business"
+    ],
+    "author": {
+        "name": "Jessica Wu",
+        "role": "Tech Strategist",
+        "postsCount": 310,
+        "image": "/images/authors/jessica.jpg",
+        "bio": "Jessica spans the gap between complex algorithms and business outcomes, focusing on the real-world deployment of AI."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "International regulators are moving towards a shared framework for AI ethics and safety to prevent market fragmentation and ensure responsible deployment."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "As Artificial Intelligence becomes deeply embedded in everything from medical diagnostics to financial markets, the need for a global 'rulebook' has never been more urgent. This week, representatives from the world's leading economies reached a preliminary agreement on key safety standards. The move aims to harmonize the patchwork of existing laws, which many corporations have argued makes global operations unnecessarily complex."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "The Fight for Data Sovereignty"
+        },
+        {
+            "type": "paragraph",
+            "text": "One of the most difficult points of negotiation remains data sovereignty. While many nations agree on ethics, the question of where data is stored and who can access it remains a touchy subject. The new alignment framework proposes a tiered system of data access based on the sensitivity of the AI application, which might provide a middle ground for the ongoing debate between open access and national security."
+        }
+    ]
+}
