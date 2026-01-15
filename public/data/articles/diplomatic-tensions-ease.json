@@ -1,52 +1,52 @@
 {
-    "id": "pol-5",
-    "slug": "diplomatic-tensions-ease",
-    "title": "Diplomatic Tensions Ease After High-Level Talks",
-    "category": "Politics",
-    "date": "October 15, 2025",
-    "views": "7.1k",
-    "readTime": "6 Mins",
-    "comments": 15,
-    "image": "/images/news/politics-5.webp",
-    "tags": [
-        "Diplomacy",
-        "Peace",
-        "International Relations",
-        "Geneva"
-    ],
-    "author": {
-        "name": "David Smith",
-        "role": "Foreign Affairs Editor",
-        "postsCount": 204,
-        "image": "/images/authors/david.jpg",
-        "bio": "David brings insight from over 40 countries, analyzing conflict and resolution."
-    },
-    "content": [
-        {
-            "type": "intro",
-            "text": "Months of escalating rhetoric appear to be cooling down following a series of high-level diplomatic meetings held in Geneva this weekend."
-        },
-        {
-            "type": "paragraph",
-            "hasDropCap": true,
-            "text": "The joint statement released Sunday morning was cautious but optimistic. Both sides have agreed to a temporary moratorium on military exercises in the disputed border region and have established a direct hotline to prevent miscommunication. While far from a permanent treaty, this de-escalation is a massive relief for the region's markets, which had been pricing in a potential conflict. The S&P Global index rose 2% on the news."
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "Behind Closed Doors"
-        },
-        {
-            "type": "paragraph",
-            "text": "Sources close to the negotiation describe the talks as 'frank and difficult.' The breakthroughs reportedly came after an eighteen-hour marathon session where mediators facilitated a compromise on naval patrol zones. The inclusion of third-party observers from the UN was a key sticking point that was finally resolved, offering a mechanism for verifying the truce."
-        },
-        {
-            "type": "quote",
-            "text": "Peace is made with enemies, not with friends. And it is hard work."
-        },
-        {
-            "type": "paragraph",
-            "text": "The focus now shifts to implementation. trust is low, and any minor incident could derail the progress. However, the economic incentives for peace are strong. Both nations are facing domestic economic headwinds and can ill afford a costly war. This pragmatic reality, more than goodwill, is likely the glue holding the deal together."
-        }
-    ]
+    "id":  "pol-5",
+    "slug":  "diplomatic-tensions-ease",
+    "title":  "Diplomatic Tensions Ease After High-Level Talks",
+    "category":  "Politics",
+    "date":  "October 15, 2025",
+    "views":  "7.1k",
+    "readTime":  "6 Mins",
+    "comments":  15,
+    "image":  "/images/news/politics-5.webp",
+    "tags":  [
+                 "Diplomacy",
+                 "Peace",
+                 "International Relations",
+                 "Geneva"
+             ],
+    "author":  {
+                   "name":  "David Smith",
+                   "role":  "Foreign Affairs Editor",
+                   "postsCount":  204,
+                   "image":  "/images/authors/david.jpg",
+                   "bio":  "David brings insight from over 40 countries, analyzing conflict and resolution."
+               },
+    "content":  [
+                    {
+                        "type":  "intro",
+                        "text":  "Months of escalating rhetoric appear to be cooling down following a series of high-level diplomatic meetings held in Geneva this weekend."
+                    },
+                    {
+                        "type":  "paragraph",
+                        "hasDropCap":  true,
+                        "text":  "The joint statement released Sunday morning was cautious but optimistic. Both sides have agreed to a temporary moratorium on military exercises in the disputed border region and have established a direct hotline to prevent miscommunication. While far from a permanent treaty, this de-escalation is a massive relief for the region\u0027s markets, which had been pricing in a potential conflict. The S\u0026P Global index rose 2% on the news."
+                    },
+                    {
+                        "type":  "heading",
+                        "level":  2,
+                        "text":  "Behind Closed Doors"
+                    },
+                    {
+                        "type":  "paragraph",
+                        "text":  "Sources close to the negotiation describe the talks as \u0027frank and difficult.\u0027 The breakthroughs reportedly came after an eighteen-hour marathon session where mediators facilitated a compromise on naval patrol zones. The inclusion of third-party observers from the UN was a key sticking point that was finally resolved, offering a mechanism for verifying the truce."
+                    },
+                    {
+                        "type":  "quote",
+                        "text":  "Peace is made with enemies, not with friends. And it is hard work."
+                    },
+                    {
+                        "type":  "paragraph",
+                        "text":  "The focus now shifts to implementation. trust is low, and any minor incident could derail the progress. However, the economic incentives for peace are strong. Both nations are facing domestic economic headwinds and can ill afford a costly war. This pragmatic reality, more than goodwill, is likely the glue holding the deal together."
+                    }
+                ]
 }

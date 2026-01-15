@@ -1,52 +1,52 @@
 {
-    "id": "wth-3",
-    "slug": "family-office-trends-2026",
-    "title": "Family Office 2.0: Managing Legacy in a Turbulent Century",
-    "category": "Wealth",
-    "date": "October 20, 2025",
-    "views": "12k",
-    "readTime": "9 Mins",
-    "comments": 15,
-    "image": "/images/news/wealth-3.webp",
-    "tags": [
-        "Family Office",
-        "Inheritance",
-        "Legacy",
-        "Investing"
-    ],
-    "author": {
-        "name": "James O'Connor",
-        "role": "Wealth Management Specialist",
-        "postsCount": 56,
-        "image": "/images/authors/james.jpg",
-        "bio": "James advises some of the world's most successful families on transition and growth."
-    },
-    "content": [
-        {
-            "type": "intro",
-            "text": "The multi-generational transfer of wealth is facing new challenges, from ESG requirements to the complexities of digital asset inheritance."
-        },
-        {
-            "type": "paragraph",
-            "hasDropCap": true,
-            "text": "The next two decades will see the 'Great Wealth Transfer'—over $84 trillion passing from Baby Boomers to their heirs. For family offices (the private wealth management firms that serve ultra-wealthy families), this is a moment of existential change. The heirs have very different values from their parents. They are less interested in pure financial returns and more interested in' impact.' They want their family's capital to solve social problems, even if it means lower yields in the short term."
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "The Digital Inheritance Dilemma"
-        },
-        {
-            "type": "paragraph",
-            "text": "Inheritance used to be about keys to a safe and a deed to a house. Today, it's also about private keys to crypto wallets, login credentials to cloud storage, and social media legacies. Family offices are having to hire 'Digital Estate Managers' to ensure this data isn't lost to time. One lost password can mean the permanent loss of millions in Bitcoin. The legal frameworks for this are still being written, making it a high-risk area for wealth preservation."
-        },
-        {
-            "type": "quote",
-            "text": "Wealth without values is just a number. A legacy is the values that survive the wealth."
-        },
-        {
-            "type": "paragraph",
-            "text": "Successful family offices are transitioning to the '2.0' model: more transparent, more tech-forward, and much more focused on 'Education' of the next generation. It's no longer enough to just manage the money; you have to manage the family's relationship with the money."
-        }
-    ]
+    "id":  "wth-3",
+    "slug":  "family-office-trends-2026",
+    "title":  "Family Office 2.0: Managing Legacy in a Turbulent Century",
+    "category":  "Wealth",
+    "date":  "October 20, 2025",
+    "views":  "12k",
+    "readTime":  "9 Mins",
+    "comments":  15,
+    "image":  "/images/news/wealth-3.webp",
+    "tags":  [
+                 "Family Office",
+                 "Inheritance",
+                 "Legacy",
+                 "Investing"
+             ],
+    "author":  {
+                   "name":  "James O\u0027Connor",
+                   "role":  "Wealth Management Specialist",
+                   "postsCount":  56,
+                   "image":  "/images/authors/james.jpg",
+                   "bio":  "James advises some of the world\u0027s most successful families on transition and growth."
+               },
+    "content":  [
+                    {
+                        "type":  "intro",
+                        "text":  "The multi-generational transfer of wealth is facing new challenges, from ESG requirements to the complexities of digital asset inheritance."
+                    },
+                    {
+                        "type":  "paragraph",
+                        "hasDropCap":  true,
+                        "text":  "The next two decades will see the \u0027Great Wealth Transfer\u0027—over $84 trillion passing from Baby Boomers to their heirs. For family offices (the private wealth management firms that serve ultra-wealthy families), this is a moment of existential change. The heirs have very different values from their parents. They are less interested in pure financial returns and more interested in\u0027 impact.\u0027 They want their family\u0027s capital to solve social problems, even if it means lower yields in the short term."
+                    },
+                    {
+                        "type":  "heading",
+                        "level":  2,
+                        "text":  "The Digital Inheritance Dilemma"
+                    },
+                    {
+                        "type":  "paragraph",
+                        "text":  "Inheritance used to be about keys to a safe and a deed to a house. Today, it\u0027s also about private keys to crypto wallets, login credentials to cloud storage, and social media legacies. Family offices are having to hire \u0027Digital Estate Managers\u0027 to ensure this data isn\u0027t lost to time. One lost password can mean the permanent loss of millions in Bitcoin. The legal frameworks for this are still being written, making it a high-risk area for wealth preservation."
+                    },
+                    {
+                        "type":  "quote",
+                        "text":  "Wealth without values is just a number. A legacy is the values that survive the wealth."
+                    },
+                    {
+                        "type":  "paragraph",
+                        "text":  "Successful family offices are transitioning to the \u00272.0\u0027 model: more transparent, more tech-forward, and much more focused on \u0027Education\u0027 of the next generation. It\u0027s no longer enough to just manage the money; you have to manage the family\u0027s relationship with the money."
+                    }
+                ]
 }

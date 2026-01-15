@@ -1,42 +1,42 @@
 {
-    "id": "5",
-    "slug": "traditional-music-globalized-world",
-    "title": "Traditional Music in the Heart of Globalized World",
-    "category": "Culture",
-    "date": "August 15, 2021",
-    "views": "2100",
-    "readTime": "7 Mins",
-    "comments": 5,
-    "image": "/images/oldmen.webp",
-    "tags": [
-        "Music",
-        "Tradition",
-        "Global"
-    ],
-    "author": {
-        "name": "Maxin Dalton",
-        "role": "Editor",
-        "postsCount": 23,
-        "image": "/images/maxin dalton.webp",
-        "bio": "Musicologist exploring the sounds of the world."
-    },
-    "content": [
-        {
-            "type": "intro",
-            "text": "In an increasingly connected world, traditional music faces both challenges and opportunities."
-        },
-        {
-            "type": "paragraph",
-            "hasDropCap": true,
-            "text": "While globalization can lead to the homogenization of sound, it also provides new platforms for regional artists to reach a wider audience than ever before. From the steppes of Mongolia to the mountains of the Andes, traditional musicians are finding new ways to share their heritage."
-        },
-        {
-            "type": "paragraph",
-            "text": "Collaborations between traditional artists and modern pop stars are becoming more common, creating exciting new hybrids that bridge the gap between old and new."
-        },
-        {
-            "type": "quote",
-            "text": "Music is the universal language of mankind."
-        }
-    ]
+    "id":  "5",
+    "slug":  "traditional-music-globalized-world",
+    "title":  "Traditional Music in the Heart of Globalized World",
+    "category":  "Culture",
+    "date":  "August 15, 2021",
+    "views":  "2100",
+    "readTime":  "7 Mins",
+    "comments":  5,
+    "image":  "/images/authors/robert.jpg",
+    "tags":  [
+                 "Music",
+                 "Tradition",
+                 "Global"
+             ],
+    "author":  {
+                   "name":  "Maxin Dalton",
+                   "role":  "Editor",
+                   "postsCount":  23,
+                   "image":  "/images/authors/maxin.jpg",
+                   "bio":  "Musicologist exploring the sounds of the world."
+               },
+    "content":  [
+                    {
+                        "type":  "intro",
+                        "text":  "In an increasingly connected world, traditional music faces both challenges and opportunities."
+                    },
+                    {
+                        "type":  "paragraph",
+                        "hasDropCap":  true,
+                        "text":  "While globalization can lead to the homogenization of sound, it also provides new platforms for regional artists to reach a wider audience than ever before. From the steppes of Mongolia to the mountains of the Andes, traditional musicians are finding new ways to share their heritage."
+                    },
+                    {
+                        "type":  "paragraph",
+                        "text":  "Collaborations between traditional artists and modern pop stars are becoming more common, creating exciting new hybrids that bridge the gap between old and new."
+                    },
+                    {
+                        "type":  "quote",
+                        "text":  "Music is the universal language of mankind."
+                    }
+                ]
 }

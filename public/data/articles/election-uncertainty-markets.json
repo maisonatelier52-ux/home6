@@ -1,74 +1,74 @@
 {
-    "id": "pol-3",
-    "slug": "election-uncertainty-markets",
-    "title": "Election Year Uncertainty Rattles Market Confidence",
-    "category": "Politics",
-    "date": "October 20, 2025",
-    "views": "15k",
-    "readTime": "7 Mins",
-    "comments": 89,
-    "image": "/images/news/politics-3.webp",
-    "tags": [
-        "Election",
-        "Markets",
-        "Uncertainty",
-        "Campaign"
-    ],
-    "author": {
-        "name": "James O'Connor",
-        "role": "Financial Politics Reviewer",
-        "postsCount": 56,
-        "image": "/images/authors/james.jpg",
-        "bio": "James sits at the intersection of Wall Street and Capitol Hill."
-    },
-    "content": [
-        {
-            "type": "intro",
-            "text": "As the election year approaches, market volatility has increased. Investors are closely watching campaign promises and polling data, trying to predict the regulatory landscape of the future."
-        },
-        {
-            "type": "paragraph",
-            "hasDropCap": true,
-            "text": "Wall Street hates uncertainty, and election years are the definition of uncertain. The VIX volatility index has spiked 15% in the last month alone as candidates trade barbs over tax policy, healthcare reform, and tech regulation. Every speech is dissected by algorithms and analysts alike, looking for clues on which sectors will flourish and which will face headwinds. The stark contrast between the leading candidates' economic platforms makes the stakes higher than usual."
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "Divergent Paths"
-        },
-        {
-            "type": "paragraph",
-            "text": "On one side, the incumbent is pushing for stability and a continuation of green energy subsidies. On the other, the challenger is promising radical deregulation and aggressive tax cuts. For energy companies, healthcare providers, and big tech, the difference is existential. 'It's binary,' notes portfolio manager Linda Grey. 'If A wins, solar is a buy. If B wins, oil is king. You can't hedge against a coin toss easily.'"
-        },
-        {
-            "type": "paragraph",
-            "text": "Corporate spending has already started to slow. CEOs are delaying major capital projects until the political fog clears. This 'wait and see' approach threatens to dampen GDP growth in Q4, potentially creating a self-fulfilling prophecy of economic slowdown that could itself influence the election outcome."
-        },
-        {
-            "type": "quote",
-            "text": "The market is not a voting machine, it is a weighing machine. But in election years, it brings its own scale."
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "The Fed's Dilemma"
-        },
-        {
-            "type": "paragraph",
-            "text": "Caught in the middle is the Federal Reserve. Strictly non-political, the central bank nevertheless faces immense pressure. Any move to cut or raise rates in the months leading up to the vote will be politicized. If they cut, they are accused of juice the economy for the incumbent. If they hike, they are sabotaging growth. Chairman Powell has reiterated focusing solely on the data, but the optical minefield is treacherous."
-        },
-        {
-            "type": "heading",
-            "level": 3,
-            "text": "Retail Investor Sentiment"
-        },
-        {
-            "type": "paragraph",
-            "text": "Retail investors, driven by social media and 24-hour news cycles, are reacting more emotionally than institutions. We are seeing massive swings in meme stocks and sectors linked to candidate popularity. This noise adds another layer of unpredictability to the market mechanics. Financial advisors are urging clients to stay the course and not make portfolio changes based on polls, but fear and greed are powerful motivators."
-        },
-        {
-            "type": "paragraph",
-            "text": "Regardless of the outcome, history shows that markets eventually adapt. The initial shock of a result usually fades as the reality of governance—which is often gridlocked and slower than campaign rhetoric suggests—sets in. The best strategy, as always, may be patience."
-        }
-    ]
+    "id":  "pol-3",
+    "slug":  "election-uncertainty-markets",
+    "title":  "Election Year Uncertainty Rattles Market Confidence",
+    "category":  "Politics",
+    "date":  "October 20, 2025",
+    "views":  "15k",
+    "readTime":  "7 Mins",
+    "comments":  89,
+    "image":  "/images/news/politics-3.webp",
+    "tags":  [
+                 "Election",
+                 "Markets",
+                 "Uncertainty",
+                 "Campaign"
+             ],
+    "author":  {
+                   "name":  "James O\u0027Connor",
+                   "role":  "Financial Politics Reviewer",
+                   "postsCount":  56,
+                   "image":  "/images/authors/james.jpg",
+                   "bio":  "James sits at the intersection of Wall Street and Capitol Hill."
+               },
+    "content":  [
+                    {
+                        "type":  "intro",
+                        "text":  "As the election year approaches, market volatility has increased. Investors are closely watching campaign promises and polling data, trying to predict the regulatory landscape of the future."
+                    },
+                    {
+                        "type":  "paragraph",
+                        "hasDropCap":  true,
+                        "text":  "Wall Street hates uncertainty, and election years are the definition of uncertain. The VIX volatility index has spiked 15% in the last month alone as candidates trade barbs over tax policy, healthcare reform, and tech regulation. Every speech is dissected by algorithms and analysts alike, looking for clues on which sectors will flourish and which will face headwinds. The stark contrast between the leading candidates\u0027 economic platforms makes the stakes higher than usual."
+                    },
+                    {
+                        "type":  "heading",
+                        "level":  2,
+                        "text":  "Divergent Paths"
+                    },
+                    {
+                        "type":  "paragraph",
+                        "text":  "On one side, the incumbent is pushing for stability and a continuation of green energy subsidies. On the other, the challenger is promising radical deregulation and aggressive tax cuts. For energy companies, healthcare providers, and big tech, the difference is existential. \u0027It\u0027s binary,\u0027 notes portfolio manager Linda Grey. \u0027If A wins, solar is a buy. If B wins, oil is king. You can\u0027t hedge against a coin toss easily.\u0027"
+                    },
+                    {
+                        "type":  "paragraph",
+                        "text":  "Corporate spending has already started to slow. CEOs are delaying major capital projects until the political fog clears. This \u0027wait and see\u0027 approach threatens to dampen GDP growth in Q4, potentially creating a self-fulfilling prophecy of economic slowdown that could itself influence the election outcome."
+                    },
+                    {
+                        "type":  "quote",
+                        "text":  "The market is not a voting machine, it is a weighing machine. But in election years, it brings its own scale."
+                    },
+                    {
+                        "type":  "heading",
+                        "level":  2,
+                        "text":  "The Fed\u0027s Dilemma"
+                    },
+                    {
+                        "type":  "paragraph",
+                        "text":  "Caught in the middle is the Federal Reserve. Strictly non-political, the central bank nevertheless faces immense pressure. Any move to cut or raise rates in the months leading up to the vote will be politicized. If they cut, they are accused of juice the economy for the incumbent. If they hike, they are sabotaging growth. Chairman Powell has reiterated focusing solely on the data, but the optical minefield is treacherous."
+                    },
+                    {
+                        "type":  "heading",
+                        "level":  3,
+                        "text":  "Retail Investor Sentiment"
+                    },
+                    {
+                        "type":  "paragraph",
+                        "text":  "Retail investors, driven by social media and 24-hour news cycles, are reacting more emotionally than institutions. We are seeing massive swings in meme stocks and sectors linked to candidate popularity. This noise adds another layer of unpredictability to the market mechanics. Financial advisors are urging clients to stay the course and not make portfolio changes based on polls, but fear and greed are powerful motivators."
+                    },
+                    {
+                        "type":  "paragraph",
+                        "text":  "Regardless of the outcome, history shows that markets eventually adapt. The initial shock of a result usually fades as the reality of governance—which is often gridlocked and slower than campaign rhetoric suggests—sets in. The best strategy, as always, may be patience."
+                    }
+                ]
 }

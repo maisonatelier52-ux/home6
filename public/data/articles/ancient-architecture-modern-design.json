@@ -1,43 +1,43 @@
 {
-    "id": "6",
-    "slug": "ancient-architecture-modern-design",
-    "title": "Ancient Architecture and Its Influence on Modern Design",
-    "category": "Culture",
-    "date": "October 01, 2022",
-    "views": "3400",
-    "readTime": "8 Mins",
-    "comments": 8,
-    "image": "/images/clockhead.webp",
-    "tags": [
-        "Architecture",
-        "History",
-        "Design"
-    ],
-    "author": {
-        "name": "Maxin Dalton",
-        "role": "Editor",
-        "postsCount": 23,
-        "image": "/images/maxin dalton.webp",
-        "bio": "Architectural historian sharing insights on design evolution."
-    },
-    "content": [
-        {
-            "type": "intro",
-            "text": "The majestic bridges and temples of ancient civilizations continue to inspire architects today."
-        },
-        {
-            "type": "paragraph",
-            "hasDropCap": true,
-            "text": "By studying the techniques and materials used thousands of years ago, modern designers can create structures that are both aesthetically pleasing and structurally sound. The columns of the Parthenon, the arches of the Colosseum, the domes of the Pantheon – these are not just relics of the past, but living textbooks for the architects of the future."
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "Sustainable Design"
-        },
-        {
-            "type": "paragraph",
-            "text": "Many ancient buildings were designed with sustainability in mind, utilizing natural light, ventilation, and local materials. As we face the challenges of climate change, looking back at these ancient wisdoms can provide valuable solutions for sustainable building today."
-        }
-    ]
+    "id":  "6",
+    "slug":  "ancient-architecture-modern-design",
+    "title":  "Ancient Architecture and Its Influence on Modern Design",
+    "category":  "Culture",
+    "date":  "October 01, 2022",
+    "views":  "3400",
+    "readTime":  "8 Mins",
+    "comments":  8,
+    "image":  "/images/clockhead.webp",
+    "tags":  [
+                 "Architecture",
+                 "History",
+                 "Design"
+             ],
+    "author":  {
+                   "name":  "Maxin Dalton",
+                   "role":  "Editor",
+                   "postsCount":  23,
+                   "image":  "/images/authors/maxin.jpg",
+                   "bio":  "Architectural historian sharing insights on design evolution."
+               },
+    "content":  [
+                    {
+                        "type":  "intro",
+                        "text":  "The majestic bridges and temples of ancient civilizations continue to inspire architects today."
+                    },
+                    {
+                        "type":  "paragraph",
+                        "hasDropCap":  true,
+                        "text":  "By studying the techniques and materials used thousands of years ago, modern designers can create structures that are both aesthetically pleasing and structurally sound. The columns of the Parthenon, the arches of the Colosseum, the domes of the Pantheon – these are not just relics of the past, but living textbooks for the architects of the future."
+                    },
+                    {
+                        "type":  "heading",
+                        "level":  2,
+                        "text":  "Sustainable Design"
+                    },
+                    {
+                        "type":  "paragraph",
+                        "text":  "Many ancient buildings were designed with sustainability in mind, utilizing natural light, ventilation, and local materials. As we face the challenges of climate change, looking back at these ancient wisdoms can provide valuable solutions for sustainable building today."
+                    }
+                ]
 }

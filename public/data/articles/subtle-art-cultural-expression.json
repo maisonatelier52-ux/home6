@@ -1,47 +1,47 @@
 {
-    "id": "3",
-    "slug": "subtle-art-cultural-expression",
-    "title": "The Subtle Art of Cultural Expression in Modern Era",
-    "category": "Culture",
-    "date": "April 12, 2019",
-    "views": "1240",
-    "readTime": "6 Mins",
-    "comments": 2,
-    "image": "/images/car.webp",
-    "tags": [
-        "Art",
-        "Modern",
-        "Culture"
-    ],
-    "author": {
-        "name": "Maxin Dalton",
-        "role": "Editor",
-        "postsCount": 23,
-        "image": "/images/maxin dalton.webp",
-        "bio": "Exploring the intersection of art, history, and modern life."
-    },
-    "content": [
-        {
-            "type": "intro",
-            "text": "Deep within the heart of the city lies a secret garden that only the locals know. It's a place where time seems to stand still."
-        },
-        {
-            "type": "paragraph",
-            "hasDropCap": true,
-            "text": "The air is filled with the scent of blooming flowers and the gentle rustle of leaves. It was here that I first understood the true meaning of cultural preservation. In a world that moves so fast, taking a moment to appreciate the subtle details of our heritage is more important than ever."
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "Modern Interpretations"
-        },
-        {
-            "type": "paragraph",
-            "text": "Artists today are finding new ways to reinterpret traditional themes. From street art that mimics ancient calligraphy to digital installations that tell age-old stories, the past is very much alive in the present."
-        },
-        {
-            "type": "quote",
-            "text": "Art is not a mirror held up to reality but a hammer with which to shape it."
-        }
-    ]
+    "id":  "3",
+    "slug":  "subtle-art-cultural-expression",
+    "title":  "The Subtle Art of Cultural Expression in Modern Era",
+    "category":  "Culture",
+    "date":  "April 12, 2019",
+    "views":  "1240",
+    "readTime":  "6 Mins",
+    "comments":  2,
+    "image":  "/images/car.webp",
+    "tags":  [
+                 "Art",
+                 "Modern",
+                 "Culture"
+             ],
+    "author":  {
+                   "name":  "Maxin Dalton",
+                   "role":  "Editor",
+                   "postsCount":  23,
+                   "image":  "/images/authors/maxin.jpg",
+                   "bio":  "Exploring the intersection of art, history, and modern life."
+               },
+    "content":  [
+                    {
+                        "type":  "intro",
+                        "text":  "Deep within the heart of the city lies a secret garden that only the locals know. It\u0027s a place where time seems to stand still."
+                    },
+                    {
+                        "type":  "paragraph",
+                        "hasDropCap":  true,
+                        "text":  "The air is filled with the scent of blooming flowers and the gentle rustle of leaves. It was here that I first understood the true meaning of cultural preservation. In a world that moves so fast, taking a moment to appreciate the subtle details of our heritage is more important than ever."
+                    },
+                    {
+                        "type":  "heading",
+                        "level":  2,
+                        "text":  "Modern Interpretations"
+                    },
+                    {
+                        "type":  "paragraph",
+                        "text":  "Artists today are finding new ways to reinterpret traditional themes. From street art that mimics ancient calligraphy to digital installations that tell age-old stories, the past is very much alive in the present."
+                    },
+                    {
+                        "type":  "quote",
+                        "text":  "Art is not a mirror held up to reality but a hammer with which to shape it."
+                    }
+                ]
 }
