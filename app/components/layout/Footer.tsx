@@ -84,19 +84,19 @@ export default function Footer() {
 
                     {/* Meta */}
                     <div className="flex flex-col gap-6">
-                        <h3 className="text-white text-md font-bold font-serif">Meta</h3>
+                        <h3 className="text-white text-md font-bold font-serif"></h3>
                         <div className="flex flex-col divide-y divide-gray-800 text-sm">
-                            <Link href="/login" className="py-3 flex items-center gap-2 hover:underline group">
-                                <span className="text-gray-500 group-hover:text-white">»</span> Log in
+                            <Link href="/about-us" className="py-3 flex items-center gap-2 hover:underline group">
+                                <span className="text-gray-500 group-hover:text-white">»</span> About Us
                             </Link>
-                            <Link href="/feed" className="py-3 flex items-center gap-2 hover:underline group">
-                                <span className="text-gray-500 group-hover:text-white">»</span> Entries feed
+                            <Link href="/authors" className="py-3 flex items-center gap-2 hover:underline group">
+                                <span className="text-gray-500 group-hover:text-white">»</span> Authors
                             </Link>
-                            <Link href="/comments" className="py-3 flex items-center gap-2 hover:underline group">
-                                <span className="text-gray-500 group-hover:text-white">»</span> Comments feed
+                            <Link href="/privacy-policy" className="py-3 flex items-center gap-2 hover:underline group">
+                                <span className="text-gray-500 group-hover:text-white">»</span> Privacy Policy
                             </Link>
-                            <Link href="https://wordpress.org" className="py-3 flex items-center gap-2 hover:underline group">
-                                <span className="text-gray-500 group-hover:text-white">»</span> WordPress.org
+                            <Link href="/terms-conditions" className="py-3 flex items-center gap-2 hover:underline group">
+                                <span className="text-gray-500 group-hover:text-white">»</span> Terms & Conditions
                             </Link>
                         </div>
                     </div>
