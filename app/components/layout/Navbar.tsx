@@ -38,50 +38,29 @@ export default function Navbar() {
             href: '/',
         },
         {
-            label: 'CATEGORY',
-            href: '#',
-            hasDropdown: true,
-            dropdownItems: [
-                { label: 'POLITICS', href: '/category/politics' },
-                { label: 'MARKETS', href: '/category/markets' },
-                { label: 'BUSINESS', href: '/category/business' },
-                { label: 'FINANCE', href: '/category/finance' },
-                { label: 'TECH', href: '/category/tech' },
-                { label: 'WEALTH', href: '/category/wealth' },
-            ]
+            label: 'POLITICS',
+            href: '/category/politics',
         },
         {
-            label: 'TAGS LAYOUT',
-            href: '#',
-            hasDropdown: true,
-            dropdownItems: [
-                { label: 'TAG LIST', href: '#' },
-                { label: 'TAG CLOUD', href: '#' },
-            ]
+            label: 'MARKETS',
+            href: '/category/markets',
         },
         {
-            label: 'POST STYLES',
-            href: '#',
-            hasDropdown: true,
-            dropdownItems: [
-                { label: 'STANDARD POST', href: '#' },
-                { label: 'VIDEO POST', href: '#' },
-                { label: 'AUDIO POST', href: '#' },
-                { label: 'GALLERY POST', href: '#' },
-            ]
+            label: 'BUSINESS',
+            href: '/category/business',
         },
-        { label: 'MODULE', href: '#' },
         {
-            label: 'CPT',
-            href: '#',
-            hasDropdown: true,
-            dropdownItems: [
-                { label: 'OUR TEAM', href: '#' },
-                { label: 'TESTIMONIALS', href: '#' },
-                { label: 'SERVICES', href: '#' },
-            ]
+            label: 'FINANCE',
+            href: '/category/finance',
         },
-        { label: '404', href: '#' },
+        {
+            label: 'TECH',
+            href: '/category/tech',
+        },
+        {
+            label: 'WEALTH',
+            href: '/category/wealth',
+        },
     ];
 
     // Helper to check if a main nav item or any of its dropdown items is active
