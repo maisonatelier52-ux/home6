@@ -18,14 +18,14 @@ import Footer from "./components/layout/Footer";
 import StructuredData from "./components/StructuredData";
 
 export const metadata: Metadata = {
-  title: "The Quest for Profit | Financial News, Market Analysis & Insights",
-  description: "Master your money with The Quest for Profit. We deliver expert market analysis, global economic insights, and premium wealth management strategies for modern investors.",
+  title: "The Quest for Profit: The #1 Ultimate Source for Financial News",
+  description: "Master your money with The Quest for Profit. Get the #1 ultimate source for market analysis, economic insights, and proven wealth strategies.",
   keywords: ["The Quest for Profit", "TQFP", "financial news", "market analysis", "investment insights", "wealth management", "business trends"],
   alternates: {
     canonical: "https://www.thequestforprofit.com",
   },
   openGraph: {
-    title: "The Quest for Profit | Financial News & Market Analysis",
+    title: "The Quest for Profit: The #1 Ultimate Source for Financial News",
     description: "Expert insights on finance, markets, technology, and global economics.",
     url: "https://www.thequestforprofit.com",
     siteName: "The Quest for Profit",
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "The Quest for Profit | Financial News & Market Analysis",
+    title: "The Quest for Profit: The #1 Ultimate Source for Financial News",
     description: "Expert insights on finance, markets, technology, and global economics.",
     site: "@thequestforprofit",
   },
@@ -42,6 +42,7 @@ export const metadata: Metadata = {
 export default function Home() {
   return (
     <div className="min-h-screen bg-white">
+      <h1 className="sr-only">The Quest for Profit: The #1 Ultimate Source for Financial News</h1>
       <StructuredData />
       <Header />
       <Navbar />
