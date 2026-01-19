@@ -1,10 +1,16 @@
 "use client";
 
 import React from 'react';
+import Link from 'next/link';
 import { Zap } from 'lucide-react';
 
+interface NewsTickerItem {
+    title: string;
+    slug: string;
+}
+
 interface NewsTickerProps {
-    items: string[];
+    items: NewsTickerItem[];
 }
 
 export default function NewsTicker({ items }: NewsTickerProps) {
@@ -25,9 +31,12 @@ export default function NewsTicker({ items }: NewsTickerProps) {
                     <div className="flex animate-marquee whitespace-nowrap py-2 h-full items-center">
                         {displayItems.map((item, index) => (
                             <React.Fragment key={index}>
-                                <span className="text-xs font-semibold text-gray-700 cursor-pointer hover:underline hover:text-red-700 transition-colors px-4">
-                                    {item}
-                                </span>
+                                <Link
+                                    href={`/article/${item.slug}`}
+                                    className="text-xs font-semibold text-gray-700 hover:underline hover:text-red-700 transition-colors px-4"
+                                >
+                                    {item.title}
+                                </Link>
                                 {index !== displayItems.length - 1 && (
                                     <span className="text-gray-300">|</span>
                                 )}

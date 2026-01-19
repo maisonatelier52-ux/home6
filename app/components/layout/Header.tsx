@@ -6,11 +6,13 @@ import NewsTicker from './NewsTicker';
 
 export default function Header() {
     const tickerItems = [
-        "Timmediately quail was inverse much so remade dimly...",
-        "Unanimous haltered loud one trod trigly style four",
-        "Incongruous jeepers jellyfish one far Well",
-        "Hoically quizzical far impala heroic a passably and through",
-        "Direct trade ihil adipisicin thundercats viral helvetica"
+        { title: "Generative AI: Moving Beyond the Hype to Enterprise Reality", slug: "generative-ai-the-next-frontier" },
+        { title: "Trade Policy Shifts: Impact on Asian Markets", slug: "trade-policy-shifts-asia" },
+        { title: "Federal Reserve Signals Slower Rate Cuts for 2026", slug: "fed-interest-rate-outlook" },
+        { title: "Tech Stocks Rally as AI Adoption Accelerates", slug: "tech-stocks-rally-ai" },
+        { title: "Quantum Computing Breakthrough: IBM and Google Race Ahead", slug: "quantum-computing-breakthrough-google-ibm" },
+        { title: "Sustainable Supply Chains: The New Corporate Mandate", slug: "sustainable-supply-chain-leaders" },
+        { title: "Global Summit Addresses Rising Inflation Concerns", slug: "global-summit-inflation-concerns" }
     ];
 
     return (
