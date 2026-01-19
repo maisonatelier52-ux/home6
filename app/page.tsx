@@ -55,8 +55,9 @@ export default function Home() {
       <Navbar />
 
       <div className="max-w-6xl mx-auto ">
-       
 
+
+        <h2 className="sr-only">Latest Highlights</h2>
         <TextNewsGrid items={textNewsData.textNews} />
 
         <FeatureWithSidebar
@@ -78,7 +79,7 @@ export default function Home() {
 
         <NewsSectionV2 data={newsV2Data} />
 
-         <div className=" mb-8">
+        <div className=" mb-8">
           <h2 className="text-2xl font-bold font-serif text-gray-900 mb-2 uppercase tracking-wide">
             The Quest for Profit: Market Analysis & Financial News
           </h2>

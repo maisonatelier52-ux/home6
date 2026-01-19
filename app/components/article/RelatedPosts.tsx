@@ -18,9 +18,9 @@ export default function RelatedPosts({ posts }: RelatedPostsProps) {
 
     return (
         <div className="pt-4 border-t border-gray-200 mt-0">
-            <h3 className="text-lg font-bold font-serif text-gray-900 mb-6">
+            <h2 className="text-lg font-bold font-serif text-gray-900 mb-6">
                 Related Post
-            </h3>
+            </h2>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
                 {posts.map((post) => (
@@ -33,9 +33,9 @@ export default function RelatedPosts({ posts }: RelatedPostsProps) {
                             />
                         </div>
 
-                        <h4 className="font-serif font-bold text-md leading-tight text-gray-900 group-hover:text-red-600 transition-colors mb-4 line-clamp-3">
+                        <h3 className="font-serif font-bold text-md leading-tight text-gray-900 group-hover:text-red-600 transition-colors mb-4 line-clamp-3">
                             {post.title}
-                        </h4>
+                        </h3>
 
                         <div className="text-xs text-gray-500 font-sans font-bold ">
                             <span className="text-black">{post.author || 'Maxin Dalton'}</span>

@@ -128,9 +128,9 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
                                         />
                                     </div>
                                     <div className="flex-1">
-                                        <h4 className="text-[14px] font-bold font-serif leading-snug group-hover:underline">
+                                        <h3 className="text-[14px] font-bold font-serif leading-snug group-hover:underline">
                                             {post.title}
-                                        </h4>
+                                        </h3>
                                         <span className="text-[10px] text-gray-500 mt-2 block">{post.date}</span>
                                     </div>
                                 </Link>

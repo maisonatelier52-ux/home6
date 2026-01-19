@@ -34,7 +34,7 @@ export default function Footer() {
 
                     {/* About Us */}
                     <div className="flex flex-col gap-6">
-                        <h3 className="text-white text-md font-bold font-serif">About Us</h3>
+                        <h2 className="text-white text-md font-bold font-serif">About Us</h2>
                         <div className="flex flex-col gap-4 text-sm leading-relaxed text-gray-400">
                             <p>
                                 <strong>The Quest for Profit</strong> is your ultimate source for the latest <strong>financial news</strong>, providing expert <strong>market analysis</strong> and deep <strong>insights</strong> into global economics.
@@ -47,7 +47,7 @@ export default function Footer() {
 
                     {/* Tag Cloud */}
                     <div className="flex flex-col gap-6">
-                        <h3 className="text-white text-md font-bold font-serif">Tag Cloud</h3>
+                        <h2 className="text-white text-md font-bold font-serif">Tag Cloud</h2>
                         <div className="flex flex-wrap gap-2">
                             {tags.map((tag, index) => (
                                 <Link
@@ -64,7 +64,7 @@ export default function Footer() {
 
                     {/* Hot News */}
                     <div className="flex flex-col gap-6">
-                        <h3 className="text-white text-md font-bold font-serif">Hot News</h3>
+                        <h2 className="text-white text-md font-bold font-serif">Hot News</h2>
                         <div className="flex flex-col divide-y divide-gray-800">
                             {hotNews.map((news, index) => (
                                 <div key={index} className="flex gap-4 py-4 first:pt-0 group">
@@ -74,9 +74,9 @@ export default function Footer() {
                                     </div>
                                     <div className="w-[1px] bg-gray-800 h-10 self-center"></div>
                                     <Link href={`/article/${news.slug}`} title={news.title}>
-                                        <h4 className="text-sm font-bold leading-snug group-hover:underline text-gray-300 transition-colors">
+                                        <h3 className="text-sm font-bold leading-snug group-hover:underline text-gray-300 transition-colors">
                                             {news.title}
-                                        </h4>
+                                        </h3>
                                     </Link>
                                 </div>
                             ))}
@@ -85,7 +85,7 @@ export default function Footer() {
 
                     {/* Meta */}
                     <div className="flex flex-col gap-6">
-                        <h3 className="text-white text-md font-bold font-serif"></h3>
+                        <h2 className="text-white text-md font-bold font-serif"></h2>
                         <div className="flex flex-col divide-y divide-gray-800 text-sm">
                             <Link href="/about-us" title="About Us" className="py-3 flex items-center gap-2 hover:underline group">
                                 <span className="text-gray-500 group-hover:text-white">»</span> About Us
