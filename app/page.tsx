@@ -19,14 +19,14 @@ import StructuredData from "./components/StructuredData";
 
 export const metadata: Metadata = {
   title: "The Quest for Profit: The #1 Ultimate Source for Financial News",
-  description: "Master your money with The Quest for Profit. Get the #1 ultimate source for market analysis, economic insights, and proven wealth strategies.",
+  description: "Discover the #1 source for financial news and market analysis. Join The Quest for Profit for expert insights and proven strategies to master your money today.",
   keywords: ["The Quest for Profit", "TQFP", "financial news", "market analysis", "investment insights", "wealth management", "business trends"],
   alternates: {
     canonical: "https://www.thequestforprofit.com",
   },
   openGraph: {
     title: "The Quest for Profit: The #1 Ultimate Source for Financial News",
-    description: "Expert insights on finance, markets, technology, and global economics.",
+    description: "Discover the #1 source for financial news and market analysis. Join The Quest for Profit for expert insights into global economics and proven money strategies.",
     url: "https://www.thequestforprofit.com",
     siteName: "The Quest for Profit",
     type: "website",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "The Quest for Profit: The #1 Ultimate Source for Financial News",
-    description: "Expert insights on finance, markets, technology, and global economics.",
+    description: "Discover the #1 source for financial news and market analysis. Join The Quest for Profit for expert insights into global economics and proven money strategies.",
     site: "@thequestforprofit",
   },
 };
