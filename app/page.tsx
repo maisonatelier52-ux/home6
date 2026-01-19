@@ -1,3 +1,4 @@
+import { Metadata } from "next";
 import Header from "./components/layout/Header";
 import Navbar from "./components/layout/Navbar";
 import TextNewsGrid from "./components/TextNewsGrid";
@@ -14,10 +15,28 @@ import NewsSectionThreeCols from "./components/NewsSectionThreeCols";
 import NewsSectionV2 from "./components/NewsSectionV2";
 import NewsSectionFiveCols from "./components/NewsSectionFiveCols";
 import Footer from "./components/layout/Footer";
+import StructuredData from "./components/StructuredData";
 
+export const metadata: Metadata = {
+  title: "TQFP | Financial News, Market Analysis & Investment Insights",
+  description: "Your premier source for global economic analysis, market intelligence, and wealth management strategies. Get expert insights on finance, politics, technology, and business trends.",
+  keywords: ["financial news", "market analysis", "investment insights", "economic analysis", "wealth management", "business news", "tech news", "politics"],
+  openGraph: {
+    title: "TQFP | Financial News & Market Analysis",
+    description: "Expert insights on finance, markets, technology, and global economics.",
+    type: "website",
+    locale: "en_US",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "TQFP | Financial News & Market Analysis",
+    description: "Expert insights on finance, markets, technology, and global economics.",
+  },
+};
 export default function Home() {
   return (
     <div className="min-h-screen bg-white">
+      <StructuredData />
       <Header />
       <Navbar />
 

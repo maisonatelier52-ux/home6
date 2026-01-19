@@ -10,6 +10,36 @@ interface CategoryPageProps {
     params: Promise<{ slug: string }>;
 }
 
+export async function generateMetadata({ params }: CategoryPageProps) {
+    const { slug } = await params;
+    const lowerSlug = slug.toLowerCase();
+
+    const categories = categoriesData as Record<string, { title: string; count: number; description: string }>;
+    const category = categories[lowerSlug];
+
+    if (!category) {
+        return {
+            title: 'Category Not Found | TQFP',
+        };
+    }
+
+    return {
+        title: `${category.title} News | TQFP`,
+        description: category.description,
+        keywords: [category.title.toLowerCase(), "news", "analysis", "insights", "TQFP"],
+        openGraph: {
+            title: `${category.title} News | TQFP`,
+            description: category.description,
+            type: 'website',
+        },
+        twitter: {
+            card: 'summary_large_image',
+            title: `${category.title} News | TQFP`,
+            description: category.description,
+        },
+    };
+}
+
 export default async function CategoryPage({ params }: CategoryPageProps) {
     const { slug } = await params;
     const lowerSlug = slug.toLowerCase();

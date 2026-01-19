@@ -13,10 +13,54 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TQFP | Financial Insights & Market Analysis",
+  metadataBase: new URL('https://www.thequestforprofit.com'),
+  title: {
+    default: "TQFP | Financial Insights & Market Analysis",
+    template: "%s | TQFP"
+  },
   description: "Your ultimate destination for business, finance, and wealth management insights. High-authority news for the modern investor.",
+  keywords: ["financial news", "market analysis", "investment", "business", "finance", "wealth management", "economics", "politics", "technology"],
+  authors: [{ name: "TQFP Editorial Team" }],
+  creator: "TQFP",
+  publisher: "The Quest for Profit",
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
   icons: {
     icon: "/images/favicon-TQFP2.svg",
+  },
+  openGraph: {
+    type: 'website',
+    locale: 'en_US',
+    url: 'https://www.thequestforprofit.com',
+    siteName: 'The Quest for Profit',
+    title: 'The Quest for Profit | Financial Insights & Market Analysis',
+    description: 'Your ultimate destination for business, finance, and wealth management insights.',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'TQFP | Financial Insights & Market Analysis',
+    description: 'Your ultimate destination for business, finance, and wealth management insights.',
+    creator: '@tqfp',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  verification: {
+    // Add your verification codes here when you have them
+    // google: 'your-google-verification-code',
+    // yandex: 'your-yandex-verification-code',
+    // bing: 'your-bing-verification-code',
   },
 };
 
