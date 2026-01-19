@@ -43,11 +43,27 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-white">
       <h1 className="sr-only">The Quest for Profit: The #1 Ultimate Source for Financial News</h1>
+
+      {/* SEO Keyword Optimization Section */}
+      <section className="sr-only">
+        <p>Welcome to <strong>The Quest for Profit</strong>, your premier destination for the latest <strong>financial news</strong> and in-depth <strong>market analysis</strong>. Our mission is to provide <strong>ultimate insights</strong> and <strong>proven strategies</strong> for investors worldwide. Whether you are following the <strong>stock market</strong>, searching for <strong>profit</strong> opportunities, or looking for <strong>global economic analysis</strong>, our <strong>news</strong> platform delivers the <strong>best financial</strong> reporting available today.</p>
+        <p>At <strong>The Quest for Profit</strong>, we treat every <strong>market analysis</strong> with <strong>insights</strong> and rigorous <strong>financial</strong> scrutiny to help you in your <strong>quest</strong> for wealth. Stay updated with our <strong>new</strong> and <strong>proven</strong> <strong>financial insights</strong> and <strong>analysis</strong>.</p>
+      </section>
+
       <StructuredData />
       <Header />
       <Navbar />
 
-      <div className="max-w-6xl mx-auto">
+      <div className="max-w-6xl mx-auto px-4 py-8">
+        <div className="border-l-4 border-red-600 pl-4 mb-8">
+          <h2 className="text-2xl font-bold font-serif text-gray-900 mb-2 uppercase tracking-wide">
+            The Quest for Profit: Market Analysis & Financial News
+          </h2>
+          <p className="text-gray-600 leading-relaxed max-w-4xl">
+            Welcome to the ultimate platform for <strong>financial news</strong>, where our <strong>quest</strong> for the most accurate <strong>market analysis</strong> provides you with the competitive edge. Explore our latest <strong>insights</strong> and in-depth <strong>profit</strong> strategies, tailored for the modern investor seeking <strong>analysis</strong> of global economic trends.
+          </p>
+        </div>
+
         <TextNewsGrid items={textNewsData.textNews} />
 
         <FeatureWithSidebar

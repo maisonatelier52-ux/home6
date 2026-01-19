@@ -6,8 +6,8 @@ import { ChevronUp } from 'lucide-react';
 
 export default function Footer() {
     const tags = [
-        "Art and Culture", "best", "Best theme", "brunch", "Business", "Entertainment",
-        "Magazine", "Mother Nature", "Musical", "NewsCommerce", "Newspaper", "Politics"
+        "Financial News", "Market Analysis", "Stock Insights", "Investment", "Business", "Politics",
+        "Quest for Profit", "Wealth Strategies", "Economics", "Tech Trends", "Global News", "Analysis"
     ];
 
     const hotNews = [
@@ -37,10 +37,10 @@ export default function Footer() {
                         <h3 className="text-white text-md font-bold font-serif">About Us</h3>
                         <div className="flex flex-col gap-4 text-sm leading-relaxed text-gray-400">
                             <p>
-                                The Quest for Profit is your premier source for global economic analysis, market intelligence, and wealth management strategies.
+                                <strong>The Quest for Profit</strong> is your ultimate source for the latest <strong>financial news</strong>, providing expert <strong>market analysis</strong> and deep <strong>insights</strong> into global economics.
                             </p>
                             <p>
-                                We bridge the gap between complex algorithms and business outcomes, providing the clarity needed to navigate the modern financial landscape.
+                                Our <strong>quest</strong> is to deliver rigorously researched <strong>analysis</strong> and <strong>proven financial insights</strong> to help you navigate the path to <strong>profit</strong>.
                             </p>
                         </div>
                     </div>
