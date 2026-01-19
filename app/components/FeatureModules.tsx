@@ -59,7 +59,7 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
                                 <div className="md:col-span-2">
                                     <span className="text-[10px] font-bold uppercase text-black mb-2 block">{article.category}</span>
                                     <Link href={`/article/${article.slug}`}>
-                                        <h3 className="text-md md:text-lg font-bold font-serif leading-tight hover:underline">
+                                        <h3 className="text-md md:text-lg text-gray-900 font-bold font-serif leading-tight hover:underline">
                                             {article.title}
                                         </h3>
                                     </Link>
