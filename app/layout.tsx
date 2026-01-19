@@ -15,13 +15,13 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.thequestforprofit.com'),
   title: {
-    default: "TQFP | Financial Insights & Market Analysis",
-    template: "%s | TQFP"
+    default: "The Quest for Profit | Financial Insights & Market Analysis",
+    template: "%s | The Quest for Profit"
   },
   description: "Your ultimate destination for business, finance, and wealth management insights. High-authority news for the modern investor.",
-  keywords: ["financial news", "market analysis", "investment", "business", "finance", "wealth management", "economics", "politics", "technology"],
-  authors: [{ name: "TQFP Editorial Team" }],
-  creator: "TQFP",
+  keywords: ["The Quest for Profit", "TQFP", "financial news", "market analysis", "investment", "business", "finance", "wealth management"],
+  authors: [{ name: "The Quest for Profit Editorial Team" }],
+  creator: "The Quest for Profit",
   publisher: "The Quest for Profit",
   formatDetection: {
     email: false,
@@ -41,9 +41,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'TQFP | Financial Insights & Market Analysis',
+    title: 'The Quest for Profit | Financial Insights & Market Analysis',
     description: 'Your ultimate destination for business, finance, and wealth management insights.',
-    creator: '@tqfp',
+    creator: '@thequestforprofit',
   },
   robots: {
     index: true,

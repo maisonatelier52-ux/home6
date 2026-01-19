@@ -5,7 +5,7 @@ import Footer from "../components/layout/Footer";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-    title: "Our Authors | TQFP",
+    title: "Our Authors | The Quest for Profit",
     description: "Meet the expert journalists and contributors behind The Quest for Profit's in-depth financial analysis and market insights.",
 };
 

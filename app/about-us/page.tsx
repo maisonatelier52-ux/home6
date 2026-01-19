@@ -5,7 +5,7 @@ import Navbar from "../components/layout/Navbar";
 import Footer from "../components/layout/Footer";
 
 export const metadata: Metadata = {
-    title: "About Us | TQFP",
+    title: "About Us | The Quest for Profit",
     description: "Learn about The Quest for Profit - your premier source for global economic analysis, market intelligence, and wealth management strategies.",
 };
 
@@ -35,7 +35,7 @@ export default function AboutUsPage() {
                                     Through market upheavals, global crises, and technological revolutions, we've remained steadfast in our mission: to inform and empower our audience with reliable, well-researched journalism that cuts through the noise.
                                 </p>
                                 <p className="text-lg md:text-xl font-semibold text-red-600 pt-4">
-                                    At TQFP, we don't just report the news — we help you understand what it means for your money, your future, and the world economy.
+                                    At The Quest for Profit, we don't just report the news — we help you understand what it means for your money, your future, and the world economy.
                                 </p>
                             </div>
                         </div>

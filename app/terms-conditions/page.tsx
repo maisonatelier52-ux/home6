@@ -4,7 +4,7 @@ import Navbar from "../components/layout/Navbar";
 import Footer from "../components/layout/Footer";
 
 export const metadata: Metadata = {
-    title: "Terms & Conditions | TQFP",
+    title: "Terms & Conditions | The Quest for Profit",
     description: "Read the terms and conditions for using The Quest for Profit website and services.",
 };
 
@@ -139,7 +139,7 @@ export default function TermsConditionsPage() {
                             </p>
                             <ul className="list-disc pl-8 space-y-2 text-base md:text-lg text-gray-700">
                                 <li>News content may be updated or corrected as new information becomes available</li>
-                                <li>Opinions expressed in opinion pieces are those of the authors, not necessarily TQFP</li>
+                                <li>Opinions expressed in opinion pieces are those of the authors, not necessarily The Quest for Profit</li>
                                 <li>We make reasonable efforts to verify information but cannot guarantee absolute accuracy</li>
                                 <li>Breaking news may contain preliminary information subject to change</li>
                             </ul>

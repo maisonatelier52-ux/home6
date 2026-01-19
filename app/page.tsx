@@ -18,19 +18,25 @@ import Footer from "./components/layout/Footer";
 import StructuredData from "./components/StructuredData";
 
 export const metadata: Metadata = {
-  title: "TQFP | Financial News, Market Analysis & Investment Insights",
-  description: "Your premier source for global economic analysis, market intelligence, and wealth management strategies. Get expert insights on finance, politics, technology, and business trends.",
-  keywords: ["financial news", "market analysis", "investment insights", "economic analysis", "wealth management", "business news", "tech news", "politics"],
+  title: "The Quest for Profit | Financial News, Market Analysis & Insights",
+  description: "Master your money with The Quest for Profit. We deliver expert market analysis, global economic insights, and premium wealth management strategies for modern investors.",
+  keywords: ["The Quest for Profit", "TQFP", "financial news", "market analysis", "investment insights", "wealth management", "business trends"],
+  alternates: {
+    canonical: "https://www.thequestforprofit.com",
+  },
   openGraph: {
-    title: "TQFP | Financial News & Market Analysis",
+    title: "The Quest for Profit | Financial News & Market Analysis",
     description: "Expert insights on finance, markets, technology, and global economics.",
+    url: "https://www.thequestforprofit.com",
+    siteName: "The Quest for Profit",
     type: "website",
     locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
-    title: "TQFP | Financial News & Market Analysis",
+    title: "The Quest for Profit | Financial News & Market Analysis",
     description: "Expert insights on finance, markets, technology, and global economics.",
+    site: "@thequestforprofit",
   },
 };
 export default function Home() {

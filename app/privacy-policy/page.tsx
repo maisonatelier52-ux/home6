@@ -4,7 +4,7 @@ import Navbar from "../components/layout/Navbar";
 import Footer from "../components/layout/Footer";
 
 export const metadata: Metadata = {
-    title: "Privacy Policy | TQFP",
+    title: "Privacy Policy | The Quest for Profit",
     description: "Learn how The Quest for Profit collects, uses, and protects your personal information.",
 };
 
