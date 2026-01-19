@@ -58,12 +58,12 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
                             <div key={index} className="grid grid-cols-1 md:grid-cols-5 gap-8 border-b border-gray-300 pb-4">
                                 <div className="md:col-span-2">
                                     <span className="text-[10px] font-bold uppercase text-black mb-2 block">{article.category}</span>
-                                    <Link href={`/article/${article.slug}`}>
+                                    <Link href={`/article/${article.slug}`} title={article.title}>
                                         <h3 className="text-md md:text-lg text-gray-900 font-bold font-serif leading-tight hover:underline">
                                             {article.title}
                                         </h3>
                                     </Link>
-                                    <Link href={`/article/${article.slug}`} className="text-[11px] font-bold uppercase mt-4 block hover:text-red-600">
+                                    <Link href={`/article/${article.slug}`} title={`View all ${article.category} posts`} className="text-[11px] font-bold uppercase mt-4 block hover:text-red-600">
                                         See all Posts →
                                     </Link>
                                 </div>
@@ -107,7 +107,7 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
                                 </p>
                                 <div className="flex gap-4">
                                     {module10.editor.social.map((s, i) => (
-                                        <Link key={i} href={s.url} className="text-white hover:text-red-600 transition-colors">
+                                        <Link key={i} href={s.url} title={s.platform} className="text-white hover:text-red-600 transition-colors">
                                             {s.platform === 'twitter' && <Twitter size={18} fill="currentColor" />}
                                             {s.platform === 'facebook' && <Facebook size={18} fill="currentColor" />}
                                             {s.platform === 'youtube' && <Youtube size={18} />}
@@ -119,7 +119,7 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
 
                         <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-8 mt-2 pt-2 border-t border-gray-800">
                             {module10.recentPosts.map((post, index) => (
-                                <Link key={index} href={`/article/${post.slug}`} className="group flex gap-4 items-start">
+                                <Link key={index} href={`/article/${post.slug}`} title={post.title} className="group flex gap-4 items-start">
                                     <div className="w-20 h-20 flex-shrink-0 bg-gray-800">
                                         <img
                                             src={post.image}

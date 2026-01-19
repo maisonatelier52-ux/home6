@@ -43,7 +43,7 @@ export default function Header() {
                     {/* Center Logo */}
                     <div className="flex-1 text-center">
 
-                        <Link href="/" className="inline-block py-0">
+                        <Link href="/" title="The Quest for Profit Home" className="inline-block py-0">
                             <img
                                 src="/images/logo-TQFP.svg"
                                 alt="The Quest for Profit"

@@ -54,15 +54,8 @@ export default function Home() {
       <Header />
       <Navbar />
 
-      <div className="max-w-6xl mx-auto px-4 py-8">
-        <div className="border-l-4 border-red-600 pl-4 mb-8">
-          <h2 className="text-2xl font-bold font-serif text-gray-900 mb-2 uppercase tracking-wide">
-            The Quest for Profit: Market Analysis & Financial News
-          </h2>
-          <p className="text-gray-600 leading-relaxed max-w-4xl">
-            Welcome to the ultimate platform for <strong>financial news</strong>, where our <strong>quest</strong> for the most accurate <strong>market analysis</strong> provides you with the competitive edge. Explore our latest <strong>insights</strong> and in-depth <strong>profit</strong> strategies, tailored for the modern investor seeking <strong>analysis</strong> of global economic trends.
-          </p>
-        </div>
+      <div className="max-w-6xl mx-auto ">
+       
 
         <TextNewsGrid items={textNewsData.textNews} />
 
@@ -84,6 +77,15 @@ export default function Home() {
         <NewsSectionThreeCols data={threeColData} />
 
         <NewsSectionV2 data={newsV2Data} />
+
+         <div className=" mb-8">
+          <h2 className="text-2xl font-bold font-serif text-gray-900 mb-2 uppercase tracking-wide">
+            The Quest for Profit: Market Analysis & Financial News
+          </h2>
+          <p className="text-gray-600 leading-relaxed max-w-4xl">
+            Welcome to the ultimate platform for <strong>financial news</strong>, where our <strong>quest</strong> for the most accurate <strong>market analysis</strong> provides you with the competitive edge. Explore our latest <strong>insights</strong> and in-depth <strong>profit</strong> strategies, tailored for the modern investor seeking <strong>analysis</strong> of global economic trends.
+          </p>
+        </div>
 
         <NewsSectionFiveCols data={newsFiveColData} />
       </div>

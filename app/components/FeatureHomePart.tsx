@@ -89,6 +89,7 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                             <p className="mb-4">{hero.excerptPart2}</p>
                             <Link
                                 href={`/article/${hero.slug}`}
+                                title={hero.title}
                                 className="inline-flex items-center text-[11px] font-bold uppercase text-black hover:text-[#e43b3b] transition-colors mt-2"
                             >
                                 Read the Post <span className="ml-1">→</span>
@@ -106,6 +107,7 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                             <Link
                                 key={item.id}
                                 href={`/article/${item.slug}`}
+                                title={item.title}
                                 className={`group flex items-start gap-4 py-4`}
                             >
                                 <div className="w-[50px] h-[60px] flex-shrink-0 overflow-hidden bg-gray-100 relative">

@@ -53,6 +53,7 @@ export default function Footer() {
                                 <Link
                                     key={index}
                                     href={`/tag/${tag.toLowerCase().replace(/ /g, '-')}`}
+                                    title={tag}
                                     className="px-3 py-1.5 border border-gray-800 text-[11px] uppercase tracking-wider hover:bg-white hover:text-black hover:border-white transition-all underline-offset-4 hover:underline"
                                 >
                                     {tag}
@@ -72,7 +73,7 @@ export default function Footer() {
                                         <span className="text-gray-400 font-bold">{news.author}</span>
                                     </div>
                                     <div className="w-[1px] bg-gray-800 h-10 self-center"></div>
-                                    <Link href={`/article/${news.slug}`}>
+                                    <Link href={`/article/${news.slug}`} title={news.title}>
                                         <h4 className="text-sm font-bold leading-snug group-hover:underline text-gray-300 transition-colors">
                                             {news.title}
                                         </h4>
@@ -86,16 +87,16 @@ export default function Footer() {
                     <div className="flex flex-col gap-6">
                         <h3 className="text-white text-md font-bold font-serif"></h3>
                         <div className="flex flex-col divide-y divide-gray-800 text-sm">
-                            <Link href="/about-us" className="py-3 flex items-center gap-2 hover:underline group">
+                            <Link href="/about-us" title="About Us" className="py-3 flex items-center gap-2 hover:underline group">
                                 <span className="text-gray-500 group-hover:text-white">»</span> About Us
                             </Link>
-                            <Link href="/authors" className="py-3 flex items-center gap-2 hover:underline group">
+                            <Link href="/authors" title="Authors" className="py-3 flex items-center gap-2 hover:underline group">
                                 <span className="text-gray-500 group-hover:text-white">»</span> Authors
                             </Link>
-                            <Link href="/privacy-policy" className="py-3 flex items-center gap-2 hover:underline group">
+                            <Link href="/privacy-policy" title="Privacy Policy" className="py-3 flex items-center gap-2 hover:underline group">
                                 <span className="text-gray-500 group-hover:text-white">»</span> Privacy Policy
                             </Link>
-                            <Link href="/terms-conditions" className="py-3 flex items-center gap-2 hover:underline group">
+                            <Link href="/terms-conditions" title="Terms & Conditions" className="py-3 flex items-center gap-2 hover:underline group">
                                 <span className="text-gray-500 group-hover:text-white">»</span> Terms & Conditions
                             </Link>
                         </div>
@@ -105,9 +106,9 @@ export default function Footer() {
                 {/* Bottom Bar */}
                 <div className="pt-6 border-t border-gray-800 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
                     <div className="flex flex-wrap justify-center md:justify-start items-center gap-x-6 gap-y-2 text-sm font-bold">
-                        <Link href="/category/finance" className="hover:underline hover:text-white">Finance</Link>
-                        <Link href="/category/politics" className="hover:underline hover:text-white">Politics</Link>
-                        <Link href="/category/wealth" className="hover:underline hover:text-white">Wealth</Link>
+                        <Link href="/category/finance" title="Finance" className="hover:underline hover:text-white">Finance</Link>
+                        <Link href="/category/politics" title="Politics" className="hover:underline hover:text-white">Politics</Link>
+                        <Link href="/category/wealth" title="Wealth" className="hover:underline hover:text-white">Wealth</Link>
                     </div>
 
                     <div className="flex flex-col md:flex-row items-center gap-4 md:gap-8">

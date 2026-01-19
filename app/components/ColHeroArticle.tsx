@@ -64,7 +64,7 @@ export default function ColHeroArticle({
                 </div>
                 <div>
                     <p className="mb-4">{data.contentRight}</p>
-                    <Link href={`/article/${data.slug}`} className="text-[11px] font-bold uppercase hover:text-red-600 transition-colors mt-2 block">
+                    <Link href={`/article/${data.slug}`} title={data.title} className="text-[11px] font-bold uppercase hover:text-red-600 transition-colors mt-2 block">
                         Read the Post →
                     </Link>
                 </div>

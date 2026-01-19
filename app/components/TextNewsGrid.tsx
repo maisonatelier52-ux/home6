@@ -21,6 +21,7 @@ export default function TextNewsGrid({ items }: TextNewsGridProps) {
                         <Link
                             key={item.id}
                             href={`/article/${item.slug}`}
+                            title={item.title}
                             className="group block py-6 px-0 md:px-6 first:pl-0 last:pr-0"
                         >
                             <div className="flex flex-col gap-2">

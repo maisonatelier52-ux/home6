@@ -99,6 +99,7 @@ export default function Navbar() {
                                 >
                                     <Link
                                         href={item.href}
+                                        title={item.label}
                                         className="flex items-center gap-1 hover:text-red-600 transition-colors duration-200"
                                     >
                                         {item.label}
@@ -116,6 +117,7 @@ export default function Navbar() {
                                                     <li key={dropIndex}>
                                                         <Link
                                                             href={dropItem.href}
+                                                            title={dropItem.label}
                                                             className={`block px-4 py-2 hover:bg-gray-50 hover:text-red-600 transition-colors text-[11px] font-bold ${pathname === dropItem.href ? 'text-red-600' : 'text-gray-600'}`}
                                                         >
                                                             {dropItem.label}
@@ -149,6 +151,7 @@ export default function Navbar() {
                                         <div className="flex items-center justify-between px-4 py-3">
                                             <Link
                                                 href={item.href}
+                                                title={item.label}
                                                 className={`flex-1 hover:text-red-600 transition-colors ${active ? 'text-red-600' : 'text-gray-800'}`}
                                                 onClick={() => !item.hasDropdown && setIsMenuOpen(false)}
                                             >
@@ -174,6 +177,7 @@ export default function Navbar() {
                                                     <li key={dropIndex}>
                                                         <Link
                                                             href={dropItem.href}
+                                                            title={dropItem.label}
                                                             className={`block px-8 py-2 hover:text-red-600 text-[11px] font-bold ${pathname === dropItem.href ? 'text-red-600' : 'text-gray-600'}`}
                                                             onClick={() => setIsMenuOpen(false)}
                                                         >
