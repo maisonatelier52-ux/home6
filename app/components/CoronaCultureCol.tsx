@@ -49,9 +49,9 @@ export default function CoronaCultureCol({ coroData, cultureData }: CoronaCultur
                             <div className="absolute -left-[31px] top-1.5 h-2.5 w-2.5 rounded-full bg-[#e43b3b] ring-4 ring-white"></div>
                             <div className="flex flex-col">
                                 <span className="text-gray-400 text-xs mb-1 font-bold">{item.time}</span>
-                                <h4 className="text-gray-800 font-bold leading-snug hover:underline cursor-pointer transition-colors text-sm">
+                                <h3 className="text-gray-800 font-bold leading-snug hover:underline cursor-pointer transition-colors text-sm">
                                     {item.text}
-                                </h4>
+                                </h3>
                             </div>
                         </div>
                     ))}

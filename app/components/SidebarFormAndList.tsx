@@ -88,9 +88,9 @@ export default function SidebarFormAndList({ moduleData, hotPeoples }: SidebarFo
 
                             <div className="flex flex-col">
                                 <span className="text-gray-400 text-xs mb-1">{item.date}</span>
-                                <h4 className="text-gray-800 font-bold leading-snug hover:text-[#e43b3b] cursor-pointer transition-colors">
+                                <h3 className="text-gray-800 font-bold leading-snug hover:text-[#e43b3b] cursor-pointer transition-colors">
                                     {item.title}
-                                </h4>
+                                </h3>
                             </div>
                         </div>
                     ))}
