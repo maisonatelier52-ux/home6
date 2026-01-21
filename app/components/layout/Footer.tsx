@@ -106,9 +106,9 @@ export default function Footer() {
                 {/* Bottom Bar */}
                 <div className="pt-6 border-t border-gray-800 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
                     <div className="flex flex-wrap justify-center md:justify-start items-center gap-x-6 gap-y-2 text-sm font-bold">
-                        <Link href="/category/finance" title="Finance" className="hover:underline hover:text-white">Finance</Link>
-                        <Link href="/category/politics" title="Politics" className="hover:underline hover:text-white">Politics</Link>
-                        <Link href="/category/wealth" title="Wealth" className="hover:underline hover:text-white">Wealth</Link>
+                        <Link href="/finance" title="Finance" className="hover:underline hover:text-white">Finance</Link>
+                        <Link href="/politics" title="Politics" className="hover:underline hover:text-white">Politics</Link>
+                        <Link href="/wealth" title="Wealth" className="hover:underline hover:text-white">Wealth</Link>
                     </div>
 
                     <div className="flex flex-col md:flex-row items-center gap-4 md:gap-8">

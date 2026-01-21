@@ -43,7 +43,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // 2. Category Pages
     const categories = ['politics', 'markets', 'business', 'finance', 'tech', 'wealth']
     const categoryPages: MetadataRoute.Sitemap = categories.map((category) => ({
-        url: `${baseUrl}/category/${category}/`,
+        url: `${baseUrl}/${category}/`,
         lastModified: lastMod,
         changeFrequency: 'daily',
         priority: 0.9,

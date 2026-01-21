@@ -41,27 +41,27 @@ export default function Navbar() {
         },
         {
             label: 'POLITICS',
-            href: '/category/politics',
+            href: '/politics',
         },
         {
             label: 'MARKETS',
-            href: '/category/markets',
+            href: '/markets',
         },
         {
             label: 'BUSINESS',
-            href: '/category/business',
+            href: '/business',
         },
         {
             label: 'FINANCE',
-            href: '/category/finance',
+            href: '/finance',
         },
         {
             label: 'TECH',
-            href: '/category/tech',
+            href: '/tech',
         },
         {
             label: 'WEALTH',
-            href: '/category/wealth',
+            href: '/wealth',
         },
     ];
 

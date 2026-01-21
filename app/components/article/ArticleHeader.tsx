@@ -25,7 +25,7 @@ export default function ArticleHeader({
                 <div className="flex items-center gap-2">
                     <Link href="/" className="hover:text-red-600 transition-colors underline decoration-transparent hover:decoration-red-600 underline-offset-4">Home</Link>
                     <span>&gt;</span>
-                    <Link href={`/category/${category.toLowerCase()}`} className="hover:text-red-600 transition-colors underline decoration-gray-300 hover:decoration-red-600 underline-offset-4 text-gray-800">
+                    <Link href={`/${category.toLowerCase()}`} className="hover:text-red-600 transition-colors underline decoration-gray-300 hover:decoration-red-600 underline-offset-4 text-gray-800">
                         {category}
                     </Link>
                 </div>
@@ -46,7 +46,7 @@ export default function ArticleHeader({
                 <div className="flex items-center gap-1">
                     <span>{date}</span>
                     <span className="text-gray-400 mx-1">In</span>
-                    <Link href={`/category/${category.toLowerCase()}`} className="text-gray-800 hover:text-red-600 transition-colors">
+                    <Link href={`/${category.toLowerCase()}`} className="text-gray-800 hover:text-red-600 transition-colors">
                         {category}
                     </Link>
                 </div>

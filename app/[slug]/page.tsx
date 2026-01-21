@@ -1,8 +1,8 @@
-import Header from "../../components/layout/Header";
-import Navbar from "../../components/layout/Navbar";
-import Footer from "../../components/layout/Footer";
-import CategoryHeader from "../../components/CategoryHeader";
-import CategoryMainGrid from "../../components/CategoryMainGrid";
+import Header from "../components/layout/Header";
+import Navbar from "../components/layout/Navbar";
+import Footer from "../components/layout/Footer";
+import CategoryHeader from "../components/CategoryHeader";
+import CategoryMainGrid from "../components/CategoryMainGrid";
 import categoriesData from "@/public/data/categories.json";
 import { notFound } from "next/navigation";
 
@@ -60,6 +60,9 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
     const category = categories[lowerSlug];
 
     if (!category) {
+        // If the slug matches a known other page (handled by file system), next overrides. 
+        // But if it reaches here, it means it wasn't caught by other static routes.
+        // We ensure it is a valid category. Otherwise 404.
         notFound();
     }
 

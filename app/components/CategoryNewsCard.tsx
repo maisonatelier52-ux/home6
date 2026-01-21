@@ -39,7 +39,7 @@ export default function CategoryNewsCard({
                     <span className="text-gray-400">{date}</span>
                     <div className="flex gap-1 ml-1">
                         {displayCategories.map((cat, i) => (
-                            <Link key={i} href={`/category/${cat.toLowerCase()}`} className="text-gray-800 hover:underline transition-all underline decoration-gray-300 underline-offset-2">
+                            <Link key={i} href={`/${cat.toLowerCase()}`} className="text-gray-800 hover:underline transition-all underline decoration-gray-300 underline-offset-2">
                                 {cat}{i < displayCategories.length - 1 ? ',' : ''}
                             </Link>
                         ))}
