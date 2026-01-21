@@ -38,7 +38,7 @@ export default function SidebarHotPeoples({ items }: SidebarHotPeoplesProps) {
                                 {item.title}
                             </h3>
                         </div>
-                        <div className="w-20 h-35 flex-shrink-0 bg-gray-100 relative overflow-hidden">
+                        <div className="w-20 h-24 flex-shrink-0 bg-gray-100 relative overflow-hidden">
                             <Image
                                 src={item.image}
                                 alt={item.title}

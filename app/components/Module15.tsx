@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 interface Article {
     title: string;
@@ -37,11 +38,13 @@ export default function Module15({ title, description, articles }: Module15Props
 
                 {articles.map((article, index) => (
                     <div key={index} className="flex gap-4 group">
-                        <div className="w-20 h-20 flex-shrink-0 bg-gray-100 overflow-hidden">
-                            <img
+                        <div className="w-20 h-20 flex-shrink-0 bg-gray-100 overflow-hidden relative">
+                            <Image
                                 src={article.image}
                                 alt={article.title}
-                                className="w-full h-full object-cover grayscale-[0.2] transition-all duration-500 group-hover:scale-110 group-hover:grayscale-0"
+                                fill
+                                sizes="80px"
+                                className="object-cover grayscale-[0.2] transition-all duration-500 group-hover:scale-110 group-hover:grayscale-0"
                             />
                         </div>
                         <div className="flex-1">

@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 interface Article {
     category: string;
@@ -38,11 +39,13 @@ export default function HotWeekTopPeoples({ title, articles }: HotWeekTopPeoples
                                 </h3>
                             </Link>
                         </div>
-                        <div className="w-24 h-24 flex-shrink-0 bg-gray-100 overflow-hidden mt-1">
-                            <img
+                        <div className="w-24 h-24 flex-shrink-0 bg-gray-100 overflow-hidden mt-1 relative">
+                            <Image
                                 src={article.image}
                                 alt={article.title}
-                                className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                                fill
+                                sizes="100px"
+                                className="object-cover transition-transform duration-500 group-hover:scale-110"
                             />
                         </div>
                     </div>

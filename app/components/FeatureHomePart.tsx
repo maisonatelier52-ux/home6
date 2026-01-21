@@ -1,7 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import FeatureModules from './FeatureModules';
 import SidebarWeather from './SidebarWeather';
 import SidebarHotPeoples from './SidebarHotPeoples';
 
@@ -36,6 +35,10 @@ interface FeatureHomePartProps {
     module10: any;
     hotPeoples: any[];
 }
+
+import dynamic from 'next/dynamic';
+
+const FeatureModules = dynamic(() => import('./FeatureModules'));
 
 export default function FeatureHomePart({ hero, sidebarItems, module7, module10, hotPeoples }: FeatureHomePartProps) {
     // Fallback images if real ones aren't available

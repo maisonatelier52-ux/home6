@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { Twitter, Facebook, Youtube } from 'lucide-react';
 import SidebarWeather from './SidebarWeather';
 import SidebarHotPeoples from './SidebarHotPeoples';
@@ -89,11 +90,13 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
 
                     <div className="bg-[#1a1a1a] p-4 text-white">
                         <div className="flex flex-col md:flex-row gap-8 items-start">
-                            <div className="w-34 h-38 flex-shrink-0">
-                                <img
+                            <div className="w-34 h-38 flex-shrink-0 relative w-[136px] h-[152px]">
+                                <Image
                                     src={module10.editor.image}
                                     alt={module10.editor.name}
-                                    className="w-full h-full object-cover filter"
+                                    fill
+                                    sizes="136px"
+                                    className="object-cover filter"
                                 />
                             </div>
                             <div className="flex-1">
@@ -120,11 +123,13 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
                         <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-8 mt-2 pt-2 border-t border-gray-800">
                             {module10.recentPosts.map((post, index) => (
                                 <Link key={index} href={`/article/${post.slug}`} title={post.title} className="group flex gap-4 items-start">
-                                    <div className="w-20 h-20 flex-shrink-0 bg-gray-800">
-                                        <img
+                                    <div className="w-20 h-20 flex-shrink-0 bg-gray-800 relative">
+                                        <Image
                                             src={post.image}
                                             alt={post.title}
-                                            className="w-full h-full object-cover filter"
+                                            fill
+                                            sizes="80px"
+                                            className="object-cover filter"
                                         />
                                     </div>
                                     <div className="flex-1">
