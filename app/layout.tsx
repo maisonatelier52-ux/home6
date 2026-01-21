@@ -38,12 +38,21 @@ export const metadata: Metadata = {
     siteName: 'The Quest for Profit',
     title: 'The Quest for Profit | Financial Insights & Market Analysis',
     description: 'Your ultimate destination for business, finance, and wealth management insights.',
+    images: [
+      {
+        url: '/images/news/markets-1.webp',
+        width: 1200,
+        height: 630,
+        alt: 'The Quest for Profit',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'The Quest for Profit | Financial Insights & Market Analysis',
     description: 'Your ultimate destination for business, finance, and wealth management insights.',
     creator: '@thequestforprofit',
+    images: ['/images/news/markets-1.webp'],
   },
   robots: {
     index: true,

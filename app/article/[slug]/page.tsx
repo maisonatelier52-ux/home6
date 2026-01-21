@@ -35,11 +35,31 @@ export async function generateMetadata({ params }: ArticlePageProps) {
     return {
         title: `${article.title} | The Quest for Profit`,
         description: article.content[0]?.text || article.title,
+        alternates: {
+            canonical: `/article/${slug}`,
+        },
         openGraph: {
             title: article.title,
             description: article.content[0]?.text || article.title,
-            images: [article.image],
+            url: `https://www.thequestforprofit.com/article/${slug}`,
+            siteName: 'The Quest for Profit',
+            images: [
+                {
+                    url: article.image,
+                    width: 1200,
+                    height: 630,
+                    alt: article.title,
+                },
+            ],
             type: 'article',
+            publishedTime: article.date,
+            authors: [article.author?.name || 'The Quest for Profit Editorial Team'],
+        },
+        twitter: {
+            card: 'summary_large_image',
+            title: article.title,
+            description: article.content[0]?.text || article.title,
+            images: [article.image],
         },
     };
 }

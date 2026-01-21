@@ -23,6 +23,8 @@ export async function generateMetadata({ params }: CategoryPageProps) {
         };
     }
 
+    const categoryImage = `/images/news/${lowerSlug}-1.webp`;
+
     return {
         title: `${category.title} News | TQFP`,
         description: category.description,
@@ -30,12 +32,21 @@ export async function generateMetadata({ params }: CategoryPageProps) {
         openGraph: {
             title: `${category.title} News | TQFP`,
             description: category.description,
+            images: [
+                {
+                    url: categoryImage,
+                    width: 1200,
+                    height: 630,
+                    alt: `${category.title} Financial News`,
+                }
+            ],
             type: 'website',
         },
         twitter: {
             card: 'summary_large_image',
             title: `${category.title} News | TQFP`,
             description: category.description,
+            images: [categoryImage],
         },
     };
 }

@@ -29,6 +29,14 @@ export const metadata: Metadata = {
     description: "Discover the #1 source for financial news and market analysis. Join The Quest for Profit for expert insights into global economics and proven money strategies.",
     url: "https://www.thequestforprofit.com",
     siteName: "The Quest for Profit",
+    images: [
+      {
+        url: "/images/news/markets-1.webp",
+        width: 1200,
+        height: 630,
+        alt: "The Quest for Profit Financial Analysis",
+      }
+    ],
     type: "website",
     locale: "en_US",
   },
@@ -37,6 +45,7 @@ export const metadata: Metadata = {
     title: "The Quest for Profit: The #1 Ultimate Source for Financial News",
     description: "Discover the #1 source for financial news and market analysis. Join The Quest for Profit for expert insights into global economics and proven money strategies.",
     site: "@thequestforprofit",
+    images: ["/images/news/markets-1.webp"],
   },
 };
 export default function Home() {
