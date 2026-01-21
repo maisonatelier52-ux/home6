@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 interface TimelineItem {
     time: string;
@@ -81,8 +82,14 @@ export default function CoronaCultureCol({ coroData, cultureData }: CoronaCultur
                             </Link>
                             {article.image && (
                                 <div className="flex gap-4 items-start">
-                                    <div className="w-15 h-15 flex-shrink-0 bg-gray-100 overflow-hidden">
-                                        <img src={article.image} alt={article.title} className="w-full h-full object-cover" />
+                                    <div className="w-15 h-15 flex-shrink-0 bg-gray-100 overflow-hidden relative w-[60px] h-[60px]">
+                                        <Image
+                                            src={article.image}
+                                            alt={article.title}
+                                            fill
+                                            sizes="60px"
+                                            className="object-cover"
+                                        />
                                     </div>
                                     <p className="text-gray-500 text-[13px] leading-relaxed">
                                         {article.excerpt}

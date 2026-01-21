@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 interface CategoryNewsCardProps {
     date: string;
@@ -60,11 +61,13 @@ export default function CategoryNewsCard({
 
             {/* Content Section */}
             <div className="flex flex-col md:flex-row gap-6">
-                <div className="md:w-1/3 flex-shrink-0">
-                    <img
+                <div className="md:w-1/3 flex-shrink-0 relative h-48 md:h-40">
+                    <Image
                         src={image}
                         alt={title}
-                        className="w-full h-48 md:h-40 object-cover rounded-sm"
+                        fill
+                        sizes="(max-width: 768px) 100vw, 300px"
+                        className="object-cover rounded-sm"
                     />
                 </div>
                 <div className="md:w-2/3">

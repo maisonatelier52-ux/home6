@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 interface HeroProps {
     data: {
@@ -32,10 +33,12 @@ export default function ColHeroArticle({
                 <span className="absolute top-0 left-0 bg-[#e43b3b] text-white text-[10px] font-bold uppercase py-1 px-3 z-10 tracking-wider [writing-mode:vertical-rl] rotate-180">
                     {data.category}
                 </span>
-                <img
+                <Image
                     src={data.image}
                     alt={data.title}
-                    className="w-full h-full object-cover grayscale-[0.3] transition-transform duration-700 group-hover:scale-105"
+                    fill
+                    sizes="(max-width: 768px) 100vw, 50vw"
+                    className="object-cover grayscale-[0.3] transition-transform duration-700 group-hover:scale-105"
                 />
             </div>
 

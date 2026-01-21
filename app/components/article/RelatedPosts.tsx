@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 interface RelatedPost {
     title: string;
@@ -26,10 +27,12 @@ export default function RelatedPosts({ posts }: RelatedPostsProps) {
                 {posts.map((post) => (
                     <Link key={post.slug} href={`/article/${post.slug}`} title={post.title} className="group block">
                         <div className="relative aspect-[3/2] overflow-hidden mb-5">
-                            <img
+                            <Image
                                 src={post.image}
                                 alt={post.title}
-                                className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                                fill
+                                sizes="(max-width: 768px) 100vw, 50vw"
+                                className="object-cover group-hover:scale-105 transition-transform duration-500"
                             />
                         </div>
 

@@ -1,3 +1,4 @@
+import dynamic from 'next/dynamic';
 import { Metadata } from "next";
 import Header from "./components/layout/Header";
 import Navbar from "./components/layout/Navbar";
@@ -10,12 +11,14 @@ import module6Data from "@/public/data/homePage/module-6.json";
 import threeColData from "@/public/data/homePage/three-col-section.json";
 import newsV2Data from "@/public/data/homePage/news-section-v2.json";
 import newsFiveColData from "@/public/data/homePage/five-col-section.json";
-import Module6Carousel from "./components/Module6Carousel";
-import NewsSectionThreeCols from "./components/NewsSectionThreeCols";
-import NewsSectionV2 from "./components/NewsSectionV2";
-import NewsSectionFiveCols from "./components/NewsSectionFiveCols";
 import Footer from "./components/layout/Footer";
 import StructuredData from "./components/StructuredData";
+
+// Lazy load below-the-fold components
+const Module6Carousel = dynamic(() => import("./components/Module6Carousel"));
+const NewsSectionThreeCols = dynamic(() => import("./components/NewsSectionThreeCols"));
+const NewsSectionV2 = dynamic(() => import("./components/NewsSectionV2"));
+const NewsSectionFiveCols = dynamic(() => import("./components/NewsSectionFiveCols"));
 
 export const metadata: Metadata = {
   title: "The Quest for Profit: The #1 Ultimate Source for Financial News",

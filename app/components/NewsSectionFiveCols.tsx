@@ -1,6 +1,7 @@
 import React from 'react';
 import SidebarArticleList from './SidebarArticleList';
 import SectionHeader from './layout/SectionHeader';
+import Image from 'next/image';
 
 interface NewsSectionFiveColsProps {
     data: {
@@ -30,10 +31,12 @@ export default function NewsSectionFiveCols({ data }: NewsSectionFiveColsProps) 
                         >
                             {col.type === 'image' ? (
                                 <div className="w-full h-full min-h-[300px] relative">
-                                    <img
+                                    <Image
                                         src={col.image}
                                         alt="Feature Graphic"
-                                        className="w-full h-full object-contain opacity-80 hover:grayscale-0 hover:opacity-100 transition-all duration-700"
+                                        fill
+                                        sizes="(max-width: 768px) 100vw, 300px"
+                                        className="object-contain opacity-80 hover:grayscale-0 hover:opacity-100 transition-all duration-700"
                                     />
                                 </div>
                             ) : (

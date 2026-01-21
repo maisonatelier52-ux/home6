@@ -1,6 +1,7 @@
 import React from 'react';
 import { Facebook, Twitter, Youtube } from 'lucide-react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 interface ArticleAuthorProps {
     name: string;
@@ -16,10 +17,12 @@ export default function ArticleAuthor({ name, bio, image, postsCount, role }: Ar
             {/* Author Image */}
             <div className="flex-shrink-0">
                 <div className="w-24 h-24 md:w-32 md:h-32 rounded-full overflow-hidden border-4 border-gray-100 relative group">
-                    <img
+                    <Image
                         src={image}
                         alt={name}
-                        className="w-full h-full object-cover group-hover:grayscale-0 transition-all duration-300"
+                        fill
+                        sizes="(max-width: 768px) 96px, 128px"
+                        className="object-cover group-hover:grayscale-0 transition-all duration-300"
                     />
                 </div>
             </div>

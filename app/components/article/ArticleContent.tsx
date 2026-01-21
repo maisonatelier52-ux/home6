@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 
 interface ContentBlock {
     type: string;
@@ -17,11 +18,15 @@ export default function ArticleBody({ image, content }: ArticleBodyProps) {
         <div className="flex flex-col gap-6 text-gray-700 font-serif leading-relaxed text-[17px]">
             {/* Feature Image */}
             <div className="w-full mb-2">
-                <img
-                    src={image}
-                    alt="Article Feature"
-                    className="w-full h-auto md:h-[400px] object-cover"
-                />
+                <div className="relative w-full h-auto min-h-[300px] md:h-[400px]">
+                    <Image
+                        src={image}
+                        alt="Article Feature"
+                        fill
+                        priority
+                        className="object-cover"
+                    />
+                </div>
             </div>
 
             {/* Content Rendering */}

@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 interface HotPerson {
     category: string;
@@ -38,10 +39,12 @@ export default function SidebarHotPeoples({ items }: SidebarHotPeoplesProps) {
                             </h3>
                         </div>
                         <div className="w-20 h-35 flex-shrink-0 bg-gray-100 relative overflow-hidden">
-                            <img
+                            <Image
                                 src={item.image}
                                 alt={item.title}
-                                className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                                fill
+                                sizes="80px"
+                                className="object-cover transition-transform duration-500 group-hover:scale-110"
                             />
                         </div>
                     </Link>

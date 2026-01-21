@@ -50,10 +50,12 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                     <span className="absolute top-0 left-0 bg-[#e43b3b] text-white text-[10px] font-bold uppercase py-1 px-3 z-10 tracking-wider [writing-mode:vertical-rl] rotate-180">
                         {hero.category}
                     </span>
-                    <img
+                    <Image
                         src={hero.image || defaultHeroImage}
                         alt={hero.title}
-                        className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 filter"
+                        fill
+                        priority
+                        className="object-cover transition-transform duration-700 group-hover:scale-105 filter"
                     />
                 </div>
             </div>
@@ -111,10 +113,12 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                                 className={`group flex items-start gap-4 py-4`}
                             >
                                 <div className="w-[50px] h-[60px] flex-shrink-0 overflow-hidden bg-gray-100 relative">
-                                    <img
+                                    <Image
                                         src={item.image || defaultSidebarImage}
                                         alt={item.title}
-                                        className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                                        fill
+                                        sizes="50px"
+                                        className="object-cover transition-transform duration-500 group-hover:scale-110"
                                     />
                                 </div>
                                 <div className="flex-1">
