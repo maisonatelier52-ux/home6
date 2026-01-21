@@ -1,0 +1,330 @@
+[
+    {
+        "slug": "ai-regulatory-alignment-global",
+        "title": "Cross-Border Regulatory Alignment on AI",
+        "shortdescription": "International regulators are moving towards a shared framework for AI ethics and safety to prevent market fragmentation and ensure responsible deployment.",
+        "category": "Business",
+        "author": "Jessica Wu",
+        "date": "October 24, 2025"
+    },
+    {
+        "slug": "ancient-architecture-modern-design",
+        "title": "Ancient Architecture and Its Influence on Modern Design",
+        "shortdescription": "The majestic bridges and temples of ancient civilizations continue to inspire architects today.",
+        "category": "Culture",
+        "author": "Maxin Dalton",
+        "date": "October 01, 2022"
+    },
+    {
+        "slug": "art-market-digital-provenance",
+        "title": "The Art Market 2.0: Digital Provenance and Rarity",
+        "shortdescription": "Blockchain isn't just for digital art; it's becoming the gold standard for tracking physical masterpieces, reducing fraud and increasing liquidity.",
+        "category": "Wealth",
+        "author": "David Smith",
+        "date": "October 22, 2025"
+    },
+    {
+        "slug": "autonomous-vehicles-city-infrastructure",
+        "title": "Are Cities Ready for the Autonomous Vehicle Revolution?",
+        "shortdescription": "While the tech for self-driving cars is mature, the physical and legal infrastructure of our cities remains the biggest bottleneck for mass adoption.",
+        "category": "Tech",
+        "author": "Michael Chen",
+        "date": "October 18, 2025"
+    },
+    {
+        "slug": "bond-yields-invert-recession",
+        "title": "Bond Yields Invert Signaling Recession Risk",
+        "shortdescription": "The spread between the 2-year and 10-year Treasury yields inverted to its deepest level in four decades, flashing a classic warning signal for an impending recession.",
+        "category": "Markets",
+        "author": "Sarah Jenkins",
+        "date": "October 19, 2025"
+    },
+    {
+        "slug": "capturing-essence-street-life",
+        "title": "Capturing the Essence of Street Life through Lense",
+        "shortdescription": "Street photography is more than just taking pictures of people in public. It's about capturing a moment, a look, or an interaction.",
+        "category": "Culture",
+        "author": "Maxin Dalton",
+        "date": "June 20, 2020"
+    },
+    {
+        "slug": "crypto-regulation-framework-eu",
+        "title": "Crypto Regulation Framework Unveiled in EU",
+        "shortdescription": "European regulators have released the final text of the MiCA 2.0 legislation, setting a global standard for the supervision of digital assets and stablecoins.",
+        "category": "Markets",
+        "author": "Alex Thorne",
+        "date": "October 21, 2025"
+    },
+    {
+        "slug": "diplomatic-tensions-ease",
+        "title": "Diplomatic Tensions Ease After High-Level Talks",
+        "shortdescription": "Months of escalating rhetoric appear to be cooling down following a series of high-level diplomatic meetings held in Geneva this weekend.",
+        "category": "Politics",
+        "author": "David Smith",
+        "date": "October 15, 2025"
+    },
+    {
+        "slug": "election-polling-demographics-shift",
+        "title": "Election Polling: New Data Suggests Shifting Demographics",
+        "shortdescription": "The latest polling data reveals significant shifts in voter behavior, with younger demographics prioritizing climate policy over traditional economic indicators.",
+        "category": "Politics",
+        "author": "Robert Miller",
+        "date": "October 24, 2025"
+    },
+    {
+        "slug": "election-uncertainty-markets",
+        "title": "Election Year Uncertainty Rattles Market Confidence",
+        "shortdescription": "As the election year approaches, market volatility has increased. Investors are closely watching campaign promises and polling data, trying to predict the regulatory landscape of the future.",
+        "category": "Politics",
+        "author": "James O'Connor",
+        "date": "October 20, 2025"
+    },
+    {
+        "slug": "excluding-well-some",
+        "title": "Excluding Well A Some Hummingbird Meticulous",
+        "shortdescription": "Excluding well, some hummingbird meticulous in its approach to finance.",
+        "category": "Finance",
+        "author": "Maxin Dalton",
+        "date": "May 03, 2018"
+    },
+    {
+        "slug": "family-office-trends-2026",
+        "title": "Family Office 2.0: Managing Legacy in a Turbulent Century",
+        "shortdescription": "The multi-generational transfer of wealth is facing new challenges, from ESG requirements to the complexities of digital asset inheritance.",
+        "category": "Wealth",
+        "author": "James O'Connor",
+        "date": "October 20, 2025"
+    },
+    {
+        "slug": "fed-interest-rate-outlook",
+        "title": "Federal Reserve Signals Slower Rate Cuts for 2026",
+        "shortdescription": "The financial world held its collective breath this morning as the Federal Reserve Chair delivered a landmark speech at the Economic Club of New York, signaling a pivot toward a 'higher-for-longer' interest rate environment.",
+        "category": "Finance",
+        "author": "Sarah Jenkins",
+        "date": "October 24, 2025"
+    },
+    {
+        "slug": "federal-budget-infrastructure-2026",
+        "title": "Federal Budget: Infrastructure Focus for 2026",
+        "shortdescription": "The new budget proposal prioritizes green energy infrastructure and high-speed rail development across major corridors, signaling a shift in national priorities.",
+        "category": "Politics",
+        "author": "Sarah Jenkins",
+        "date": "October 24, 2025"
+    },
+    {
+        "slug": "fintech-disruption-traditional-banking",
+        "title": "FinTech Disruption and the Survival of Traditional Banks",
+        "shortdescription": "Neobanks are capturing record market share among Gen Z and Millennials, forcing legacy institutions to spend billions on digital transformations.",
+        "category": "Finance",
+        "author": "Alex Thorne",
+        "date": "October 18, 2025"
+    },
+    {
+        "slug": "generative-ai-the-next-frontier",
+        "title": "Generative AI: Moving Beyond the Hype to Enterprise Reality",
+        "shortdescription": "Silicon Valley is shifting its focus from training larger models to building specialized, efficient AI agents that can perform complex business tasks with minimal human intervention.",
+        "category": "Tech",
+        "author": "Jessica Wu",
+        "date": "October 24, 2025"
+    },
+    {
+        "slug": "global-summit-inflation-concerns",
+        "title": "Global Summit Addresses Rising Inflation Concerns",
+        "shortdescription": "World leaders gathered today to discuss the pressing issue of rising global inflation. The summit focused on collaborative strategies to stabilize currencies and protect consumer purchasing power.",
+        "category": "Politics",
+        "author": "Sarah Jenkins",
+        "date": "October 24, 2025"
+    },
+    {
+        "slug": "gold-hits-record-high-safe-haven",
+        "title": "Gold Hits Record High as Safe Haven Asset",
+        "shortdescription": "Investors fleeing geopolitical instability and currency volatility have poured capital into gold, pushing the precious metal past the $3,000 mark for the first time.",
+        "category": "Markets",
+        "author": "Maria Sanchez",
+        "date": "October 16, 2025"
+    },
+    {
+        "slug": "green-tech-battery-innovation-2026",
+        "title": "Solid-State Batteries: The Holy Grail of Clean Energy",
+        "shortdescription": "A breakthrough in solid-state electrolyte design promises to double EV range and halve charging times, potentially ending range anxiety for good.",
+        "category": "Tech",
+        "author": "Robert Miller",
+        "date": "October 16, 2025"
+    },
+    {
+        "slug": "heared-opposite-around",
+        "title": "Heared Opposite Then Around But A Heinous Square Amphibisly",
+        "shortdescription": "Hearing the opposite then around, a heinous square amphibiously approaches.",
+        "category": "Culture",
+        "author": "Maxin Dalton",
+        "date": "May 02, 2018"
+    },
+    {
+        "slug": "incongruous-jeepers-jellyfish",
+        "title": "Incongruous Jeepers Jellyfish One Far Well Known",
+        "shortdescription": "One aside wombat delicate caterpillar babbled much some broke capitally darn far awakened ravenously-wallaby krill a far in circa considering and shrewd gosh spluttered.",
+        "category": "Culture",
+        "author": "Maxin Dalton",
+        "date": "May 01, 2018"
+    },
+    {
+        "slug": "longevity-science-ultimate-investment",
+        "title": "Longevity Science: The Ultimate Wealth Investment",
+        "shortdescription": "Billionaires are funnelling record sums into biogerontology, hoping to turn back the clock with personalized therapies and cellular reprogramming.",
+        "category": "Wealth",
+        "author": "Jessica Wu",
+        "date": "October 16, 2025"
+    },
+    {
+        "slug": "luxury-real-estate-hidden-hubs",
+        "title": "Beyond Dubai and Monaco: The New Luxury Real Estate Hubs",
+        "shortdescription": "Ultra-high-net-worth individuals are flocking to tertiary cities and remote retreats, looking for privacy and community over traditional flashiness.",
+        "category": "Wealth",
+        "author": "Maria Sanchez",
+        "date": "October 24, 2025"
+    },
+    {
+        "slug": "luxury-yachting-sustainable-shifts",
+        "title": "The Rise of the Zero-Emission Superyacht",
+        "shortdescription": "Hydrogen fuel cells and high-tech sails are transforming the world's most exclusive shipyards as the elite look to reduce their carbon wake.",
+        "category": "Wealth",
+        "author": "Robert Miller",
+        "date": "October 18, 2025"
+    },
+    {
+        "slug": "merger-mania-industrial-sector",
+        "title": "Merger Mania Hits the Industrial Sector",
+        "shortdescription": "The industrial sector is witnessing an unprecedented wave of consolidation, as giants look to scale up in the face of shifting global supply chains and technological disruption.",
+        "category": "Business",
+        "author": "Robert Miller",
+        "date": "October 24, 2025"
+    },
+    {
+        "slug": "oil-prices-plunge-demand",
+        "title": "Oil Prices Plunge Amid Demand Fears",
+        "shortdescription": "Crude oil futures tumbled sharply on Wednesday as weak manufacturing data from China stoked fears of a global slowdown in energy consumption.",
+        "category": "Markets",
+        "author": "Robert Miller",
+        "date": "October 23, 2025"
+    },
+    {
+        "slug": "pension-reform-global-crisis",
+        "title": "Pension Reform: Tackling the Impending Global Crisis",
+        "shortdescription": "Aging populations and underfunded public pensions are forcing governments to consider radical shifts in retirement ages and social security contributions.",
+        "category": "Finance",
+        "author": "David Smith",
+        "date": "October 20, 2025"
+    },
+    {
+        "slug": "personal-finance-high-yield-savings",
+        "title": "Maximizing Returns in a High-Yield Environment",
+        "shortdescription": "With benchmark rates sitting at decade highs, we explore the best strategies for retail investors to lock in risk-free returns before the cycle turns.",
+        "category": "Finance",
+        "author": "James O'Connor",
+        "date": "October 22, 2025"
+    },
+    {
+        "slug": "privacy-wars-apple-meta-regulators",
+        "title": "The Privacy Wars: Apple, Meta, and the Battle for Your Data",
+        "shortdescription": "New EU regulations are forcing big tech firms to overhaul their advertising models, sparking a multi-billion dollar fight for control over the digital profile.",
+        "category": "Tech",
+        "author": "Emily Rodriguez",
+        "date": "October 20, 2025"
+    },
+    {
+        "slug": "quantum-computing-breakthrough-google-ibm",
+        "title": "Quantum Computing Breakthrough: IBM and Google Close the Gap",
+        "shortdescription": "Researchers at IBM and Google have independently achieved a record 1,000-qubit threshold with integrated error correction, bringing us one step closer to a cryptographically relevant quantum computer.",
+        "category": "Tech",
+        "author": "Alex Thorne",
+        "date": "October 22, 2025"
+    },
+    {
+        "slug": "real-estate-investment-strategies-2026",
+        "title": "Real Estate Investment Strategies for the New Era",
+        "shortdescription": "Residential markets are cooling while industrial and data center properties are booming. We break down the winners and losers in the current real estate cycle.",
+        "category": "Finance",
+        "author": "Maria Sanchez",
+        "date": "October 16, 2025"
+    },
+    {
+        "slug": "remote-work-productivity-debate",
+        "title": "The Great Remote Work Productivity Debate Intensifies",
+        "shortdescription": "New data from major tech firms reveals conflicting results regarding productivity and innovation in hybrid versus fully remote environments, fueling a fierce debate in corporate boardrooms.",
+        "category": "Business",
+        "author": "Sarah Jenkins",
+        "date": "October 21, 2025"
+    },
+    {
+        "slug": "retail-giants-omnichannel-strategy",
+        "title": "Retail Giants Pivot to Advanced Omnichannel Strategies",
+        "shortdescription": "Major retailers are investing billions into AI-powered logistics to bridge the gap between their physical stores and online platforms, creating a seamless 'omnichannel' experience.",
+        "category": "Business",
+        "author": "Michael Chen",
+        "date": "October 19, 2025"
+    },
+    {
+        "slug": "senate-passes-infrastructure-bill",
+        "title": "Senate Passes Landmark Infrastructure Bill",
+        "shortdescription": "In a rare display of bipartisan unity, the Senate has passed a comprehensive infrastructure bill aimed at modernizing the nation's transportation network and energy grid.",
+        "category": "Politics",
+        "author": "Emily Rodriguez",
+        "date": "October 18, 2025"
+    },
+    {
+        "slug": "startup-funding-winter-thaws",
+        "title": "Is the Startup Funding Winter Finally Thawing?",
+        "shortdescription": "Venture capital activity is showing signs of a rebound as several large-scale Series C rounds were closed last week, hinting at renewed confidence in high-growth firms.",
+        "category": "Business",
+        "author": "Jessica Wu",
+        "date": "October 23, 2025"
+    },
+    {
+        "slug": "subtle-art-cultural-expression",
+        "title": "The Subtle Art of Cultural Expression in Modern Era",
+        "shortdescription": "Deep within the heart of the city lies a secret garden that only the locals know. It's a place where time seems to stand still.",
+        "category": "Culture",
+        "author": "Maxin Dalton",
+        "date": "April 12, 2019"
+    },
+    {
+        "slug": "sustainable-supply-chain-leaders",
+        "title": "Meet the Leaders of the Sustainable Supply Chain Revolution",
+        "shortdescription": "Sustainability is no longer a PR buzzword; it's a core competitive advantage. We look at three companies leading the shift toward ethical sourcing and carbon neutrality.",
+        "category": "Business",
+        "author": "Emily Rodriguez",
+        "date": "October 17, 2025"
+    },
+    {
+        "slug": "tech-stocks-rally-ai",
+        "title": "Tech Stocks Rally as AI Adoption Accelerates",
+        "shortdescription": "The Nasdaq surged to new highs today as quarterly earnings reports highlighted a faster-than-expected adoption of artificial intelligence across enterprise sectors.",
+        "category": "Markets",
+        "author": "Jessica Wu",
+        "date": "October 24, 2025"
+    },
+    {
+        "slug": "timmediately-quail-was-inverse",
+        "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
+        "shortdescription": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more then around but a due so well and where supply much.",
+        "category": "Culture",
+        "author": "Maxin Dalton",
+        "date": "March 05, 2015"
+    },
+    {
+        "slug": "trade-policy-shifts-asia",
+        "title": "New Trade Policy Shifts Economic Alliances in Asia",
+        "shortdescription": "A landmark trade agreement signed this week has signaled a significant shift in economic alliances across the Asian continent, potentially reshaping supply chains for the next decade.",
+        "category": "Politics",
+        "author": "Michael Chen",
+        "date": "October 22, 2025"
+    },
+    {
+        "slug": "traditional-music-globalized-world",
+        "title": "Traditional Music in the Heart of Globalized World",
+        "shortdescription": "In an increasingly connected world, traditional music faces both challenges and opportunities.",
+        "category": "Culture",
+        "author": "Maxin Dalton",
+        "date": "August 15, 2021"
+    }
+]

@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Search, ChevronDown, Menu, X } from 'lucide-react';
+import SearchModal from '../SearchModal';
 
 interface DropdownItem {
     label: string;
@@ -21,6 +22,7 @@ interface NavItem {
 export default function Navbar() {
     const pathname = usePathname();
     const [isMenuOpen, setIsMenuOpen] = useState(false);
+    const [isSearchOpen, setIsSearchOpen] = useState(false);
     const [activeDropdown, setActiveDropdown] = useState<number | null>(null);
 
     const toggleMenu = () => {
@@ -134,7 +136,10 @@ export default function Navbar() {
 
                     {/* Search Icon */}
                     <div className="flex items-center h-full pl-4 lg:ml-4">
-                        <button className="h-7 w-7 bg-[#e5e5e5] flex items-center justify-center text-black hover:bg-black hover:text-white transition-colors duration-200">
+                        <button
+                            onClick={() => setIsSearchOpen(true)}
+                            className="h-7 w-7 bg-[#e5e5e5] flex items-center justify-center text-black hover:bg-black hover:text-white transition-colors duration-200"
+                        >
                             <Search size={16} strokeWidth={2.5} />
                         </button>
                     </div>
@@ -194,6 +199,7 @@ export default function Navbar() {
                     </div>
                 )}
             </div>
+            <SearchModal isOpen={isSearchOpen} onClose={() => setIsSearchOpen(false)} />
         </nav>
     );
 }
