@@ -1,6 +1,8 @@
 import React from 'react';
 import Link from 'next/link';
 
+import ArticleShare from './ArticleShare';
+
 interface ArticleHeaderProps {
     category: string;
     title: string;
@@ -41,8 +43,8 @@ export default function ArticleHeader({
                 {title}
             </h1>
 
-            {/* Metadata */}
-            <div className="flex flex-wrap items-center justify-between text-[11px] text-gray-400 uppercase font-bold tracking-wider border-b border-gray-200 pb-6">
+            {/* Metadata & Share */}
+            <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 text-[11px] text-gray-400 uppercase font-bold tracking-wider border-b border-gray-200 pb-6">
                 <div className="flex items-center gap-1">
                     <span>{date}</span>
                     <span className="text-gray-400 mx-1">In</span>
@@ -50,6 +52,8 @@ export default function ArticleHeader({
                         {category}
                     </Link>
                 </div>
+
+                <ArticleShare title={title} />
             </div>
         </div>
     );
