@@ -2,7 +2,7 @@
 
 import React from 'react';
 import Link from 'next/link';
-import { ChevronUp } from 'lucide-react';
+import { ChevronUp, Facebook, Youtube } from 'lucide-react';
 
 export default function Footer() {
     const tags = [
@@ -44,6 +44,21 @@ export default function Footer() {
                             <p>
                                 Our <strong>quest</strong> is to deliver rigorously researched <strong>analysis</strong> and <strong>proven financial insights</strong> to help you navigate the path to <strong>profit</strong>.
                             </p>
+                        </div>
+
+                        {/* Social Links */}
+                        <div className="flex items-center gap-4 pt-2">
+                            <Link href="https://facebook.com" target="_blank" className="w-8 h-8 rounded-full bg-gray-900 border border-gray-800 flex items-center justify-center text-gray-400 hover:bg-[#1877F2] hover:text-white hover:border-[#1877F2] transition-all duration-300">
+                                <Facebook size={16} />
+                            </Link>
+                            <Link href="https://substack.com" target="_blank" className="w-8 h-8 rounded-full bg-gray-900 border border-gray-800 flex items-center justify-center text-gray-400 hover:bg-[#FF6719] hover:text-white hover:border-[#FF6719] transition-all duration-300">
+                                <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+                                    <path d="M22.539 8.242H1.46V5.406h21.078v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.078V0z" />
+                                </svg>
+                            </Link>
+                            <Link href="https://youtube.com" target="_blank" className="w-8 h-8 rounded-full bg-gray-900 border border-gray-800 flex items-center justify-center text-gray-400 hover:bg-[#FF0000] hover:text-white hover:border-[#FF0000] transition-all duration-300">
+                                <Youtube size={16} />
+                            </Link>
                         </div>
                     </div>
 
