@@ -16,11 +16,11 @@ import tagsData from '@/public/data/tags.json';
 import RelatedPosts from '../../components/article/RelatedPosts';
 
 interface ArticlePageProps {
-    params: Promise<{ slug: string }>;
+    params: Promise<{ category: string; slug: string }>;
 }
 
 export async function generateMetadata({ params }: ArticlePageProps) {
-    const { slug } = await params;
+    const { category, slug } = await params;
     let article;
 
     try {
@@ -36,12 +36,12 @@ export async function generateMetadata({ params }: ArticlePageProps) {
         title: `${article.title} | The Quest for Profit`,
         description: article.content[0]?.text || article.title,
         alternates: {
-            canonical: `/article/${slug}`,
+            canonical: `/${category}/${slug}`,
         },
         openGraph: {
             title: article.title,
             description: article.content[0]?.text || article.title,
-            url: `https://www.thequestforprofit.com/article/${slug}`,
+            url: `https://www.thequestforprofit.com/${category}/${slug}`,
             siteName: 'The Quest for Profit',
             images: [
                 {
@@ -65,7 +65,7 @@ export async function generateMetadata({ params }: ArticlePageProps) {
 }
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
-    const { slug } = await params;
+    const { category, slug } = await params;
     let article;
 
     try {
@@ -86,12 +86,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     // Fetch articles for the same category dynamically
     let categoryArticles = [];
     try {
-        const categorySlug = article.category.toLowerCase();
+        const categorySlug = category.toLowerCase();
         const categoryData = await import(`@/public/data/categoryNews/${categorySlug}.json`);
         categoryArticles = categoryData.default || [];
     } catch (error) {
         // Fallback or ignore if category file doesn't exist
-        console.warn(`Could not load category articles for ${article.category}`);
+        console.warn(`Could not load category articles for ${category}`);
     }
 
     // Determine Previous and Next Articles
@@ -99,7 +99,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const prevArticle = curIndex > 0 ? categoryArticles[curIndex - 1] : null;
     const nextArticle = curIndex !== -1 && curIndex < categoryArticles.length - 1 ? categoryArticles[curIndex + 1] : null;
 
-    // Get Related Posts (Exclude current, limit to 5)
+    // Get Related Posts (Exclude current, limit to 4)
     const relatedArticles = categoryArticles
         .filter((p: any) => p.slug !== slug)
         .slice(0, 4);
@@ -119,7 +119,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             <Navbar />
             <main className="container mx-auto max-w-6xl px-4 md:px-0 py-12">
                 <div className="flex flex-col lg:flex-row gap-12">
-                    {/* Main Content Column (2/3 width) */}
+                    {/* Main Content Column (3/4 width) */}
                     <div className="w-full lg:w-3/4">
                         <ArticleHeader
                             category={article.category}
@@ -142,11 +142,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                             <ArticleNavigation
                                 previous={prevArticle ? {
                                     title: prevArticle.title,
-                                    slug: prevArticle.slug
+                                    slug: prevArticle.slug,
+                                    category: category
                                 } : undefined}
                                 next={nextArticle ? {
                                     title: nextArticle.title,
-                                    slug: nextArticle.slug
+                                    slug: nextArticle.slug,
+                                    category: category
                                 } : undefined}
                             />
 
@@ -158,11 +160,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                                 bio={author.bio}
                             />
 
-                            <RelatedPosts posts={relatedArticles} />
+                            <RelatedPosts posts={relatedArticles} category={category} />
                         </div>
                     </div>
 
-                    {/* Sidebar Column (1/3 width) */}
+                    {/* Sidebar Column (1/4 width) */}
                     <div className="w-full lg:w-1/4">
                         <StickyBox offsetTop={50}>
                             <CategorySidebar
@@ -184,7 +186,23 @@ export async function generateStaticParams() {
     const articlesDirectory = path.join(process.cwd(), 'public/data/articles');
     const filenames = fs.readdirSync(articlesDirectory);
 
-    return filenames.map((filename) => ({
-        slug: filename.replace(/\.json$/, ''),
-    }));
+    const params: { category: string; slug: string }[] = [];
+
+    for (const filename of filenames) {
+        if (filename.endsWith('.json')) {
+            const slug = filename.replace('.json', '');
+            try {
+                const articleContent = fs.readFileSync(path.join(articlesDirectory, filename), 'utf8');
+                const article = JSON.parse(articleContent);
+                params.push({
+                    category: article.category.toLowerCase(),
+                    slug: slug,
+                });
+            } catch (e) {
+                console.error(`Error processing ${filename} for static params`, e);
+            }
+        }
+    }
+
+    return params;
 }

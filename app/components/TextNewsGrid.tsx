@@ -20,7 +20,7 @@ export default function TextNewsGrid({ items }: TextNewsGridProps) {
                     {items.map((item) => (
                         <Link
                             key={item.id}
-                            href={`/article/${item.slug}`}
+                            href={`/${(item.categories[0] || 'news').toLowerCase()}/${item.slug}`}
                             title={item.title}
                             className="group block py-6 px-0 md:px-6 first:pl-0 last:pr-0"
                         >

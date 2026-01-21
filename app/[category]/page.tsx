@@ -7,12 +7,12 @@ import categoriesData from "@/public/data/categories.json";
 import { notFound } from "next/navigation";
 
 interface CategoryPageProps {
-    params: Promise<{ slug: string }>;
+    params: Promise<{ category: string }>;
 }
 
 export async function generateMetadata({ params }: CategoryPageProps) {
-    const { slug } = await params;
-    const lowerSlug = slug.toLowerCase();
+    const { category: categorySlug } = await params;
+    const lowerSlug = categorySlug.toLowerCase();
 
     const categories = categoriesData as Record<string, { title: string; count: number; description: string }>;
     const category = categories[lowerSlug];
@@ -52,17 +52,14 @@ export async function generateMetadata({ params }: CategoryPageProps) {
 }
 
 export default async function CategoryPage({ params }: CategoryPageProps) {
-    const { slug } = await params;
-    const lowerSlug = slug.toLowerCase();
+    const { category: categorySlug } = await params;
+    const lowerSlug = categorySlug.toLowerCase();
 
     // Load category metadata
     const categories = categoriesData as Record<string, { title: string; count: number; description: string }>;
     const category = categories[lowerSlug];
 
     if (!category) {
-        // If the slug matches a known other page (handled by file system), next overrides. 
-        // But if it reaches here, it means it wasn't caught by other static routes.
-        // We ensure it is a valid category. Otherwise 404.
         notFound();
     }
 
@@ -119,7 +116,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
 // Generate static params for all defined categories
 export async function generateStaticParams() {
     const categories = Object.keys(categoriesData);
-    return categories.map((slug) => ({
-        slug: slug,
+    return categories.map((category) => ({
+        category: category,
     }));
 }

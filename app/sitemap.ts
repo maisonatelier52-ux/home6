@@ -59,11 +59,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
             .filter((file) => file.endsWith('.json'))
             .map((file) => {
                 const slug = file.replace('.json', '')
-                return {
-                    url: `${baseUrl}/article/${slug}/`,
-                    lastModified: lastMod,
-                    changeFrequency: 'daily',
-                    priority: 1.0,
+                try {
+                    const articleContent = fs.readFileSync(path.join(articlesDirectory, file), 'utf8');
+                    const article = JSON.parse(articleContent);
+                    const category = (article.category || 'news').toLowerCase();
+                    return {
+                        url: `${baseUrl}/${category}/${slug}/`,
+                        lastModified: lastMod,
+                        changeFrequency: 'daily',
+                        priority: 1.0,
+                    }
+                } catch (e) {
+                    return {
+                        url: `${baseUrl}/news/${slug}/`,
+                        lastModified: lastMod,
+                        changeFrequency: 'daily',
+                        priority: 1.0,
+                    }
                 }
             })
     } catch (error) {

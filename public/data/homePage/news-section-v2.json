@@ -57,14 +57,17 @@
         "bullets": [
             {
                 "title": "Yield Curve Inversion: What It Means for 2026",
+                "category": "Finance",
                 "slug": "bond-yields-invert-recession"
             },
             {
                 "title": "Inflation Data Beats Expectations",
+                "category": "Politics",
                 "slug": "global-summit-inflation-concerns"
             },
             {
                 "title": "Job Market Remains Resilient Despite Headwinds",
+                "category": "Tech",
                 "slug": "startup-funding-winter-thaws"
             }
         ]

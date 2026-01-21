@@ -23,7 +23,7 @@ interface CategoryMainGridProps {
 
 export default function CategoryMainGrid({ newsCards = [], recentPosts = [], tags = [] }: CategoryMainGridProps) {
     return (
-        <section className="py-12 bg-gray-50/50">
+        <section className="py-12">
             <div className="container mx-auto max-w-6xl px-4 md:px-0">
                 <div className="flex flex-col lg:flex-row gap-12">
                     {/* Left Column (3/4) */}

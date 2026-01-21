@@ -3,6 +3,7 @@ import Link from 'next/link';
 
 interface Post {
     title: string;
+    category?: string;
     slug: string;
 }
 
@@ -21,7 +22,7 @@ export default function RecentPosts({ posts = [] }: RecentPostsProps) {
                     <li key={i} className="flex gap-2 group cursor-pointer border-b border-gray-50 pb-3 last:border-none">
                         <span className="text-gray-600 font-serif leading-tight">»</span>
                         <Link
-                            href={`/article/${post.slug}`}
+                            href={`/${(post.category || 'news').toLowerCase()}/${post.slug}`}
                             className="text-[13px] font-bold text-gray-800 leading-tight group-hover:underline transition-all"
                         >
                             {post.title}

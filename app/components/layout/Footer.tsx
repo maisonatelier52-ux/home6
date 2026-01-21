@@ -13,11 +13,13 @@ export default function Footer() {
     const hotNews = [
         {
             author: "Jessica Wu",
+            category: "Tech",
             title: "Generative AI: Moving Beyond the Hype to Enterprise Reality",
             slug: "generative-ai-the-next-frontier"
         },
         {
             author: "Sarah Jenkins",
+            category: "Finance",
             title: "Federal Reserve Signals Slower Rate Cuts for 2026",
             slug: "fed-interest-rate-outlook"
         }
@@ -73,7 +75,7 @@ export default function Footer() {
                                         <span className="text-gray-400 font-bold">{news.author}</span>
                                     </div>
                                     <div className="w-[1px] bg-gray-800 h-10 self-center"></div>
-                                    <Link href={`/article/${news.slug}`} title={news.title}>
+                                    <Link href={`/${(news.category || 'news').toLowerCase()}/${news.slug}`} title={news.title}>
                                         <h3 className="text-sm font-bold leading-snug group-hover:underline text-gray-300 transition-colors">
                                             {news.title}
                                         </h3>

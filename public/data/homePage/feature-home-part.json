@@ -18,6 +18,7 @@
             "id": "mkt-1",
             "image": "/images/news/markets-1.webp",
             "author": "Jessica Wu",
+            "category": "Markets",
             "date": "Jan 21",
             "title": "Tech Stocks Rally as AI Adoption Accelerates in 2026",
             "slug": "tech-stocks-rally-ai"
@@ -26,6 +27,7 @@
             "id": "fin-1",
             "image": "/images/news/finance-1.webp",
             "author": "Sarah Jenkins",
+            "category": "Finance",
             "date": "Jan 20",
             "title": "Federal Reserve Signals Rate Strategy for Q1 2026",
             "slug": "fed-interest-rate-outlook"
@@ -34,6 +36,7 @@
             "id": "biz-1",
             "image": "/images/news/business-1.webp",
             "author": "Robert Miller",
+            "category": "Business",
             "date": "Jan 19",
             "title": "Merger Mania Hits the Industrial Sector",
             "slug": "merger-mania-industrial-sector"
@@ -42,6 +45,7 @@
             "id": "tech-1",
             "image": "/images/news/tech-1.webp",
             "author": "Jessica Wu",
+            "category": "Tech",
             "date": "Jan 18",
             "title": "Generative AI: Moving Beyond the Hype to Enterprise Reality",
             "slug": "generative-ai-the-next-frontier"
@@ -95,24 +99,28 @@
                 "title": "Generative AI: Moving Beyond the Hype to Enterprise Reality",
                 "date": "Jan 21, 2026",
                 "image": "/images/news/tech-1.webp",
+                "category": "Tech",
                 "slug": "generative-ai-the-next-frontier"
             },
             {
                 "title": "The Privacy Wars: Apple, Meta, and the Battle for Your Data",
                 "date": "Jan 15, 2026",
                 "image": "/images/news/tech-3.webp",
+                "category": "Tech",
                 "slug": "privacy-wars-apple-meta-regulators"
             },
             {
                 "title": "Luxury Real Estate: The New Era of Sustainable Mansions",
                 "date": "Jan 10, 2026",
                 "image": "/images/news/wealth-1.webp",
+                "category": "Wealth",
                 "slug": "luxury-real-estate-sustainable-mansions"
             },
             {
                 "title": "Tech Stocks Rally as AI Adoption Accelerates",
                 "date": "Jan 05, 2026",
                 "image": "/images/news/markets-1.webp",
+                "category": "Markets",
                 "slug": "tech-stocks-rally-ai"
             }
         ]

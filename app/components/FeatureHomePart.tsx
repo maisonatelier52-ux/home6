@@ -23,6 +23,7 @@ interface SidebarItem {
     id: string;
     image: string;
     author: string;
+    category: string;
     date: string;
     title: string;
     slug: string;
@@ -93,7 +94,7 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                         <div>
                             <p className="mb-4">{hero.excerptPart2}</p>
                             <Link
-                                href={`/article/${hero.slug}`}
+                                href={`/${(hero.category || 'news').toLowerCase()}/${hero.slug}`}
                                 title={hero.title}
                                 className="inline-flex items-center text-[11px] font-bold uppercase text-black hover:text-[#e43b3b] transition-colors mt-2"
                             >
@@ -111,7 +112,7 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                         {sidebarItems.map((item, index) => (
                             <Link
                                 key={item.id}
-                                href={`/article/${item.slug}`}
+                                href={`/${(item.category || 'news').toLowerCase()}/${item.slug}`}
                                 title={item.title}
                                 className={`group flex items-start gap-4 py-4`}
                             >

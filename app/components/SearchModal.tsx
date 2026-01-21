@@ -89,7 +89,7 @@ const SearchModal: React.FC<SearchModalProps> = ({ isOpen, onClose }) => {
                         {results.map((article) => (
                             <Link
                                 key={article.slug}
-                                href={`/article/${article.slug}`}
+                                href={`/${article.category.toLowerCase()}/${article.slug}`}
                                 title={`${article.title} – ${article.category} News`}
                                 onClick={onClose}
                                 className="block p-4 hover:bg-gray-900 border-b border-gray-800 transition"

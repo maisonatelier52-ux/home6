@@ -6,6 +6,7 @@ import { Zap } from 'lucide-react';
 
 interface NewsTickerItem {
     title: string;
+    category?: string;
     slug: string;
 }
 
@@ -32,7 +33,7 @@ export default function NewsTicker({ items }: NewsTickerProps) {
                         {displayItems.map((item, index) => (
                             <React.Fragment key={index}>
                                 <Link
-                                    href={`/article/${item.slug}`}
+                                    href={`/${(item.category || 'news').toLowerCase()}/${item.slug}`}
                                     title={item.title}
                                     className="text-xs font-semibold text-gray-700 hover:underline hover:text-red-700 transition-colors px-4"
                                 >

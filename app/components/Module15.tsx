@@ -5,6 +5,7 @@ import Image from 'next/image';
 interface Article {
     title: string;
     image: string;
+    category?: string;
     slug: string;
 }
 
@@ -48,7 +49,7 @@ export default function Module15({ title, description, articles }: Module15Props
                             />
                         </div>
                         <div className="flex-1">
-                            <Link href={`/article/${article.slug}`} title={article.title}>
+                            <Link href={`/${(article.category || title.red || 'news').toLowerCase()}/${article.slug}`} title={article.title}>
                                 <h3 className="text-[15px] font-bold font-serif leading-snug hover:underline text-gray-900 transition-colors">
                                     {article.title}
                                 </h3>

@@ -1,22 +1,27 @@
 [
     {
         "title": "Generative AI: Moving Beyond the Hype to Enterprise Reality",
+        "category": "Tech",
         "slug": "generative-ai-the-next-frontier"
     },
     {
         "title": "Quantum Computing Breakthrough: IBM and Google",
+        "category": "Tech",
         "slug": "quantum-computing-breakthrough-google-ibm"
     },
     {
         "title": "Trade Policy Shifts: Impact on Asian Markets",
+        "category": "Politics",
         "slug": "trade-policy-shifts-asia"
     },
     {
         "title": "Sustainable Supply Chains: The New Corporate Mandate",
+        "category": "Business",
         "slug": "sustainable-supply-chain-leaders"
     },
     {
         "title": "FinTech Disruption: The End of Traditional Banking?",
+        "category": "Finance",
         "slug": "fintech-disruption-traditional-banking"
     }
 ]
