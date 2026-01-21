@@ -4,13 +4,13 @@
         "image": "/images/news/politics-2.webp",
         "category": "POLITICS",
         "author": "MICHAEL CHEN",
-        "date": "OCT 22, 2025",
+        "date": "Jan 22, 2026",
         "views": "8.2K",
         "readTime": "6 MINS",
-        "title": "Trade Policy Shifts: Impact on Asian Markets",
+        "title": "Trade Policy 2026: A New Era for Asian Markets",
         "slug": "trade-policy-shifts-asia",
-        "excerpt": "A landmark trade agreement signed this week has signaled a significant shift in economic alliances across the Asian continent, potentially reshaping supply chains for the next decade. The signing ceremony in Singapore was more than just a photo opportunity; it marked the culmination of years of negotiation.",
-        "excerptPart2": "The new pact, dubbed the 'Pan-Asian Economic Framework,' brings together twelve nations in a bloc that represents nearly 30% of the global GDP. Analysts are calling this a geopolitical game-changer, building a more self-sustaining ecosystem by reducing reliance on Western markets.",
+        "excerpt": "As 2026 kicks off, a landmark trade agreement has signaled a significant shift in economic alliances across the Asian continent, potentially reshaping supply chains for the next decade.",
+        "excerptPart2": "The new pact, dubbed the 'Pan-Asian Economic Framework,' brings together twelve nations in a bloc that represents nearly 30% of the global GDP. Analysts are calling this a geopolitical game-changer.",
         "firstLetter": "A"
     },
     "sidebar": [
@@ -18,23 +18,23 @@
             "id": "mkt-1",
             "image": "/images/news/markets-1.webp",
             "author": "Jessica Wu",
-            "date": "Oct 24",
-            "title": "Tech Stocks Rally as AI Adoption Accelerates",
+            "date": "Jan 21",
+            "title": "Tech Stocks Rally as AI Adoption Accelerates in 2026",
             "slug": "tech-stocks-rally-ai"
         },
         {
             "id": "fin-1",
             "image": "/images/news/finance-1.webp",
             "author": "Sarah Jenkins",
-            "date": "Oct 24",
-            "title": "Federal Reserve Signals Slower Rate Cuts for 2026",
+            "date": "Jan 20",
+            "title": "Federal Reserve Signals Rate Strategy for Q1 2026",
             "slug": "fed-interest-rate-outlook"
         },
         {
             "id": "biz-1",
             "image": "/images/news/business-1.webp",
             "author": "Robert Miller",
-            "date": "Oct 24",
+            "date": "Jan 19",
             "title": "Merger Mania Hits the Industrial Sector",
             "slug": "merger-mania-industrial-sector"
         },
@@ -42,7 +42,7 @@
             "id": "tech-1",
             "image": "/images/news/tech-1.webp",
             "author": "Jessica Wu",
-            "date": "Oct 24",
+            "date": "Jan 18",
             "title": "Generative AI: Moving Beyond the Hype to Enterprise Reality",
             "slug": "generative-ai-the-next-frontier"
         }
@@ -55,7 +55,7 @@
             {
                 "category": "Politics",
                 "title": "Global Summit Addresses Rising Inflation Concerns",
-                "excerpt": "World leaders gathered today to discuss the pressing issue of rising global inflation. The summit focused on collaborative strategies to stabilize currencies and protect consumer purchasing power.",
+                "excerpt": "World leaders gathered today to discuss the pressing issue of rising global inflation. The summit focused on collaborative strategies to stabilize currencies.",
                 "slug": "global-summit-inflation-concerns"
             },
             {
@@ -93,25 +93,25 @@
         "recentPosts": [
             {
                 "title": "Generative AI: Moving Beyond the Hype to Enterprise Reality",
-                "date": "Oct 24, 2025",
+                "date": "Jan 21, 2026",
                 "image": "/images/news/tech-1.webp",
                 "slug": "generative-ai-the-next-frontier"
             },
             {
                 "title": "The Privacy Wars: Apple, Meta, and the Battle for Your Data",
-                "date": "Oct 20, 2025",
+                "date": "Jan 15, 2026",
                 "image": "/images/news/tech-3.webp",
                 "slug": "privacy-wars-apple-meta-regulators"
             },
             {
                 "title": "Luxury Real Estate: The New Era of Sustainable Mansions",
-                "date": "Oct 24, 2025",
+                "date": "Jan 10, 2026",
                 "image": "/images/news/wealth-1.webp",
                 "slug": "luxury-real-estate-sustainable-mansions"
             },
             {
                 "title": "Tech Stocks Rally as AI Adoption Accelerates",
-                "date": "Oct 24, 2025",
+                "date": "Jan 05, 2026",
                 "image": "/images/news/markets-1.webp",
                 "slug": "tech-stocks-rally-ai"
             }
