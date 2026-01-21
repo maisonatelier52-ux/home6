@@ -32,9 +32,9 @@ export default function ArticleAuthor({ name, bio, image, postsCount, role }: Ar
                     <span className="text-gray-400 text-xs font-bold tracking-wider">Published posts: {postsCount}</span>
                 </div>
 
-                <h3 className="text-2xl font-serif font-bold text-gray-900 mb-3">
+                <h2 className="text-2xl font-serif font-bold text-gray-900 mb-3">
                     {name}
-                </h3>
+                </h2>
 
                 <p className="text-gray-600 font-serif text-sm text-base leading-relaxed mb-4">
                     {bio}

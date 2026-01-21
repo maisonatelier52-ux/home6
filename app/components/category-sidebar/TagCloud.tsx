@@ -14,9 +14,9 @@ export default function TagCloud({ tags = [] }: TagCloudProps) {
 
     return (
         <div>
-            <h3 className="text-sm font-bold uppercase tracking-widest text-gray-900 mb-2 border-b border-gray-100 pb-2">
+            <h2 className="text-sm font-bold uppercase tracking-widest text-gray-900 mb-2 border-b border-gray-100 pb-2">
                 TAG
-            </h3>
+            </h2>
             <div className="flex flex-wrap gap-2">
                 {displayTags.map((tag, i) => (
                     <button key={i} className="px-3 py-1.5 border border-gray-300 text-[11px] font-bold text-gray-600 hover:bg-[#1a1a1a] hover:text-white hover:border-[#1a1a1a] transition-all duration-200 uppercase tracking-tighter">

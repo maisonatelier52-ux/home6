@@ -57,7 +57,6 @@ export default function Home() {
       <div className="max-w-6xl mx-auto ">
 
 
-        <h2 className="sr-only">Latest Highlights</h2>
         <TextNewsGrid items={textNewsData.textNews} />
 
         <FeatureWithSidebar

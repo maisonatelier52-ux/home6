@@ -36,9 +36,9 @@ export default function TextNewsGrid({ items }: TextNewsGridProps) {
                                 </div>
 
                                 {/* Title */}
-                                <h3 className="text-[15px] font-bold leading-snug text-gray-900 group-hover:underline decoration-2 decoration-gray-900 font-serif">
+                                <h2 className="text-[15px] font-bold leading-snug text-gray-900 group-hover:underline decoration-2 decoration-gray-900 font-serif">
                                     {item.title}
-                                </h3>
+                                </h2>
                             </div>
                         </Link>
                     ))}

@@ -33,7 +33,7 @@ export default function NewsSectionFiveCols({ data }: NewsSectionFiveColsProps) 
                                     <img
                                         src={col.image}
                                         alt="Feature Graphic"
-                                        className="w-full h-full object-contain grayscale opacity-80 hover:grayscale-0 hover:opacity-100 transition-all duration-700"
+                                        className="w-full h-full object-contain opacity-80 hover:grayscale-0 hover:opacity-100 transition-all duration-700"
                                     />
                                 </div>
                             ) : (
