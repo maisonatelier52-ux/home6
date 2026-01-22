@@ -8,22 +8,30 @@
         {
             "id": "mkt-1",
             "date": "Jan 21, 2026",
-            "title": "Tech Stocks Rally as AI Adoption Accelerates"
+            "title": "Tech Stocks Rally as AI Adoption Accelerates",
+            "slug": "tech-stocks-rally-ai",
+            "category": "Markets"
         },
         {
             "id": "fin-1",
             "date": "Jan 20, 2026",
-            "title": "Federal Reserve Signals Slower Rate Cuts for 2026"
+            "title": "Federal Reserve Signals Slower Rate Cuts for 2026",
+            "slug": "fed-interest-rate-outlook",
+            "category": "Finance"
         },
         {
             "id": "biz-1",
             "date": "Jan 19, 2026",
-            "title": "Merger Mania Hits the Industrial Sector"
+            "title": "Merger Mania Hits the Industrial Sector",
+            "slug": "merger-mania-industrial-sector",
+            "category": "Business"
         },
         {
             "id": "pol-2",
             "date": "Jan 18, 2026",
-            "title": "Trade Policy Shifts: Impact on Asian Markets"
+            "title": "Trade Policy Shifts: Impact on Asian Markets",
+            "slug": "trade-policy-shifts-asia",
+            "category": "Politics"
         }
     ],
     "articleList": {

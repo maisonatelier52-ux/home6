@@ -1,10 +1,12 @@
-import React from 'react';
+import Link from 'next/link';
 import SidebarArticleList from './SidebarArticleList';
 
 interface ModuleItem {
     id: string;
     date: string;
     title: string;
+    slug?: string;
+    category?: string;
 }
 
 interface SidebarFormAndListProps {
@@ -88,9 +90,17 @@ export default function SidebarFormAndList({ moduleData, hotPeoples }: SidebarFo
 
                             <div className="flex flex-col">
                                 <span className="text-gray-400 text-xs mb-1">{item.date}</span>
-                                <h3 className="text-gray-800 font-bold leading-snug hover:text-[#e43b3b] cursor-pointer transition-colors">
-                                    {item.title}
-                                </h3>
+                                {item.slug ? (
+                                    <Link href={`/${(item.category || 'news').toLowerCase()}/${item.slug}`} title={item.title}>
+                                        <h3 className="text-gray-800 font-bold leading-snug hover:text-[#e43b3b] transition-colors cursor-pointer">
+                                            {item.title}
+                                        </h3>
+                                    </Link>
+                                ) : (
+                                    <h3 className="text-gray-800 font-bold leading-snug hover:text-[#e43b3b] transition-colors">
+                                        {item.title}
+                                    </h3>
+                                )}
                             </div>
                         </div>
                     ))}
