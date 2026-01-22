@@ -166,7 +166,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
                     {/* Sidebar Column (1/4 width) */}
                     <div className="w-full lg:w-1/4">
-                        <StickyBox offsetTop={50}>
+                        <StickyBox offsetTop={10}>
                             <CategorySidebar
                                 recentPosts={recentPosts}
                                 tags={tags}

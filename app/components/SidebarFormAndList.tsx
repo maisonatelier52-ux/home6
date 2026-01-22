@@ -26,46 +26,14 @@ export default function SidebarFormAndList({ moduleData, hotPeoples }: SidebarFo
     return (
         <div className="w-full flex flex-col gap-8">
 
-            {/* 1. Contact Form */}
-            <div className="bg-[#f0f0f0] p-5">
-                <form className="flex flex-col gap-4">
-                    <div>
-                        <label className="block text-[#888888] text-sm mb-0">Your name</label>
-                        <input
-                            type="text"
-                            className="w-full bg-[#e6e6e6] border-none h-8 px-3 text-gray-700 focus:outline-none focus:ring-1 focus:ring-gray-300"
-                        />
-                    </div>
-                    <div>
-                        <label className="block text-[#888888] text-sm mb-0">Your email</label>
-                        <input
-                            type="email"
-                            className="w-full bg-[#e6e6e6] border-none h-8 px-3 text-gray-700 focus:outline-none focus:ring-1 focus:ring-gray-300"
-                        />
-                    </div>
-                    <div>
-                        <label className="block text-[#888888] text-sm mb-0">Subject</label>
-                        <input
-                            type="text"
-                            className="w-full bg-[#e6e6e6] border-none h-8 px-3 text-gray-700 focus:outline-none focus:ring-1 focus:ring-gray-300"
-                        />
-                    </div>
-                    <div>
-                        <label className="block text-[#888888] text-sm mb-0">Your message (optional)</label>
-                        <textarea
-                            rows={6}
-                            className="w-full bg-[#e6e6e6] border-none p-3 text-gray-700 resize-none focus:outline-none focus:ring-1 focus:ring-gray-300 relative"
-                        />
-                        {/* The little resize handle icon is typically standard browser behavior or custom, ignoring for now as standard textarea usually has it */}
-                    </div>
 
-                    <button
-                        type="submit"
-                        className="bg-[#1a1a1a] text-white py-1 px-6 text-sm font-medium hover:bg-black transition-colors w-full mt-0"
-                    >
-                        Submit
-                    </button>
-                </form>
+            {/* 1. Advertisement */}
+            <div className="w-full overflow-hidden group cursor-pointer">
+                <img
+                    src="/images/add3-svg.svg"
+                    alt="Advertisement"
+                    className="w-full h-auto"
+                />
             </div>
 
             {/* 2. Module Enambelas */}

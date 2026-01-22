@@ -12,7 +12,6 @@ interface CategorySidebarProps {
 export default function CategorySidebar({ recentPosts = [], tags = [] }: CategorySidebarProps) {
     return (
         <div className="flex flex-col gap-10">
-            <SearchBar />
             <RecentPosts posts={recentPosts} />
             <AdvHere />
             <TagCloud tags={tags} />

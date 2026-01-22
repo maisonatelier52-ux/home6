@@ -1,7 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { Twitter, Facebook, Youtube } from 'lucide-react';
-import SidebarWeather from './SidebarWeather';
 import SidebarHotPeoples from './SidebarHotPeoples';
 
 interface Module7Article {
@@ -149,8 +148,14 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
             {/* Right Sidebar (Takes 1/3 width) */}
             <div className="lg:w-1/3">
                 <div className='md:border-l border-gray-300 pl-0 md:pl-4 h-full'>
-                    {/* Weather Card */}
-                    <SidebarWeather />
+                    {/* Advertisement */}
+                    <div className="w-full mb-8 overflow-hidden group cursor-pointer">
+                        <img
+                            src="/images/add2-svg.svg"
+                            alt="Advertisement"
+                            className="w-full h-auto"
+                        />
+                    </div>
 
                     {/* Hot Peoples */}
                     <SidebarHotPeoples items={hotPeoples} />
