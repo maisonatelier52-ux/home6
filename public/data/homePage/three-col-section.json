@@ -105,24 +105,24 @@
         "description": "Strategies for capital preservation and high-alpha returns in a volatile global economy.",
         "articles": [
             {
-                "title": "The Rise of Private Family Offices",
-                "image": "/images/news/wealth-3.webp",
-                "slug": "rise-private-family-offices"
+                "slug": "family-office-trends-2026",
+                "title": "Family Office 2.0: Managing Legacy in a Turbulent Century",
+                "image": "/images/news/wealth-3.webp"
             },
             {
-                "title": "Superyachts and Sustainability: A Paradox?",
-                "image": "/images/news/wealth-4.webp",
-                "slug": "superyachts-sustainability-paradox"
+                "slug": "luxury-yachting-sustainable-shifts",
+                "title": "The Rise of the Zero-Emission Superyacht",
+                "image": "/images/news/wealth-4.webp"
             },
             {
-                "title": "Fine Art Market Trends: Digital Provenance and AI",
-                "image": "/images/news/wealth-2.webp",
-                "slug": "collecting-future-digital-art-nfts"
+                "slug": "longevity-science-ultimate-investment",
+                "title": "Longevity Science: The Ultimate Wealth Investment",
+                "image": "/images/news/wealth-5.webp"
             },
             {
-                "title": "Bio-Hacking and Longevity: The Ultimate Investment",
-                "image": "/images/news/wealth-5.webp",
-                "slug": "bio-hacking-longevity-ultimate-investment"
+                "slug": "art-market-digital-provenance",
+                "title": "The Art Market 2.0: Digital Provenance and Rarity",
+                "image": "/images/news/wealth-2.webp"
             }
         ]
     },

@@ -128,15 +128,15 @@
     "hotPeoples": [
         {
             "category": "Wealth",
-            "title": "Collecting the Future: Digital Art and NFTs",
-            "image": "/images/news/wealth-2.webp",
-            "slug": "collecting-future-digital-art-nfts"
+            "slug": "luxury-real-estate-hidden-hubs",
+            "title": "Beyond Dubai and Monaco: The New Luxury Real Estate Hubs",
+            "image": "/images/news/wealth-1.webp"
         },
         {
             "category": "Wealth",
-            "title": "The Rise of Private Family Offices",
-            "image": "/images/news/wealth-3.webp",
-            "slug": "rise-private-family-offices"
+            "slug": "art-market-digital-provenance",
+            "title": "The Art Market 2.0: Digital Provenance and Rarity",
+            "image": "/images/news/wealth-2.webp"
         }
     ]
 }
