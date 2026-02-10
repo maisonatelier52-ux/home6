@@ -31,7 +31,7 @@ export default function ArticleHeader({
                         {category}
                     </Link>
                 </div>
-                <div className="flex items-center gap-4 text-gray-400">
+                <div className="hidden md:flex items-center gap-4 text-gray-400">
                     <span className="flex items-center gap-1">| {views} Views</span>
                     <span className="flex items-center gap-1">| {readTime}</span>
                     <span className="flex items-center gap-1">| <span className="text-gray-800 underline underline-offset-4">{comments} Comments</span></span>
