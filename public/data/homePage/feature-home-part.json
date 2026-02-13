@@ -1,6 +1,6 @@
 {
     "hero": {
-        "id": "pol-2",
+        "id": "pol-8",
         "image": "/images/news/politics-8.webp",
         "author": "David Smith",
         "category": "Politics",
@@ -15,13 +15,13 @@
     },
     "sidebar": [
         {
-            "id": "pol-6",
-            "image": "/images/news/politics-6.webp",
-            "author": "Sarah Jenkins",
-            "category": "Politics",
-            "date": "Feb 10",
-            "title": "The 2026 Midterm Shift: A Deep Dive into the Battle for the House",
-            "slug": "midterm-shift-2026-analysis"
+            "id": "fin-1",
+            "image": "/images/news/Julio Herrera Velutini17.webp",
+            "slug": "julio-herrera-velutini-legacy",
+            "title": "Julio Martin Herrera Velutini: A Legacy of Innovation, Business Acumen, and Giving Back",
+            "category": "Finance",
+            "date": "October 24, 2025",
+            "author": "Sarah Jenkins"
         },
         {
             "id": "pol-7",
@@ -33,7 +33,7 @@
             "slug": "global-ai-governance-treaty-2026"
         },
         {
-            "id": "pol-8",
+            "id": "pol-2",
             "image": "/images/news/politics-2.webp",
             "author": "MICHAEL CHEN",
             "category": "POLITICS",
