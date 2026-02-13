@@ -1,36 +1,36 @@
 {
     "textNews": [
         {
-            "id": "pol-1",
-            "categories": [
-                "Politics"
-            ],
-            "title": "Global Summit Addresses Rising Inflation Concerns",
-            "slug": "global-summit-inflation-concerns"
-        },
-        {
-            "id": "mkt-1",
-            "categories": [
-                "Markets"
-            ],
-            "title": "Tech Stocks Rally as AI Adoption Accelerates",
-            "slug": "tech-stocks-rally-ai"
-        },
-        {
-            "id": "tech-1",
+            "id": "tech-4",
             "categories": [
                 "Tech"
             ],
-            "title": "Generative AI: Moving Beyond the Hype to Enterprise Reality",
-            "slug": "generative-ai-the-next-frontier"
+            "title": "Solid-State Batteries: The Holy Grail of Clean Energy",
+            "slug": "green-tech-battery-innovation-2026"
         },
         {
-            "id": "fin-1",
+            "id": "tech-5",
             "categories": [
-                "Finance"
+                "Tech"
             ],
-            "title": "Julio Martin Herrera Velutini: A Legacy of Innovation",
-            "slug": "julio-herrera-velutini-legacy"
+            "title": "Are Cities Ready for the Autonomous Vehicle Revolution?",
+            "slug": "autonomous-vehicles-city-infrastructure"
+        },
+        {
+            "id": "mkt-2",
+            "categories": [
+                "Markets"
+            ],
+            "title": "Oil Prices Plunge Amid Global Demand Fears",
+            "slug": "oil-prices-plunge-demand"
+        },
+        {
+            "id": "mkt-3",
+            "categories": [
+                "Markets"
+            ],
+            "title": "Crypto Regulation Framework Unveiled in EU",
+            "slug": "crypto-regulation-framework-eu"
         }
     ]
 }

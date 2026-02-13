@@ -27,11 +27,11 @@
             "category": "Business"
         },
         {
-            "id": "pol-2",
+            "id": "tech-1",
             "date": "Jan 18, 2026",
-            "title": "Trade Policy Shifts: Impact on Asian Markets",
-            "slug": "trade-policy-shifts-asia",
-            "category": "Politics"
+            "title": "Generative AI: Moving Beyond the Hype to Enterprise Reality",
+            "slug": "generative-ai-the-next-frontier",
+            "category": "Tech"
         }
     ],
     "articleList": {
@@ -41,28 +41,28 @@
         },
         "articles": [
             {
-                "category": "Politics",
-                "title": "Global Summit Addresses Rising Inflation Concerns",
-                "excerpt": "World leaders gathered today to discuss the pressing issue of rising global inflation and collaborative strategies to stabilize currencies.",
-                "slug": "global-summit-inflation-concerns"
+                "category": "Tech",
+                "title": "The Privacy Wars: Apple, Meta, and Regulators",
+                "excerpt": "New EU regulations are forcing big tech firms to overhaul their advertising models.",
+                "slug": "privacy-wars-apple-meta-regulators"
             },
             {
-                "category": "Politics",
-                "title": "Election Polling: New Data Suggests Shifting Demographics",
-                "excerpt": "The latest polling data reveals significant shifts in voter behavior, with younger demographics prioritizing climate policy.",
-                "slug": "election-polling-demographics-shift"
+                "category": "Wealth",
+                "title": "Luxury Real Estate: The New Era of Sustainable Mansions",
+                "excerpt": "Ultra-high-net-worth individuals are flocking to tertiary cities and remote retreats.",
+                "slug": "luxury-real-estate-sustainable-mansions"
             },
             {
-                "category": "Politics",
-                "title": "Federal Budget: Infrastructure Focus for 2026",
-                "excerpt": "The new budget proposal prioritizes green energy infrastructure and high-speed rail development across major corridors.",
-                "slug": "federal-budget-infrastructure-2026"
+                "category": "Wealth",
+                "title": "The Art Market 2.0: Digital Provenance and Rarity",
+                "excerpt": "Blockchain is becoming the gold standard for tracking physical masterpieces.",
+                "slug": "art-market-digital-provenance"
             },
             {
-                "category": "Business",
-                "title": "Cross-Border Regulatory Alignment on AI",
-                "excerpt": "International regulators are moving towards a shared framework for AI ethics and safety to prevent market fragmentation.",
-                "slug": "ai-regulatory-alignment-global"
+                "category": "Tech",
+                "title": "Quantum Computing Breakthrough: IBM and Google",
+                "excerpt": "Researchers have independently achieved a record 1,000-qubit threshold.",
+                "slug": "quantum-computing-breakthrough-google-ibm"
             }
         ]
     }

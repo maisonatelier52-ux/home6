@@ -5,60 +5,60 @@
     },
     "articles": [
         {
-            "id": "wlt-1",
-            "author": "MARK STEVENS",
-            "date": "Jan 21, 2026",
-            "title": "Luxury Real Estate: The New Era of Sustainable Mansions",
-            "slug": "luxury-real-estate-sustainable-mansions"
+            "id": "wth-6",
+            "author": "Michael Chen",
+            "date": "Feb 12, 2026",
+            "title": "The 'New Hubs' of Global Wealth: Digital Nomad Elite",
+            "slug": "digital-nomad-elite-wealth-hubs-2026"
         },
         {
-            "id": "wlt-2",
-            "author": "ALEX THORNE",
-            "date": "Jan 1, 2026",
-            "title": "Collecting the Future: Digital Art and NFTs",
-            "slug": "collecting-future-digital-art-nfts"
+            "id": "wth-7",
+            "author": "Michael Chen",
+            "date": "Jan 28, 2026",
+            "title": "Family Offices in 2026: Shifting to Planetary Impact",
+            "slug": "family-offices-planetary-impact-2026"
         },
         {
-            "id": "wlt-3",
-            "author": "MARK STEVENS",
-            "date": "Jan 14, 2026",
-            "title": "The Rise of Private Family Offices",
-            "slug": "rise-private-family-offices"
+            "id": "wth-8",
+            "author": "Michael Chen",
+            "date": "Feb 08, 2026",
+            "title": "Luxury Real Estate 2026: 'Climate-Proof' Sanctuaries",
+            "slug": "climate-proof-luxury-real-estate-2026"
         },
         {
-            "id": "wlt-4",
-            "author": "SARAH JENKINS",
-            "date": "Jan 7, 2026",
-            "title": "Superyachts and Sustainability: A Paradox?",
-            "slug": "superyachts-sustainability-paradox"
+            "id": "nat-5",
+            "author": "Sarah Jenkins",
+            "date": "Feb 01, 2026",
+            "title": "The Secret Life of the Deep: New Species in Mariana Trench",
+            "slug": "mariana-trench-new-species-2026"
         },
         {
-            "id": "wlt-5",
-            "author": "JESSICA WU",
-            "date": "Jan 15, 2026",
-            "title": "Bio-Hacking and Longevity: The Ultimate Investment",
-            "slug": "bio-hacking-longevity-ultimate-investment"
+            "id": "nat-6",
+            "author": "Sarah Jenkins",
+            "date": "Jan 20, 2026",
+            "title": "Reforestation 2.0: AI-Drones Planting 1 Billion Trees",
+            "slug": "ai-drones-reforestation-2026"
         },
         {
-            "id": "wlt-6",
-            "author": "SARAH JENKINS",
-            "date": "Jan 7, 2026",
-            "title": "Superyachts and Sustainability: A Paradox?",
-            "slug": "superyachts-sustainability-paradox"
+            "id": "nat-7",
+            "author": "Sarah Jenkins",
+            "date": "Feb 10, 2026",
+            "title": "The Plastic-Eating Enzyme: Scaling Global Ocean Clean-up",
+            "slug": "plastic-eating-enzyme-ocean-clean-up-2026"
         },
         {
-            "id": "wlt-7",
-            "author": "MARK STEVENS",
-            "date": "Jan 15, 2026",
-            "title": "The Rise of Private Family Offices",
-            "slug": "rise-private-family-offices"
+            "id": "nat-8",
+            "author": "Sarah Jenkins",
+            "date": "Feb 12, 2026",
+            "title": "Vertical Forests: The Rise of the 'Living Skyscraper'",
+            "slug": "vertical-forests-living-skyscrapers-2026"
         },
         {
-            "id": "wlt-8",
-            "author": "ALEX THORNE",
-            "date": "Jan 1, 2026",
-            "title": "Collecting the Future: Digital Art and NFTs",
-            "slug": "collecting-future-digital-art-nfts"
+            "id": "cul-6",
+            "author": "Sarah Jenkins",
+            "date": "Feb 12, 2026",
+            "title": "FIFA World Cup 2026: Global Stage for North America",
+            "slug": "fifa-world-cup-2026-preview"
         }
     ]
 }

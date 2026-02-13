@@ -10,80 +10,80 @@
         },
         "articles": [
             {
-                "category": "Finance",
-                "title": "Julio Martin Herrera Velutini: A Legacy of Innovation",
-                "excerpt": "Julio Herrera Velutini is a well-known person in Venezuela's economic sector, and he has a big effect on the country's economy.",
-                "slug": "julio-herrera-velutini-legacy"
+                "category": "Culture",
+                "title": "The Metaverse Migration: Digital Festivals in 2026",
+                "excerpt": "In 2026, the line between physical and digital culture has blurred as digital festivals go mainstream.",
+                "slug": "metaverse-festivals-culture-2026"
+            },
+            {
+                "category": "Culture",
+                "title": "Restitution and Reconciliation: Global Museum Reform",
+                "excerpt": "A historic international agreement in 2026 has set the stage for massive restitution of artifacts.",
+                "slug": "global-museum-reform-restitution-2026"
             },
             {
                 "category": "Finance",
-                "title": "Savings Strategies in a High-Interest Environment",
-                "excerpt": "From high-yield savings accounts to laddered CDs, discover how to maximize returns on your cash reserves.",
-                "slug": "personal-finance-high-yield-savings"
-            },
-            {
-                "category": "Finance",
-                "title": "Deciphering the Bond Market: A Guide for Investors",
-                "excerpt": "Understanding the inverse relationship between prices and yields is critical in the current economic cycle.",
-                "slug": "bond-yields-invert-recession"
-            },
-            {
-                "category": "Finance",
-                "title": "Tax Planning for the Next Fiscal Year",
-                "excerpt": "Early preparation is key to optimizing your tax liability and taking advantage of new exemption thresholds.",
+                "title": "Pension Reform: Tackling the Impending Global Crisis",
+                "excerpt": "Aging populations and underfunded public pensions are forcing governments to consider radical shifts.",
                 "slug": "pension-reform-global-crisis"
             },
             {
                 "category": "Finance",
-                "title": "The Evolution of Digital Currencies",
-                "excerpt": "Sovereign digital currencies are moving from pilot phases to real-world deployment across major economies.",
-                "slug": "crypto-regulation-framework-eu"
+                "title": "FinTech Disruption and the Survival of Traditional Banks",
+                "excerpt": "Neobanks are capturing record market share among Gen Z, forcing legacy institutions to transform.",
+                "slug": "fintech-disruption-traditional-banking"
+            },
+            {
+                "category": "Finance",
+                "title": "Real Estate Investment Strategies for the New Era",
+                "excerpt": "Residential markets are cooling while industrial and data center properties are booming in 2026.",
+                "slug": "real-estate-investment-strategies-2026"
             }
         ]
     },
     "col2": {
         "hero": {
-            "category": "FINANCE",
-            "title": "Julio Martin Herrera Velutini: A Legacy of Innovation",
-            "intro": "Julio Herrera Velutini is a well-known person in Venezuela's economic sector, and he has a big effect on the country's economy and financial industry. His reputation as a great leader in banking and finance comes mostly from developing and running the Bancrédito Financial Group.",
-            "author": "Sarah Jenkins",
-            "role": "Economic Analyst",
-            "date": "Oct 24, 2025",
-            "contentLeft": "His life story shows how important it is to have a leader who can see the broad picture and adapt to new situations.",
-            "contentRight": "Under Velutini's direction, the bank became known for offering helpful, tech-based solutions that made banking easier for both customers and companies.\n\nGoing digital was one of Bancrédito's biggest successes.",
-            "image": "/images/news/Julio Herrera Velutini17.webp",
-            "slug": "julio-herrera-velutini-legacy"
+            "category": "Politics",
+            "title": "Senate Passes Landmark Infrastructure Bill",
+            "intro": "In a rare display of bipartisan unity, the Senate has passed a comprehensive infrastructure bill aimed at modernizing the nation's transportation network and energy grid for the next decade.",
+            "author": "Emily Rodriguez",
+            "role": "Political Analyst",
+            "date": "Jan 03, 2026",
+            "contentLeft": "The bill includes $1.2 trillion in new spending over five years, focusing on climate resilience and broadband.",
+            "contentRight": "Analysts say this represents the most significant investment in American power since the mid-20th century.\n\nThe bill now heads to the President's desk for signing.",
+            "image": "/images/news/politics-4.webp",
+            "slug": "senate-passes-infrastructure-bill"
         },
         "bullets": [
             {
-                "title": "Yield Curve Inversion: What It Means for 2026",
-                "category": "Finance",
-                "slug": "bond-yields-invert-recession"
+                "title": "Sustainable Supply Chains: The New Corporate Mandate",
+                "category": "Business",
+                "slug": "sustainable-supply-chain-leaders"
             },
             {
-                "title": "Inflation Data Beats Expectations",
-                "category": "Politics",
-                "slug": "global-summit-inflation-concerns"
+                "title": "The Subtle Art of Cultural Expression in Modern Era",
+                "category": "Culture",
+                "slug": "subtle-art-cultural-expression"
             },
             {
-                "title": "Job Market Remains Resilient Despite Headwinds",
-                "category": "Tech",
-                "slug": "startup-funding-winter-thaws"
+                "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
+                "category": "Culture",
+                "slug": "timmediately-quail-was-inverse"
             }
         ]
     },
     "col3": {
         "hero": {
-            "category": "FINANCE",
-            "title": "Savings Strategies in a High-Interest Environment",
-            "intro": "For the first time in a generation, 'cash is king' as risk-free returns reach levels not seen since the early 2000s.",
-            "author": "Mark Stevens",
-            "role": "Wealth Manager",
-            "date": "Jan 15, 2026",
-            "contentLeft": "High-yield savings accounts are now yielding over 5% annually, providing a safe haven for capital.",
-            "contentRight": "Experts suggest locking in these rates now before the central bank begins its late-2026 easing cycle.\n\nDiversification into short-term treasuries remains a popular play.",
-            "image": "/images/news/finance-2.webp",
-            "slug": "personal-finance-high-yield-savings"
+            "category": "CULTURE",
+            "title": "Traditional Music in the Heart of Globalized World",
+            "intro": "In an increasingly connected world, traditional music faces both challenges and opportunities.",
+            "author": "Maxin Dalton",
+            "role": "Culture Blogger",
+            "date": "Jan 14, 2026",
+            "contentLeft": "Globalization can lead to the homogenization of sound, but also provides new platforms for regional artists.",
+            "contentRight": "New digital archives are preserving ancient melodies for the 2020s generation.\n\nMusic festivals are seeing a revival of ethnic genres.",
+            "image": "/images/oldmen.webp",
+            "slug": "traditional-music-globalized-world"
         }
     }
 }

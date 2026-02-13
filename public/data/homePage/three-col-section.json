@@ -1,15 +1,15 @@
 {
     "hero": {
-        "category": "MARKETS",
-        "title": "Quantum Computing Breakthrough: IBM and Google Close the Gap",
-        "intro": "Researchers have achieved a record 1,000-qubit threshold with error correction, bringing us one step closer to a cryptographically relevant quantum computer. The implications for financial modeling and cryptosecurity are profound, marking a new chapter in computational finance.",
-        "author": "Alex Thorne",
-        "role": "Tech Strategist",
-        "date": "Jan 13, 2026",
-        "contentLeft": "The achievement represents a 10x increase in reliable qubit density compared to last year's benchmarks.",
-        "contentRight": "IBM and Google are both racing to achieve commercial-grade quantum advantage within the next five years.",
-        "image": "/images/news/tech-2.webp",
-        "slug": "quantum-computing-breakthrough-google-ibm"
+        "category": "POLITICS",
+        "title": "Diplomatic Tensions Ease After High-Level Talks",
+        "intro": "Months of escalating rhetoric appear to be cooling down following a series of high-level diplomatic meetings held in Geneva this weekend between major global powers.",
+        "author": "David Smith",
+        "role": "Diplomatic Correspondent",
+        "date": "Jan 09, 2026",
+        "contentLeft": "The focus was on long-term stability and de-escalation in key contested regions.",
+        "contentRight": "A joint statement released early Sunday morning highlighted several areas of mutual agreement.\n\nMarkets have reacted positively to the news of the breakthrough.",
+        "image": "/images/news/politics-1.webp",
+        "slug": "diplomatic-tensions-ease"
     },
     "sportNews": {
         "title": {
@@ -19,27 +19,27 @@
         "articles": [
             {
                 "category": "Markets",
-                "title": "Oil Prices Surge Amid Geopolitical Tensions in the Middle East",
-                "excerpt": "Global energy markets are on edge as supply chain concerns mount, driving crude prices to an 18-month high.",
-                "slug": "oil-prices-plunge-demand"
+                "title": "Election Year Uncertainty Rattles Market Confidence",
+                "excerpt": "As the election year approaches, market volatility has increased as investors eye campaign promises.",
+                "slug": "election-uncertainty-markets"
             },
             {
-                "category": "Markets",
-                "title": "Bitcoin Hits New Milestone as Institutional Interest Grows",
-                "excerpt": "Digital assets are seeing a resurgence as major hedge funds allocate significant capital to crypto portfolios.",
-                "slug": "crypto-regulation-framework-eu"
+                "category": "Finance",
+                "title": "Excluding Well A Some Hummingbird Meticulous",
+                "excerpt": "Excluding well, some hummingbird meticulous in its approach to modern finance.",
+                "slug": "excluding-well-some"
             },
             {
-                "category": "Markets",
-                "title": "Julio Herrera Velutini's Legacy: A Banking Revolution",
-                "excerpt": "Velutini's deep knowledge and strong desire for good change have totally changed the financial sector.",
-                "slug": "julio-herrera-velutini-legacy"
+                "category": "Politics",
+                "title": "Federal Budget: Infrastructure Focus for 2026",
+                "excerpt": "The new budget proposal prioritizes green energy infrastructure and high-speed rail development.",
+                "slug": "federal-budget-infrastructure-2026"
             },
             {
-                "category": "Markets",
-                "title": "Gold: The Safe Haven Play of the Decade?",
-                "excerpt": "Precious metals are outperforming equities as investors seek a hedge against prolonged global inflation.",
-                "slug": "gold-hits-record-high-safe-haven"
+                "category": "Business",
+                "title": "Cross-Border Regulatory Alignment on AI",
+                "excerpt": "International regulators are moving towards a shared framework for AI ethics.",
+                "slug": "ai-regulatory-alignment-global"
             }
         ]
     },
@@ -51,20 +51,20 @@
         "description": "Stay updated with real-time alerts from our global newsroom tracking the most significant economic shifts.",
         "timeline": [
             {
-                "time": "Jan 7, 2026",
-                "text": "Generative AI: Moving Beyond the Hype to Enterprise Reality"
+                "time": "Jan 18, 2026",
+                "text": "Beyond Dubai and Monaco: The New Luxury Real Estate Hubs"
             },
             {
-                "time": "Oct 24, 2025",
-                "text": "Julio Martin Herrera Velutini: A Legacy of Innovation"
+                "time": "Jan 01, 2026",
+                "text": "Collecting the Future: Digital Art and NFTs"
             },
             {
-                "time": "Jan 6, 2026",
-                "text": "Merger Mania Hits the Industrial Sector"
+                "time": "Jan 14, 2026",
+                "text": "The Rise of Private Family Offices"
             },
             {
-                "time": "Jan 11, 2026",
-                "text": "Luxury Real Estate: The New Era of Sustainable Mansions"
+                "time": "Jan 07, 2026",
+                "text": "Superyachts and Sustainability: A Paradox?"
             }
         ]
     },
@@ -75,25 +75,25 @@
         },
         "articles": [
             {
-                "category": "Business",
-                "title": "Startup Funding Winter Thaws: Venture Capital Returns",
-                "image": "/images/news/business-2.webp",
-                "excerpt": "After a quiet 24 months, VCs are aggressively deploying dry powder into high-growth specialized AI startups.",
-                "slug": "startup-funding-winter-thaws"
+                "category": "Wealth",
+                "title": "Bio-Hacking and Longevity: The Ultimate Investment",
+                "image": "/images/news/wealth-5.webp",
+                "excerpt": "Billionaires are funnelling record sums into biogerontology, hoping to turn back the clock with personalized therapies.",
+                "slug": "bio-hacking-longevity-ultimate-investment"
             },
             {
-                "category": "Business",
-                "title": "Remote Work Productivity Debate: The CEO Mandate",
-                "image": "/images/news/business-3.webp",
-                "excerpt": "Fortune 500 leaders are increasingly calling employees back to the office, citing cultural erosion and slower innovation.",
-                "slug": "remote-work-productivity-debate"
+                "category": "Finance",
+                "title": "Maximizing Returns in a High-Yield Environment",
+                "image": "/images/news/finance-2.webp",
+                "excerpt": "With benchmark rates sitting at decade highs, we explore the best strategies for retail investors.",
+                "slug": "personal-finance-high-yield-savings"
             },
             {
-                "category": "Business",
-                "title": "Retail Giants Pivot to Omnichannel Strategy",
-                "image": "/images/news/business-4.webp",
-                "excerpt": "The line between e-commerce and physical retail continues to blur as giants invest billions in logistics integration.",
-                "slug": "retail-giants-omnichannel-strategy"
+                "category": "Markets",
+                "title": "Bond Yields Invert Signaling Recession Risk",
+                "image": "/images/news/markets-3.webp",
+                "excerpt": "The spread between the 2-year and 10-year Treasury yields has reached its deepest level in four decades.",
+                "slug": "bond-yields-invert-recession"
             }
         ]
     },
@@ -120,9 +120,9 @@
                 "image": "/images/news/wealth-5.webp"
             },
             {
-                "slug": "art-market-digital-provenance",
-                "title": "The Art Market 2.0: Digital Provenance and Rarity",
-                "image": "/images/news/wealth-2.webp"
+                "slug": "startup-funding-winter-thaws",
+                "title": "Is the Startup Funding Winter Finally Thawing?",
+                "image": "/images/news/business-2.webp"
             }
         ]
     },
@@ -133,22 +133,22 @@
         },
         "articles": [
             {
-                "category": "Politics",
-                "title": "Trade Policy Shifts: Impact on Asian Markets",
-                "image": "/images/news/politics-2.webp",
-                "slug": "trade-policy-shifts-asia"
+                "category": "Business",
+                "title": "The Great Remote Work Productivity Debate Intensifies",
+                "image": "/images/news/business-3.webp",
+                "slug": "remote-work-productivity-debate"
             },
             {
-                "category": "Finance",
-                "title": "Savings Strategies in a High-Interest Environment",
-                "image": "/images/news/finance-2.webp",
-                "slug": "personal-finance-high-yield-savings"
+                "category": "Business",
+                "title": "Retail Giants Pivot to Advanced Omnichannel Strategies",
+                "image": "/images/news/business-4.webp",
+                "slug": "retail-giants-omnichannel-strategy"
             },
             {
-                "category": "Tech",
-                "title": "The Privacy Wars: Apple, Meta, and Regulators",
-                "image": "/images/news/tech-3.webp",
-                "slug": "privacy-wars-apple-meta-regulators"
+                "category": "Culture",
+                "title": "Ancient Architecture and Its Influence on Modern Design",
+                "image": "/images/clockhead.webp",
+                "slug": "ancient-architecture-modern-design"
             }
         ]
     }
