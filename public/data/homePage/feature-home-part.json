@@ -1,16 +1,16 @@
 {
     "hero": {
         "id": "pol-2",
-        "image": "/images/news/politics-2.webp",
-        "category": "POLITICS",
-        "author": "MICHAEL CHEN",
-        "date": "Jan 22, 2026",
+        "image": "/images/news/politics-8.webp",
+        "author": "David Smith",
+        "category": "Politics",
+        "date": "Feb 01",
         "views": "8.2K",
         "readTime": "6 MINS",
-        "title": "Trade Policy 2026: A New Era for Asian Markets",
-        "slug": "trade-policy-shifts-asia",
-        "excerpt": "As 2026 kicks off, a landmark trade agreement has signaled a significant shift in economic alliances across the Asian continent, potentially reshaping supply chains for the next decade.",
-        "excerptPart2": "The new pact, dubbed the 'Pan-Asian Economic Framework,' brings together twelve nations in a bloc that represents nearly 30% of the global GDP. Analysts are calling this a geopolitical game-changer.",
+        "title": "The UN Leadership Transition: Predicting the Next SG",
+        "slug": "un-secretary-general-2026-prospects",
+        "excerpt": "s 2026 begins, the halls of the United Nations in New York and Geneva are buzzing with anticipation for the upcoming selection of the next Secretary-General. With the current term set to expire at the end of the year.",
+        "excerptPart2": "The selection process for the UN Secretary-General has historically been a shielded affair, dominated by the five permanent members of the Security Council. However, 2026 marks a significant step toward transparency.",
         "firstLetter": "A"
     },
     "sidebar": [
@@ -34,12 +34,12 @@
         },
         {
             "id": "pol-8",
-            "image": "/images/news/politics-8.webp",
-            "author": "David Smith",
-            "category": "Politics",
-            "date": "Feb 01",
-            "title": "The UN Leadership Transition: Predicting the Next SG",
-            "slug": "un-secretary-general-2026-prospects"
+            "image": "/images/news/politics-2.webp",
+            "author": "MICHAEL CHEN",
+            "category": "POLITICS",
+            "date": "Jan 22, 2026",
+            "title": "Trade Policy 2026: A New Era for Asian Markets",
+            "slug": "trade-policy-shifts-asia"
         },
         {
             "id": "tech-6",
