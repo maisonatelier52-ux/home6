@@ -69,7 +69,7 @@ export default function Footer() {
                             {tags.map((tag, index) => (
                                 <Link
                                     key={index}
-                                    href={`/tag/${tag.toLowerCase().replace(/ /g, '-')}`}
+                                    href={`/`}
                                     title={tag}
                                     className="px-3 py-1.5 border border-gray-800 text-[11px] uppercase tracking-wider hover:bg-white hover:text-black hover:border-white transition-all underline-offset-4 hover:underline"
                                 >
