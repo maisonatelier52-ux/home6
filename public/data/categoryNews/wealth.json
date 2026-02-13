@@ -1,5 +1,62 @@
 [
     {
+        "id": "wth-6",
+        "slug": "digital-nomad-elite-wealth-hubs-2026",
+        "title": "The 'New Hubs' of Global Wealth: Why 2026 is the Year of the Digital Nomad Elite",
+        "category": "Wealth",
+        "date": "February 12, 2026",
+        "author": "Michael Chen",
+        "views": "25k",
+        "readTime": "25 Mins",
+        "comments": 42,
+        "image": "/images/news/wealth-6.webp",
+        "excerpt": "Traditional wealth hubs are being challenged in 2026 by 'Digital Nomad Safe-Havens' that offer a combination of high-tech infrastructure and lifestyle...",
+        "tags": [
+            "Wealth",
+            "2026",
+            "Future",
+            "Evolution"
+        ]
+    },
+    {
+        "id": "wth-7",
+        "slug": "family-offices-planetary-impact-2026",
+        "title": "Family Offices in 2026: Shifting from Preservation to Planetary Impact",
+        "category": "Wealth",
+        "date": "January 28, 2026",
+        "author": "Michael Chen",
+        "views": "25k",
+        "readTime": "25 Mins",
+        "comments": 42,
+        "image": "/images/news/wealth-7.webp",
+        "excerpt": "Ultra-wealthy families are increasingly aligning their portfolios with 'Planetary Health' in 2026, viewing sustainability as the ultimate legacy...",
+        "tags": [
+            "Wealth",
+            "2026",
+            "Future",
+            "Evolution"
+        ]
+    },
+    {
+        "id": "wth-8",
+        "slug": "climate-proof-luxury-real-estate-2026",
+        "title": "Luxury Real Estate 2026: The Rise of 'Climate-Proof' Sanctuaries",
+        "category": "Wealth",
+        "date": "February 08, 2026",
+        "author": "Michael Chen",
+        "views": "25k",
+        "readTime": "25 Mins",
+        "comments": 42,
+        "image": "/images/news/wealth-8.webp",
+        "excerpt": "In 2026, the luxury real estate market is being redefined by 'Climate Resilience,' with the elite seeking properties that can withstand the future...",
+        "tags": [
+            "Wealth",
+            "2026",
+            "Future",
+            "Evolution"
+        ]
+    },
+    {
         "id": "wth-1",
         "slug": "luxury-real-estate-hidden-hubs",
         "title": "Beyond Dubai and Monaco: The New Luxury Real Estate Hubs",
@@ -92,63 +149,6 @@
             "Longevity",
             "Science",
             "Wealth"
-        ]
-    },
-    {
-        "id": "wth-6",
-        "slug": "digital-nomad-elite-wealth-hubs-2026",
-        "title": "The 'New Hubs' of Global Wealth: Why 2026 is the Year of the Digital Nomad Elite",
-        "category": "Wealth",
-        "date": "February 12, 2026",
-        "author": "Michael Chen",
-        "views": "25k",
-        "readTime": "25 Mins",
-        "comments": 42,
-        "image": "/images/news/wealth-6.webp",
-        "excerpt": "Traditional wealth hubs are being challenged in 2026 by 'Digital Nomad Safe-Havens' that offer a combination of high-tech infrastructure and lifestyle...",
-        "tags": [
-            "Wealth",
-            "2026",
-            "Future",
-            "Evolution"
-        ]
-    },
-    {
-        "id": "wth-7",
-        "slug": "family-offices-planetary-impact-2026",
-        "title": "Family Offices in 2026: Shifting from Preservation to Planetary Impact",
-        "category": "Wealth",
-        "date": "January 28, 2026",
-        "author": "Michael Chen",
-        "views": "25k",
-        "readTime": "25 Mins",
-        "comments": 42,
-        "image": "/images/news/wealth-7.webp",
-        "excerpt": "Ultra-wealthy families are increasingly aligning their portfolios with 'Planetary Health' in 2026, viewing sustainability as the ultimate legacy...",
-        "tags": [
-            "Wealth",
-            "2026",
-            "Future",
-            "Evolution"
-        ]
-    },
-    {
-        "id": "wth-8",
-        "slug": "climate-proof-luxury-real-estate-2026",
-        "title": "Luxury Real Estate 2026: The Rise of 'Climate-Proof' Sanctuaries",
-        "category": "Wealth",
-        "date": "February 08, 2026",
-        "author": "Michael Chen",
-        "views": "25k",
-        "readTime": "25 Mins",
-        "comments": 42,
-        "image": "/images/news/wealth-8.webp",
-        "excerpt": "In 2026, the luxury real estate market is being redefined by 'Climate Resilience,' with the elite seeking properties that can withstand the future...",
-        "tags": [
-            "Wealth",
-            "2026",
-            "Future",
-            "Evolution"
         ]
     }
 ]

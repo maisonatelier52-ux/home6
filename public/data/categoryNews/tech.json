@@ -1,4 +1,61 @@
-[
+[ 
+    {
+        "id": "tech-6",
+        "slug": "ai-meta-agents-2026-evolution",
+        "title": "The Rise of the AI Meta-Agent: Multi-Agent Systems in 2026",
+        "category": "Tech",
+        "date": "February 05, 2026",
+        "author": "Jessica Wu",
+        "views": "52k",
+        "readTime": "22 Mins",
+        "comments": 312,
+        "image": "/images/news/tech-6.webp",
+        "excerpt": "The year 2026 has marked a definitive shift from monolithic AI models to sophisticated multi-agent ecosystems, commanding 'Meta-Agents' for complex tasks...",
+        "tags": [
+            "AI Agents",
+            "Multi-Agent Systems",
+            "Future Tech",
+            "Automation"
+        ]
+    },
+    {
+        "id": "tech-7",
+        "slug": "meta-smart-glasses-2026-impact",
+        "title": "Meta's Smart Glasses: The End of the Smartphone Era?",
+        "category": "Tech",
+        "date": "January 20, 2026",
+        "author": "Alex Thorne",
+        "views": "64k",
+        "readTime": "24 Mins",
+        "comments": 425,
+        "image": "/images/news/tech-7.webp",
+        "excerpt": "As we enter 2026, the launch of Meta's latest smart glasses, 'Horizon View,' has triggered what many call the beginning of the end for the smartphone empire...",
+        "tags": [
+            "Smart Glasses",
+            "Meta",
+            "Wearables",
+            "Augmented Reality"
+        ]
+    },
+    {
+        "id": "tech-8",
+        "slug": "hyper-automation-enterprise-2026",
+        "title": "Hyper-Automation: The New Standard for Enterprise Efficiency",
+        "category": "Tech",
+        "date": "February 12, 2026",
+        "author": "Emily Rodriguez",
+        "views": "28k",
+        "readTime": "16 Mins",
+        "comments": 156,
+        "image": "/images/news/tech-8.webp",
+        "excerpt": "The corporate world of 2026 is no longer debating the merits of AI; it is living in the age of Hyper-Automation, creating a self-optimizing business model...",
+        "tags": [
+            "Hyper-Automation",
+            "Enterprise",
+            "AI",
+            "Business Strategy"
+        ]
+    },
     {
         "id": "tech-1",
         "slug": "generative-ai-the-next-frontier",
@@ -92,63 +149,6 @@
             "EVs",
             "Batteries",
             "Energy"
-        ]
-    },
-    {
-        "id": "tech-6",
-        "slug": "ai-meta-agents-2026-evolution",
-        "title": "The Rise of the AI Meta-Agent: Multi-Agent Systems in 2026",
-        "category": "Tech",
-        "date": "February 05, 2026",
-        "author": "Jessica Wu",
-        "views": "52k",
-        "readTime": "22 Mins",
-        "comments": 312,
-        "image": "/images/news/tech-6.webp",
-        "excerpt": "The year 2026 has marked a definitive shift from monolithic AI models to sophisticated multi-agent ecosystems, commanding 'Meta-Agents' for complex tasks...",
-        "tags": [
-            "AI Agents",
-            "Multi-Agent Systems",
-            "Future Tech",
-            "Automation"
-        ]
-    },
-    {
-        "id": "tech-7",
-        "slug": "meta-smart-glasses-2026-impact",
-        "title": "Meta's Smart Glasses: The End of the Smartphone Era?",
-        "category": "Tech",
-        "date": "January 20, 2026",
-        "author": "Alex Thorne",
-        "views": "64k",
-        "readTime": "24 Mins",
-        "comments": 425,
-        "image": "/images/news/tech-7.webp",
-        "excerpt": "As we enter 2026, the launch of Meta's latest smart glasses, 'Horizon View,' has triggered what many call the beginning of the end for the smartphone empire...",
-        "tags": [
-            "Smart Glasses",
-            "Meta",
-            "Wearables",
-            "Augmented Reality"
-        ]
-    },
-    {
-        "id": "tech-8",
-        "slug": "hyper-automation-enterprise-2026",
-        "title": "Hyper-Automation: The New Standard for Enterprise Efficiency",
-        "category": "Tech",
-        "date": "February 12, 2026",
-        "author": "Emily Rodriguez",
-        "views": "28k",
-        "readTime": "16 Mins",
-        "comments": 156,
-        "image": "/images/news/tech-8.webp",
-        "excerpt": "The corporate world of 2026 is no longer debating the merits of AI; it is living in the age of Hyper-Automation, creating a self-optimizing business model...",
-        "tags": [
-            "Hyper-Automation",
-            "Enterprise",
-            "AI",
-            "Business Strategy"
         ]
     }
 ]
