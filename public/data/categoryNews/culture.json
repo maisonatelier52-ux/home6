@@ -115,5 +115,43 @@
             "History",
             "Design"
         ]
+    },
+    {
+        "id": "cul-6",
+        "slug": "fifa-world-cup-2026-preview",
+        "title": "FIFA World Cup 2026: The Global Stage Set for North America",
+        "category": "Culture",
+        "date": "February 12, 2026",
+        "author": "Sarah Jenkins",
+        "views": "72k",
+        "readTime": "15 Mins",
+        "comments": 425,
+        "image": "/images/news/culture-6.webp",
+        "excerpt": "The countdown to the greatest show on earth has reached its final months. In June 2026, the FIFA World Cup will descend upon North America...",
+        "tags": [
+            "FIFA",
+            "World Cup",
+            "Soccer",
+            "North America"
+        ]
+    },
+    {
+        "id": "cul-7",
+        "slug": "metaverse-festivals-culture-2026",
+        "title": "The Metaverse Migration: How 'Digital Festivals' are Redefining Culture in 2026",
+        "category": "Culture",
+        "date": "January 15, 2026",
+        "author": "Sarah Jenkins",
+        "views": "25k",
+        "readTime": "25 Mins",
+        "comments": 42,
+        "image": "/images/news/culture-7.webp",
+        "excerpt": "In 2026, the line between physical and digital culture has blurred, as 'Digital Festivals' become a mainstream way for people to experience art and music...",
+        "tags": [
+            "Culture",
+            "2026",
+            "Future",
+            "Evolution"
+        ]
     }
 ]

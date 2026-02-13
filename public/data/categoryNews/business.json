@@ -93,5 +93,62 @@
             "ESG",
             "Ethics"
         ]
+    },
+    {
+        "id": "bus-6",
+        "slug": "ipo-renaissance-2026-megadeals",
+        "title": "The IPO Renaissance: Why 2026 is the Year of the Megadeal",
+        "category": "Business",
+        "date": "February 11, 2026",
+        "author": "Michael Chen",
+        "views": "31k",
+        "readTime": "12 Mins",
+        "comments": 84,
+        "image": "/images/news/business-6.webp",
+        "excerpt": "After a period of cautious consolidation, the IPO market has roared back to life in 2026, driven by a series of historic megadeals in the green-tech space...",
+        "tags": [
+            "IPO",
+            "Stock Market",
+            "Business Strategy",
+            "Finance"
+        ]
+    },
+    {
+        "id": "bus-7",
+        "slug": "ai-augmented-innovation-business-2026",
+        "title": "AI-Augmented Innovation: How Corporations are Rewriting the R&D Playbook",
+        "category": "Business",
+        "date": "January 28, 2026",
+        "author": "Emily Rodriguez",
+        "views": "24k",
+        "readTime": "25 Mins",
+        "comments": 112,
+        "image": "/images/news/business-7.webp",
+        "excerpt": "In 2026, the integration of generative AI into the research and development (R&D) lifecycle has transformed innovation into a scalable, high-velocity process...",
+        "tags": [
+            "Innovation",
+            "R&D",
+            "AI Business",
+            "Corporate Strategy"
+        ]
+    },
+    {
+        "id": "bus-8",
+        "slug": "circular-economy-retail-2026-pivot",
+        "title": "The Circular Economy Mandate: Retail's 2026 Sustainability Pivot",
+        "category": "Business",
+        "date": "February 05, 2026",
+        "author": "Sarah Jenkins",
+        "views": "19.5k",
+        "readTime": "28 Mins",
+        "comments": 95,
+        "image": "/images/news/business-8.webp",
+        "excerpt": "Retailers are no longer just sellers of new goods; in 2026 they have become the stewards of a lifelong product journey, where 'disposable' is a dirty word...",
+        "tags": [
+            "Circular Economy",
+            "Retail",
+            "Sustainability",
+            "ESG"
+        ]
     }
 ]

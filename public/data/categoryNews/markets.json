@@ -93,5 +93,62 @@
             "Commodities",
             "Wealth"
         ]
+    },
+    {
+        "id": "mark-6",
+        "slug": "gold-record-high-2026-safe-haven",
+        "title": "Gold Hits $3500: The Safe-Haven Rally of 2026",
+        "category": "Markets",
+        "date": "February 08, 2026",
+        "author": "Sarah Jenkins",
+        "views": "38k",
+        "readTime": "20 Mins",
+        "comments": 182,
+        "image": "/images/news/markets-6.webp",
+        "excerpt": "Gold prices have surged past the $3500 milestone in early 2026, reflecting a complex blend of geopolitical anxiety and a renewed interest in tangible value...",
+        "tags": [
+            "Gold",
+            "Commodities",
+            "Inflation",
+            "Safe Haven"
+        ]
+    },
+    {
+        "id": "mark-7",
+        "slug": "copper-new-oil-electrification-2026",
+        "title": "Copper: The New Oil of the Electrification Era",
+        "category": "Markets",
+        "date": "January 18, 2026",
+        "author": "Michael Chen",
+        "views": "28k",
+        "readTime": "22 Mins",
+        "comments": 92,
+        "image": "/images/news/markets-7.webp",
+        "excerpt": "Often called 'Dr. Copper' for its ability to diagnose the global economy, the metal is now being hailed as the 'New Oil' of the electrification age...",
+        "tags": [
+            "Copper",
+            "Electrification",
+            "Energy Transition",
+            "Commodities"
+        ]
+    },
+    {
+        "id": "mark-8",
+        "slug": "emerging-markets-digital-tigers-2026",
+        "title": "Emerging Markets 2026: The Rise of the 'Digital Tiger' Economies",
+        "category": "Markets",
+        "date": "February 02, 2026",
+        "author": "Sarah Jenkins",
+        "views": "15k",
+        "readTime": "18 Mins",
+        "comments": 45,
+        "image": "/images/news/markets-8.webp",
+        "excerpt": "Traditional narratives are being superseded by the 'Digital Tigers'—nations leveraging AI to leapfrog economic stages and build innovation-driven economies...",
+        "tags": [
+            "Emerging Markets",
+            "Digital Economy",
+            "Global Growth",
+            "Technology"
+        ]
     }
 ]

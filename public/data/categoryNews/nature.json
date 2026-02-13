@@ -16,5 +16,138 @@
             "Conservation",
             "Earth"
         ]
+    },
+    {
+        "id": "nat-2",
+        "slug": "artemis-ii-lunar-orbit-2026",
+        "title": "Artemis II: Humanity's Return to Lunar Orbit in February 2026",
+        "category": "Nature",
+        "date": "February 12, 2026",
+        "author": "Sarah Jenkins",
+        "views": "85k",
+        "readTime": "26 Mins",
+        "comments": 612,
+        "image": "/images/news/nature-2.webp",
+        "excerpt": "In a moment that has captured the imagination of the entire planet, the crew of Artemis II has successfully entered lunar orbit...",
+        "tags": [
+            "Artemis II",
+            "Space",
+            "NASA",
+            "Moon"
+        ]
+    },
+    {
+        "id": "nat-3",
+        "slug": "global-emissions-peak-2026-milestone",
+        "title": "The 2026 Climate Milestone: Global Emissions Peak and the Path Downward",
+        "category": "Nature",
+        "date": "January 15, 2026",
+        "author": "David Smith",
+        "views": "34k",
+        "readTime": "28 Mins",
+        "comments": 145,
+        "image": "/images/news/nature-3.webp",
+        "excerpt": "For the first time since the dawn of the industrial age, global greenhouse gas emissions have officially peaked in early 2026...",
+        "tags": [
+            "Climate Change",
+            "Emissions",
+            "Environment",
+            "Energy"
+        ]
+    },
+    {
+        "id": "nat-4",
+        "slug": "biodiversity-de-extinction-2026-success",
+        "title": "Biodiversity Breakthrough: The First Successes of the 2026 'De-Extinction' Projects",
+        "category": "Nature",
+        "date": "February 05, 2026",
+        "author": "Sarah Jenkins",
+        "views": "45k",
+        "readTime": "24 Mins",
+        "comments": 289,
+        "image": "/images/news/nature-4.webp",
+        "excerpt": "The successful birth of the first 'proxy' Thylacine in early 2026 has signaled the dawn of the 'De-Extinction' era for conservation...",
+        "tags": [
+            "Biodiversity",
+            "Cloning",
+            "Genetics",
+            "Conservation"
+        ]
+    },
+    {
+        "id": "nat-5",
+        "slug": "mariana-trench-new-species-2026",
+        "title": "The Secret Life of the Deep: New Species Discovered in the Mariana Trench",
+        "category": "Nature",
+        "date": "February 01, 2026",
+        "author": "Sarah Jenkins",
+        "views": "25k",
+        "readTime": "25 Mins",
+        "comments": 42,
+        "image": "/images/news/nature-5.webp",
+        "excerpt": "A deep-sea expedition has uncovered dozens of previously unknown species in the deepest parts of the Mariana Trench, challenging our understanding of life...",
+        "tags": [
+            "Nature",
+            "2026",
+            "Future",
+            "Evolution"
+        ]
+    },
+    {
+        "id": "nat-6",
+        "slug": "ai-drones-reforestation-2026",
+        "title": "Reforestation 2.0: AI-Drones Planting 1 Billion Trees in 2026",
+        "category": "Nature",
+        "date": "January 20, 2026",
+        "author": "Sarah Jenkins",
+        "views": "25k",
+        "readTime": "25 Mins",
+        "comments": 42,
+        "image": "/images/news/nature-6.webp",
+        "excerpt": "Using advanced AI and autonomous drone swarms, a global reforestation project has successfully planted its billionth tree of 2026 this month...",
+        "tags": [
+            "Nature",
+            "2026",
+            "Future",
+            "Evolution"
+        ]
+    },
+    {
+        "id": "nat-7",
+        "slug": "plastic-eating-enzyme-ocean-clean-up-2026",
+        "title": "The Plastic-Eating Enzyme Breakthrough: Scaling for Global Ocean Clean-up",
+        "category": "Nature",
+        "date": "February 10, 2026",
+        "author": "Sarah Jenkins",
+        "views": "25k",
+        "readTime": "25 Mins",
+        "comments": 42,
+        "image": "/images/news/nature-7.webp",
+        "excerpt": "A new, bio-engineered enzyme that can digest PET plastics in days is being scaled for use in large-scale ocean clean-up operations in 2026...",
+        "tags": [
+            "Nature",
+            "2026",
+            "Future",
+            "Evolution"
+        ]
+    },
+    {
+        "id": "nat-8",
+        "slug": "vertical-forests-living-skyscrapers-2026",
+        "title": "Vertical Forests: The Rise of the 'Living Skyscraper' in 2026",
+        "category": "Nature",
+        "date": "February 12, 2026",
+        "author": "Sarah Jenkins",
+        "views": "25k",
+        "readTime": "25 Mins",
+        "comments": 42,
+        "image": "/images/news/nature-8.webp",
+        "excerpt": "Architects are increasingly integrating 'Vertical Forests' into their designs, creating living skyscrapers that sequester carbon and cool the city...",
+        "tags": [
+            "Nature",
+            "2026",
+            "Future",
+            "Evolution"
+        ]
     }
 ]

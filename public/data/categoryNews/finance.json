@@ -94,5 +94,62 @@
             "Property",
             "Yield"
         ]
+    },
+    {
+        "id": "fin-6",
+        "slug": "cbdc-global-update-2026",
+        "title": "The Rise of the Central Bank Digital Currency (CBDC): A 2026 Global Update",
+        "category": "Finance",
+        "date": "February 10, 2026",
+        "author": "David Smith",
+        "views": "42k",
+        "readTime": "30 Mins",
+        "comments": 256,
+        "image": "/images/news/finance-6.webp",
+        "excerpt": "Over 50 nations have now launched CBDCs, fundamentally changing how money is issued and used in the most significant shift since the end of the gold standard...",
+        "tags": [
+            "CBDC",
+            "Central Banking",
+            "Digital Currency",
+            "Monetary Policy"
+        ]
+    },
+    {
+        "id": "fin-7",
+        "slug": "defi-20-institutional-integration-2026",
+        "title": "Decentralized Finance (DeFi) 2.0: Institutional Integration and Security",
+        "category": "Finance",
+        "date": "January 25, 2026",
+        "author": "Sarah Wu",
+        "views": "29k",
+        "readTime": "22 Mins",
+        "comments": 142,
+        "image": "/images/news/finance-7.webp",
+        "excerpt": "The wild west days of DeFi are over; 2026 marks the era of institutional-grade security and the integration of blockchain protocols into global banking...",
+        "tags": [
+            "DeFi",
+            "Blockchain",
+            "Institutional Finance",
+            "Cybersecurity"
+        ]
+    },
+    {
+        "id": "fin-8",
+        "slug": "retirement-crisis-ai-wealth-2026",
+        "title": "The Retirement Crisis Reimagined: AI-Driven Personalized Wealth Management",
+        "category": "Finance",
+        "date": "February 12, 2026",
+        "author": "David Smith",
+        "views": "21k",
+        "readTime": "24 Mins",
+        "comments": 68,
+        "image": "/images/news/finance-8.webp",
+        "excerpt": "Individual financial advice is being democratized in 2026 through AI-driven 'Financial Copilots' that act as lifelong personal CFOs for the average worker...",
+        "tags": [
+            "Retirement",
+            "AI Wealth",
+            "Personal Finance",
+            "Financial Inclusion"
+        ]
     }
 ]
