@@ -44,7 +44,6 @@ export default function Header() {
 
                     {/* Right Socials */}
                     <div className="hidden md:flex items-center gap-3 w-full md:w-auto justify-center md:justify-end">
-                        <SocialButton icon={<Phone size={16} />} />
                         <SocialButton icon={<svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
                             <path d="M22.539 8.242H1.46V5.406h21.078v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.078V0z" />
                         </svg>} href="https://substack.com/@tqfp45?utm_source=global-search " />
