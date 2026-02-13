@@ -28,13 +28,13 @@ export default function SidebarFormAndList({ moduleData, hotPeoples }: SidebarFo
 
 
             {/* 1. Advertisement */}
-            <div className="w-full overflow-hidden group cursor-pointer">
+            <Link href="https://www.mirrorstandard.com/" className="w-full overflow-hidden group cursor-pointer">
                 <img
-                    src="/images/add3-svg.svg"
+                    src="/images/add-svg1.svg"
                     alt="Advertisement"
                     className="w-full h-auto"
                 />
-            </div>
+            </Link>
 
             {/* 2. Module Enambelas */}
             <div>
