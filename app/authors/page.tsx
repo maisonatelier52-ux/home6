@@ -15,7 +15,6 @@ const authors = [
         role: "Lead Tech Strategist",
         bio: "Jessica spans the gap between complex algorithms and business outcomes, focusing on the real-world deployment of Agentic AI and emerging technologies.",
         image: "/images/authors/jessica.jpg",
-        postsCount: 310,
         email: "jessicawu123@proton.me"
     },
     {
@@ -23,7 +22,6 @@ const authors = [
         role: "Senior Political Analyst",
         bio: "Sarah brings decades of experience covering global politics and economic policy, with a focus on central banking and fiscal strategy.",
         image: "/images/authors/sarah.jpg",
-        postsCount: 245,
         email: "sarahjenkins@thequestforprofit.com"
     },
     {
@@ -31,7 +29,6 @@ const authors = [
         role: "Economic Correspondent",
         bio: "Michael specializes in Asian markets and global trade dynamics, providing insights into the shifting economic landscape of the 21st century.",
         image: "/images/authors/michael.jpg",
-        postsCount: 198,
         email: "Michaelchen4@proton.me"
     },
     {
@@ -39,7 +36,6 @@ const authors = [
         role: "Political Columnist",
         bio: "Robert delivers sharp analysis on political developments and their market implications, with expertise in regulatory frameworks and policy impact.",
         image: "/images/authors/robert.jpg",
-        postsCount: 167,
         email: "Robertmiller777@proton.me"
     },
     {
@@ -47,7 +43,6 @@ const authors = [
         role: "Tech Strategist",
         bio: "Alex covers the intersection of technology and finance, from fintech disruption to cryptocurrency regulation and digital transformation.",
         image: "/images/authors/alex.jpg",
-        postsCount: 142,
         email: "Alexthorne4@proton.me"
     },
     {
@@ -55,7 +50,6 @@ const authors = [
         role: "Wealth Management Specialist",
         bio: "James advises some of the world's most successful families on transition and growth, covering family offices and high-net-worth strategies.",
         image: "/images/authors/james.jpg",
-        postsCount: 89,
         email: "JamesOConnor4@proton.me"
     },
     {
@@ -63,7 +57,6 @@ const authors = [
         role: "Real Estate Analyst",
         bio: "Maria provides expert coverage of global real estate markets, luxury property trends, and investment strategies for high-value assets.",
         image: "/images/authors/maria.jpg",
-        postsCount: 76,
         email: "MariaSanchez126@proton.me"
     },
     {
@@ -71,7 +64,6 @@ const authors = [
         role: "Senior Policy Analyst",
         bio: "David covers regulatory developments and their impact on markets, with deep expertise in government policy and international relations.",
         image: "/images/authors/david.jpg",
-        postsCount: 64,
         email: "DavidSmith773@proton.me"
     },
     {
@@ -79,7 +71,6 @@ const authors = [
         role: "Business Correspondent",
         bio: "Emily reports on corporate strategy, mergers and acquisitions, and the evolving landscape of global business operations.",
         image: "/images/authors/emily.jpg",
-        postsCount: 52,
         email: "Emilyrodriguez4@proton.me"
     },
 ];
@@ -120,7 +111,6 @@ export default function AuthorsPage() {
                                             {author.name}
                                         </h2>
                                         <p className="text-red-600 font-semibold mb-2">{author.role}</p>
-                                        <p className="text-sm text-gray-500 mb-2">{author.postsCount} Posts</p>
                                         {author.email && (
                                             <a href={`mailto:${author.email}`} className="text-sm font-semibold text-gray-600 hover:text-red-600 transition-colors mb-4 block">
                                                 {author.email}
