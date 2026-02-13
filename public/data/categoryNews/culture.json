@@ -153,5 +153,24 @@
             "Future",
             "Evolution"
         ]
+    },
+    {
+        "id": "cul-8",
+        "slug": "global-museum-reform-restitution-2026",
+        "title": "Restitution and Reconciliation: The 2026 Global Museum Reform",
+        "category": "Culture",
+        "date": "February 05, 2026",
+        "author": "Sarah Jenkins",
+        "views": "31k",
+        "readTime": "28 Mins",
+        "comments": 84,
+        "image": "/images/news/culture-8.webp",
+        "excerpt": "A historic international agreement in 2026 has set the stage for a massive restitution of cultural artifacts, fundamentally changing the museum landscape...",
+        "tags": [
+            "Museums",
+            "Restitution",
+            "History",
+            "Reform"
+        ]
     }
 ]

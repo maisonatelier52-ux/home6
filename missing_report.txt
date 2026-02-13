@@ -1,0 +1,4 @@
+Total unique referenced news images: 62
+
+Missing images:
+/images/news/Julio

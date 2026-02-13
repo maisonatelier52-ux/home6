@@ -1,5 +1,62 @@
 [
     {
+        "id": "pol-6",
+        "slug": "midterm-shift-2026-analysis",
+        "title": "The 2026 Midterm Shift: A Deep Dive into the Battle for the House",
+        "category": "Politics",
+        "date": "February 10, 2026",
+        "author": "Sarah Jenkins",
+        "views": "25k",
+        "readTime": "15 Mins",
+        "comments": 124,
+        "image": "/images/news/politics-6.webp",
+        "excerpt": "As the 2026 midterm elections approach, political analysts are witnessing a seismic shift in voter sentiment that could redefine the legislative landscape...",
+        "tags": [
+            "Midterms",
+            "Elections",
+            "Congress",
+            "Political Strategy"
+        ]
+    },
+    {
+        "id": "pol-7",
+        "slug": "global-ai-governance-treaty-2026",
+        "title": "Global AI Governance: The Landmark Geneva Treaty of 2026",
+        "category": "Politics",
+        "date": "January 15, 2026",
+        "author": "Michael Chen",
+        "views": "18.5k",
+        "readTime": "20 Mins",
+        "comments": 78,
+        "image": "/images/news/politics-7.webp",
+        "excerpt": "In a historic gathering in Geneva, representatives from over 120 nations have successfully negotiated the first comprehensive international treaty on AI governance...",
+        "tags": [
+            "AI",
+            "Governance",
+            "Geneva Treaty",
+            "International Law"
+        ]
+    },
+    {
+        "id": "pol-8",
+        "slug": "un-secretary-general-2026-prospects",
+        "title": "The UN Leadership Transition: Predicting the Next Secretary-General",
+        "category": "Politics",
+        "date": "February 01, 2026",
+        "author": "David Smith",
+        "views": "14.2k",
+        "readTime": "18 Mins",
+        "comments": 56,
+        "image": "/images/news/politics-8.webp",
+        "excerpt": "As 2026 begins, the halls of the United Nations in New York and Geneva are buzzing with anticipation for the upcoming selection of the next Secretary-General...",
+        "tags": [
+            "United Nations",
+            "Diplomacy",
+            "Global Leadership",
+            "Secretary-General"
+        ]
+    },
+    {
         "id": "pol-1",
         "slug": "global-summit-inflation-concerns",
         "title": "Global Summit Addresses Rising Inflation Concerns",
@@ -92,63 +149,6 @@
             "Peace",
             "International Relations",
             "Geneva"
-        ]
-    },
-    {
-        "id": "pol-6",
-        "slug": "midterm-shift-2026-analysis",
-        "title": "The 2026 Midterm Shift: A Deep Dive into the Battle for the House",
-        "category": "Politics",
-        "date": "February 10, 2026",
-        "author": "Sarah Jenkins",
-        "views": "25k",
-        "readTime": "15 Mins",
-        "comments": 124,
-        "image": "/images/news/politics-6.webp",
-        "excerpt": "As the 2026 midterm elections approach, political analysts are witnessing a seismic shift in voter sentiment that could redefine the legislative landscape...",
-        "tags": [
-            "Midterms",
-            "Elections",
-            "Congress",
-            "Political Strategy"
-        ]
-    },
-    {
-        "id": "pol-7",
-        "slug": "global-ai-governance-treaty-2026",
-        "title": "Global AI Governance: The Landmark Geneva Treaty of 2026",
-        "category": "Politics",
-        "date": "January 15, 2026",
-        "author": "Michael Chen",
-        "views": "18.5k",
-        "readTime": "20 Mins",
-        "comments": 78,
-        "image": "/images/news/politics-7.webp",
-        "excerpt": "In a historic gathering in Geneva, representatives from over 120 nations have successfully negotiated the first comprehensive international treaty on AI governance...",
-        "tags": [
-            "AI",
-            "Governance",
-            "Geneva Treaty",
-            "International Law"
-        ]
-    },
-    {
-        "id": "pol-8",
-        "slug": "un-secretary-general-2026-prospects",
-        "title": "The UN Leadership Transition: Predicting the Next Secretary-General",
-        "category": "Politics",
-        "date": "February 01, 2026",
-        "author": "David Smith",
-        "views": "14.2k",
-        "readTime": "18 Mins",
-        "comments": 56,
-        "image": "/images/news/politics-8.webp",
-        "excerpt": "As 2026 begins, the halls of the United Nations in New York and Geneva are buzzing with anticipation for the upcoming selection of the next Secretary-General...",
-        "tags": [
-            "United Nations",
-            "Diplomacy",
-            "Global Leadership",
-            "Secretary-General"
         ]
     }
 ]
