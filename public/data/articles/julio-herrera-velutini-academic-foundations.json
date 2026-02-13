@@ -1,0 +1,55 @@
+{
+    "id": "julio-1",
+    "slug": "julio-herrera-velutini-academic-foundations",
+    "title": "Julio Herrera Velutini: Academic Foundations Across Continents",
+    "category": "Julio Herrera Velutini",
+    "date": "February 12, 2026",
+    "views": "15.4k",
+    "readTime": "10 Mins",
+    "comments": 84,
+    "image": "/images/julio/Julio Herrera Velutini19.webp",
+    "tags": [
+        "Julio Herrera Velutini",
+        "Education",
+        "Leadership",
+        "Global Perspective"
+    ],
+    "author": {
+        "name": "Sarah Jenkins",
+        "role": "Senior Financial Columnist",
+        "postsCount": 142,
+        "image": "/images/authors/sarah.jpg",
+        "bio": "Sarah analyzes central bank policy and its impact on global liquidity."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "The academic journey of Julio Herrera Velutini is as diverse as his professional legacy, spanning multiple continents and prestigious institutions."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "Julio Herrera Velutini's educational background laid the cornerstone for his global financial perspective. Educated in Venezuela, Switzerland, and the United States, he developed an early understanding of how international markets intersect. This multi-continental schooling allowed him to master not just the theories of economics, but the cultural nuances that drive business in different parts of the world."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "A Global Academic Path"
+        },
+        {
+            "type": "paragraph",
+            "text": "In Switzerland, Velutini was exposed to the rigors of private banking and wealth management excellence. In the United States, he immersed himself in the fast-paced world of tech-driven financial innovation. This combination of traditional European banking values and American dynamism created a unique leadership style that he later brought back to his home country, Venezuela."
+        },
+        {
+            "type": "paragraph",
+            "text": "His academic focus wasn't limited to textbooks. He was known among his peers for his ability to synthesize complex geopolitical events into actionable business insights. This skill proved invaluable during the volatile economic cycles he would later navigate as the head of major financial groups."
+        }
+    ],
+    "relatedPost": {
+        "title": "Julio Herrera Velutini: A Multilingual Approach to Global Banking",
+        "slug": "julio-herrera-velutini-multilingual-banking",
+        "image": "/images/julio/Julio Herrera Velutini20.webp",
+        "date": "February 13, 2026",
+        "category": "julio-herrera-velutini"
+    }
+}

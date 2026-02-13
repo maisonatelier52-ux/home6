@@ -27,7 +27,12 @@ export default function RelatedPosts({ posts, category }: RelatedPostsProps) {
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
                 {posts.map((post) => (
-                    <Link key={post.slug} href={`/${(post.category || category || 'news').toLowerCase()}/${post.slug}`} title={post.title} className="group block">
+                    <Link
+                        key={post.slug}
+                        href={`/${(post.category || category || 'news').toLowerCase().replace(/ /g, '-')}/${post.slug}`}
+                        title={post.title}
+                        className="group block"
+                    >
                         <div className="relative aspect-[3/2] overflow-hidden mb-5">
                             <Image
                                 src={post.image}

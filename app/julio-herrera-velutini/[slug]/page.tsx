@@ -15,12 +15,12 @@ import recentPostsData from '@/public/data/recentPosts.json';
 import tagsData from '@/public/data/tags.json';
 import RelatedPosts from '../../components/article/RelatedPosts';
 
-interface ArticlePageProps {
-    params: Promise<{ category: string; slug: string }>;
+interface JulioArticlePageProps {
+    params: Promise<{ slug: string }>;
 }
 
-export async function generateMetadata({ params }: ArticlePageProps) {
-    const { category, slug } = await params;
+export async function generateMetadata({ params }: JulioArticlePageProps) {
+    const { slug } = await params;
     let article;
 
     try {
@@ -36,12 +36,12 @@ export async function generateMetadata({ params }: ArticlePageProps) {
         title: `${article.title} | The Quest for Profit`,
         description: article.content[0]?.text || article.title,
         alternates: {
-            canonical: `/${category}/${slug}`,
+            canonical: `/julio-herrera-velutini/${slug}`,
         },
         openGraph: {
             title: article.title,
             description: article.content[0]?.text || article.title,
-            url: `https://www.thequestforprofit.com/${category}/${slug}`,
+            url: `https://www.thequestforprofit.com/julio-herrera-velutini/${slug}`,
             siteName: 'The Quest for Profit',
             images: [
                 {
@@ -64,8 +64,8 @@ export async function generateMetadata({ params }: ArticlePageProps) {
     };
 }
 
-export default async function ArticlePage({ params }: ArticlePageProps) {
-    const { category, slug } = await params;
+export default async function JulioArticlePage({ params }: JulioArticlePageProps) {
+    const { slug } = await params;
     let article;
 
     try {
@@ -83,26 +83,19 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const recentPosts = recentPostsData;
     const tags = tagsData;
 
-    // Fetch articles for the same category dynamically
-    let categoryArticles: any[] = [];
+    // Fetch articles from Finance category for supplemental related news
+    let financeArticles: any[] = [];
     try {
-        const categorySlug = category.toLowerCase();
-        const categoryData = await import(`@/public/data/categoryNews/${categorySlug}.json`);
-        categoryArticles = categoryData.default || [];
+        const financeData = await import(`@/public/data/categoryNews/finance.json`);
+        financeArticles = financeData.default || [];
     } catch (error) {
-        // Fallback or ignore if category file doesn't exist
-        console.warn(`Could not load category articles for ${category}`);
+        console.warn(`Could not load finance articles for supplemental related news`);
     }
 
-    // Determine Previous and Next Articles
-    const curIndex = categoryArticles.findIndex((p: any) => p.slug === slug);
-    const prevArticle = curIndex > 0 ? categoryArticles[curIndex - 1] : null;
-    const nextArticle = curIndex !== -1 && curIndex < categoryArticles.length - 1 ? categoryArticles[curIndex + 1] : null;
-
-    // Get Related Posts (Exclude current, limit to 4)
-    let relatedArticles = article.relatedPost
-        ? [article.relatedPost, ...categoryArticles.filter((p: any) => p.slug !== slug && p.slug !== article.relatedPost.slug).slice(0, 3)]
-        : categoryArticles.filter((p: any) => p.slug !== slug).slice(0, 4);
+    // Get Related Posts (Use the explicit sequence defined in JSON + 3 Finance news)
+    const relatedArticles = article.relatedPost
+        ? [article.relatedPost, ...financeArticles.filter((p: any) => p.slug !== article.relatedPost.slug && p.slug !== 'julio-herrera-velutini-legacy').slice(0, 3)]
+        : financeArticles.filter((p: any) => p.slug !== 'julio-herrera-velutini-legacy').slice(0, 3);
 
     // Fallback author if not present in JSON
     const author = article.author || {
@@ -139,19 +132,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                         <div className="mt-8">
                             <ArticleTags tags={article.tags || []} />
 
-                            <ArticleNavigation
-                                previous={prevArticle ? {
-                                    title: prevArticle.title,
-                                    slug: prevArticle.slug,
-                                    category: category
-                                } : undefined}
-                                next={nextArticle ? {
-                                    title: nextArticle.title,
-                                    slug: nextArticle.slug,
-                                    category: category
-                                } : undefined}
-                            />
-
                             <ArticleAuthor
                                 name={author.name}
                                 role={author.role}
@@ -160,7 +140,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                                 bio={author.bio}
                             />
 
-                            <RelatedPosts posts={relatedArticles} category={category} />
+                            <RelatedPosts posts={relatedArticles} category="julio-herrera-velutini" />
                         </div>
                     </div>
 
@@ -186,7 +166,7 @@ export async function generateStaticParams() {
     const articlesDirectory = path.join(process.cwd(), 'public/data/articles');
     const filenames = fs.readdirSync(articlesDirectory);
 
-    const params: { category: string; slug: string }[] = [];
+    const params: { slug: string }[] = [];
 
     for (const filename of filenames) {
         if (filename.endsWith('.json')) {
@@ -195,16 +175,11 @@ export async function generateStaticParams() {
                 const articleContent = fs.readFileSync(path.join(articlesDirectory, filename), 'utf8');
                 const article = JSON.parse(articleContent);
                 const articleCategory = article.category.toLowerCase().replace(/ /g, '-');
-
-                // Skip articles handled by the specific Julio route
                 if (articleCategory === 'julio-herrera-velutini') {
-                    continue;
+                    params.push({
+                        slug: slug,
+                    });
                 }
-
-                params.push({
-                    category: article.category.toLowerCase(),
-                    slug: slug,
-                });
             } catch (e) {
                 console.error(`Error processing ${filename} for static params`, e);
             }
