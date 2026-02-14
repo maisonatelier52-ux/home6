@@ -149,12 +149,14 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
             <div className="lg:w-1/3">
                 <div className='md:border-l border-gray-300 pl-0 md:pl-4 h-full'>
                     {/* Advertisement */}
-                    <div className="w-full mb-8 overflow-hidden group cursor-pointer">
+                    <div>
+                    <Link href="https://www.venturecapi.com/" className="w-full mb-8 overflow-hidden group cursor-pointer">
                         <img
-                            src="/images/add2-svg.svg"
+                            src="/images/adv333.svg"
                             alt="Advertisement"
                             className="w-full h-auto"
                         />
+                    </Link>
                     </div>
 
                     {/* Hot Peoples */}
