@@ -72,10 +72,6 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                     <div className="flex flex-wrap items-center gap-2 text-[10px] text-gray-400 font-bold uppercase mb-3 tracking-wide">
                         <span className="text-black">{hero.author}</span>
                         <span>ON {hero.date}</span>
-                        <span className="px-1 text-gray-300">|</span>
-                        <span>{hero.views} VIEWS</span>
-                        <span className="px-1 text-gray-300">|</span>
-                        <span>{hero.readTime}</span>
                     </div>
 
                     <h2 className="text-3xl md:text-3xl font-semibold font-weight-650 text-gray-900 mb-6 font-serif leading-tight">
