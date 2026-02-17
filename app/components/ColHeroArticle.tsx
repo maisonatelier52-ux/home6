@@ -44,7 +44,9 @@ export default function ColHeroArticle({
 
             {/* Title */}
             <h2 className={`${titleSize} font-bold font-serif leading-tight mb-4 text-gray-900 group-hover:underline cursor-pointer`}>
-                {data.title}
+                <Link href={`/${(data.category || 'news').toLowerCase()}/${data.slug}`} className="hover:text-[#e43b3b] transition-colors">
+                    {data.title}
+                </Link>
             </h2>
 
             {/* Intro */}
