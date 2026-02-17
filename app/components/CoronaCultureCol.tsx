@@ -21,7 +21,7 @@ interface CoronaCultureColProps {
     coroData: {
         title: { red: string; rest: string };
         description: string;
-        timeline: TimelineItem[];
+        timeline: TimelineItem[]; 
     };
     cultureData: {
         title: { red: string; rest: string };
