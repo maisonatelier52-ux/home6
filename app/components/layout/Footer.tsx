@@ -5,10 +5,7 @@ import Link from 'next/link';
 import { ChevronUp, Facebook, Youtube } from 'lucide-react';
 
 export default function Footer() {
-    const tags = [
-        "Financial News", "Market Analysis", "Stock Insights", "Investment", "Business", "Politics",
-        "Quest for Profit", "Wealth Strategies", "Economics", "Tech Trends", "Global News", "Analysis"
-    ];
+
 
     const hotNews = [
         {
@@ -62,18 +59,18 @@ export default function Footer() {
                         </div>
                     </div>
 
-                    {/* Tag Cloud */}
+                    {/* Categories */}
                     <div className="flex flex-col gap-6">
-                        <h2 className="text-white text-md font-bold font-serif">Tag Cloud</h2>
+                        <h2 className="text-white text-md font-bold font-serif">Categories</h2>
                         <div className="flex flex-wrap gap-2">
-                            {tags.map((tag, index) => (
+                            {["Markets", "Wealth", "Business", "Finance", "Tech", "Politics", "Nature", "Culture"].map((category, index) => (
                                 <Link
                                     key={index}
-                                    href={`/`}
-                                    title={tag}
+                                    href={`/${category.toLowerCase()}`}
+                                    title={category}
                                     className="px-3 py-1.5 border border-gray-800 text-[11px] uppercase tracking-wider hover:bg-white hover:text-black hover:border-white transition-all underline-offset-4 hover:underline"
                                 >
-                                    {tag}
+                                    {category}
                                 </Link>
                             ))}
                         </div>
