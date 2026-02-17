@@ -79,7 +79,7 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                     </div>
 
                     <h2 className="text-3xl md:text-3xl font-semibold font-weight-650 text-gray-900 mb-6 font-serif leading-tight">
-                        <Link href={`/${(hero.category || 'news').toLowerCase()}/${hero.slug}`} className="hover:text-[#e43b3b] transition-colors">
+                        <Link href={`/${(hero.category || 'news').toLowerCase()}/${hero.slug}`} className="hover:underline transition-colors">
                             {hero.title}
                         </Link>
                     </h2>
