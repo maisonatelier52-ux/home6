@@ -130,7 +130,7 @@ export default function Footer() {
 
                     <div className="flex flex-col md:flex-row items-center gap-4 md:gap-8">
                         <p className="text-[12px] text-gray-500">
-                            © Copyright 2025 - The Quest for Profit. All Rights Reserved
+                            © Copyright 2026 - The Quest for Profit. All Rights Reserved
                         </p>
                         <button
                             onClick={scrollToTop}
