@@ -4,7 +4,9 @@ import Image from 'next/image';
 
 interface TimelineItem {
     time: string;
-    text: string;
+    title: string;
+    slug: string;
+    category: string;
 }
 
 interface CultureArticle {
@@ -50,9 +52,11 @@ export default function CoronaCultureCol({ coroData, cultureData }: CoronaCultur
                             <div className="absolute -left-[31px] top-1.5 h-2.5 w-2.5 rounded-full bg-[#e43b3b] ring-4 ring-white"></div>
                             <div className="flex flex-col">
                                 <span className="text-gray-400 text-xs mb-1 font-bold">{item.time}</span>
-                                <h3 className="text-gray-800 font-bold leading-snug hover:underline cursor-pointer transition-colors text-sm">
-                                    {item.text}
-                                </h3>
+                                <Link href={`/${(item.category || 'news').toLowerCase()}/${item.slug}`} className="group">
+                                    <h3 className="text-gray-800 font-bold leading-snug group-hover:underline cursor-pointer transition-colors text-sm">
+                                        {item.title}
+                                    </h3>
+                                </Link>
                             </div>
                         </div>
                     ))}

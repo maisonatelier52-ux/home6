@@ -52,19 +52,27 @@
         "timeline": [
             {
                 "time": "Jan 18, 2026",
-                "text": "Beyond Dubai and Monaco: The New Luxury Real Estate Hubs"
+                "title": "Beyond Dubai and Monaco: The New Luxury Real Estate Hubs",
+                "slug": "luxury-real-estate-hidden-hubs",
+                "category": "Wealth"
             },
             {
-                "time": "Jan 01, 2026",
-                "text": "Collecting the Future: Digital Art and NFTs"
+                "time": "Jan 17, 2026",
+                "title": "The Art Market 2.0: Digital Provenance and Rarity",
+                "slug": "art-market-digital-provenance",
+                "category": "Wealth"
             },
             {
-                "time": "Jan 14, 2026",
-                "text": "The Rise of Private Family Offices"
+                "time": "Jan 17, 2026",
+                "title": "Family Office 2.0: Managing Legacy in a Turbulent Century",
+                "slug": "family-office-trends-2026",
+                "category": "Wealth"
             },
             {
-                "time": "Jan 07, 2026",
-                "text": "Superyachts and Sustainability: A Paradox?"
+                "time": "Jan 04, 2026",
+                "title": "The Rise of the Zero-Emission Superyacht",
+                "slug": "luxury-yachting-sustainable-shifts",
+                "category": "Wealth"
             }
         ]
     },
