@@ -30,13 +30,13 @@ export default function NewsSectionFiveCols({ data }: NewsSectionFiveColsProps) 
                             className={`px-4 py-4 ${index !== data.columns.length - 1 ? 'md:border-r border-gray-200' : ''}`}
                         >
                             {col.type === 'image' ? (
-                                <div className="w-full h-full min-h-[300px] relative">
+                                <div className="hidden md:block w-full md:h-full md:min-h-[300px] relative">
                                     <Image
                                         src={col.image}
                                         alt="Feature Graphic"
                                         fill
                                         sizes="(max-width: 768px) 100vw, 300px"
-                                        className="object-contain opacity-80 hover:grayscale-0 hover:opacity-100 transition-all duration-700"
+                                        className="object-contain transition-all duration-700"
                                     />
                                 </div>
                             ) : (
