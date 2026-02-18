@@ -4,7 +4,13 @@
     "title": "IMF Backs BOJ Rate Hikes, Sees Japan Policy Rate at 1.5% by 2027",
     "category": "Wealth",
     "date": "February 18, 2026",
-    "author": "Michael Chen",
+    "author": {
+        "name": "Michael Chen",
+        "role": "Economic Correspondent",
+        "postsCount": 182,
+        "image": "/images/authors/michael.jpg",
+        "bio": "Michael specializes in Asian markets and global trade dynamics, providing insights into the shifting economic landscape of the 21st century."
+    },
     "views": "25k",
     "readTime": "25 Mins",
     "comments": 42,
