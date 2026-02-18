@@ -46,48 +46,47 @@ export default function Module6Carousel({ title, articles }: Module6CarouselProp
     return (
         <section className="w-full bg-white py-8">
             <div className="container mx-auto px-0">
-                {/* Section Title with Lines */}
-                <div className="relative flex items-center justify-center mb-0">
-                    <div className="absolute w-full h-[1px] bg-gray-300"></div>
-                    <div className="relative bg-white px-4">
-                        <h2 className="text-sm font-bold uppercase tracking-wider">
+                <div className="relative group">
+                    {/* Section Title - Positioned to "cut" the top border */}
+                    <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10 bg-white px-4">
+                        <h2 className="text-sm font-bold uppercase tracking-wider whitespace-nowrap">
                             <span className="text-red-700">{title.red}</span>
                             <span className="text-gray-400 ml-1 font-normal">{title.rest}</span>
                         </h2>
                     </div>
-                </div>
 
-                <div className="relative border border-gray-300 mt-[-10px] pt-10 pb-6">
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 divide-y md:divide-y-0 md:divide-x divide-gray-300">
-                        {visibleItems.map((item, idx) => (
-                            <div key={item.id} className="px-6 py-4 md:py-0">
-                                <div className="text-[10px] font-bold uppercase tracking-wider mb-2">
-                                    <span className="text-black">{item.author}</span>
-                                    <span className="text-gray-400 ml-1 font-normal">ON {item.date}</span>
+                    <div className="relative border border-gray-300 pt-10 pb-6">
+                        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 divide-y md:divide-y-0 md:divide-x divide-gray-300">
+                            {visibleItems.map((item, idx) => (
+                                <div key={item.id} className="px-6 py-4 md:py-0">
+                                    <div className="text-[10px] font-bold uppercase tracking-wider mb-2">
+                                        <span className="text-black">{item.author}</span>
+                                        <span className="text-gray-400 ml-1 font-normal">ON {item.date}</span>
+                                    </div>
+                                    <Link href={`/${(item.category || title.red || 'wealth').toLowerCase()}/${item.slug}`} title={item.title}>
+                                        <h3 className="text-[15px] font-bold leading-snug text-gray-900 hover:underline transition-colors font-serif">
+                                            {item.title}
+                                        </h3>
+                                    </Link>
                                 </div>
-                                <Link href={`/${(item.category || title.red || 'wealth').toLowerCase()}/${item.slug}`} title={item.title}>
-                                    <h3 className="text-[15px] font-bold leading-snug text-gray-900 hover:underline transition-colors font-serif">
-                                        {item.title}
-                                    </h3>
-                                </Link>
-                            </div>
-                        ))}
-                    </div>
+                            ))}
+                        </div>
 
-                    {/* Navigation Buttons */}
-                    <div className="absolute -bottom-4 left-1/2 -translate-x-1/2 flex gap-1">
-                        <button
-                            onClick={handlePrev}
-                            className="w-8 h-8 bg-white border border-gray-300 flex items-center justify-center hover:bg-black hover:text-white transition-colors group"
-                        >
-                            <span className="text-[26px]">&laquo;</span>
-                        </button>
-                        <button
-                            onClick={handleNext}
-                            className="w-8 h-8 bg-white border border-gray-300 flex items-center justify-center hover:bg-black hover:text-white transition-colors group"
-                        >
-                            <span className="text-[26px]">&raquo;</span>
-                        </button>
+                        {/* Navigation Buttons */}
+                        <div className="absolute -bottom-4 left-1/2 -translate-x-1/2 flex gap-1">
+                            <button
+                                onClick={handlePrev}
+                                className="w-8 h-8 bg-white border border-gray-300 flex items-center justify-center hover:bg-black hover:text-white transition-colors group"
+                            >
+                                <span className="text-[26px]">&laquo;</span>
+                            </button>
+                            <button
+                                onClick={handleNext}
+                                className="w-8 h-8 bg-white border border-gray-300 flex items-center justify-center hover:bg-black hover:text-white transition-colors group"
+                            >
+                                <span className="text-[26px]">&raquo;</span>
+                            </button>
+                        </div>
                     </div>
                 </div>
             </div>
