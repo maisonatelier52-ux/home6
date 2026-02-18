@@ -35,28 +35,16 @@ export default function ArticleAuthor({ name, bio, image, postsCount, role }: Ar
                     <span className="text-gray-400 text-xs font-bold tracking-wider">Published posts: {postsCount}</span>
                 </div>
 
-                <h2 className="text-2xl font-serif font-bold text-gray-900 mb-3">
-                    {name}
+                <h2 className="text-2xl font-serif font-bold text-gray-900 mb-3 cursor-pointer hover:text-red-700 transition-colors">
+                    <Link href={`/authors#${name.toLowerCase().replace(/\s+/g, '-')}`}>
+                        {name}
+                    </Link>
                 </h2>
 
                 <p className="text-gray-600 font-serif text-sm text-base leading-relaxed mb-4">
                     {bio}
                 </p>
-
-                <div className="flex items-center gap-4">
-                    <SocialLink icon={<Twitter size={14} />} href="#" />
-                    <SocialLink icon={<Facebook size={14} />} href="#" />
-                    <SocialLink icon={<Youtube size={14} />} href="#" />
-                </div>
             </div>
         </div>
-    );
-}
-
-function SocialLink({ icon, href }: { icon: React.ReactNode; href: string }) {
-    return (
-        <Link href={href} className="text-black hover:text-red-600 transition-colors">
-            {icon}
-        </Link>
     );
 }

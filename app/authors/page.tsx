@@ -93,6 +93,7 @@ export default function AuthorsPage() {
                             {authors.map((author, index) => (
                                 <div
                                     key={author.name}
+                                    id={author.name.toLowerCase().replace(/\s+/g, '-')}
                                     className={`flex flex-col ${index % 2 === 0 ? "md:flex-row" : "md:flex-row-reverse"
                                         } gap-8 items-center bg-white border border-gray-200 rounded-lg p-8 hover:shadow-lg transition-shadow`}
                                 >

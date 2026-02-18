@@ -12,12 +12,11 @@ export default function ArticleTags({ tags }: ArticleTagsProps) {
             <div className="inline-flex flex-wrap gap-1">
                 {tags.map((tag, index) => (
                     <React.Fragment key={tag}>
-                        <Link
-                            href={`/tag/${tag.toLowerCase().replace(/\s+/g, '-')}`}
-                            className="text-gray-900 font-semibold hover:text-red-600 transition-colors"
+                        <div
+                            className="text-gray-900 font-semibold  transition-colors"
                         >
                             {tag}
-                        </Link>
+                        </div>
                         {index !== tags.length - 1 && <span className="text-gray-400">,</span>}
                     </React.Fragment>
                 ))}
