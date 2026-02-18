@@ -63,7 +63,7 @@ export default function Footer() {
                     <div className="flex flex-col gap-6">
                         <h2 className="text-white text-md font-bold font-serif">Categories</h2>
                         <div className="flex flex-wrap gap-2">
-                            {["Markets", "Wealth", "Business", "Finance", "Tech", "Politics", "Nature", "Culture"].map((category, index) => (
+                            {["Markets", "Wealth", "Business", "Finance", "Tech", "Politics"].map((category, index) => (
                                 <Link
                                     key={index}
                                     href={`/${category.toLowerCase()}`}
@@ -118,20 +118,18 @@ export default function Footer() {
                 </div>
 
                 {/* Bottom Bar */}
-                <div className="pt-6 border-t border-gray-800 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-                    <div className="flex flex-wrap justify-center md:justify-start items-center gap-x-6 gap-y-2 text-sm font-bold">
-                        <Link href="/finance" title="Finance" className="hover:underline hover:text-white">Finance</Link>
-                        <Link href="/politics" title="Politics" className="hover:underline hover:text-white">Politics</Link>
-                        <Link href="/wealth" title="Wealth" className="hover:underline hover:text-white">Wealth</Link>
-                    </div>
+                <div className="pt-6 border-t border-gray-800 grid grid-cols-1 md:grid-cols-3 items-center gap-6">
+                    <div className="hidden md:block"></div> {/* Spacer for centering balance */}
 
-                    <div className="flex flex-col md:flex-row items-center gap-4 md:gap-8">
-                        <p className="text-[12px] text-gray-500">
-                            © Copyright 2026 - The Quest for Profit. All Rights Reserved
-                        </p>
+                    <p className="text-[12px] text-gray-500 text-center">
+                        © Copyright 2026 - The Quest for Profit. All Rights Reserved
+                    </p>
+
+                    <div className="flex justify-center md:justify-end">
                         <button
                             onClick={scrollToTop}
-                            className="bg-gray-800 p-2 hover:bg-white hover:text-black transition-all flex items-center justify-center"
+                            className="bottom-0 bg-gray-800 p-2 hover:bg-white hover:text-black transition-all flex items-center justify-center"
+                            title="Scroll to top"
                         >
                             <ChevronUp size={16} />
                         </button>
