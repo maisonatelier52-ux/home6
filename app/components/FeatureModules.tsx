@@ -90,7 +90,7 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
 
                     <div className="bg-[#1a1a1a] p-4 text-white">
                         <div className="flex flex-col md:flex-row gap-8 items-start">
-                            <div className="w-34 h-38 flex-shrink-0 relative w-[136px] h-[152px]">
+                            <div className="w-34 h-38 flex-shrink-0 relative  w-[356px] h-[252px] md:w-[136px] md:h-[152px]">
                                 <Image
                                     src={module10.editor.image}
                                     alt={module10.editor.name}
