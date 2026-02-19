@@ -64,7 +64,7 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
                                             {article.title}
                                         </h3>
                                     </Link>
-                                    <Link href={`/${(article.category || 'news').toLowerCase()}/`} title={`View all ${article.category} posts`} className="text-[11px] font-bold uppercase mt-4 block hover:text-red-600">
+                                    <Link href={`/${(article.category || 'news').toLowerCase()}/`} title={`View all ${article.category} posts`} className="text-[11px] text-black font-bold uppercase mt-4 block hover:text-red-600">
                                         See all Posts →
                                     </Link>
                                 </div>
