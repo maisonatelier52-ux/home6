@@ -110,11 +110,9 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                 <div className="lg:w-1/3 flex flex-col gap-10">
                     <div className="flex flex-col">
                         {sidebarItems.map((item, index) => (
-                            <Link
+                            <div
                                 key={item.id}
-                                href={`/${(item.category || 'news').toLowerCase()}/${item.slug}`}
-                                title={item.title}
-                                className={`group flex items-start gap-4 py-4`}
+                                className="group flex items-start gap-4 py-4 relative"
                             >
                                 <div className="w-[50px] h-[60px] flex-shrink-0 overflow-hidden bg-gray-100 relative">
                                     <Image
@@ -126,17 +124,19 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                                     />
                                 </div>
                                 <div className="flex-1">
-                                    <div className="flex items-center gap-1 text-[11px] text-gray-400 mb-1.5">
+                                    <div className="flex items-center gap-1 text-[11px] text-gray-400 mb-1.5 relative z-10">
                                         <Link href={`/authors#${(item.author || '').toLowerCase().replace(/\s+/g, '-')}`} className="font-bold text-gray-600 hover:text-[#e43b3b] transition-colors">
                                             {item.author}
                                         </Link>
                                         <span>on {item.date}</span>
                                     </div>
                                     <h3 className="text-sm font-bold leading-snug text-gray-900 font-serif group-hover:underline decoration-2 decoration-gray-900">
-                                        {item.title}
+                                        <Link href={`/${(item.category || 'news').toLowerCase()}/${item.slug}`} className="after:absolute after:inset-0">
+                                            {item.title}
+                                        </Link>
                                     </h3>
                                 </div>
-                            </Link>
+                            </div>
                         ))}
                     </div>
                 </div>

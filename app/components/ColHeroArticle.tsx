@@ -56,7 +56,9 @@ export default function ColHeroArticle({
 
             {/* Meta */}
             <div className="text-[11px] font-bold uppercase text-gray-400 mb-8 pb-4 border-b border-gray-100">
-                BY <span className="text-black">{data.author}</span> / {data.role} ON {data.date}
+                BY <Link href={`/authors#${(data.author || '').toLowerCase().replace(/\s+/g, '-')}`} className="text-black hover:text-red-600 transition-colors">
+                    {data.author}
+                </Link> / {data.role} ON {data.date}
             </div>
 
             {/* Two Column Content */}
