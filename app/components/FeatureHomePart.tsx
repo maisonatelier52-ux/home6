@@ -70,7 +70,9 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                 {/* Left Side Content (Takes 2 of 3 columns) */}
                 <div className="lg:w-2/3">
                     <div className="flex flex-wrap items-center gap-2 text-[10px] text-gray-400 font-bold uppercase mb-3 tracking-wide">
-                        <span className="text-black">{hero.author}</span>
+                        <Link href={`/authors#${(hero.author || '').toLowerCase().replace(/\s+/g, '-')}`} className="text-black hover:text-red-600 transition-colors">
+                            {hero.author}
+                        </Link>
                         <span>ON {hero.date}</span>
                     </div>
 
@@ -125,7 +127,9 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                                 </div>
                                 <div className="flex-1">
                                     <div className="flex items-center gap-1 text-[11px] text-gray-400 mb-1.5">
-                                        <span className="font-bold text-gray-600 group-hover:text-[#e43b3b] transition-colors">{item.author}</span>
+                                        <Link href={`/authors#${(item.author || '').toLowerCase().replace(/\s+/g, '-')}`} className="font-bold text-gray-600 hover:text-[#e43b3b] transition-colors">
+                                            {item.author}
+                                        </Link>
                                         <span>on {item.date}</span>
                                     </div>
                                     <h3 className="text-sm font-bold leading-snug text-gray-900 font-serif group-hover:underline decoration-2 decoration-gray-900">

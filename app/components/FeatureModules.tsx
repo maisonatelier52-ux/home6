@@ -102,21 +102,15 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
                             <div className="flex-1">
                                 <span className="text-[10px] font-bold uppercase text-gray-400 mb-2 block">EDITOR</span>
                                 <div className="flex items-baseline gap-2 mb-4">
-                                    <h3 className="text-xl font-bold font-serif">{module10.editor.name}</h3>
-                                    <span className="text-gray-400 font-serif italic text-sm">{module10.editor.posts}</span>
+                                    <Link href={`/authors#${(module10.editor.name || '').toLowerCase().replace(/\s+/g, '-')}`}>
+                                        <h3 className="text-xl font-bold font-serif hover:text-red-600 transition-colors cursor-pointer">
+                                            {module10.editor.name}
+                                        </h3>
+                                    </Link>
                                 </div>
                                 <p className="text-gray-300 text-[14px] leading-relaxed mb-6">
                                     {module10.editor.bio}
                                 </p>
-                                <div className="flex gap-4">
-                                    {module10.editor.social.map((s, i) => (
-                                        <Link key={i} href={s.url} title={s.platform} className="text-white hover:text-red-600 transition-colors">
-                                            {s.platform === 'twitter' && <Twitter size={18} fill="currentColor" />}
-                                            {s.platform === 'facebook' && <Facebook size={18} fill="currentColor" />}
-                                            {s.platform === 'youtube' && <Youtube size={18} />}
-                                        </Link>
-                                    ))}
-                                </div>
                             </div>
                         </div>
 
@@ -150,13 +144,13 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
                 <div className='md:border-l border-gray-300 pl-0 md:pl-4 h-full'>
                     {/* Advertisement */}
                     <div>
-                    <Link href="https://www.venturecapi.com/" className="w-full mb-8 overflow-hidden group cursor-pointer">
-                        <img
-                            src="/images/adv333.svg"
-                            alt="Advertisement"
-                            className="w-full h-auto"
-                        />
-                    </Link>
+                        <Link href="https://www.venturecapi.com/" className="w-full mb-8 overflow-hidden group cursor-pointer">
+                            <img
+                                src="/images/adv333.svg"
+                                alt="Advertisement"
+                                className="w-full h-auto"
+                            />
+                        </Link>
                     </div>
 
                     {/* Hot Peoples */}
