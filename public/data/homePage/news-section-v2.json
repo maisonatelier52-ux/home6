@@ -44,15 +44,15 @@
     "col2": {
         "hero": {
             "category": "Politics",
-            "title": "Senate Passes Landmark Infrastructure Bill",
-            "intro": "In a rare display of bipartisan unity, the Senate has passed a comprehensive infrastructure bill aimed at modernizing the nation's transportation network and energy grid for the next decade.",
+            "title": "FCC Chair Slams Media Over Stephen Colbert ‘Censorship’ Claim as Texas Senate Race Heats Up",
+            "intro": "The FCC criticizes media coverage of Stephen Colbert’s alleged CBS censorship as equal time rules resurface, boosting a Texas Senate candidate and intensifying 2026 election tensions.",
             "author": "Emily Rodriguez",
             "role": "Political Analyst",
-            "date": "Jan 03, 2026",
-            "contentLeft": "The bill includes $1.2 trillion in new spending over five years, focusing on climate resilience and broadband.",
-            "contentRight": "Analysts say this represents the most significant investment in American power since the mid-20th century.\n\nThe bill now heads to the President's desk for signing.",
-            "image": "/images/news/politics-4.webp",
-            "slug": "senate-passes-infrastructure-bill"
+            "date": "Feb 18, 2026",
+            "contentLeft": "The controversy highlights how politics, the media, and the federal government are increasingly at odds during an election cycle.",
+            "contentRight": "The interview eventually received millions of views on YouTube and helped a Texas Senate campaign raise millions in 24 hours.\n\nThe FCC is keeping a closer eye on political guests on talk and entertainment shows.",
+            "image": "/images/news/fcc chair slams.webp",
+            "slug": "fcc-colbert-cbs-equal-time-texas-senate-controversy"
         },
         "bullets": [
             {
