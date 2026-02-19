@@ -78,9 +78,9 @@ export default function CategoryNewsCard({
                 <div className="flex flex-wrap gap-2 text-[10px] text-gray-500 font-bold uppercase tracking-widest">
                     <span>Tags:</span>
                     {tags.map((tag, i) => (
-                        <Link key={i} href="#" className="text-gray-800 hover:underline transition-colors">
+                        <div key={i} className="text-gray-800 transition-colors">
                             {tag}{i < tags.length - 1 ? ',' : ''}
-                        </Link>
+                        </div>
                     ))}
                 </div>
             </div>
