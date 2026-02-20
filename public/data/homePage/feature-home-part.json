@@ -42,13 +42,13 @@
             "slug": "trade-policy-shifts-asia"
         },
         {
-            "id": "tech-6",
-            "image": "/images/news/tech-6.webp",
-            "author": "Michael Chen",
-            "category": "Tech",
-            "date": "Feb 12",
-            "title": "AI Meta-Agents: The Next Evolution of Multi-Agent Systems in 2026",
-            "slug": "ai-meta-agents-2026-evolution"
+            "id": "health-1",
+            "image": "/images/news/alzheimers.webp",
+            "author": "Sarah Jenkins",
+            "category": "Health",
+            "date": "Feb 19",
+            "title": "Alzheimer’s Prediction Tool: Blood Test Estimates Symptom Onset Within 3–4 Years",
+            "slug": "alzheimer-blood-test-predict-symptom-onset"
         }
     ],
     "module7": {
