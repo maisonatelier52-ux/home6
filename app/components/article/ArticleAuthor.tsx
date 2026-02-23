@@ -28,7 +28,7 @@ export default function ArticleAuthor({ name, bio, image, postsCount, role }: Ar
             </div>
 
             {/* Author Info */}
-            <div className="flex-1 border-l border-gray-300 pl-4">
+            <div className="flex-1 border-l-none md:border-l border-gray-300 pl-4">
                 <div className="flex items-center gap-2 mb-2">
                     <span className="text-gray-400 text-xs font-bold tracking-wider">{role}</span>
                     <span className="text-gray-300">/</span>

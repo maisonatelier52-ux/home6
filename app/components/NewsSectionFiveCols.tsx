@@ -27,7 +27,7 @@ export default function NewsSectionFiveCols({ data }: NewsSectionFiveColsProps) 
                     {data.columns.map((col, index) => (
                         <div
                             key={index}
-                            className={`px-4 py-4 ${index !== data.columns.length - 1 ? 'md:border-r border-gray-200' : ''}`}
+                            className={`px-4 py-2 ${index !== data.columns.length - 1 ? 'md:border-r border-gray-200' : ''}`}
                         >
                             {col.type === 'image' ? (
                                 <div className="hidden md:block w-full md:h-full md:min-h-[300px] relative">

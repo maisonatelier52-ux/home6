@@ -7,7 +7,7 @@ interface SectionHeaderProps {
 
 export default function SectionHeader({ title, subtitle }: SectionHeaderProps) {
     return (
-        <div className="flex flex-col items-center mb-0 md:mb-8">
+        <div className="flex flex-col items-center mb-8 md:mb-8">
             <div className="flex items-center w-full gap-4 mb-2">
                 <div className="flex-1 h-[1px] bg-gray-300"></div>
                 <h2 className="text-2xl font-bold font-serif text-[#e43b3b] whitespace-nowrap">
