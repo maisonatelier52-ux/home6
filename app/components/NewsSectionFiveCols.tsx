@@ -15,8 +15,8 @@ interface NewsSectionFiveColsProps {
 
 export default function NewsSectionFiveCols({ data }: NewsSectionFiveColsProps) {
     return (
-        <section className="w-full bg-white my-10 border-b border-gray-300">
-            <div className="container mx-auto px-4 md:px-0">
+        <section className="w-full bg-white my-4 border-b border-gray-300">
+            <div className="container mx-auto px-2 md:px-4">
                 {/* Section Header */}
                 <SectionHeader
                     title={data.sectionHeader?.title || "Corona Virus News"}

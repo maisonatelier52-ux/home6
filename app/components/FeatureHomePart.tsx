@@ -82,7 +82,7 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                         </Link>
                     </h2>
 
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-gray-600 leading-relaxed text-[15px] pb-2 mb-8">
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-gray-600 leading-relaxed text-[15px] pb-2 mb-0">
                         <div>
                             <p>
                                 <span className="float-left text-5xl font-serif text-gray-400 leading-[0.8] mr-2 mt-[-6px]">

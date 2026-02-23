@@ -17,7 +17,7 @@ interface Module15Props {
 
 export default function Module15({ title, description, articles }: Module15Props) {
     return (
-        <section className="w-full bg-white pt-8">
+        <section className="w-full bg-white pt-2">
             {/* Header */}
             <div className="flex items-center gap-2 mb-4">
                 <h2 className="text-sm font-bold uppercase tracking-wider">

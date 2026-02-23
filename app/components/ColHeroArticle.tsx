@@ -62,7 +62,7 @@ export default function ColHeroArticle({
             </div>
 
             {/* Two Column Content */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-gray-600 text-[14px] leading-relaxed mb-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-gray-600 text-[14px] leading-relaxed mb-0">
                 <div>
                     <span className="float-left text-5xl font-serif text-gray-400 leading-[0.8] mr-2 mt-[-6px]">
                         {data.contentLeft.charAt(0)}

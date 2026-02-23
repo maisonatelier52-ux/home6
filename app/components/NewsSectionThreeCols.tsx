@@ -24,7 +24,7 @@ export default function NewsSectionThreeCols({ data }: NewsSectionThreeColsProps
                     {/* First Column (2/4 width) */}
                     <div className="lg:col-span-6 md:border-r border-gray-300 pr-0 md:pr-4">
                         <ColHeroArticle data={data.hero} />
-                        <div className="mt-12 pt-8 border-t border-gray-300">
+                        <div className="mt-8 pt-8 border-t border-gray-300">
                             <Module15
                                 title={data.module15.title}
                                 description={data.module15.description}
