@@ -50,7 +50,7 @@ export default function CategoryNewsCard({
 
             {/* Title */}
             <h2 className="text-2xl md:text-3xl font-serif font-bold text-gray-900 mb-4 leading-tight hover:underline cursor-pointer transition-all duration-200">
-                <Link href={`/${(displayCategories[0] || 'news').toLowerCase()}/${slug}`}>
+                <Link href={`/${(displayCategories[0] || 'news').toLowerCase()}/${slug}`} title={title}>
                     {title}
                 </Link>
             </h2>
