@@ -5,6 +5,7 @@ import CategoryHeader from "../components/CategoryHeader";
 import CategoryMainGrid from "../components/CategoryMainGrid";
 import categoriesData from "@/public/data/categories.json";
 import { notFound } from "next/navigation";
+import StructuredData from "../components/StructuredData";
 
 interface CategoryPageProps {
     params: Promise<{ category: string }>;
@@ -91,6 +92,24 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
 
     return (
         <div className="min-h-screen bg-white">
+            <StructuredData data={{
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.thequestforprofit.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": category.title,
+                        "item": `https://www.thequestforprofit.com/${lowerSlug}`
+                    }
+                ]
+            }} />
             <Header />
             <Navbar />
 

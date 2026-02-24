@@ -14,6 +14,7 @@ import CategorySidebar from '../../components/CategorySidebar';
 import recentPostsData from '@/public/data/recentPosts.json';
 import tagsData from '@/public/data/tags.json';
 import RelatedPosts from '../../components/article/RelatedPosts';
+import StructuredData from '../../components/StructuredData';
 
 interface ArticlePageProps {
     params: Promise<{ category: string; slug: string }>;
@@ -115,6 +116,57 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
     return (
         <div className="bg-white min-h-screen transition-colors duration-300">
+            <StructuredData data={{
+                "@context": "https://schema.org",
+                "@graph": [
+                    {
+                        "@type": "NewsArticle",
+                        "headline": article.title,
+                        "image": [
+                            `https://www.thequestforprofit.com${article.image}`
+                        ],
+                        "datePublished": article.date,
+                        "dateModified": article.date,
+                        "author": [{
+                            "@type": "Person",
+                            "name": author.name,
+                            "url": `https://www.thequestforprofit.com/authors#${(author.name || '').toLowerCase().replace(/\s+/g, '-')}`
+                        }],
+                        "publisher": {
+                            "@type": "NewsMediaOrganization",
+                            "name": "The Quest for Profit",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://www.thequestforprofit.com/images/logo-TQFP.svg"
+                            }
+                        },
+                        "description": article.excerpt || article.content[0]?.text
+                    },
+                    {
+                        "@type": "BreadcrumbList",
+                        "itemListElement": [
+                            {
+                                "@type": "ListItem",
+                                "position": 1,
+                                "name": "Home",
+                                "item": "https://www.thequestforprofit.com"
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 2,
+                                "name": article.category,
+                                "item": `https://www.thequestforprofit.com/${category}`
+                            },
+                            {
+                                "@type": "ListItem",
+                                "position": 3,
+                                "name": article.title,
+                                "item": `https://www.thequestforprofit.com/${category}/${slug}`
+                            }
+                        ]
+                    }
+                ]
+            }} />
             <Header />
             <Navbar />
             <main className="container mx-auto max-w-6xl px-4 md:px-0 py-12">

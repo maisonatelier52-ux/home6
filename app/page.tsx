@@ -62,7 +62,40 @@ export default function Home() {
         <p>At <strong>The Quest for Profit</strong>, we treat every <strong>market analysis</strong> with <strong>insights</strong> and rigorous <strong>financial</strong> scrutiny to help you in your <strong>quest</strong> for wealth. Stay updated with our <strong>new</strong> and <strong>proven</strong> <strong>financial insights</strong> and <strong>analysis</strong>.</p>
       </section>
 
-      <StructuredData />
+      <StructuredData data={{
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "NewsMediaOrganization",
+            "@id": "https://www.thequestforprofit.com/#organization",
+            "name": "The Quest for Profit",
+            "url": "https://www.thequestforprofit.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.thequestforprofit.com/images/logo-TQFP.svg",
+              "width": 600,
+              "height": 60
+            },
+            "sameAs": [
+              "https://twitter.com/tqfp",
+              "https://facebook.com/tqfp",
+              "https://linkedin.com/company/tqfp"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.thequestforprofit.com/#website",
+            "url": "https://www.thequestforprofit.com",
+            "name": "The Quest for Profit",
+            "publisher": { "@id": "https://www.thequestforprofit.com/#organization" },
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://www.thequestforprofit.com/search?q={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          }
+        ]
+      }} />
       <Header />
       <Navbar />
 
