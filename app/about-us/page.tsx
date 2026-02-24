@@ -7,6 +7,27 @@ import Footer from "../components/layout/Footer";
 export const metadata: Metadata = {
     title: "About Us | The Quest for Profit",
     description: "Learn about The Quest for Profit - your premier source for global economic analysis, market intelligence, and wealth management strategies.",
+    openGraph: {
+        title: "About Us | The Quest for Profit",
+        description: "Learn about The Quest for Profit - your premier source for global economic analysis, market intelligence, and wealth management strategies.",
+        url: "https://www.thequestforprofit.com/about-us",
+        siteName: "The Quest for Profit",
+        images: [
+            {
+                url: "/images/news/markets-1.webp",
+                width: 1200,
+                height: 630,
+                alt: "About The Quest for Profit",
+            }
+        ],
+        type: "website",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "About Us | The Quest for Profit",
+        description: "Learn about The Quest for Profit - your premier source for global economic analysis, market intelligence, and wealth management strategies.",
+        images: ["/images/news/markets-1.webp"],
+    },
 };
 
 export default function AboutUsPage() {

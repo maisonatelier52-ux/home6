@@ -6,6 +6,18 @@ import Footer from "../components/layout/Footer";
 export const metadata: Metadata = {
     title: "Terms & Conditions | The Quest for Profit",
     description: "Read the terms and conditions for using The Quest for Profit website and services.",
+    openGraph: {
+        title: "Terms & Conditions | The Quest for Profit",
+        description: "Read the terms and conditions for using The Quest for Profit website and services.",
+        url: "https://www.thequestforprofit.com/terms-conditions",
+        siteName: "The Quest for Profit",
+        type: "website",
+    },
+    twitter: {
+        card: "summary",
+        title: "Terms & Conditions | The Quest for Profit",
+        description: "Read the terms and conditions for using The Quest for Profit website and services.",
+    },
 };
 
 export default function TermsConditionsPage() {

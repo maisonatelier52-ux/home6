@@ -6,6 +6,18 @@ import Footer from "../components/layout/Footer";
 export const metadata: Metadata = {
     title: "Privacy Policy | The Quest for Profit",
     description: "Learn how The Quest for Profit collects, uses, and protects your personal information.",
+    openGraph: {
+        title: "Privacy Policy | The Quest for Profit",
+        description: "Learn how The Quest for Profit collects, uses, and protects your personal information.",
+        url: "https://www.thequestforprofit.com/privacy-policy",
+        siteName: "The Quest for Profit",
+        type: "website",
+    },
+    twitter: {
+        card: "summary",
+        title: "Privacy Policy | The Quest for Profit",
+        description: "Learn how The Quest for Profit collects, uses, and protects your personal information.",
+    },
 };
 
 export default function PrivacyPolicyPage() {

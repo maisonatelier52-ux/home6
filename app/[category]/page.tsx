@@ -33,6 +33,8 @@ export async function generateMetadata({ params }: CategoryPageProps) {
         openGraph: {
             title: `${category.title} News | TQFP`,
             description: category.description,
+            url: `https://www.thequestforprofit.com/${lowerSlug}`,
+            siteName: 'The Quest for Profit',
             images: [
                 {
                     url: categoryImage,

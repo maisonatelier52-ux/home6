@@ -7,6 +7,27 @@ import Image from "next/image";
 export const metadata: Metadata = {
     title: "Our Authors | The Quest for Profit",
     description: "Meet the expert journalists and contributors behind The Quest for Profit's in-depth financial analysis and market insights.",
+    openGraph: {
+        title: "Our Authors | The Quest for Profit",
+        description: "Meet the expert journalists and contributors behind The Quest for Profit's in-depth financial analysis and market insights.",
+        url: "https://www.thequestforprofit.com/authors",
+        siteName: "The Quest for Profit",
+        images: [
+            {
+                url: "/images/news/markets-1.webp",
+                width: 1200,
+                height: 630,
+                alt: "The Quest for Profit Authors",
+            }
+        ],
+        type: "website",
+    },
+    twitter: {
+        card: "summary_large_image",
+        title: "Our Authors | The Quest for Profit",
+        description: "Meet the expert journalists and contributors behind The Quest for Profit's in-depth financial analysis and market insights.",
+        images: ["/images/news/markets-1.webp"],
+    },
 };
 
 const authors = [
