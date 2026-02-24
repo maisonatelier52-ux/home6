@@ -102,7 +102,7 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
                             <div className="flex-1">
                                 <span className="text-[10px] font-bold uppercase text-gray-400 mb-2 block">EDITOR</span>
                                 <div className="flex items-baseline gap-2 mb-4">
-                                    <Link href={`/authors#${(module10.editor.name || '').toLowerCase().replace(/\s+/g, '-')}`}>
+                                    <Link href={`/authors#${(module10.editor.name || '').toLowerCase().replace(/\s+/g, '-')}`} title={`View all posts by ${module10.editor.name}`}>
                                         <h3 className="text-xl font-bold font-serif hover:text-red-600 transition-colors cursor-pointer">
                                             {module10.editor.name}
                                         </h3>
@@ -144,7 +144,7 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
                 <div className='md:border-l border-gray-300 pl-0 md:pl-4 h-full'>
                     {/* Advertisement */}
                     <div>
-                        <Link href="https://www.venturecapi.com/" className="w-full mb-8 overflow-hidden group cursor-pointer">
+                        <Link href="https://www.venturecapi.com/" title="Visit VentureCapi" className="w-full mb-8 overflow-hidden group cursor-pointer">
                             <img
                                 src="/images/adv333.svg"
                                 alt="Advertisement"

@@ -113,7 +113,7 @@ export default function AuthorsPage() {
                                         </h2>
                                         <p className="text-red-600 font-semibold mb-2">{author.role}</p>
                                         {author.email && (
-                                            <a href={`mailto:${author.email}`} className="text-sm font-semibold text-gray-600 hover:text-red-600 transition-colors mb-4 block">
+                                            <a href={`mailto:${author.email}`} title={`Send an email to ${author.name}`} className="text-sm font-semibold text-gray-600 hover:text-red-600 transition-colors mb-4 block">
                                                 {author.email}
                                             </a>
                                         )}

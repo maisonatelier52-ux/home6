@@ -36,7 +36,7 @@ export default function ArticleAuthor({ name, bio, image, postsCount, role }: Ar
                 </div>
 
                 <h2 className="text-2xl font-serif font-bold text-gray-900 mb-3 cursor-pointer hover:text-red-700 transition-colors">
-                    <Link href={`/authors#${(name || '').toLowerCase().replace(/\s+/g, '-')}`}>
+                    <Link href={`/authors#${(name || '').toLowerCase().replace(/\s+/g, '-')}`} title={`View all posts by ${name}`}>
                         {name}
                     </Link>
                 </h2>

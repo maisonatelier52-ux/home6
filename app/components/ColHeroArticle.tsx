@@ -44,7 +44,7 @@ export default function ColHeroArticle({
 
             {/* Title */}
             <h2 className={`${titleSize} font-bold font-serif leading-tight mb-4 text-gray-900 group-hover:underline cursor-pointer`}>
-                <Link href={`/${(data.category || 'news').toLowerCase()}/${data.slug}`} className="hover:underline transition-colors">
+                <Link href={`/${(data.category || 'news').toLowerCase()}/${data.slug}`} title={data.title} className="hover:underline transition-colors">
                     {data.title}
                 </Link>
             </h2>
@@ -56,7 +56,7 @@ export default function ColHeroArticle({
 
             {/* Meta */}
             <div className="text-[11px] font-bold uppercase text-gray-400 mb-8 pb-4 border-b border-gray-100">
-                BY <Link href={`/authors#${(data.author || '').toLowerCase().replace(/\s+/g, '-')}`} className="text-black hover:text-red-600 transition-colors">
+                BY <Link href={`/authors#${(data.author || '').toLowerCase().replace(/\s+/g, '-')}`} title={`View all posts by ${data.author}`} className="text-black hover:text-red-600 transition-colors">
                     {data.author}
                 </Link> / {data.role} ON {data.date}
             </div>

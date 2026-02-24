@@ -60,7 +60,7 @@ export default function Module6Carousel({ title, articles }: Module6CarouselProp
                             {visibleItems.map((item, idx) => (
                                 <div key={item.id} className="px-6 py-4 md:py-0">
                                     <div className="text-[10px] font-bold uppercase tracking-wider mb-2">
-                                        <Link href={`/authors#${(item.author || '').toLowerCase().replace(/\s+/g, '-')}`} className="text-black hover:text-red-600 transition-colors">
+                                        <Link href={`/authors#${(item.author || '').toLowerCase().replace(/\s+/g, '-')}`} title={`View all posts by ${item.author}`} className="text-black hover:text-red-600 transition-colors">
                                             {item.author}
                                         </Link>
                                         <span className="text-gray-400 ml-1 font-normal">ON {item.date}</span>

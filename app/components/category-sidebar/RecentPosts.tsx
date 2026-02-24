@@ -23,6 +23,7 @@ export default function RecentPosts({ posts = [] }: RecentPostsProps) {
                         <span className="text-gray-600 font-serif leading-tight">»</span>
                         <Link
                             href={`/${(post.category || 'news').toLowerCase()}/${post.slug}`}
+                            title={post.title}
                             className="text-[13px] font-bold text-gray-800 leading-tight group-hover:underline transition-all"
                         >
                             {post.title}

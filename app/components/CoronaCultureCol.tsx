@@ -21,7 +21,7 @@ interface CoronaCultureColProps {
     coroData: {
         title: { red: string; rest: string };
         description: string;
-        timeline: TimelineItem[]; 
+        timeline: TimelineItem[];
     };
     cultureData: {
         title: { red: string; rest: string };
@@ -52,7 +52,7 @@ export default function CoronaCultureCol({ coroData, cultureData }: CoronaCultur
                             <div className="absolute -left-[31px] top-1.5 h-2.5 w-2.5 rounded-full bg-[#e43b3b] ring-4 ring-white"></div>
                             <div className="flex flex-col">
                                 <span className="text-gray-400 text-xs mb-1 font-bold">{item.time}</span>
-                                <Link href={`/${(item.category || 'news').toLowerCase()}/${item.slug}`} className="group">
+                                <Link href={`/${(item.category || 'news').toLowerCase()}/${item.slug}`} title={item.title} className="group">
                                     <h3 className="text-gray-800 font-bold leading-snug group-hover:underline cursor-pointer transition-colors text-sm">
                                         {item.title}
                                     </h3>

@@ -70,14 +70,14 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                 {/* Left Side Content (Takes 2 of 3 columns) */}
                 <div className="lg:w-2/3">
                     <div className="flex flex-wrap items-center gap-2 text-[10px] text-gray-400 font-bold uppercase mb-3 tracking-wide">
-                        <Link href={`/authors#${(hero.author || '').toLowerCase().replace(/\s+/g, '-')}`} className="text-black hover:text-red-600 transition-colors">
+                        <Link href={`/authors#${(hero.author || '').toLowerCase().replace(/\s+/g, '-')}`} title={`View all posts by ${hero.author}`} className="text-black hover:text-red-600 transition-colors">
                             {hero.author}
                         </Link>
                         <span>ON {hero.date}</span>
                     </div>
 
                     <h2 className="text-3xl md:text-3xl font-semibold font-weight-650 text-gray-900 mb-6 font-serif leading-tight">
-                        <Link href={`/${(hero.category || 'news').toLowerCase()}/${hero.slug}`} className="hover:underline transition-colors">
+                        <Link href={`/${(hero.category || 'news').toLowerCase()}/${hero.slug}`} title={hero.title} className="hover:underline transition-colors">
                             {hero.title}
                         </Link>
                     </h2>
@@ -125,13 +125,13 @@ export default function FeatureHomePart({ hero, sidebarItems, module7, module10,
                                 </div>
                                 <div className="flex-1">
                                     <div className="flex items-center gap-1 text-[11px] text-gray-400 mb-1.5 relative z-10">
-                                        <Link href={`/authors#${(item.author || '').toLowerCase().replace(/\s+/g, '-')}`} className="font-bold text-gray-600 hover:text-[#e43b3b] transition-colors">
+                                        <Link href={`/authors#${(item.author || '').toLowerCase().replace(/\s+/g, '-')}`} title={`View all posts by ${item.author}`} className="font-bold text-gray-600 hover:text-[#e43b3b] transition-colors">
                                             {item.author}
                                         </Link>
                                         <span>on {item.date}</span>
                                     </div>
                                     <h3 className="text-sm font-bold leading-snug text-gray-900 font-serif group-hover:underline decoration-2 decoration-gray-900">
-                                        <Link href={`/${(item.category || 'news').toLowerCase()}/${item.slug}`} className="after:absolute after:inset-0">
+                                        <Link href={`/${(item.category || 'news').toLowerCase()}/${item.slug}`} title={item.title} className="after:absolute after:inset-0">
                                             {item.title}
                                         </Link>
                                     </h3>

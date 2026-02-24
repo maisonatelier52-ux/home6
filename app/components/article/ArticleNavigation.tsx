@@ -20,7 +20,7 @@ export default function ArticleNavigation({ previous, next }: ArticleNavigationP
             {/* Previous Link */}
             <div className="flex-1 text-left">
                 {previous && (
-                    <Link href={`/${(previous.category || 'news').toLowerCase()}/${previous.slug}`} className="group flex flex-col gap-1">
+                    <Link href={`/${(previous.category || 'news').toLowerCase()}/${previous.slug}`} title={previous.title} className="group flex flex-col gap-1">
                         <span className="text-gray-400 text-xs font-sans group-hover:text-red-600 transition-colors">
                             &larr; Previous Post
                         </span>
@@ -34,7 +34,7 @@ export default function ArticleNavigation({ previous, next }: ArticleNavigationP
             {/* Next Link */}
             <div className="flex-1 text-right border-l border-gray-300 pl-6">
                 {next && (
-                    <Link href={`/${(next.category || 'news').toLowerCase()}/${next.slug}`} className="group flex flex-col gap-1 items-end">
+                    <Link href={`/${(next.category || 'news').toLowerCase()}/${next.slug}`} title={next.title} className="group flex flex-col gap-1 items-end">
                         <span className="text-gray-400 text-xs font-sans group-hover:text-red-600 transition-colors">
                             Next Post &rarr;
                         </span>

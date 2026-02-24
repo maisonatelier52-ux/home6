@@ -28,7 +28,7 @@ export default function SidebarFormAndList({ moduleData, hotPeoples }: SidebarFo
 
 
             {/* 1. Advertisement */}
-            <Link href="https://www.mirrorstandard.com/" className="w-full overflow-hidden group cursor-pointer">
+            <Link href="https://www.mirrorstandard.com/" title="Visit Mirror Standard" className="w-full overflow-hidden group cursor-pointer">
                 <img
                     src="/images/add-svg1.svg"
                     alt="Advertisement"
