@@ -9,10 +9,10 @@
     "comments": 32,
     "image": "/images/news/politics-2.webp",
     "tags": [
-        "Trade",
-        "Asia",
-        "Economy",
-        "Diplomacy"
+        "#Trade",
+        "#Asia",
+        "#Economy",
+        "#Diplomacy"
     ],
     "author": {
         "name": "Michael Chen",

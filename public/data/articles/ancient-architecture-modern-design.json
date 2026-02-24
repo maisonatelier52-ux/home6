@@ -9,9 +9,9 @@
     "comments": 8,
     "image": "/images/clockhead.webp",
     "tags": [
-        "Architecture",
-        "History",
-        "Design"
+        "#Architecture",
+        "#History",
+        "#Design"
     ],
     "author": {
         "name": "Maxin Dalton",

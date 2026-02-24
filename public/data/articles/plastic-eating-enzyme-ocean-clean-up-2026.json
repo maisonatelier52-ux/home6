@@ -9,10 +9,10 @@
     "comments": 42,
     "image": "/images/news/nature-7.webp",
     "tags": [
-        "Nature",
-        "2026",
-        "Future",
-        "Evolution"
+        "#Nature",
+        "#2026",
+        "#Future",
+        "#Evolution"
     ],
     "author": {
         "name": "Sarah Jenkins",
@@ -160,7 +160,6 @@
             "type": "quote",
             "text": "The future of Nature is being written today, and 'The Plastic-Eating Enzyme Breakthrough: Scaling for Global Ocean Clean-up' is the pen we are using to write it."
         },
-        
         {
             "type": "paragraph",
             "text": "In conclusion, The Plastic-Eating Enzyme Breakthrough: Scaling for Global Ocean Clean-up stands as a testament to human ingenuity and our ability to adapt to a rapidly changing world. As we move into the late 2020s, the lessons learned from this period in Nature will guide us toward a more prosperous and sustainable future. The journey is just beginning, and the potential is limitless."

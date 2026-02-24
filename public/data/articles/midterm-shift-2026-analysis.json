@@ -9,10 +9,10 @@
     "comments": 124,
     "image": "/images/news/politics-6.webp",
     "tags": [
-        "Midterms",
-        "Elections",
-        "Congress",
-        "Political Strategy"
+        "#Midterms",
+        "#Elections",
+        "#Congress",
+        "#Political Strategy"
     ],
     "author": {
         "name": "Sarah Jenkins",
@@ -42,7 +42,7 @@
         },
         {
             "type": "paragraph",
-            "text": "Furthermore, the role of federal spending in infrastructure\u2014specifically digital infrastructure\u2014has become a key battleground. The 2025 Infrastructure Act's implementation is being scrutinized, with voters demanding faster rollouts of high-speed satellite internet in rural communities and more robust cybersecurity measures for local power grids. Candidates who can point to tangible improvements in their districts are finding a much warmer reception than those running on pure ideology. This 'bread-and-butter' approach to tech policy is a hallmark of the 2026 cycle."
+            "text": "Furthermore, the role of federal spending in infrastructure—specifically digital infrastructure—has become a key battleground. The 2025 Infrastructure Act's implementation is being scrutinized, with voters demanding faster rollouts of high-speed satellite internet in rural communities and more robust cybersecurity measures for local power grids. Candidates who can point to tangible improvements in their districts are finding a much warmer reception than those running on pure ideology. This 'bread-and-butter' approach to tech policy is a hallmark of the 2026 cycle."
         },
         {
             "type": "quote",

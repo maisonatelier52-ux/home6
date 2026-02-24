@@ -12,13 +12,13 @@
         "image": "/images/maskgirl.webp",
         "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so. This nudged jeepers less dogged sheared opposite then around but a due heinous square subtle amphibiously chameleon palpable tyrannical aboard removed much outside and without vicious scallop flapped [...]",
         "tags": [
-            "Art and Culture",
-            "brunch",
-            "Entertainment",
-            "Magazine",
-            "Mother Nature",
-            "Showbiz",
-            "TechNews"
+            "#Art and Culture",
+            "#brunch",
+            "#Entertainment",
+            "#Magazine",
+            "#Mother Nature",
+            "#Showbiz",
+            "#TechNews"
         ]
     },
     {
@@ -35,11 +35,11 @@
         "image": "/images/musthash.webp",
         "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more then around but a due so well and where supply much. This nudged jeepers less dogged sheared opposite then around but a due heinous square subtle amphibiously chameleon palpable [...]",
         "tags": [
-            "Art and Culture",
-            "brunch",
-            "Entertainment",
-            "Magazine",
-            "Showbiz"
+            "#Art and Culture",
+            "#brunch",
+            "#Entertainment",
+            "#Magazine",
+            "#Showbiz"
         ]
     },
     {
@@ -55,9 +55,9 @@
         "image": "/images/car.webp",
         "excerpt": "Deep within the heart of the city lies a secret garden that only the locals know. It's a place where time seems to stand still and the noise of the outside world fades into a distant memory. The air is filled with the scent of blooming flowers and the gentle rustle of leaves.",
         "tags": [
-            "Art",
-            "Modern",
-            "Culture"
+            "#Art",
+            "#Modern",
+            "#Culture"
         ]
     },
     {
@@ -74,9 +74,9 @@
         "image": "/images/eyepaint.webp",
         "excerpt": "Street photography is more than just taking pictures of people in public. It's about capturing a moment, a look, or an interaction that tells a story about the human condition. It requires patience, observation, and a quick eye for composition.",
         "tags": [
-            "Photography",
-            "Street",
-            "Life"
+            "#Photography",
+            "#Street",
+            "#Life"
         ]
     },
     {
@@ -92,9 +92,9 @@
         "image": "/images/oldmen.webp",
         "excerpt": "In an increasingly connected world, traditional music faces both challenges and opportunities. While globalization can lead to the homogenization of sound, it also provides new platforms for regional artists to reach a wider audience than ever before.",
         "tags": [
-            "Music",
-            "Tradition",
-            "Global"
+            "#Music",
+            "#Tradition",
+            "#Global"
         ]
     },
     {
@@ -111,9 +111,9 @@
         "image": "/images/clockhead.webp",
         "excerpt": "The majestic bridges and temples of ancient civilizations continue to inspire architects today. By studying the techniques and materials used thousands of years ago, modern designers can create structures that are both aesthetically pleasing and structurally sound.",
         "tags": [
-            "Architecture",
-            "History",
-            "Design"
+            "#Architecture",
+            "#History",
+            "#Design"
         ]
     },
     {
@@ -129,10 +129,10 @@
         "image": "/images/news/culture-6.webp",
         "excerpt": "The countdown to the greatest show on earth has reached its final months. In June 2026, the FIFA World Cup will descend upon North America...",
         "tags": [
-            "FIFA",
-            "World Cup",
-            "Soccer",
-            "North America"
+            "#FIFA",
+            "#World Cup",
+            "#Soccer",
+            "#North America"
         ]
     },
     {
@@ -148,10 +148,10 @@
         "image": "/images/news/culture-7.webp",
         "excerpt": "In 2026, the line between physical and digital culture has blurred, as 'Digital Festivals' become a mainstream way for people to experience art and music...",
         "tags": [
-            "Culture",
-            "2026",
-            "Future",
-            "Evolution"
+            "#Culture",
+            "#2026",
+            "#Future",
+            "#Evolution"
         ]
     },
     {
@@ -167,10 +167,10 @@
         "image": "/images/news/culture-8.webp",
         "excerpt": "A historic international agreement in 2026 has set the stage for a massive restitution of cultural artifacts, fundamentally changing the museum landscape...",
         "tags": [
-            "Museums",
-            "Restitution",
-            "History",
-            "Reform"
+            "#Museums",
+            "#Restitution",
+            "#History",
+            "#Reform"
         ]
     }
 ]

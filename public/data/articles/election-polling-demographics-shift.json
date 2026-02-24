@@ -9,10 +9,10 @@
     "comments": 32,
     "image": "/images/news/politics-2.webp",
     "tags": [
-        "Elections",
-        "Demographics",
-        "Polling",
-        "Politics"
+        "#Elections",
+        "#Demographics",
+        "#Polling",
+        "#Politics"
     ],
     "author": {
         "name": "Robert Miller",

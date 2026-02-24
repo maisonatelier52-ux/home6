@@ -9,10 +9,10 @@
     "comments": 78,
     "image": "/images/news/politics-7.webp",
     "tags": [
-        "AI",
-        "Governance",
-        "Geneva Treaty",
-        "International Law"
+        "#AI",
+        "#Governance",
+        "#Geneva Treaty",
+        "#International Law"
     ],
     "author": {
         "name": "Michael Chen",
@@ -89,7 +89,7 @@
         },
         {
             "type": "paragraph",
-            "text": "The Geneva Treaty of 2026 marks the birth of a new field: Digital Diplomacy. It is no longer enough for diplomats to understand geography and history; they must now understand neural networks and compute complexity. The success of these negotiations has set a precedent for how other global digital challenges, such as space debris and bio-informatic security, might be handled. It signals a move away from the 'wild west' of the early internet era toward a more structured and responsible global digital order. As the world begins the difficult work of implementing the treaty, the spirit of Geneva\u2014collaborative, pragmatic, and forward-looking\u2014offers a glimmer of hope in a world often defined by division."
+            "text": "The Geneva Treaty of 2026 marks the birth of a new field: Digital Diplomacy. It is no longer enough for diplomats to understand geography and history; they must now understand neural networks and compute complexity. The success of these negotiations has set a precedent for how other global digital challenges, such as space debris and bio-informatic security, might be handled. It signals a move away from the 'wild west' of the early internet era toward a more structured and responsible global digital order. As the world begins the difficult work of implementing the treaty, the spirit of Geneva—collaborative, pragmatic, and forward-looking—offers a glimmer of hope in a world often defined by division."
         },
         {
             "type": "paragraph",

@@ -12,16 +12,16 @@
         "image": "/images/news/imf banks.webp",
         "excerpt": "IMF supports gradual BOJ rate hikes to 1.5% by 2027 as Japan exits ultra-easy policy, balancing inflation, growth risks, and heavy public debt pressures.",
         "tags": [
-            "Bank of Japan",
-            "IMF",
-            "Japan Economy",
-            "Interest Rates",
-            "Monetary Policy",
-            "Inflation",
-            "Yen",
-            "Government Debt",
-            "Bond Yields",
-            "Global Markets"
+            "#Bank of Japan",
+            "#IMF",
+            "#Japan Economy",
+            "#Interest Rates",
+            "#Monetary Policy",
+            "#Inflation",
+            "#Yen",
+            "#Government Debt",
+            "#Bond Yields",
+            "#Global Markets"
         ]
     },
     {
@@ -37,10 +37,10 @@
         "image": "/images/news/wealth-7.webp",
         "excerpt": "Ultra-wealthy families are increasingly aligning their portfolios with 'Planetary Health' in 2026, viewing sustainability as the ultimate legacy...",
         "tags": [
-            "Wealth",
-            "2026",
-            "Future",
-            "Evolution"
+            "#Wealth",
+            "#2026",
+            "#Future",
+            "#Evolution"
         ]
     },
     {
@@ -56,10 +56,10 @@
         "image": "/images/news/wealth-8.webp",
         "excerpt": "In 2026, the luxury real estate market is being redefined by 'Climate Resilience,' with the elite seeking properties that can withstand the future...",
         "tags": [
-            "Wealth",
-            "2026",
-            "Future",
-            "Evolution"
+            "#Wealth",
+            "#2026",
+            "#Future",
+            "#Evolution"
         ]
     },
     {
@@ -75,10 +75,10 @@
         "image": "/images/news/wealth-1.webp",
         "excerpt": "Ultra-high-net-worth individuals are flocking to tertiary cities and remote retreats, looking for privacy and community over traditional flashiness...",
         "tags": [
-            "Luxury",
-            "Real Estate",
-            "UHNW",
-            "Travel"
+            "#Luxury",
+            "#Real Estate",
+            "#UHNW",
+            "#Travel"
         ]
     },
     {
@@ -94,10 +94,10 @@
         "image": "/images/news/wealth-2.webp",
         "excerpt": "Blockchain isn't just for digital art; it's becoming the gold standard for tracking physical masterpieces, reducing fraud and increasing liquidity...",
         "tags": [
-            "Art",
-            "Investing",
-            "Blockchain",
-            "Wealth"
+            "#Art",
+            "#Investing",
+            "#Blockchain",
+            "#Wealth"
         ]
     },
     {
@@ -113,10 +113,10 @@
         "image": "/images/news/wealth-3.webp",
         "excerpt": "The multi-generational transfer of wealth is facing new challenges, from ESG requirements to the complexities of digital asset inheritance...",
         "tags": [
-            "Family Office",
-            "Inheritance",
-            "Legacy",
-            "Investing"
+            "#Family Office",
+            "#Inheritance",
+            "#Legacy",
+            "#Investing"
         ]
     },
     {
@@ -132,10 +132,10 @@
         "image": "/images/news/wealth-4.webp",
         "excerpt": "Hydrogen fuel cells and high-tech sails are transforming the world's most exclusive shipyards as the elite look to reduce their carbon wake...",
         "tags": [
-            "Yachting",
-            "Luxury",
-            "Sustainability",
-            "Design"
+            "#Yachting",
+            "#Luxury",
+            "#Sustainability",
+            "#Design"
         ]
     },
     {
@@ -151,10 +151,10 @@
         "image": "/images/news/wealth-5.webp",
         "excerpt": "Billionaires are funnelling record sums into biogerontology, hoping to turn back the clock with personalized therapies and cellular reprogramming...",
         "tags": [
-            "Health",
-            "Longevity",
-            "Science",
-            "Wealth"
+            "#Health",
+            "#Longevity",
+            "#Science",
+            "#Wealth"
         ]
     }
 ]

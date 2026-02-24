@@ -9,10 +9,10 @@
     "comments": 42,
     "image": "/images/news/finance-3.webp",
     "tags": [
-        "Retirement",
-        "Pensions",
-        "Demographics",
-        "Social Security"
+        "#Retirement",
+        "#Pensions",
+        "#Demographics",
+        "#Social Security"
     ],
     "author": {
         "name": "David Smith",

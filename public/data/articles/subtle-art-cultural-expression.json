@@ -9,9 +9,9 @@
     "comments": 2,
     "image": "/images/car.webp",
     "tags": [
-        "Art",
-        "Modern",
-        "Culture"
+        "#Art",
+        "#Modern",
+        "#Culture"
     ],
     "author": {
         "name": "Maxin Dalton",

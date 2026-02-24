@@ -12,10 +12,10 @@
         "image": "/images/news/markets-5.webp",
         "excerpt": "In a stunning display of resilience for the oldest safe-haven asset, gold prices have surged past the $3500 per ounce milestone in early 2026...",
         "tags": [
-            "Gold",
-            "Commodities",
-            "Inflation",
-            "Safe Haven"
+            "#Gold",
+            "#Commodities",
+            "#Inflation",
+            "#Safe Haven"
         ]
     },
     {
@@ -31,10 +31,10 @@
         "image": "/images/news/markets-8.webp",
         "excerpt": "The traditional 'BRICS' narrative is being superseded in 2026 by a new group of high-growth, technology-first nations: The 'Digital Tigers'...",
         "tags": [
-            "Emerging Markets",
-            "Digital Economy",
-            "Global Growth",
-            "Technology"
+            "#Emerging Markets",
+            "#Digital Economy",
+            "#Global Growth",
+            "#Technology"
         ]
     },
     {
@@ -50,10 +50,10 @@
         "image": "/images/news/markets-7.webp",
         "excerpt": "As the world accelerates its transition toward a zero-carbon future, the industrial spotlight in 2026 has shifted away from fossil fuels and onto Copper...",
         "tags": [
-            "Copper",
-            "Electrification",
-            "Energy Transition",
-            "Commodities"
+            "#Copper",
+            "#Electrification",
+            "#Energy Transition",
+            "#Commodities"
         ]
     },
     {
@@ -69,10 +69,10 @@
         "image": "/images/news/markets-2.webp",
         "excerpt": "Crude oil futures tumbled sharply on Wednesday as weak manufacturing data from China stoked fears of a global slowdown in energy consumption.",
         "tags": [
-            "Oil",
-            "Energy",
-            "Commodities",
-            "China"
+            "#Oil",
+            "#Energy",
+            "#Commodities",
+            "#China"
         ]
     },
     {
@@ -88,10 +88,10 @@
         "image": "/images/news/markets-6.webp",
         "excerpt": "Investors fleeing geopolitical instability and currency volatility have poured capital into gold, pushing the precious metal past the $3,000 mark for the first time.",
         "tags": [
-            "Gold",
-            "Investing",
-            "Commodities",
-            "Wealth"
+            "#Gold",
+            "#Investing",
+            "#Commodities",
+            "#Wealth"
         ]
     },
     {
@@ -107,10 +107,10 @@
         "image": "/images/news/markets-1.webp",
         "excerpt": "The Nasdaq surged to new highs today as quarterly earnings reports highlighted a faster-than-expected adoption of artificial intelligence across enterprise sectors.",
         "tags": [
-            "Tech",
-            "AI",
-            "Nasdaq",
-            "Earnings"
+            "#Tech",
+            "#AI",
+            "#Nasdaq",
+            "#Earnings"
         ]
     },
     {
@@ -126,10 +126,10 @@
         "image": "/images/news/markets-3.webp",
         "excerpt": "European regulators have released the final text of the MiCA 2.0 legislation, setting a global standard for the supervision of digital assets and stablecoins.",
         "tags": [
-            "Crypto",
-            "Bitcoin",
-            "Regulation",
-            "EU"
+            "#Crypto",
+            "#Bitcoin",
+            "#Regulation",
+            "#EU"
         ]
     },
     {
@@ -145,10 +145,10 @@
         "image": "/images/news/markets-4.webp",
         "excerpt": "The spread between the 2-year and 10-year Treasury yields inverted to its deepest level in four decades, flashing a classic warning signal for an impending recession.",
         "tags": [
-            "Bonds",
-            "Recession",
-            "Economy",
-            "Fed"
+            "#Bonds",
+            "#Recession",
+            "#Economy",
+            "#Fed"
         ]
     }
 ]

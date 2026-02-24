@@ -9,10 +9,10 @@
     "comments": 54,
     "image": "/images/news/tech-2.webp",
     "tags": [
-        "Quantum",
-        "Computing",
-        "Hardware",
-        "Future"
+        "#Quantum",
+        "#Computing",
+        "#Hardware",
+        "#Future"
     ],
     "author": {
         "name": "Alex Thorne",

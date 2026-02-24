@@ -12,21 +12,21 @@
         "image": "/images/news/trumps 15.webp",
         "excerpt": "U.S. stock futures fall after Trump raises global tariffs to 15%, sparking inflation fears, market volatility, and uncertainty across stocks, oil, and crypto.",
         "tags": [
-            "Trump tariffs",
-            "stock market futures",
-            "global markets",
-            "trade policy",
-            "inflation outlook",
-            "Federal Reserve",
-            "Dow futures",
-            "S&P 500",
-            "Nasdaq",
-            "safe haven assets",
-            "gold",
-            "oil prices",
-            "Bitcoin",
-            "geopolitical risk",
-            "Nvidia earnings"
+            "#Trump tariffs",
+            "#stock market futures",
+            "#global markets",
+            "#trade policy",
+            "#inflation outlook",
+            "#Federal Reserve",
+            "#Dow futures",
+            "#S&P 500",
+            "#Nasdaq",
+            "#safe haven assets",
+            "#gold",
+            "#oil prices",
+            "#Bitcoin",
+            "#geopolitical risk",
+            "#Nvidia earnings"
         ]
     },
     {
@@ -42,10 +42,10 @@
         "image": "/images/news/business-7.webp",
         "excerpt": "In 2026, the integration of generative AI into the research and development (R&D) lifecycle has transformed innovation into a scalable, high-velocity process...",
         "tags": [
-            "Innovation",
-            "R&D",
-            "AI Business",
-            "Corporate Strategy"
+            "#Innovation",
+            "#R&D",
+            "#AI Business",
+            "#Corporate Strategy"
         ]
     },
     {
@@ -61,10 +61,10 @@
         "image": "/images/news/business-8.webp",
         "excerpt": "Retailers are no longer just sellers of new goods; in 2026 they have become the stewards of a lifelong product journey, where 'disposable' is a dirty word...",
         "tags": [
-            "Circular Economy",
-            "Retail",
-            "Sustainability",
-            "ESG"
+            "#Circular Economy",
+            "#Retail",
+            "#Sustainability",
+            "#ESG"
         ]
     },
     {
@@ -80,10 +80,10 @@
         "image": "/images/news/business-1.webp",
         "excerpt": "A series of high-profile mergers and acquisitions in the industrial manufacturing space has caught investors by surprise, signaling a major consolidation phase...",
         "tags": [
-            "Mergers",
-            "Industry",
-            "M&A",
-            "Stocks"
+            "#Mergers",
+            "#Industry",
+            "#M&A",
+            "#Stocks"
         ]
     },
     {
@@ -99,10 +99,10 @@
         "image": "/images/news/business-2.webp",
         "excerpt": "Venture capital activity is showing signs of a rebound as several large-scale Series C rounds were closed last week, hinting at renewed confidence in high-growth firms...",
         "tags": [
-            "Startups",
-            "VC",
-            "Funding",
-            "Growth"
+            "#Startups",
+            "#VC",
+            "#Funding",
+            "#Growth"
         ]
     },
     {
@@ -118,10 +118,10 @@
         "image": "/images/news/business-3.webp",
         "excerpt": "New data from major tech firms reveals conflicting results regarding productivity and innovation in hybrid versus fully remote environments...",
         "tags": [
-            "Remote Work",
-            "Management",
-            "Culture",
-            "HR"
+            "#Remote Work",
+            "#Management",
+            "#Culture",
+            "#HR"
         ]
     },
     {
@@ -137,10 +137,10 @@
         "image": "/images/news/business-4.webp",
         "excerpt": "Major retailers are investing billions into AI-powered logistics to bridge the gap between their physical stores and online platforms...",
         "tags": [
-            "Retail",
-            "AI",
-            "Logistics",
-            "Commerce"
+            "#Retail",
+            "#AI",
+            "#Logistics",
+            "#Commerce"
         ]
     },
     {
@@ -156,10 +156,10 @@
         "image": "/images/news/business-5.webp",
         "excerpt": "Sustainability is no longer a PR buzzword; it's a core competitive advantage. We look at three companies leading the shift toward ethical sourcing...",
         "tags": [
-            "Sustainability",
-            "Supply Chain",
-            "ESG",
-            "Ethics"
+            "#Sustainability",
+            "#Supply Chain",
+            "#ESG",
+            "#Ethics"
         ]
     }
 ]

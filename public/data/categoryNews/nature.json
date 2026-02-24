@@ -12,9 +12,9 @@
         "image": "/images/news/unsplash_2c2fe693.webp",
         "excerpt": "New wildlife protection initiatives across Africa and Asia are beginning to yield positive results for tiger and elephant populations.",
         "tags": [
-            "Wildlife",
-            "Conservation",
-            "Earth"
+            "#Wildlife",
+            "#Conservation",
+            "#Earth"
         ]
     },
     {
@@ -30,10 +30,10 @@
         "image": "/images/news/nature-2.webp",
         "excerpt": "In a moment that has captured the imagination of the entire planet, the crew of Artemis II has successfully entered lunar orbit...",
         "tags": [
-            "Artemis II",
-            "Space",
-            "NASA",
-            "Moon"
+            "#Artemis II",
+            "#Space",
+            "#NASA",
+            "#Moon"
         ]
     },
     {
@@ -49,10 +49,10 @@
         "image": "/images/news/nature-3.webp",
         "excerpt": "For the first time since the dawn of the industrial age, global greenhouse gas emissions have officially peaked in early 2026...",
         "tags": [
-            "Climate Change",
-            "Emissions",
-            "Environment",
-            "Energy"
+            "#Climate Change",
+            "#Emissions",
+            "#Environment",
+            "#Energy"
         ]
     },
     {
@@ -68,10 +68,10 @@
         "image": "/images/news/nature-4.webp",
         "excerpt": "The successful birth of the first 'proxy' Thylacine in early 2026 has signaled the dawn of the 'De-Extinction' era for conservation...",
         "tags": [
-            "Biodiversity",
-            "Cloning",
-            "Genetics",
-            "Conservation"
+            "#Biodiversity",
+            "#Cloning",
+            "#Genetics",
+            "#Conservation"
         ]
     },
     {
@@ -87,10 +87,10 @@
         "image": "/images/news/nature-5.webp",
         "excerpt": "A deep-sea expedition has uncovered dozens of previously unknown species in the deepest parts of the Mariana Trench, challenging our understanding of life...",
         "tags": [
-            "Nature",
-            "2026",
-            "Future",
-            "Evolution"
+            "#Nature",
+            "#2026",
+            "#Future",
+            "#Evolution"
         ]
     },
     {
@@ -106,10 +106,10 @@
         "image": "/images/news/nature-6.webp",
         "excerpt": "Using advanced AI and autonomous drone swarms, a global reforestation project has successfully planted its billionth tree of 2026 this month...",
         "tags": [
-            "Nature",
-            "2026",
-            "Future",
-            "Evolution"
+            "#Nature",
+            "#2026",
+            "#Future",
+            "#Evolution"
         ]
     },
     {
@@ -125,10 +125,10 @@
         "image": "/images/news/nature-7.webp",
         "excerpt": "A new, bio-engineered enzyme that can digest PET plastics in days is being scaled for use in large-scale ocean clean-up operations in 2026...",
         "tags": [
-            "Nature",
-            "2026",
-            "Future",
-            "Evolution"
+            "#Nature",
+            "#2026",
+            "#Future",
+            "#Evolution"
         ]
     },
     {
@@ -144,10 +144,10 @@
         "image": "/images/news/nature-8.webp",
         "excerpt": "Architects are increasingly integrating 'Vertical Forests' into their designs, creating living skyscrapers that sequester carbon and cool the city...",
         "tags": [
-            "Nature",
-            "2026",
-            "Future",
-            "Evolution"
+            "#Nature",
+            "#2026",
+            "#Future",
+            "#Evolution"
         ]
     }
 ]
