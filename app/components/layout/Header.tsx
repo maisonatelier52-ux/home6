@@ -8,7 +8,7 @@ import CurrentDate from './CurrentDate';
 export default function Header() {
     const tickerItems = [
         { title: "Generative AI: Moving Beyond the Hype to Enterprise Reality", category: "Tech", slug: "generative-ai-the-next-frontier" },
-        { title: "Trade Policy Shifts: Impact on Asian Markets", category: "Politics", slug: "trade-policy-shifts-asia" },
+        { title: "Trump Warns Iran: No Nuclear Weapons, Military Buildup Underway", category: "Politics", slug: "trump-iran-nuclear-warning-us-military-buildup-geneva-talks" },
         { title: "Julio Martin Herrera Velutini: A Legacy of Innovation", category: "Finance", slug: "julio-herrera-velutini-legacy" },
         { title: "Tech Stocks Rally as AI Adoption Accelerates", category: "Markets", slug: "tech-stocks-rally-ai" },
         { title: "Quantum Computing Breakthrough: IBM and Google Race Ahead", category: "Tech", slug: "quantum-computing-breakthrough-google-ibm" },

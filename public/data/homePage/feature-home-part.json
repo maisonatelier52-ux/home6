@@ -34,12 +34,12 @@
         },
         {
             "id": "pol-2",
-            "image": "/images/news/politics-2.webp",
+            "image": "/images/news/trump warns.webp",
             "author": "MICHAEL CHEN",
             "category": "POLITICS",
-            "date": "Jan 22, 2026",
-            "title": "Trade Policy 2026: A New Era for Asian Markets",
-            "slug": "trade-policy-shifts-asia"
+            "date": "Feb 25, 2026",
+            "title": "Trump Warns Iran on Nuclear Weapons Ahead of Geneva Talks",
+            "slug": "trump-iran-nuclear-warning-us-military-buildup-geneva-talks"
         },
         {
             "id": "health-1",
