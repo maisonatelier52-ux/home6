@@ -33,5 +33,10 @@
         "title": "Nature",
         "count": 7,
         "description": "Coverage of environmental shifts, wildlife conservation, and planetary health."
+    },
+    "culture": {
+        "title": "Culture",
+        "count": 10,
+        "description": "Exploration of global traditions, arts, entertainment, and the evolving human experience."
     }
 }
