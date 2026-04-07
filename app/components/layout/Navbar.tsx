@@ -63,6 +63,10 @@ export default function Navbar() {
             label: 'WEALTH',
             href: '/wealth',
         },
+        {
+            label: 'NATURE',
+            href: '/nature',
+        },
     ];
 
     // Helper to check if a main nav item or any of its dropdown items is active

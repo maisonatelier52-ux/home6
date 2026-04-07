@@ -63,7 +63,7 @@ export default function Footer() {
                     <div className="flex flex-col gap-6">
                         <h2 className="text-white text-md font-bold font-serif">Categories</h2>
                         <div className="flex flex-wrap gap-2">
-                            {["Markets", "Wealth", "Business", "Finance", "Tech", "Politics"].map((category, index) => (
+                            {["Markets", "Wealth", "Business", "Finance", "Tech", "Politics", "Nature"].map((category, index) => (
                                 <Link
                                     key={index}
                                     href={`/${category.toLowerCase()}`}

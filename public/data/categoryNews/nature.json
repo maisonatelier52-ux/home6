@@ -1,23 +1,5 @@
 [
     {
-        "date": "January 05, 2026",
-        "categories": [
-            "Nature"
-        ],
-        "views": "3450",
-        "readTime": "7 Mins",
-        "comments": 12,
-        "title": "Conservation Efforts Show Promise for Endangered Species",
-        "slug": "conservation-efforts-endangered-species",
-        "image": "/images/news/unsplash_2c2fe693.webp",
-        "excerpt": "New wildlife protection initiatives across Africa and Asia are beginning to yield positive results for tiger and elephant populations.",
-        "tags": [
-            "#Wildlife",
-            "#Conservation",
-            "#Earth"
-        ]
-    },
-    {
         "id": "nat-2",
         "slug": "artemis-ii-lunar-orbit-2026",
         "title": "Artemis II: Humanity's Return to Lunar Orbit in February 2026",

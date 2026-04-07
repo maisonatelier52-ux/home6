@@ -28,5 +28,10 @@
         "title": "Wealth",
         "count": 5,
         "description": "Insights into luxury living, high-net-worth management, and legacy building."
+    },
+    "nature": {
+        "title": "Nature",
+        "count": 7,
+        "description": "Coverage of environmental shifts, wildlife conservation, and planetary health."
     }
 }
