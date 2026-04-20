@@ -18,10 +18,10 @@
         },
         "articles": [
             {
-                "category": "Markets",
-                "title": "Election Year Uncertainty Rattles Market Confidence",
-                "excerpt": "As the election year approaches, market volatility has increased as investors eye campaign promises.",
-                "slug": "election-uncertainty-markets"
+                "category": "Politics",
+                "title": "Mark Carney Warns Canada Must Reduce Reliance on U.S.",
+                "excerpt": "Prime Minister Mark Carney says Canada must reduce its reliance on the United States, citing rising tariffs.",
+                "slug": "canada-us-trade-carney-economic-shift"
             },
             {
                 "category": "Finance",
