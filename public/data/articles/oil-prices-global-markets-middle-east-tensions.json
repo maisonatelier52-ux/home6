@@ -1,0 +1,118 @@
+{
+    "id": "mkt-1",
+    "slug": "oil-prices-global-markets-middle-east-tensions",
+    "title": "Global Markets Slide as Oil Surges Above $100 Amid Middle East Tensions",
+    "category": "Markets",
+    "date": "April 24, 2026",
+    "views": "45k",
+    "readTime": "12 Mins",
+    "comments": 89,
+    "image": "/images/news/oil.webp",
+    "tags": [
+        "#oil prices",
+        "#stock market",
+        "#Middle East tensions",
+        "#Strait of Hormuz",
+        "#inflation",
+        "#global markets",
+        "#investors",
+        "#energy crisis",
+        "#geopolitics",
+        "#economy"
+    ],
+    "author": {
+        "name": "Jessica Wu",
+        "role": "Financial Analyst",
+        "postsCount": 325,
+        "image": "/images/authors/jessica.jpg",
+        "bio": "Jessica Wu spans the gap between complex algorithms and business outcomes, focusing on the real-world deployment of Agentic AI."
+    },
+    "content": [
+        {
+            "type": "intro",
+            "text": "Global stock markets fell, and oil prices remained above $100 per barrel, as fears of fresh military escalation in the Middle East left investors on edge heading into the weekend."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "European equities opened broadly lower, but Japan's Nikkei rose about 1% and US stock futures edged higher. Oil prices, which were trading near $107, rose again when Iran posted pictures of commandos storming a cargo ship in the Strait of Hormuz, as well as rumors that Tehran's air defenses had engaged 'hostile targets.' Oil has jumped more than 17% this week, marking its biggest weekly rise since the early days of the war in March, showing that hopes for a quick resolution are fading."
+        },
+        {
+            "type": "paragraph",
+            "text": "MSCI’s world stock index was slightly lower but still close to recent record highs, reflecting a mix of resilience and caution among investors."
+        },
+        {
+            "type": "quote",
+            "text": "This is one of those times when things that happen around the world start to affect the prices of things you buy every day. Oil prices are going up over $100 because of rising tensions in the Middle East."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Oil Prices Surge and Strait of Hormuz Risks"
+        },
+        {
+            "type": "paragraph",
+            "text": "Oil markets have been heavily influenced by developments around the Strait of Hormuz, a critical global shipping route. Iran has demonstrated tighter control over the waterway, while U.S. President Donald Trump said he ordered the Navy to 'shoot and kill' Iranian boats laying mines and to increase demining efforts. These changes come just days after Trump said he would extend the ceasefire to give peace talks more time. This shows how quickly and unpredictably things are changing."
+        },
+        {
+            "type": "paragraph",
+            "text": "Brent crude oil prices rose above $105 per barrel because tankers were having trouble getting through the area. This made people worry that there wouldn't be enough oil. The big jump in energy prices has become a major factor affecting global markets and how investors feel."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Wall Street Pullback and Corporate Earnings Impact"
+        },
+        {
+            "type": "paragraph",
+            "text": "U.S. stocks pulled back from record highs as uncertainty around the Iran war and mixed corporate earnings weighed on markets. The S&P 500 fell 0.4%, the Dow Jones Industrial Average dropped about 0.4%, and the Nasdaq Composite declined 0.9%. Tesla shares fell 3.6% despite reporting better-than-expected results, as investors focused on increased spending plans."
+        },
+        {
+            "type": "paragraph",
+            "text": "ServiceNow dropped 17.7% and IBM fell 8.3%, with concerns about slowing growth and competition from AI-driven tools weighing on the software sector. The broader software sector declined significantly as investors reacted to earnings reports and concerns about disruption from artificial intelligence."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Sector Performance and Company-Specific Moves"
+        },
+        {
+            "type": "paragraph",
+            "text": "Market conditions affected different sectors in different ways. Rising fuel costs had a big effect on airlines, although the sector as a whole did not do well. American Airlines stock went up 2.4% after the company said it had high demand and better-than-expected earnings. Southwest Airlines stock went down 4.1% after the company said it had weaker performance and was unsure about future estimates."
+        },
+        {
+            "type": "paragraph",
+            "text": "Texas Instruments did well, with its stock price going up 19.4% after beating profit projections thanks to demand from industrial and data center customers. Warner Bros. Discovery and Paramount Skydance also lost ground after news from their companies, which is a sign of how unstable the market is as a whole."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Currency Markets and Central Bank Outlook"
+        },
+        {
+            "type": "paragraph",
+            "text": "In currency markets, the U.S. dollar was on track for its first weekly gain in three weeks as geopolitical tensions dampened expectations for easing in the Middle East. Japan’s yen hovered near 160 per dollar, raising concerns about potential intervention by Japanese authorities. Japanese Finance Minister Satsuki Katayama warned that authorities could take decisive action against speculative currency moves."
+        },
+        {
+            "type": "paragraph",
+            "text": "The euro remained steady, while the British pound edged slightly higher. Investors are closely watching upcoming meetings of major central banks, including the U.S. Federal Reserve, the European Central Bank, and the Bank of England to understand how the war might affect inflation and economic policy."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Economic Signals and Investor Sentiment"
+        },
+        {
+            "type": "paragraph",
+            "text": "Despite market volatility, some economic indicators remain stable. U.S. jobless claims rose slightly but stayed at historically healthy levels, and business activity showed modest improvement. Bond markets reflected shifting expectations, with the 10-year Treasury yield rising to 4.32% as oil prices climbed. Gold prices remained relatively steady, indicating cautious investor behavior."
+        },
+        {
+            "type": "paragraph",
+            "text": "Analysts noted that while risks from the Iran conflict are significant, strong corporate earnings and economic fundamentals continue to provide support for markets. Investors remain focused on both downside risks and potential upside opportunities as they navigate ongoing uncertainty."
+        },
+        {
+            "type": "quote",
+            "text": "Investors remain focused on both downside risks and potential upside opportunities as they navigate ongoing uncertainty."
+        }
+    ]
+}
