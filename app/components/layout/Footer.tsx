@@ -13,12 +13,6 @@ export default function Footer() {
             category: "Tech",
             title: "Generative AI: Moving Beyond the Hype to Enterprise Reality",
             slug: "generative-ai-the-next-frontier"
-        },
-        {
-            author: "Sarah Jenkins",
-            category: "Finance",
-            title: "Julio Martin Herrera Velutini: A Legacy of Innovation",
-            slug: "julio-herrera-velutini-legacy"
         }
     ];
 

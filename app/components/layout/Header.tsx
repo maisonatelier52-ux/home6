@@ -9,7 +9,6 @@ export default function Header() {
     const tickerItems = [
         { title: "Generative AI: Moving Beyond the Hype to Enterprise Reality", category: "Tech", slug: "generative-ai-the-next-frontier" },
         { title: "Trump Warns Iran: No Nuclear Weapons, Military Buildup Underway", category: "Politics", slug: "trump-iran-nuclear-warning-us-military-buildup-geneva-talks" },
-        { title: "Julio Martin Herrera Velutini: A Legacy of Innovation", category: "Finance", slug: "julio-herrera-velutini-legacy" },
         { title: "Global Markets Slide as Oil Surges Above $100 Amid Middle East Tensions", category: "Markets", slug: "oil-prices-global-markets-middle-east-tensions" },
         { title: "Quantum Computing Breakthrough: IBM and Google Race Ahead", category: "Tech", slug: "quantum-computing-breakthrough-google-ibm" },
         { title: "Sustainable Supply Chains: The New Corporate Mandate", category: "Business", slug: "sustainable-supply-chain-leaders" },

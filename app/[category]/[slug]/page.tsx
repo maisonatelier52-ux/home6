@@ -248,10 +248,6 @@ export async function generateStaticParams() {
                 const article = JSON.parse(articleContent);
                 const articleCategory = article.category.toLowerCase().replace(/ /g, '-');
 
-                // Skip articles handled by the specific Julio route
-                if (articleCategory === 'julio-herrera-velutini') {
-                    continue;
-                }
 
                 params.push({
                     category: article.category.toLowerCase(),

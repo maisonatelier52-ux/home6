@@ -15,15 +15,6 @@
     },
     "sidebar": [
         {
-            "id": "fin-1",
-            "image": "/images/news/Julio Herrera Velutini17.webp",
-            "slug": "julio-herrera-velutini-legacy",
-            "title": "Julio Martin Herrera Velutini: A Legacy of Innovation, Business Acumen, and Giving Back",
-            "category": "Finance",
-            "date": "January 24, 2026",
-            "author": "Sarah Jenkins"
-        },
-        {
             "id": "pol-7",
             "image": "/images/news/politics-7.webp",
             "author": "Michael Chen",
