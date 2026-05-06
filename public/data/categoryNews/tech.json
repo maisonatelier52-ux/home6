@@ -66,21 +66,25 @@
     },
     {
         "id": "tech-1",
-        "slug": "generative-ai-the-next-frontier",
-        "title": "Generative AI: Moving Beyond the Hype to Enterprise Reality",
+        "slug": "meta-ai-copyright-lawsuit-publishers",
+        "title": "Meta Sued by Major Publishers Over AI Training Data",
         "category": "Tech",
-        "date": "January 24, 2026",
+        "date": "May 6, 2026",
         "author": "Jessica Wu",
-        "views": "45k",
-        "readTime": "9 Mins",
-        "comments": 289,
-        "image": "/images/news/tech-1.webp",
-        "excerpt": "Silicon Valley is shifting its focus from training larger models to building specialized, efficient AI agents that can perform complex business tasks...",
+        "views": "52k",
+        "readTime": "11 Mins",
+        "comments": 142,
+        "image": "/images/news/meta sued.webp",
+        "excerpt": "Major publishers and author Scott Turow sued Meta and Mark Zuckerberg, accusing the company of illegally using copyrighted books and articles to train its AI system, Llama.",
         "tags": [
-            "#AI",
-            "#Generative AI",
-            "#Software",
-            "#Innovation"
+            "#Meta",
+            "#Mark Zuckerberg",
+            "#AI lawsuit",
+            "#copyright infringement",
+            "#Llama AI",
+            "#publishers",
+            "#Scott Turow",
+            "#artificial intelligence"
         ]
     },
     {

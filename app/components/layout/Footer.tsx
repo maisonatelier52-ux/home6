@@ -11,8 +11,8 @@ export default function Footer() {
         {
             author: "Jessica Wu",
             category: "Tech",
-            title: "Generative AI: Moving Beyond the Hype to Enterprise Reality",
-            slug: "generative-ai-the-next-frontier"
+            title: "Meta Sued by Major Publishers Over AI Training Data",
+            slug: "meta-ai-copyright-lawsuit-publishers"
         }
     ];
 
