@@ -1,17 +1,17 @@
 {
     "hero": {
-        "id": "fin-3",
-        "image": "/images/news/micheal.webp",
-        "author": "Michael Chen",
-        "category": "Finance",
-        "date": "May 04",
-        "views": "15K",
-        "readTime": "8 MINS",
-        "title": "Michael Barr Warns Private Credit Risks Could Trigger Broader Financial Stress",
-        "slug": "private-credit-risk-michael-barr-warning",
-        "excerpt": "ichael Barr is the latest official to issue a warning on private credit-related worries, claiming that stress in the market could cause 'psychological contagion' and spark a larger credit crunch.",
-        "excerptPart2": "Federal Reserve official Michael Barr warns that risks in the fast-growing private credit market could trigger broader financial stress and a potential credit crunch.",
-        "firstLetter": "M"
+        "id": "tech-1",
+        "image": "/images/news/meta sued.webp",
+        "author": "Jessica Wu",
+        "category": "Technology",
+        "date": "May 06",
+        "views": "52k",
+        "readTime": "11 Mins",
+        "title": "Meta Sued by Major Publishers Over AI Training Data",
+        "slug": "meta-ai-copyright-lawsuit-publishers",
+        "excerpt": "ive major publishing houses and author Scott Turow filed a class-action lawsuit against Meta and CEO Mark Zuckerberg, accusing the company of illegally using millions of copyrighted books and articles to train its artificial intelligence system, Llama.",
+        "excerptPart2": "Major publishers and author Scott Turow sued Meta and Mark Zuckerberg, accusing the company of illegally using copyrighted books and articles to train its AI system, Llama.",
+        "firstLetter": "F"
     },
     "sidebar": [
         {
