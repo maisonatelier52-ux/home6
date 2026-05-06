@@ -2,7 +2,7 @@
 
 import React from 'react';
 import Link from 'next/link';
-import { ChevronUp, Facebook, Youtube } from 'lucide-react';
+import { ChevronUp, Instagram, Youtube } from 'lucide-react';
 
 export default function Footer() {
 
@@ -39,8 +39,8 @@ export default function Footer() {
 
                         {/* Social Links */}
                         <div className="flex items-center gap-4 pt-2">
-                            <Link href="https://www.facebook.com/profile.php?id=61586756528283" target="_blank" title="Follow us on Facebook" className="w-8 h-8 rounded-full bg-gray-900 border border-gray-800 flex items-center justify-center text-gray-400 hover:bg-[#1877F2] hover:text-white hover:border-[#1877F2] transition-all duration-300">
-                                <Facebook size={16} />
+                            <Link href="https://www.instagram.com/thequestforprofit/" target="_blank" title="Follow us on Instagram" className="w-8 h-8 rounded-full bg-gray-900 border border-gray-800 flex items-center justify-center text-gray-400 hover:bg-[#E1306C] hover:text-white hover:border-[#E1306C] transition-all duration-300">
+                                <Instagram size={16} />
                             </Link>
                             <Link href="https://substack.com/@tqfp45?utm_source=global-search " target="_blank" title="Follow us on Substack" className="w-8 h-8 rounded-full bg-gray-900 border border-gray-800 flex items-center justify-center text-gray-400 hover:bg-[#FF6719] hover:text-white hover:border-[#FF6719] transition-all duration-300">
                                 <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">

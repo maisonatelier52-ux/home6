@@ -78,7 +78,7 @@ export default function Home() {
             },
             "sameAs": [
               "https://twitter.com/tqfp",
-              "https://facebook.com/tqfp",
+              "https://www.instagram.com/thequestforprofit/",
               "https://linkedin.com/company/tqfp"
             ]
           },

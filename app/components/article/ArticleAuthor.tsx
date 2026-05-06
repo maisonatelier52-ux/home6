@@ -1,5 +1,5 @@
 import React from 'react';
-import { Facebook, Twitter, Youtube } from 'lucide-react';
+import { Twitter, Youtube } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 

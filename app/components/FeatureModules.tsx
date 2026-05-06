@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { Twitter, Facebook, Youtube } from 'lucide-react';
+import { Twitter, Youtube } from 'lucide-react';
 import SidebarHotPeoples from './SidebarHotPeoples';
 
 interface Module7Article {
