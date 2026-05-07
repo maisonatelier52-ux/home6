@@ -10,7 +10,7 @@ export default function Header() {
         { title: "Meta Sued by Major Publishers Over AI Training Data", category: "Tech", slug: "meta-ai-copyright-lawsuit-publishers" },
         { title: "Trump Warns Iran: No Nuclear Weapons, Military Buildup Underway", category: "Politics", slug: "trump-iran-nuclear-warning-us-military-buildup-geneva-talks" },
         { title: "Global Markets Slide as Oil Surges Above $100 Amid Middle East Tensions", category: "Markets", slug: "oil-prices-global-markets-middle-east-tensions" },
-        { title: "Quantum Computing Breakthrough: IBM and Google Race Ahead", category: "Tech", slug: "quantum-computing-breakthrough-google-ibm" },
+        { title: "Google Chrome AI Files Spark Privacy and Storage Concerns", category: "Tech", slug: "google-chrome-gemini-nano-ai-download-controversy" },
         { title: "Sustainable Supply Chains: The New Corporate Mandate", category: "Business", slug: "sustainable-supply-chain-leaders" },
         { title: "Global Summit Addresses Rising Inflation Concerns", category: "Politics", slug: "global-summit-inflation-concerns" }
     ];

@@ -89,21 +89,21 @@
     },
     {
         "id": "tech-2",
-        "slug": "quantum-computing-breakthrough-google-ibm",
-        "title": "Quantum Computing Breakthrough: IBM and Google Close the Gap",
+        "slug": "google-chrome-gemini-nano-ai-download-controversy",
+        "title": "Google Chrome Criticized Over Hidden Gemini Nano AI Downloads",
         "category": "Tech",
-        "date": "January 22, 2026",
+        "date": "May 7, 2026",
         "author": "Alex Thorne",
-        "views": "21k",
-        "readTime": "10 Mins",
-        "comments": 54,
-        "image": "/images/news/tech-2.webp",
-        "excerpt": "Researchers have achieved a record 1,000-qubit threshold with error correction, bringing us one step closer to a cryptographically relevant quantum computer...",
+        "views": "38k",
+        "readTime": "12 Mins",
+        "comments": 156,
+        "image": "/images/news/gemini nano.webp",
+        "excerpt": "Google Chrome faces criticism after reports revealed the browser quietly downloads large Gemini Nano AI files onto devices, raising major privacy and storage concerns.",
         "tags": [
-            "#Quantum",
-            "#Computing",
-            "#Hardware",
-            "#Future"
+            "#Google Chrome",
+            "#Gemini Nano",
+            "#AI privacy",
+            "#Google AI"
         ]
     },
     {
