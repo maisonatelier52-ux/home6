@@ -140,21 +140,24 @@
     },
     {
         "id": "wth-5",
-        "slug": "longevity-science-ultimate-investment",
-        "title": "Longevity Science: The Ultimate Wealth Investment",
-        "category": "Wealth",
-        "date": "January 16, 2026",
-        "author": "Jessica Wu",
-        "views": "52k",
-        "readTime": "12 Mins",
-        "comments": 194,
-        "image": "/images/news/wealth-5.webp",
-        "excerpt": "Billionaires are funnelling record sums into biogerontology, hoping to turn back the clock with personalized therapies and cellular reprogramming...",
+        "slug": "gulf-economies-iran-conflict-impact",
+        "title": "Gulf Economies Face Long-Term Risks From Iran Conflict",
+        "category": "World",
+        "date": "May 7, 2026",
+        "author": "Maria Sanchez",
+        "views": "42k",
+        "readTime": "10 Mins",
+        "comments": 78,
+        "image": "/images/news/gulf economies.webp",
+        "excerpt": "Growth in tensions involving Iran is generating fears of long-term economic consequences for Gulf countries, even as governments try to project stability.",
         "tags": [
-            "#Health",
-            "#Longevity",
-            "#Science",
-            "#Wealth"
+            "#Iran conflict",
+            "#Gulf economies",
+            "#Middle East tensions",
+            "#oil prices",
+            "#energy exports",
+            "#global markets",
+            "#geopolitical crisis"
         ]
     }
 ]

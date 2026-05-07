@@ -83,11 +83,11 @@
         },
         "articles": [
             {
-                "category": "Wealth",
-                "title": "Bio-Hacking and Longevity: The Ultimate Investment",
-                "image": "/images/news/wealth-5.webp",
-                "excerpt": "Billionaires are funnelling record sums into biogerontology, hoping to turn back the clock with personalized therapies.",
-                "slug": "longevity-science-ultimate-investment"
+                "category": "World",
+                "title": "Gulf Economies Face Long-Term Risks From Iran Conflict",
+                "image": "/images/news/gulf economies.webp",
+                "excerpt": "Escalating tensions involving Iran are raising concerns about long-term economic damage across Gulf nations.",
+                "slug": "gulf-economies-iran-conflict-impact"
             },
             {
                 "category": "Finance",
@@ -123,9 +123,9 @@
                 "image": "/images/news/wealth-4.webp"
             },
             {
-                "slug": "longevity-science-ultimate-investment",
-                "title": "Longevity Science: The Ultimate Wealth Investment",
-                "image": "/images/news/wealth-5.webp"
+                "slug": "gulf-economies-iran-conflict-impact",
+                "title": "Gulf Economies Face Long-Term Risks From Iran Conflict",
+                "image": "/images/news/gulf economies.webp"
             },
             {
                 "slug": "startup-funding-winter-thaws",
