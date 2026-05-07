@@ -13,6 +13,7 @@ import newsV2Data from "@/public/data/homePage/news-section-v2.json";
 import newsFiveColData from "@/public/data/homePage/five-col-section.json";
 import Footer from "./components/layout/Footer";
 import StructuredData from "./components/StructuredData";
+import { getAutomatedHomeData } from "./utils/news";
 
 // Lazy load below-the-fold components
 const Module6Carousel = dynamic(() => import("./components/Module6Carousel"));
@@ -52,6 +53,12 @@ export const metadata: Metadata = {
   },
 };
 export default function Home() {
+  const dynamicData = getAutomatedHomeData();
+  
+  // Use dynamic data if available, otherwise fallback to static imports
+  const featureHome = dynamicData?.featureHome || featureHomeData;
+  const sidebarModule = dynamicData?.sidebarModule || sidebarModuleData;
+
   return (
     <div className="min-h-screen bg-white">
       <h1 className="sr-only">The Quest for Profit: The #1 Ultimate Source for Financial News</h1>
@@ -105,12 +112,12 @@ export default function Home() {
         <TextNewsGrid items={textNewsData.textNews} />
 
         <FeatureWithSidebar
-          hero={featureHomeData.hero}
-          sidebarItems={featureHomeData.sidebar}
-          sidebarModuleData={sidebarModuleData}
-          module7={featureHomeData.module7}
-          module10={featureHomeData.module10}
-          hotPeoples={featureHomeData.hotPeoples}
+          hero={featureHome.hero}
+          sidebarItems={featureHome.sidebar}
+          sidebarModuleData={sidebarModule}
+          module7={featureHome.module7}
+          module10={featureHome.module10}
+          hotPeoples={featureHome.hotPeoples}
         />
         <div className="my-6">
           <Module6Carousel
