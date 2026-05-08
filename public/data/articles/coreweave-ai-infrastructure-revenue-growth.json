@@ -1,0 +1,96 @@
+{
+    "id": "biz-2",
+    "slug": "coreweave-ai-infrastructure-revenue-growth",
+    "title": "CoreWeave Beats Revenue Expectations but Investors Worry About Spending",
+    "category": "Business",
+    "date": "May 8, 2026",
+    "author": {
+        "name": "Jessica Wu",
+        "role": "Technology Analyst",
+        "postsCount": 312,
+        "image": "/images/authors/jessica.jpg",
+        "bio": "Jessica spans the gap between complex algorithms and business outcomes, focusing on the real-world deployment of Agentic AI."
+    },
+    "views": "28.5k",
+    "readTime": "12 Mins",
+    "comments": 84,
+    "image": "/images/news/CoreWeave.webp",
+    "tags": [
+        "#CoreWeave",
+        "#Nvidia",
+        "#AI infrastructure",
+        "#cloud computing",
+        "#artificial intelligence",
+        "#data centers",
+        "#Meta",
+        "#Anthropic"
+    ],
+    "excerpt": "CoreWeave reported stronger-than-expected quarterly revenue as AI infrastructure demand surged, though investors raised concerns over rising spending and profitability risks.",
+    "content": [
+        {
+            "type": "intro",
+            "text": "CoreWeave, the Nvidia-backed cloud infrastructure company focused on artificial intelligence computing, reported first-quarter revenue that exceeded Wall Street expectations as demand for AI infrastructure continued growing rapidly."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "The company reported revenue of $2.08 billion for the quarter, above analyst estimates of $1.97 billion. Revenue increased roughly 91% year-over-year. CoreWeave said the quarter included what executives described as the “strongest bookings in company history.” The company reported a revenue backlog of $99.4 billion, highlighting continued demand from major AI customers seeking access to computing capacity and Nvidia chips."
+        },
+        {
+            "type": "paragraph",
+            "text": "CoreWeave’s business has been driven by large contracts with companies including Meta, Jane Street, and Anthropic. Reuters reported that the company recently secured a $21 billion agreement with Meta as well as a $6 billion deal with Jane Street. Revenue and bookings grew strongly, but the earnings report left investors cautious over higher spending."
+        },
+        {
+            "type": "quote",
+            "text": "CoreWeave raised its 2026 capital expenditure guidance’s lower end from $30 billion to $31 billion due to rising prices of AI hardware and infrastructure components."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Rising Capital Expenditures and Infrastructure Expansion"
+        },
+        {
+            "type": "paragraph",
+            "text": "Demand for AI cloud capacity and high-performance chips has sharply increased component prices across the industry. CoreWeave said these rising costs were contributing to higher infrastructure spending as the company expands data center operations. The company has been investing aggressively in data centers filled with Nvidia GPUs to meet surging demand for AI model training and deployment."
+        },
+        {
+            "type": "paragraph",
+            "text": "Executives compared CoreWeave’s strategy to Amazon’s early growth approach, prioritizing rapid expansion and market share over short-term profitability. The company added more than 400 megawatts of contracted power capacity during the quarter, bringing its total contracted power capacity to more than 3.5 gigawatts."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Investor Concerns Over Spending and Profitability"
+        },
+        {
+            "type": "paragraph",
+            "text": "Despite the strong earnings report, CoreWeave shares fell sharply in extended trading after investors focused on rising costs and future spending plans. Shares dropped more than 9% after the earnings release. Investors appeared concerned about how rapidly increasing capital expenditures could affect profit margins and long-term financial stability."
+        },
+        {
+            "type": "paragraph",
+            "text": "CoreWeave’s operating expenses doubled to $2.22 billion as the company continued scaling infrastructure aggressively. The company also issued second-quarter revenue guidance between $2.45 billion and $2.6 billion, which came in below analyst expectations of roughly $2.69 billion. Unlike larger technology companies, CoreWeave does not have similarly massive cash reserves, increasing investor focus on financing risks."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "AI Demand Continues Fueling Cloud Infrastructure Race"
+        },
+        {
+            "type": "paragraph",
+            "text": "CoreWeave’s results highlighted the ongoing boom in artificial intelligence infrastructure spending across the technology industry. Businesses developing AI models still require massive computing power, driving demand for cloud providers that can offer Nvidia GPUs and large-scale data center capacity. Cloud infrastructure providers are increasingly competing to build AI-centric data centers as demand for generative AI systems continues to surge."
+        },
+        {
+            "type": "paragraph",
+            "text": "At the same time, investors across the market have become more cautious about whether AI-related spending can continue expanding at current levels. Concerns over returns on AI investment have occasionally triggered broader technology stock selloffs. CoreWeave’s earnings therefore became part of a wider debate about the sustainability of the AI infrastructure boom."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "CoreWeave’s Position in the Expanding AI Economy"
+        },
+        {
+            "type": "paragraph",
+            "text": "CoreWeave continues positioning itself as a major independent AI cloud provider during a period of explosive growth. The company’s strategy centers on building large-scale GPU infrastructure faster than many traditional cloud providers. Its close relationship with Nvidia has also been important to its growth. Nvidia-backed infrastructure providers have become central players in the broader AI ecosystem because of intense global demand for chips."
+        }
+    ]
+}
