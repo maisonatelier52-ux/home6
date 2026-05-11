@@ -11,7 +11,7 @@ export default function Header() {
         { title: "Trump Warns Iran: No Nuclear Weapons, Military Buildup Underway", category: "Politics", slug: "trump-iran-nuclear-warning-us-military-buildup-geneva-talks" },
         { title: "Global Markets Slide as Oil Surges Above $100 Amid Middle East Tensions", category: "Markets", slug: "oil-prices-global-markets-middle-east-tensions" },
         { title: "Google Chrome AI Files Spark Privacy and Storage Concerns", category: "Tech", slug: "google-chrome-gemini-nano-ai-download-controversy" },
-        { title: "Sustainable Supply Chains: The New Corporate Mandate", category: "Business", slug: "sustainable-supply-chain-leaders" },
+        { title: "Dua Lipa Launches $15 Million Legal Battle Against Samsung", category: "Business", slug: "dua-lipa-samsung-lawsuit-image-rights" },
         { title: "Global Summit Addresses Rising Inflation Concerns", category: "Politics", slug: "global-summit-inflation-concerns" }
     ];
 
