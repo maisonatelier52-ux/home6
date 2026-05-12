@@ -118,21 +118,27 @@
     },
     {
         "id": "fin-7",
-        "slug": "defi-20-institutional-integration-2026",
-        "title": "Decentralized Finance (DeFi) 2.0: Institutional Integration and Security",
+        "slug": "byron-allen-buzzfeed-acquisition-2026",
+        "title": "Byron Allen Takes Control of BuzzFeed in $120 Million Deal",
         "category": "Finance",
-        "date": "January 25, 2026",
+        "date": "May 12, 2026",
         "author": "Sarah Wu",
         "views": "29k",
-        "readTime": "22 Mins",
+        "readTime": "5 Mins",
         "comments": 142,
-        "image": "/images/news/finance-7.webp",
-        "excerpt": "The wild west days of DeFi are over; 2026 marks the era of institutional-grade security and the integration of blockchain protocols into global banking...",
+        "image": "/images/news/Byron Allen.webp",
+        "excerpt": "Media entrepreneur Byron Allen reached a deal to acquire a controlling stake in BuzzFeed in a $120 million agreement, reshaping the digital media company as it pivots toward AI, streaming, and creator-focused content.",
         "tags": [
-            "#DeFi",
-            "#Blockchain",
-            "#Institutional Finance",
-            "#Cybersecurity"
+            "Byron Allen",
+            "BuzzFeed",
+            "Jonah Peretti",
+            "HuffPost",
+            "digital media",
+            "Allen Media Group",
+            "AI publishing",
+            "streaming media",
+            "media acquisitions",
+            "creator economy"
         ]
     },
     {

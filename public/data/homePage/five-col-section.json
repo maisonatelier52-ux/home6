@@ -11,15 +11,15 @@
         {
             "type": "articles",
             "header": {
-                "red": "DEFI",
-                "rest": "INTEGRATION"
+                "red": "MEDIA",
+                "rest": "ACQUISITION"
             },
             "articles": [
                 {
                     "category": "Finance",
-                    "title": "DeFi 2.0: Institutional Integration and Security in 2026",
-                    "excerpt": "The industry has entered its '2.0' phase, defined by institutional-grade security.",
-                    "slug": "defi-20-institutional-integration-2026"
+                    "title": "Byron Allen Takes Control of BuzzFeed in $120 Million Deal",
+                    "excerpt": "Media entrepreneur Byron Allen reached a deal to acquire a controlling stake in BuzzFeed.",
+                    "slug": "byron-allen-buzzfeed-acquisition-2026"
                 },
                 {
                     "category": "Finance",
