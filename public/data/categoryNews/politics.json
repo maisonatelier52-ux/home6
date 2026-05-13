@@ -152,21 +152,27 @@
     },
     {
         "id": "pol-5",
-        "slug": "diplomatic-tensions-ease",
-        "title": "Diplomatic Tensions Ease After High-Level Talks",
+        "slug": "south-carolina-redistricting-james-clyburn",
+        "title": "South Carolina Republicans Block Effort to Redraw James Clyburn District",
         "category": "Politics",
-        "date": "January 15, 2026",
+        "date": "May 12, 2026",
         "author": "David Smith",
         "views": "7.1k",
         "readTime": "6 Mins",
         "comments": 15,
-        "image": "/images/news/politics-5.webp",
-        "excerpt": "Months of escalating rhetoric appear to be cooling down following a series of high-level diplomatic meetings held in Geneva this weekend...",
+        "image": "/images/news/South Carolina.webp",
+        "excerpt": "South Carolina Republicans blocked a Trump-backed redistricting proposal targeting Congressman James Clyburn’s district, exposing divisions inside the GOP ahead of the 2026 midterms.",
         "tags": [
-            "#Diplomacy",
-            "#Peace",
-            "#International Relations",
-            "#Geneva"
+            "James Clyburn",
+            "South Carolina",
+            "redistricting",
+            "Donald Trump",
+            "Voting Rights Act",
+            "gerrymandering",
+            "Republican Party",
+            "2026 midterms",
+            "House elections",
+            "voting rights"
         ]
     }
 ]

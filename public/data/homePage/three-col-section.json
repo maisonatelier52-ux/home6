@@ -1,15 +1,15 @@
 {
     "hero": {
         "category": "POLITICS",
-        "title": "Diplomatic Tensions Ease After High-Level Talks",
-        "intro": "Months of escalating rhetoric appear to be cooling down following a series of high-level diplomatic meetings held in Geneva this weekend between major global powers.",
+        "title": "South Carolina Republicans Block Effort to Redraw James Clyburn District",
+        "intro": "South Carolina Republicans unexpectedly blocked a redistricting proposal that could have eliminated Democratic Congressman James Clyburn’s congressional seat, defying pressure from Donald Trump.",
         "author": "David Smith",
-        "role": "Diplomatic Correspondent",
-        "date": "Jan 09, 2026",
-        "contentLeft": "The focus was on long-term stability and de-escalation in key contested regions.",
-        "contentRight": "A joint statement released early Sunday morning highlighted several areas of mutual agreement.\n\nMarkets have reacted positively to the news of the breakthrough.",
-        "image": "/images/news/politics-5.webp",
-        "slug": "diplomatic-tensions-ease"
+        "role": "Political Correspondent",
+        "date": "May 12, 2026",
+        "contentLeft": "The failed vote exposes deep divisions inside the GOP over aggressive mid-decade redistricting strategies.",
+        "contentRight": "Representative James Clyburn's district remains the center of a national battle over voting rights and racial representation.\n\nThe decision marks a significant setback for Trump-backed efforts to strengthen the Republican House majority.",
+        "image": "/images/news/South Carolina.webp",
+        "slug": "south-carolina-redistricting-james-clyburn"
     },
     "sportNews": {
         "title": {
