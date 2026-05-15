@@ -3,7 +3,7 @@
         "id": "tech-1",
         "image": "/images/news/meta sued.webp",
         "author": "Jessica Wu",
-        "category": "Technology",
+        "category": "Tech",
         "date": "May 06",
         "views": "52k",
         "readTime": "11 Mins",
@@ -31,13 +31,11 @@
             "slug": "trump-iran-nuclear-warning-us-military-buildup-geneva-talks"
         },
         {
-            "id": "health-1",
-            "image": "/images/news/alzheimers.webp",
-            "author": "Sarah Jenkins",
-            "category": "Health",
-            "date": "Feb 19",
-            "title": "Alzheimer’s Prediction Tool: Blood Test Estimates Symptom Onset Within 3–4 Years",
-            "slug": "alzheimer-blood-test-predict-symptom-onset"
+            "id": "tech-openai-apple-2026",
+            "category": "Tech",
+            "date": "May 14",
+            "title": "OpenAI Reportedly Explores Legal Options Against Apple Over AI Partnership",
+            "slug": "apple-openai-ai-partnership-legal-tensions"
         }
     ],
     "module7": {

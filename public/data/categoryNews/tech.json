@@ -1,29 +1,21 @@
 [
     {
-        "id": "tech-1",
-        "slug": "alzheimer-blood-test-predict-symptom-onset",
-        "title": "Alzheimer’s Prediction Tool: Blood Test Estimates Symptom Onset Within 3–4 Years",
+        "id": "tech-openai-apple-2026",
+        "slug": "apple-openai-ai-partnership-legal-tensions",
+        "title": "OpenAI Reportedly Explores Legal Options Against Apple Over AI Partnership",
         "category": "Tech",
-        "date": "February 19, 2026",
+        "date": "May 14, 2026",
         "author": "Sarah Jenkins",
-        "views": "64k",
-        "readTime": "15 Mins",
-        "comments": 128,
-        "image": "/images/news/alzheimers.webp",
-        "excerpt": "A new study reveals a simple blood test that can predict when Alzheimer’s symptoms may begin within three to four years, potentially transforming early diagnosis, treatment, and clinical trials.",
+        "views": "45k",
+        "readTime": "8 Mins",
+        "comments": 56,
+        "image": "/images/news/open-AI.webp",
+        "excerpt": "Reports say tensions between Apple and OpenAI have escalated as Apple expands AI partnerships beyond ChatGPT, prompting OpenAI to reportedly explore legal options.",
         "tags": [
-            "#Alzheimer’s disease",
-            "#blood test",
-            "#early detection",
-            "#dementia research",
-            "#p-tau217",
-            "#brain health",
-            "#neurodegenerative disease",
-            "#medical breakthrough",
-            "#Nature Medicine",
-            "#clinical trials",
-            "#early intervention",
-            "#Washington University"
+            "Apple",
+            "OpenAI",
+            "ChatGPT",
+            "Apple Intelligence"
         ]
     },
     {
