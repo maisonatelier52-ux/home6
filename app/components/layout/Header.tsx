@@ -12,7 +12,7 @@ export default function Header() {
         { title: "Global Markets Slide as Oil Surges Above $100 Amid Middle East Tensions", category: "Markets", slug: "oil-prices-global-markets-middle-east-tensions" },
         { title: "Google Chrome AI Files Spark Privacy and Storage Concerns", category: "Tech", slug: "google-chrome-gemini-nano-ai-download-controversy" },
         { title: "Dua Lipa Launches $15 Million Legal Battle Against Samsung", category: "Business", slug: "dua-lipa-samsung-lawsuit-image-rights" },
-        { title: "Global Summit Addresses Rising Inflation Concerns", category: "Politics", slug: "global-summit-inflation-concerns" }
+        { title: "Democratic National Committee Autopsy Report Blames Strategic Failures for Kamala Harris’s 2024 Defeat", category: "Politics", slug: "dnc-autopsy-report-kamala-harris-2024" }
     ];
 
     return (
