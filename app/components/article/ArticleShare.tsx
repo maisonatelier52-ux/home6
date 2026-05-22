@@ -12,7 +12,7 @@ export default function ArticleShare({ title }: ArticleShareProps) {
     const [copied, setCopied] = useState(false);
 
     useEffect(() => {
-        setBaseUrl(window.location.href);
+        setBaseUrl(window.location.href); 
     }, []);
 
     const shareLinks = {
