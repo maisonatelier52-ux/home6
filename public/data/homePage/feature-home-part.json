@@ -97,11 +97,29 @@
                 "slug": "hyper-automation-enterprise-2026"
             },
             {
-                "title": "Trump’s 15% Tariff Shock Sends U.S. Stock Futures Lower",
-                "date": "Feb 22, 2026",
-                "image": "/images/news/trumps 15.webp",
-                "category": "Markets",
-                "slug": "trump-15-percent-tariffs-stock-futures-global-markets"
+                "id": "mkt-9",
+                "slug": "rubio-india-energy-talks-iran-oil-crisis",
+                "title": "Marco Rubio Pushes US Energy Exports During Critical India Visit",
+                "category": "Business",
+                "date": "May 23, 2026",
+                "author": "Michael Chen",
+                "views": "12.4k",
+                "readTime": "12 Mins",
+                "comments": 45,
+                "image": "/images/news/Rubio Visits.webp",
+                "excerpt": "U.S. Secretary of State Marco Rubio visited India as both countries discuss expanding energy trade amid rising global oil disruptions linked to the Iran conflict.",
+                "tags": [
+                    "Marco Rubio",
+                    "India energy imports",
+                    "Iran oil crisis",
+                    "US energy exports",
+                    "Narendra Modi",
+                    "oil prices",
+                    "LNG",
+                    "crude oil",
+                    "US-India relations",
+                    "global energy market"
+                ]
             },
             {
                 "title": "Chick-fil-A Franchisee Sued by US Government Over Religious Discrimination",
