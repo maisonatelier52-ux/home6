@@ -90,11 +90,29 @@
                 "slug": "waymo-atlanta-driverless-car-glitch"
             },
             {
-                "title": "Hyper-Automation: The New Standard for Enterprise Efficiency",
-                "date": "Feb 05, 2026",
-                "image": "/images/news/tech-8.webp",
+                "id": "tech-8",
+                "slug": "spacex-starship-v3-test-flight-launch",
+                "title": "SpaceX Successfully Launches Starship V3 in Major Milestone for Mars Program",
                 "category": "Tech",
-                "slug": "hyper-automation-enterprise-2026"
+                "date": "May 23, 2026",
+                "author": "Emily Rodriguez",
+                "views": "45k",
+                "readTime": "15 Mins",
+                "comments": 210,
+                "image": "/images/news/SpaceX Launches.webp",
+                "excerpt": "SpaceX launched its upgraded Starship V3 rocket on a major test flight, marking a significant milestone for Elon Musk’s Mars ambitions and the future of reusable space travel.",
+                "tags": [
+                    "SpaceX",
+                    "Starship V3",
+                    "Elon Musk",
+                    "rocket launch",
+                    "Mars mission",
+                    "reusable rockets",
+                    "NASA Artemis",
+                    "aerospace industry",
+                    "Starbase",
+                    "commercial space"
+                ]
             },
             {
                 "id": "mkt-9",
