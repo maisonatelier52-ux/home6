@@ -143,21 +143,27 @@
     },
     {
         "id": "fin-8",
-        "slug": "retirement-crisis-ai-wealth-2026",
-        "title": "The Retirement Crisis Reimagined: AI-Driven Personalized Wealth Management",
+        "slug": "singapore-economy-ai-growth-2026",
+        "title": "Singapore GDP Growth Beats Forecasts as AI and Electronics Exports Soar",
         "category": "Finance",
-        "date": "February 12, 2026",
+        "date": "May 25, 2026",
         "author": "David Smith",
-        "views": "21k",
-        "readTime": "24 Mins",
-        "comments": 68,
-        "image": "/images/news/finance-8.webp",
-        "excerpt": "Individual financial advice is being democratized in 2026 through AI-driven 'Financial Copilots' that act as lifelong personal CFOs for the average worker...",
+        "views": "34k",
+        "readTime": "14 Mins",
+        "comments": 92,
+        "image": "/images/news/Singapore Economy.webp",
+        "excerpt": "Singapore’s economy expanded faster than expected in early 2026 as AI investment, electronics exports, and financial services growth offset geopolitical and inflation concerns.",
         "tags": [
-            "#Retirement",
-            "#AI Wealth",
-            "#Personal Finance",
-            "#Financial Inclusion"
+            "Singapore",
+            "AI investment",
+            "semiconductors",
+            "electronics exports",
+            "GDP growth",
+            "Iran conflict",
+            "Bloomberg",
+            "Reuters",
+            "cloud computing",
+            "global economy"
         ]
     }
 ]
