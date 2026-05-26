@@ -44,15 +44,15 @@
     "col2": {
         "hero": {
             "category": "Politics",
-            "title": "FCC Chair Slams Media Over Stephen Colbert ‘Censorship’ Claim as Texas Senate Race Heats Up",
-            "intro": "The FCC criticizes media coverage of Stephen Colbert’s alleged CBS censorship as equal time rules resurface, boosting a Texas Senate candidate and intensifying 2026 election tensions.",
+            "title": "John Cornyn Faces Tough Challenge From Trump-Backed Ken Paxton in Texas GOP Runoff",
+            "intro": "Texas Republicans head into a high-profile Senate runoff between John Cornyn and Trump-backed Ken Paxton in a race with major national implications for the GOP.",
             "author": "Emily Rodriguez",
             "role": "Political Analyst",
-            "date": "Feb 18, 2026",
-            "contentLeft": "The controversy highlights how politics, the media, and the federal government are increasingly at odds during an election cycle.",
-            "contentRight": "The interview eventually received millions of views on YouTube and helped a Texas Senate campaign raise millions in 24 hours.\n\nThe FCC is keeping a closer eye on political guests on talk and entertainment shows.",
-            "image": "/images/news/fcc chair slams.webp",
-            "slug": "fcc-colbert-cbs-equal-time-texas-senate-controversy"
+            "date": "May 26, 2026",
+            "contentLeft": "The runoff has become a defining test of Donald Trump's influence inside the Republican Party.",
+            "contentRight": "Cornyn and Paxton are fighting over MAGA loyalty, electability and the future direction of Texas Republican politics.\n\nDemocrats see the bruising primary as a possible opening in November.",
+            "image": "/images/news/John Cornyn Faces.webp",
+            "slug": "texas-senate-runoff-cornyn-paxton-trump"
         },
         "bullets": [
             {
