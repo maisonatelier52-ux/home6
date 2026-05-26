@@ -90,18 +90,54 @@
                 "slug": "waymo-atlanta-driverless-car-glitch"
             },
             {
+                "id": "tech-8",
+                "slug": "spacex-starship-v3-test-flight-launch",
                 "title": "SpaceX Successfully Launches Starship V3 in Major Milestone for Mars Program",
                 "category": "Tech",
                 "date": "May 23, 2026",
+                "author": "Emily Rodriguez",
+                "views": "45k",
+                "readTime": "15 Mins",
+                "comments": 210,
                 "image": "/images/news/SpaceX Launches.webp",
-                "slug": "spacex-starship-v3-launch-mars-program-2026"
+                "excerpt": "SpaceX launched its upgraded Starship V3 rocket on a major test flight, marking a significant milestone for Elon Musk’s Mars ambitions and the future of reusable space travel.",
+                "tags": [
+                    "SpaceX",
+                    "Starship V3",
+                    "Elon Musk",
+                    "rocket launch",
+                    "Mars mission",
+                    "reusable rockets",
+                    "NASA Artemis",
+                    "aerospace industry",
+                    "Starbase",
+                    "commercial space"
+                ]
             },
             {
+                "id": "mkt-9",
+                "slug": "rubio-india-energy-talks-iran-oil-crisis",
                 "title": "Marco Rubio Pushes US Energy Exports During Critical India Visit",
                 "category": "Business",
                 "date": "May 23, 2026",
+                "author": "Michael Chen",
+                "views": "12.4k",
+                "readTime": "12 Mins",
+                "comments": 45,
                 "image": "/images/news/Rubio Visits.webp",
-                "slug": "rubio-india-energy-talks-iran-oil-crisis"
+                "excerpt": "U.S. Secretary of State Marco Rubio visited India as both countries discuss expanding energy trade amid rising global oil disruptions linked to the Iran conflict.",
+                "tags": [
+                    "Marco Rubio",
+                    "India energy imports",
+                    "Iran oil crisis",
+                    "US energy exports",
+                    "Narendra Modi",
+                    "oil prices",
+                    "LNG",
+                    "crude oil",
+                    "US-India relations",
+                    "global energy market"
+                ]
             },
             {
                 "title": "Chick-fil-A Franchisee Sued by US Government Over Religious Discrimination",
