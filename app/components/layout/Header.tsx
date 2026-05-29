@@ -7,7 +7,7 @@ import CurrentDate from './CurrentDate';
 
 export default function Header() {
     const tickerItems = [
-        { title: "Meta Sued by Major Publishers Over AI Training Data", category: "Tech", slug: "meta-ai-copyright-lawsuit-publishers" },
+        { title: "Intel Launches Arc G3 Chips for Handheld Gaming PCs", category: "Tech", slug: "intel-arc-g3-handheld-gaming-pcs" },
         { title: "Trump Warns Iran: No Nuclear Weapons, Military Buildup Underway", category: "Politics", slug: "trump-iran-nuclear-warning-us-military-buildup-geneva-talks" },
         { title: "Global Markets Slide as Oil Surges Above $100 Amid Middle East Tensions", category: "Markets", slug: "oil-prices-global-markets-middle-east-tensions" },
         { title: "Google Chrome AI Files Spark Privacy and Storage Concerns", category: "Tech", slug: "google-chrome-gemini-nano-ai-download-controversy" },

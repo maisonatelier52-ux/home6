@@ -64,25 +64,22 @@
     },
     {
         "id": "tech-1",
-        "slug": "meta-ai-copyright-lawsuit-publishers",
-        "title": "Meta Sued by Major Publishers Over AI Training Data",
+        "slug": "intel-arc-g3-handheld-gaming-pcs",
+        "title": "Intel Launches Arc G3 Chips for Handheld Gaming PCs",
         "category": "Tech",
-        "date": "May 6, 2026",
+        "date": "May 29, 2026",
         "author": "Jessica Wu",
-        "views": "52k",
-        "readTime": "11 Mins",
-        "comments": 142,
-        "image": "/images/news/meta sued.webp",
-        "excerpt": "Major publishers and author Scott Turow sued Meta and Mark Zuckerberg, accusing the company of illegally using copyrighted books and articles to train its AI system, Llama.",
+        "views": "0k",
+        "readTime": "8 Mins",
+        "comments": 0,
+        "image": "/images/news/Intel Launches.webp",
+        "excerpt": "Intel unveiled its new Arc G3 processor family designed for handheld gaming PCs, aiming to compete with AMD-powered portable gaming devices.",
         "tags": [
-            "#Meta",
-            "#Mark Zuckerberg",
-            "#AI lawsuit",
-            "#copyright infringement",
-            "#Llama AI",
-            "#publishers",
-            "#Scott Turow",
-            "#artificial intelligence"
+            "#Intel",
+            "#Arc G3",
+            "#handheld gaming PCs",
+            "#Lunar Lake",
+            "#portable gaming"
         ]
     },
     {
