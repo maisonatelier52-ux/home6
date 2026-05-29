@@ -11,8 +11,8 @@ export default function Footer() {
         {
             author: "Jessica Wu",
             category: "Tech",
-            title: "Meta Sued by Major Publishers Over AI Training Data",
-            slug: "meta-ai-copyright-lawsuit-publishers"
+            title: "Intel Launches Arc G3 Chips for Handheld Gaming PCs",
+            slug: "intel-arc-g3-handheld-gaming-pcs"
         }
     ];
 
