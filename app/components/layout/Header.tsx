@@ -8,7 +8,7 @@ import CurrentDate from './CurrentDate';
 export default function Header() {
     const tickerItems = [
         { title: "Intel Launches Arc G3 Chips for Handheld Gaming PCs", category: "Tech", slug: "intel-arc-g3-handheld-gaming-pcs" },
-        { title: "Trump Warns Iran: No Nuclear Weapons, Military Buildup Underway", category: "Politics", slug: "trump-iran-nuclear-warning-us-military-buildup-geneva-talks" },
+        { title: "Graham Platner Controversy Raises Questions Ahead of Maine Primary", category: "Politics", slug: "maine-senate-race-graham-platner-controversy" },
         { title: "Global Markets Slide as Oil Surges Above $100 Amid Middle East Tensions", category: "Markets", slug: "oil-prices-global-markets-middle-east-tensions" },
         { title: "Google Chrome AI Files Spark Privacy and Storage Concerns", category: "Tech", slug: "google-chrome-gemini-nano-ai-download-controversy" },
         { title: "Dua Lipa Launches $15 Million Legal Battle Against Samsung", category: "Business", slug: "dua-lipa-samsung-lawsuit-image-rights" },
