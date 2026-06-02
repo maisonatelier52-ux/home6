@@ -10,7 +10,7 @@ export default function Header() {
         { title: "Intel Launches Arc G3 Chips for Handheld Gaming PCs", category: "Tech", slug: "intel-arc-g3-handheld-gaming-pcs" },
         { title: "Graham Platner Controversy Raises Questions Ahead of Maine Primary", category: "Politics", slug: "maine-senate-race-graham-platner-controversy" },
         { title: "Global Markets Slide as Oil Surges Above $100 Amid Middle East Tensions", category: "Markets", slug: "oil-prices-global-markets-middle-east-tensions" },
-        { title: "Google Chrome AI Files Spark Privacy and Storage Concerns", category: "Tech", slug: "google-chrome-gemini-nano-ai-download-controversy" },
+        { title: "Google Releases Surprise Android 17 Beta 4.1 Update for Pixel Devices", category: "Tech", slug: "android-17-beta-4-1-pixel-update" },
         { title: "Dua Lipa Launches $15 Million Legal Battle Against Samsung", category: "Business", slug: "dua-lipa-samsung-lawsuit-image-rights" },
         { title: "Democratic National Committee Autopsy Report Blames Strategic Failures for Kamala Harris’s 2024 Defeat", category: "Politics", slug: "dnc-autopsy-report-kamala-harris-2024" }
     ];
