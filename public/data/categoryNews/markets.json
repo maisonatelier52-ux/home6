@@ -164,21 +164,27 @@
     },
     {
         "id": "mkt-4",
-        "slug": "bond-yields-invert-recession",
-        "title": "Bond Yields Invert Signaling Recession Risk",
+        "slug": "japan-stock-market-ai-rally",
+        "title": "Nikkei 225 Surges to Historic Peak on Artificial Intelligence Optimism",
         "category": "Markets",
-        "date": "January 3, 2026",
+        "date": "June 3, 2026",
         "author": "Sarah Jenkins",
         "views": "11k",
         "readTime": "6 Mins",
         "comments": 40,
-        "image": "/images/news/markets-4.webp",
-        "excerpt": "The spread between the 2-year and 10-year Treasury yields inverted to its deepest level in four decades, flashing a classic warning signal for an impending recession.",
+        "image": "/images/news/Japan Stock Market Hits.webp",
+        "excerpt": "Japan’s stock market reached a new all-time high as investors poured money into AI-related technology, semiconductor and industrial manufacturing companies.",
         "tags": [
-            "#Bonds",
-            "#Recession",
-            "#Economy",
-            "#Fed"
+            "Japan",
+            "Nikkei 225",
+            "artificial intelligence",
+            "semiconductors",
+            "technology stocks",
+            "robotics",
+            "global markets",
+            "AI infrastructure",
+            "Wall Street",
+            "chipmakers"
         ]
     }
 ]
