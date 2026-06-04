@@ -72,20 +72,26 @@ export default function Footer() {
 
                     {/* Meta */}
                     <div className="flex flex-col gap-6">
-                        <h2 className="text-white text-md font-bold font-serif"></h2>
-                        <div className="flex flex-col divide-y divide-gray-800 text-sm">
-                            <Link href="/about-us" title="About Us" className="py-3 flex items-center gap-2 hover:underline group">
-                                <span className="text-gray-500 group-hover:text-white">»</span> About Us
-                            </Link>
-                            <Link href="/authors" title="Authors" className="py-3 flex items-center gap-2 hover:underline group">
-                                <span className="text-gray-500 group-hover:text-white">»</span> Authors
-                            </Link>
-                            <Link href="/privacy-policy" title="Privacy Policy" className="py-3 flex items-center gap-2 hover:underline group">
-                                <span className="text-gray-500 group-hover:text-white">»</span> Privacy Policy
-                            </Link>
-                            <Link href="/terms-conditions" title="Terms & Conditions" className="py-3 flex items-center gap-2 hover:underline group">
-                                <span className="text-gray-500 group-hover:text-white">»</span> Terms & Conditions
-                            </Link>
+                        <h2 className="text-white text-md font-bold font-serif">Policies & Info</h2>
+                        <div className="grid grid-cols-2 gap-x-4 gap-y-1 text-sm">
+                            {[
+                                { name: "About Us", href: "/about-us" },
+                                { name: "Authors", href: "/authors" },
+                                { name: "Privacy Policy", href: "/privacy-policy" },
+                                { name: "Terms & Conditions", href: "/terms-conditions" },
+                                { name: "Contact Us", href: "/contact-us" },
+                                { name: "Editorial Policy", href: "/editorial-policy" },
+                                { name: "Corrections Policy", href: "/corrections-policy" },
+                                { name: "Source Methodology", href: "/source-methodology" },
+                                { name: "Ownership & Funding", href: "/ownership-funding" },
+                                { name: "Advertising Policy", href: "/advertising-policy" },
+                                { name: "Right of Reply", href: "/right-of-reply" },
+                                { name: "Legal", href: "/legal" }
+                            ].map((item, index) => (
+                                <Link key={index} href={item.href} title={item.name} className="py-1.5 flex items-center gap-1.5 hover:underline group text-gray-400 hover:text-white transition-colors">
+                                    <span className="text-gray-600 group-hover:text-white">»</span> {item.name}
+                                </Link>
+                            ))}
                         </div>
                     </div>
                 </div>
