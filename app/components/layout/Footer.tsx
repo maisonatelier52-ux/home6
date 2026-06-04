@@ -23,7 +23,7 @@ export default function Footer() {
     return (
         <footer className="w-full bg-black text-white pt-12 pb-6">
             <div className="w-full max-w-6xl mx-auto px-4 md:px-0">
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
 
                     {/* About Us */}
                     <div className="flex flex-col gap-6">
@@ -66,27 +66,6 @@ export default function Footer() {
                                 >
                                     {category}
                                 </Link>
-                            ))}
-                        </div>
-                    </div>
-
-                    {/* Hot News */}
-                    <div className="flex flex-col gap-6">
-                        <h2 className="text-white text-md font-bold font-serif">Hot News</h2>
-                        <div className="flex flex-col divide-y divide-gray-800">
-                            {hotNews.map((news, index) => (
-                                <div key={index} className="flex gap-4 py-4 first:pt-0 group">
-                                    <div className="text-[11px] text-gray-500 whitespace-nowrap min-w-[70px]">
-                                        Written by:<br />
-                                        <span className="text-gray-400 font-bold">{news.author}</span>
-                                    </div>
-                                    <div className="w-[1px] bg-gray-800 h-10 self-center"></div>
-                                    <Link href={`/${(news.category || 'news').toLowerCase()}/${news.slug}`} title={news.title}>
-                                        <h3 className="text-sm font-bold leading-snug group-hover:underline text-gray-300 transition-colors">
-                                            {news.title}
-                                        </h3>
-                                    </Link>
-                                </div>
                             ))}
                         </div>
                     </div>
