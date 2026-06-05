@@ -1,21 +1,27 @@
 [
     {
         "id": "us-producer-inflation-2026",
-        "slug": "us-producer-inflation-iran-oil-prices",
-        "title": "U.S. Producer Inflation Hits Four-Year High as Iran War Drives Energy Costs Up",
+        "slug": "us-jobless-claims-rise-may-2026",
+        "title": "U.S. Jobless Claims Rise to 225,000, Marking Four-Month High Amid Labor Market Resilience",
         "category": "Finance",
-        "date": "May 13, 2026",
+        "date": "May 30, 2026",
         "author": "James O'Connor",
         "views": "15k",
         "readTime": "6 Mins",
         "comments": 32,
-        "image": "/images/news/U.S. Producer.webp",
-        "excerpt": "U.S. producer prices recorded their largest monthly increase in four years as the Iran conflict pushed oil and shipping costs higher, intensifying inflation concerns.",
+        "image": "/images/news/Jobless Claims Rise.webp",
+        "excerpt": "U.S. jobless claims rose to 225,000 for the week ending May 30, the highest since February, but layoffs remain historically low. Labor market data suggest resilience despite economic headwinds.",
         "tags": [
-            "U.S. inflation",
-            "Producer Price Index",
-            "Iran war",
-            "oil prices"
+            "jobless claims",
+            "unemployment",
+            "labor market",
+            "U.S. economy",
+            "layoffs",
+            "initial claims",
+            "continuing claims",
+            "workforce trends",
+            "economic resilience",
+            "labor statistics"
         ]
     },
     {
