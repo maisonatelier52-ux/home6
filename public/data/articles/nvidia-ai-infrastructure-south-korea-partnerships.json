@@ -1,0 +1,116 @@
+{
+    "id": "biz-2",
+    "slug": "nvidia-ai-infrastructure-south-korea-partnerships",
+    "title": "Nvidia Expands AI Infrastructure Partnerships in South Korea",
+    "category": "Business",
+    "date": "June 7, 2026",
+    "author": {
+        "name": "Jessica Wu",
+        "role": "Technology Analyst",
+        "postsCount": 312,
+        "image": "/images/authors/jessica.jpg",
+        "bio": "Jessica spans the gap between complex algorithms and business outcomes, focusing on the real-world deployment of Agentic AI."
+    },
+    "views": "28.5k",
+    "readTime": "12 Mins",
+    "comments": 84,
+    "image": "/images/news/Nvidia Expands AI.webp",
+    "tags": [
+        "Nvidia AI",
+        "Jensen Huang",
+        "SK Telecom",
+        "SK Hynix",
+        "South Korea AI",
+        "AI infrastructure",
+        "AI cloud",
+        "Nvidia GPUs",
+        "robotics",
+        "autonomous vehicles",
+        "AI factories",
+        "semiconductor technology",
+        "AI computing demand"
+    ],
+    "excerpt": "Nvidia CEO Jensen Huang unveils AI infrastructure deals with South Korea’s tech giants, including SK Telecom and SK Hynix, to build AI data centers, factories, and cloud computing networks, highlighting surging global demand for AI.",
+    "content": [
+        {
+            "type": "intro",
+            "text": "The race to build the world's AI infrastructure is accelerating, and Nvidia is making sure South Korea sits at the center of it."
+        },
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "During a visit to Seoul, Nvidia CEO Jensen Huang unveiled a series of agreements with some of South Korea's largest technology and industrial companies. The partnerships include AI data centers, cloud computing, robotics, autonomous vehicles and advanced semiconductor technology. The message was clear: demand for artificial intelligence continues to surge and the infrastructure needed to support it must grow just as fast. One of the biggest announcements was a partnership with SK Telecom to build gigawatt-scale AI cloud infrastructure, using technology from Nvidia. The companies plan to build large AI factories capable of handling the massive computing requirements of future AI applications. Initial projects are expected to come online in 2027."
+        },
+        {
+            "type": "paragraph",
+            "text": "Nvidia also expanded ties with several major South Korean corporations, including SK Group, Naver, Doosan Group, LG Group, and Hyundai Motor Group. The deals demonstrate South Korea’s increased presence in the global AI industry, with the partnerships ranging across different areas of the AI ecosystem, including cloud infrastructure, robotics, autonomous mobility and industrial automation. For Nvidia, they are another move in a larger strategy of establishing regional partnerships to address soaring demand for computing power."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "SK Hynix Strengthens Critical Role in Nvidia's Supply Chain"
+        },
+        {
+            "type": "paragraph",
+            "text": "One announcement drew particular attention from investors and industry executives. Memory-chip giant SK Hynix signed a multi-year technology agreement with Nvidia focused on next-generation memory solutions for AI systems. The partnership deepens a relationship that has already become one of the most important in the semiconductor industry."
+        },
+        {
+            "type": "paragraph",
+            "text": "SK Hynix is currently Nvidia's largest memory supplier. Its high-bandwidth memory chips power many of the AI systems driving today's boom in generative AI. Under the new agreement, the companies will work more closely on future memory technologies and align product development with Nvidia's long-term infrastructure plans. Nvidia's upcoming Vera CPU platform is expected to incorporate SK Hynix memory products, strengthening the connection between the two firms."
+        },
+        {
+            "type": "paragraph",
+            "text": "The timing is no coincidence. Demand for advanced memory continues to climb as AI models become larger and more computationally demanding. Industry analysts expect that trend to continue for years. Every major AI system relies heavily on high-bandwidth memory, making suppliers such as SK Hynix increasingly important to the broader technology ecosystem."
+        },
+        {
+            "type": "paragraph",
+            "text": "The deal strengthens SK Hynix's position in the AI supply chain while helping Nvidia secure access to one of the industry's most critical technologies."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "AI Factories Become the Next Battleground"
+        },
+        {
+            "type": "paragraph",
+            "text": "Data centers once defined the digital economy. Nvidia believes AI factories will define the next phase. The company used its South Korea announcements to highlight plans for large-scale AI infrastructure designed specifically for training and running advanced AI models."
+        },
+        {
+            "type": "paragraph",
+            "text": "SK Telecom's proposed gigawatt-scale AI cloud facilities sit at the heart of that strategy. Expected to offer huge computing capacity for businesses, developers and AI researchers, the facilities will use Nvidia GPUs and networking tech. Naver is chasing a similar dream. South Korea’s biggest internet company announced plans to build AI factories on Nvidia tech and look for expansion opportunities in Europe, the Middle East and Asia-Pacific. Other industrial behemoths are also joining the effort. Doosan Group plans to combine Nvidia hardware with its own expertise in robotics and energy systems. LG Group is working on robotics and future-generation data-center tech. Hyundai Motor Group is expanding its work in autonomous driving, robotics and AI-powered mobility solutions."
+        },
+        {
+            "type": "paragraph",
+            "text": "Hyundai is also participating in the development of \"AI Valley\" in Saemangeum, a large-scale project aimed at creating a new center for artificial intelligence innovation."
+        },
+        {
+            "type": "paragraph",
+            "text": "The breadth of the partnerships reflects a larger shift taking place across global industry. AI infrastructure is no longer just a technology-sector priority. Manufacturers, telecom providers, automakers, and industrial groups are increasingly treating it as a strategic necessity."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Huang Sees Long-Term Growth Despite Market Uncertainty"
+        },
+        {
+            "type": "paragraph",
+            "text": "The announcements arrived at a time when technology stocks face growing scrutiny. South Korean semiconductor shares have experienced sharp swings in recent months as investors debate valuations and the sustainability of the AI boom. Some analysts have questioned whether spending on AI infrastructure can continue at its current pace."
+        },
+        {
+            "type": "paragraph",
+            "text": "Huang remains unconvinced by those concerns. Speaking during the visit, the Nvidia chief argued that demand for AI computing still exceeds available supply. He pointed to ongoing shortages in memory chips, silicon photonics, and other key technologies that support large-scale AI systems."
+        },
+        {
+            "type": "paragraph",
+            "text": "Those bottlenecks may not disappear anytime soon. Industry leaders share a similar view. SK Group Chairman Chey Tae-won recently said SK Hynix plans to double wafer production capacity over the next five years to keep pace with growing AI demand."
+        },
+        {
+            "type": "paragraph",
+            "text": "The expectation across much of the semiconductor industry is straightforward: AI adoption is still in its early stages. As more companies integrate AI into products, services, and operations, demand for advanced chips and computing infrastructure is expected to rise."
+        },
+        {
+            "type": "paragraph",
+            "text": "For Nvidia, South Korea has become a crucial partner in that future. The agreements announced in Seoul rank among the company's most significant international AI initiatives so far. The partnerships aim to combine Nvidia’s technology with South Korea’s manufacturing prowess and engineering know-how to build the infrastructure that can power the next decade of artificial intelligence."
+        }
+    ]
+}
