@@ -1,21 +1,30 @@
 [
     {
         "id": "tech-openai-apple-2026",
-        "slug": "apple-openai-ai-partnership-legal-tensions",
-        "title": "OpenAI Reportedly Explores Legal Options Against Apple Over AI Partnership",
+        "slug": "apple-wwdc-2026-ai-siri-progress",
+        "title": "Apple WWDC 2026 Focuses on AI Progress and Siri Improvements",
         "category": "Tech",
-        "date": "May 14, 2026",
+        "date": "June 8, 2026",
         "author": "Sarah Jenkins",
         "views": "45k",
         "readTime": "8 Mins",
         "comments": 56,
-        "image": "/images/news/open-AI.webp",
-        "excerpt": "Reports say tensions between Apple and OpenAI have escalated as Apple expands AI partnerships beyond ChatGPT, prompting OpenAI to reportedly explore legal options.",
+        "image": "/images/news/Apple WWDC 2026.webp",
+        "excerpt": "At WWDC 2026, Apple faces investor and developer pressure to demonstrate AI progress, improve Siri, and expand generative AI integration across iPhone, iPad, and Mac, as the company navigates competition from Google, Microsoft, and OpenAI.",
         "tags": [
-            "Apple",
-            "OpenAI",
-            "ChatGPT",
-            "Apple Intelligence"
+            "Apple AI",
+            "WWDC 2026",
+            "Siri update",
+            "generative AI",
+            "iPhone AI",
+            "iPad AI",
+            "Mac AI",
+            "AI partnerships",
+            "Google Gemini",
+            "AI ecosystem",
+            "AI integration",
+            "Apple developers",
+            "AI roadmap"
         ]
     },
     {
