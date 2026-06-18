@@ -35,13 +35,13 @@ export async function generateMetadata({ params }: ArticlePageProps) {
 
     return {
         title: `${article.title} | The Quest for Profit`,
-        description: article.content[0]?.text || article.title,
+        description: article.excerpt || (Array.isArray(article.content) ? article.content[0]?.text : '') || article.title,
         alternates: {
             canonical: `/${category}/${slug}`,
         },
         openGraph: {
             title: article.title,
-            description: article.content[0]?.text || article.title,
+            description: article.excerpt || (Array.isArray(article.content) ? article.content[0]?.text : '') || article.title,
             url: `https://www.thequestforprofit.com/${category}/${slug}`,
             siteName: 'The Quest for Profit',
             images: [
@@ -59,7 +59,7 @@ export async function generateMetadata({ params }: ArticlePageProps) {
         twitter: {
             card: 'summary_large_image',
             title: article.title,
-            description: article.content[0]?.text || article.title,
+            description: article.excerpt || (Array.isArray(article.content) ? article.content[0]?.text : '') || article.title,
             images: [article.image],
         },
     };
@@ -140,7 +140,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                                 "url": "https://www.thequestforprofit.com/images/logo-TQFP.svg"
                             }
                         },
-                        "description": article.excerpt || article.content[0]?.text
+                        "description": article.excerpt || (Array.isArray(article.content) ? article.content[0]?.text : '') || article.title
                     },
                     {
                         "@type": "BreadcrumbList",
