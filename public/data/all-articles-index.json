@@ -336,12 +336,29 @@
         "date": "June 10, 2026"
     },
     {
-        "slug": "trump-anti-weaponization-fund-irs-settlement",
-        "title": "Donald Trump Announces $1.8 Billion “Anti-Weaponization Fund” After IRS Settlement",
-        "shortdescription": "The Trump administration announced a controversial $1.8 billion Anti-Weaponization Fund tied to a settlement over leaked tax returns, triggering legal and political backlash.",
+        "id": "pol-obama-presidential-center-2026",
+        "slug": "obama-presidential-center-opens-chicago-2026",
+        "title": "Barack Obama Opens Presidential Center on Chicago’s South Side",
         "category": "Politics",
+        "date": "June 19, 2026",
         "author": "Sarah Jenkins",
-        "date": "May 18, 2026"
+        "views": "68k",
+        "readTime": "15 Mins",
+        "comments": 432,
+        "image": "/images/news/Obama Presidential Center Opens in Chicago.webp",
+        "excerpt": "Former President Barack Obama officially opened the Obama Presidential Center in Chicago, unveiling a landmark campus dedicated to civic engagement, community development and preserving his presidential legacy.",
+        "tags": [
+            "Barack Obama",
+            "Obama Presidential Center",
+            "Chicago",
+            "Michelle Obama",
+            "Presidential Library",
+            "Jackson Park",
+            "U.S. politics",
+            "civic engagement",
+            "democracy",
+            "South Side Chicago"
+        ]
     },
     {
         "slug": "apple-wwdc-2026-ai-siri-progress",
