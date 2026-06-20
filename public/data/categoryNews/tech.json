@@ -78,23 +78,28 @@
         ]
     },
     {
-        "id": "tech-1",
-        "slug": "intel-arc-g3-handheld-gaming-pcs",
-        "title": "Intel Launches Arc G3 Chips for Handheld Gaming PCs",
+        "id": "tech-uk-ico-resigns-2026",
+        "slug": "uk-data-ai-regulator-john-edwards-resigns",
+        "title": "UK Information Commissioner Quits Following Probe Into Inappropriate Workplace Humour",
         "category": "Tech",
-        "date": "May 29, 2026",
+        "date": "June 20, 2026",
         "author": "Jessica Wu",
         "views": "0k",
         "readTime": "8 Mins",
         "comments": 0,
-        "image": "/images/news/Intel Launches.webp",
-        "excerpt": "Intel unveiled its new Arc G3 processor family designed for handheld gaming PCs, aiming to compete with AMD-powered portable gaming devices.",
+        "image": "/images/news/UK Data and AI Regulator Resigns After Investigation.webp",
+        "excerpt": "UK Information Commissioner John Edwards has resigned after an independent investigation found his workplace conduct fell below expected standards, raising questions about leadership at a critical time for AI regulation.",
         "tags": [
-            "#Intel",
-            "#Arc G3",
-            "#handheld gaming PCs",
-            "#Lunar Lake",
-            "#portable gaming"
+            "John Edwards",
+            "ICO",
+            "AI regulation",
+            "data protection",
+            "UK technology",
+            "workplace misconduct",
+            "artificial intelligence",
+            "privacy law",
+            "Information Commissioner's Office",
+            "UK government"
         ]
     },
     {
