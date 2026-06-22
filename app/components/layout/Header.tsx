@@ -7,12 +7,12 @@ import CurrentDate from './CurrentDate';
 
 export default function Header() {
     const tickerItems = [
-        { title: "Intel Launches Arc G3 Chips for Handheld Gaming PCs", category: "Tech", slug: "intel-arc-g3-handheld-gaming-pcs" },
-        { title: "Graham Platner Controversy Raises Questions Ahead of Maine Primary", category: "Politics", slug: "maine-senate-race-graham-platner-controversy" },
-        { title: "Global Stocks Rise as Iran-Israel Tensions Ease and Chipmakers Lead Rally", category: "Markets", slug: "global-stocks-rise-iran-israel-tensions-chipmakers-rally" },
-        { title: "Google Releases Surprise Android 17 Beta 4.1 Update for Pixel Devices", category: "Tech", slug: "android-17-beta-4-1-pixel-update" },
+        { title: "UK Information Commissioner Quits Following Probe Into Inappropriate Workplace Humour", category: "Tech", slug: "uk-data-ai-regulator-john-edwards-resigns" },
+        { title: "Ryanair CEO Michael O'Leary Signs New Contract With Potential £130M Payout", category: "Business", slug: "michael-oleary-ryanair-contract-extension" },
+        { title: "Investors Pile Into Dollar Bets After Kevin Warsh Signals Tougher Fed Stance", category: "Finance", slug: "dollar-rally-hawkish-fed-warsh-currency-markets-2026" },
+        { title: "Barack Obama Opens Presidential Center on Chicago’s South Side", category: "Politics", slug: "obama-presidential-center-opens-chicago-2026" },
         { title: "Dua Lipa Launches $15 Million Legal Battle Against Samsung", category: "Business", slug: "dua-lipa-samsung-lawsuit-image-rights" },
-        { title: "Democratic National Committee Autopsy Report Blames Strategic Failures for Kamala Harris’s 2024 Defeat", category: "Politics", slug: "dnc-autopsy-report-kamala-harris-2024" }
+        { title: "Global Stocks Rise as Iran-Israel Tensions Ease and Chipmakers Lead Rally", category: "Markets", slug: "global-stocks-rise-iran-israel-tensions-chipmakers-rally" }
     ];
 
     return (
