@@ -44,15 +44,15 @@
     "col2": {
         "hero": {
             "category": "Politics",
-            "title": "John Cornyn Faces Tough Challenge From Trump-Backed Ken Paxton in Texas GOP Runoff",
-            "intro": "Texas Republicans head into a high-profile Senate runoff between John Cornyn and Trump-backed Ken Paxton in a race with major national implications for the GOP.",
+            "title": "US Supreme Court Rules Against Trump on Birthright Citizenship, Reaffirms Constitutional Protections",
+            "intro": "The U.S. Supreme Court has rejected President Donald Trump’s executive order restricting birthright citizenship, reaffirming the 14th Amendment and long-standing precedent granting citizenship to those born on U.S. soil.",
             "author": "Emily Rodriguez",
             "role": "Political Analyst",
-            "date": "May 26, 2026",
-            "contentLeft": "The runoff has become a defining test of Donald Trump's influence inside the Republican Party.",
-            "contentRight": "Cornyn and Paxton are fighting over MAGA loyalty, electability and the future direction of Texas Republican politics.\n\nDemocrats see the bruising primary as a possible opening in November.",
-            "image": "/images/news/John Cornyn Faces.webp",
-            "slug": "texas-senate-runoff-cornyn-paxton-trump"
+            "date": "July 1, 2026",
+            "contentLeft": "The Court Tuesday sided with long-standing precedent that has shaped U.S. citizenship law for more than a century and rejected the administration's attempt to limit citizenship to children born to undocumented immigrants or those on temporary visas.",
+            "contentRight": "In the majority opinion, Chief Justice John Roberts wrote that this principle could only be altered by a constitutional amendment or a completely different legal regime adopted by Congress, not by an executive order.",
+            "image": "/images/news/Supreme Court Rejects Trump Bid to End Birthright Citizenship, Upholds 14th Amendment.webp",
+            "slug": "supreme-court-birthright-citizenship-trump-ruling-2026"
         },
         "bullets": [
             {

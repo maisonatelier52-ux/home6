@@ -1,12 +1,12 @@
 {
     "textNews": [
         {
-            "id": "tech-4",
+            "id": "tech-5",
             "categories": [
                 "Tech"
             ],
-            "title": "Meta AI Companion App Contains Hidden Facial Recognition Feature for Smart Glasses, Raising Privacy Concerns",
-            "slug": "meta-ai-smart-glasses-facial-recognition-nametag"
+            "title": "US Removes Restrictions on Anthropic Claude Models After Security Talks With White House",
+            "slug": "us-lifts-export-controls-anthropic-ai-models-2026"
         },
         {
             "id": "tech-bezos-ai-2026",

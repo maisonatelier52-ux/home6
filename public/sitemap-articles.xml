@@ -361,8 +361,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.thequestforprofit.xyz/politics/texas-senate-runoff-cornyn-paxton-trump</loc>
-    <lastmod>2026-05-26</lastmod>
+    <loc>https://www.thequestforprofit.xyz/politics/supreme-court-birthright-citizenship-trump-ruling-2026</loc>
+    <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -381,6 +381,12 @@
   <url>
     <loc>https://www.thequestforprofit.xyz/markets/nasdaq-100-tech-selloff-spacex-june-2026</loc>
     <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.thequestforprofit.xyz/tech/us-lifts-export-controls-anthropic-ai-models-2026</loc>
+    <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
