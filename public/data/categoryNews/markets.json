@@ -182,27 +182,27 @@
     },
     {
         "id": "mkt-4",
-        "slug": "japan-stock-market-ai-rally",
-        "title": "Nikkei 225 Surges to Historic Peak on Artificial Intelligence Optimism",
+        "slug": "oil-slips-opec-plus-output-global-markets-2026",
+        "title": "OPEC+ Raises Production Targets, Oil Prices Slip and Asian Shares React to Increased Supply",
         "category": "Markets",
-        "date": "June 3, 2026",
+        "date": "July 6, 2026",
         "author": "Sarah Jenkins",
         "views": "11k",
         "readTime": "6 Mins",
         "comments": 40,
-        "image": "/images/news/Japan Stock Market Hits.webp",
-        "excerpt": "Japan’s stock market reached a new all-time high as investors poured money into AI-related technology, semiconductor and industrial manufacturing companies.",
+        "image": "/images/news/Oil Prices Ease as OPEC+ Boosts Output Targets, Influencing Global Markets.webp",
+        "excerpt": "Oil prices declined after OPEC+ agreed to increase production quotas, affecting crude and global equities, while Asian markets remained cautious ahead of corporate earnings releases.",
         "tags": [
-            "Japan",
-            "Nikkei 225",
-            "artificial intelligence",
-            "semiconductors",
-            "technology stocks",
-            "robotics",
+            "oil prices",
+            "OPEC+",
             "global markets",
-            "AI infrastructure",
-            "Wall Street",
-            "chipmakers"
+            "Asian shares",
+            "Brent",
+            "WTI",
+            "energy",
+            "production targets",
+            "crude",
+            "market impact"
         ]
     }
 ]

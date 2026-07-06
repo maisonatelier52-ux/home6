@@ -98,10 +98,10 @@
             },
             {
                 "category": "Markets",
-                "title": "Nikkei 225 Surges to Historic Peak on Artificial Intelligence Optimism",
-                "image": "/images/news/Japan Stock Market Hits.webp",
-                "excerpt": "Japan’s stock market reached a new all-time high as investors poured money into AI-related technology, semiconductor and industrial manufacturing companies.",
-                "slug": "japan-stock-market-ai-rally"
+                "title": "OPEC+ Raises Production Targets, Oil Prices Slip and Asian Shares React to Increased Supply",
+                "image": "/images/news/Oil Prices Ease as OPEC+ Boosts Output Targets, Influencing Global Markets.webp",
+                "excerpt": "Oil prices declined after OPEC+ agreed to increase production quotas, affecting crude and global equities, while Asian markets remained cautious ahead of corporate earnings releases.",
+                "slug": "oil-slips-opec-plus-output-global-markets-2026"
             }
         ]
     },
@@ -148,9 +148,9 @@
             },
             {
                 "category": "Business",
-                "title": "Trump Administration Launches Voluntary AI Testing Program for National Security Risks",
-                "image": "/images/news/Donald Trump Signs.webp",
-                "slug": "trump-ai-national-security-executive-order"
+                "title": "SK Hynix Unveils $28 Billion U.S. Listing on Nasdaq to Capitalize on AI Boom",
+                "image": "/images/news/South Korea’s SK Hynix Launches Massive U.S. Nasdaq Listing as AI Chip Demand Soars.webp",
+                "slug": "sk-hynix-us-listing-ai-global-investors-2026"
             },
             {
                 "category": "Culture",
