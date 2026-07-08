@@ -83,11 +83,11 @@
         },
         "recentPosts": [
             {
-                "title": "Google Slashes AI Plus Pricing and Expands Storage in New Challenge to AI Subscription Rivals",
-                "date": "June 10, 2026",
-                "image": "/images/news/Google Slashes AI Plus Pricing.webp",
+                "title": "Anthropic Brings Claude Cowork AI Agent to Phones and Web Browsers for Always-On Work Automation",
+                "date": "July 8, 2026",
+                "image": "/images/news/Anthropic Expands Claude Cowork to Mobile and Web as AI Agents Move Beyond the Desktop.webp",
                 "category": "Tech",
-                "slug": "google-ai-plus-price-cut-storage-expansion-2026"
+                "slug": "anthropic-claude-cowork-mobile-web-ai-agent-launch-2026"
             },
             {
                 "id": "tech-8",
@@ -157,9 +157,9 @@
         },
         {
             "category": "Finance",
-            "slug": "americans-financial-condition-worse-fed-survey-inflation-concerns",
-            "title": "More Americans Say Their Finances Are Worse Than a Year Ago, Fed Survey Finds",
-            "image": "/images/news/More Americans Say.webp"
+            "slug": "france-cuts-2026-economic-growth-forecast-budget-iran-conflict",
+            "title": "France Lowers 2026 GDP Forecast to 0.7% Amid Budget Uncertainty and Global Energy Shock",
+            "image": "/images/news/France Cuts 2026 Growth Forecast as Budget Delays and Iran Conflict Hit Economy.webp"
         }
     ]
 }
