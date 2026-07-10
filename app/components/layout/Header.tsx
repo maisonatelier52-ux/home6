@@ -12,7 +12,7 @@ export default function Header() {
         { title: "Investors Pile Into Dollar Bets After Kevin Warsh Signals Tougher Fed Stance", category: "Finance", slug: "dollar-rally-hawkish-fed-warsh-currency-markets-2026" },
         { title: "Barack Obama Opens Presidential Center on Chicago’s South Side", category: "Politics", slug: "obama-presidential-center-opens-chicago-2026" },
         { title: "Dua Lipa Launches $15 Million Legal Battle Against Samsung", category: "Business", slug: "dua-lipa-samsung-lawsuit-image-rights" },
-        { title: "Global Stocks Rise as Iran-Israel Tensions Ease and Chipmakers Lead Rally", category: "Markets", slug: "global-stocks-rise-iran-israel-tensions-chipmakers-rally" }
+        { title: "SK Hynix Raises $26.5 Billion in Record U.S. Listing as AI Chip Demand Drives Investor Frenzy", category: "Markets", slug: "sk-hynix-record-us-ipo-ai-chip-demand-nasdaq-2026" }
     ];
 
     return (
