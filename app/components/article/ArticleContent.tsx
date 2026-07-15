@@ -7,6 +7,8 @@ interface ContentBlock {
     hasDropCap?: boolean;
     level?: number;
     image?: string;
+    headers?: string[];
+    rows?: string[][];
 }
 
 interface ArticleBodyProps {
@@ -16,10 +18,10 @@ interface ArticleBodyProps {
 
 export default function ArticleBody({ image, content }: ArticleBodyProps) {
     return (
-        <div className="flex flex-col gap-4 text-gray-700 font-serif leading-relaxed text-[17px]">
+        <div className="max-w-2xl text-gray-800 font-serif leading-[1.8] text-[17px] md:text-lg">
             {/* Feature Image */}
-            <div className="w-full mb-2">
-                <div className="relative w-full h-auto min-h-[300px] md:h-[400px]">
+            <div className="w-full mb-8">
+                <div className="relative w-full h-auto min-h-[300px] md:h-[450px] rounded-sm overflow-hidden shadow-sm">
                     <Image
                         src={image}
                         alt="Article Feature"
@@ -33,7 +35,7 @@ export default function ArticleBody({ image, content }: ArticleBodyProps) {
             {/* Content Rendering */}
             {typeof content === 'string' ? (
                 <div 
-                    className="[&>p]:mb-2 [&>p]:text-sm [&>h2]:text-xl [&>h2]:md:text-2xl [&>h2]:font-bold [&>h2]:text-gray-900 [&>h2]:mt-4 [&>h2]:mb-2 [&>h2]:font-serif [&>blockquote]:border-l-4 [&>blockquote]:border-gray-200 [&>blockquote]:pl-4 [&>blockquote]:md:pl-6 [&>blockquote]:py-1 [&>blockquote]:my-6 [&>blockquote]:italic [&>blockquote]:text-gray-900 [&>blockquote]:font-bold [&>blockquote]:text-base [&>blockquote]:md:text-lg"
+                    className="[&>p]:mb-6 [&>h2]:text-2xl [&>h2]:md:text-3xl [&>h2]:font-bold [&>h2]:text-gray-900 [&>h2]:tracking-tight [&>h2]:mt-10 [&>h2]:mb-4 [&>h2]:font-serif [&>blockquote]:border-l-4 [&>blockquote]:border-gray-300 [&>blockquote]:bg-gray-50 [&>blockquote]:pl-6 [&>blockquote]:py-4 [&>blockquote]:my-8 [&>blockquote]:italic [&>blockquote]:text-gray-900 [&>blockquote]:text-xl [&>blockquote]:tracking-wide"
                     dangerouslySetInnerHTML={{ __html: content }} 
                 />
             ) : (
@@ -41,26 +43,26 @@ export default function ArticleBody({ image, content }: ArticleBodyProps) {
                     switch (block.type) {
                         case 'intro':
                             return (
-                                <p key={index} className="text-lg md:text-xl font-bold text-gray-900 leading-snug mb-2">
+                                <p key={index} className="text-xl md:text-2xl font-bold text-gray-900 leading-relaxed mb-8 tracking-tight">
                                     {block.text}
                                 </p>
                             );
 
                         case 'paragraph':
                             return (
-                                <div key={index} className="mb-0">
+                                <div key={index} className="mb-6">
                                     {block.hasDropCap ? (
-                                        <p className="mb-0 text-sm">
-                                            <span className="float-left text-[30px] md:text-[50px] leading-[45px] md:leading-[70px] font-bold text-black mr-3 mt-[-5px] md:mt-[-15px] font-serif">
+                                        <p>
+                                            <span className="float-left text-6xl leading-[0.8] font-serif font-bold text-gray-900 mr-4 mt-2">
                                                 {block.text?.charAt(0)}
                                             </span>
                                             {block.text?.substring(1)}
                                         </p>
                                     ) : (
-                                        <p className="mb-0 text-sm">{block.text}</p>
+                                        <p>{block.text}</p>
                                     )}
                                     {block.image && (
-                                        <div className="relative w-full h-auto min-h-[250px] md:h-[350px] my-4">
+                                        <div className="relative w-full h-auto min-h-[250px] md:h-[400px] my-8 rounded-sm overflow-hidden shadow-sm">
                                             <Image
                                                 src={block.image}
                                                 alt="Article section image"
@@ -75,24 +77,59 @@ export default function ArticleBody({ image, content }: ArticleBodyProps) {
                         case 'heading':
                             const Level = `h${block.level || 2}` as React.ElementType;
                             const sizes: Record<number, string> = {
-                                1: "text-2xl md:text-3xl",
-                                2: "text-xl md:text-2xl",
+                                1: "text-3xl md:text-4xl",
+                                2: "text-2xl md:text-3xl",
                                 3: "text-xl md:text-2xl",
                                 4: "text-lg md:text-xl",
                                 5: "text-base md:text-lg",
                                 6: "text-sm md:text-base"
                             };
                             return (
-                                <Level key={index} className={`${sizes[block.level || 2]} font-bold text-gray-900 mt-0 mb-0 font-serif`}>
+                                <Level key={index} className={`${sizes[block.level || 2]} font-bold text-gray-900 tracking-tight mt-10 mb-4 font-serif`}>
                                     {block.text}
                                 </Level>
                             );
 
                         case 'quote':
                             return (
-                                <blockquote key={index} className="border-l-4 border-gray-200 pl-4 md:pl-6 py-1 my-6 italic text-gray-900 font-bold text-base md:text-lg">
+                                <blockquote key={index} className="border-l-4 border-red-500 bg-gray-50 pl-6 pr-4 py-6 my-10 italic text-gray-900 text-xl md:text-2xl tracking-wide rounded-r-sm font-semibold shadow-sm">
+                                    <span className="text-4xl text-red-500 leading-none mr-2 font-serif">"</span>
                                     {block.text}
+                                    <span className="text-4xl text-red-500 leading-none ml-2 font-serif">"</span>
                                 </blockquote>
+                            );
+
+                        case 'table':
+                            return (
+                                <div key={index} className="my-10 overflow-x-auto">
+                                    <table className="w-full text-left border-collapse font-sans text-sm">
+                                        {block.headers && (
+                                            <thead className="border-b-2 border-gray-900">
+                                                <tr>
+                                                    {block.headers.map((header, i) => (
+                                                        <th key={i} className={`py-3 ${i === 0 ? 'pr-6' : 'px-6'} text-gray-500 font-semibold uppercase tracking-wider`}>
+                                                            {header}
+                                                        </th>
+                                                    ))}
+                                                </tr>
+                                            </thead>
+                                        )}
+                                        <tbody className="divide-y divide-gray-200 border-b-2 border-gray-900">
+                                            {block.rows?.map((row, rowIndex) => (
+                                                <tr key={rowIndex} className="hover:bg-gray-50 transition-colors">
+                                                    {row.map((cell, cellIndex) => (
+                                                        <td 
+                                                            key={cellIndex} 
+                                                            className={`py-3 ${cellIndex === 0 ? 'pr-6 font-semibold text-gray-900 w-1/3' : 'px-6 text-gray-800 leading-relaxed'}`}
+                                                        >
+                                                            {cell}
+                                                        </td>
+                                                    ))}
+                                                </tr>
+                                            ))}
+                                        </tbody>
+                                    </table>
+                                </div>
                             );
 
                         default:

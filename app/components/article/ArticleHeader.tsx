@@ -37,12 +37,12 @@ export default function ArticleHeader({
 
    
             {/* Title */}
-            <h1 className="text-3xl md:text-4xl lg:text-5xl font-serif font-bold  text-gray-900 leading-tight mb-4">
+            <h1 className="text-3xl md:text-4xl lg:text-5xl font-serif font-bold text-gray-900 tracking-tight leading-tight mt-6 mb-6">
                 {title}
             </h1>
 
             {/* Metadata & Share */}
-            <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 text-[11px] text-gray-400 uppercase font-bold tracking-wider border-b border-gray-200 pb-6">
+            <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 text-xs font-sans text-gray-500 uppercase font-semibold tracking-wider border-b border-gray-200 pb-6">
                 <div className="flex items-center gap-1">
                     <span>{date}</span>
                     <span className="text-gray-400 mx-1">In</span>

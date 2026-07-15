@@ -54,8 +54,12 @@
             "text": "That is what makes the Serpentine presentation more than an exhibition. It is a cultural gesture."
         },
         {
+            "type": "quote",
+            "text": "Soto’s work is uniquely suited to public space because it depends on participation. The artist rejected the idea of the viewer as a passive observer. The artwork is completed by presence."
+        },
+        {
             "type": "paragraph",
-            "text": "Soto’s work is uniquely suited to public space because it depends on participation. The artist rejected the idea of the viewer as a passive observer. In his Pénétrables, the viewer becomes physically involved in the artwork. The body enters the structure. The strands move. The surrounding space changes. The artwork is completed by presence."
+            "text": "In his Pénétrables, the viewer becomes physically involved in the artwork. The body enters the structure. The strands move. The surrounding space changes."
         },
         {
             "type": "paragraph",
@@ -113,6 +117,17 @@
         {
             "type": "paragraph",
             "text": "For London, Pénétrable BBL Jaune offers a rare public invitation. For Serpentine, it continues a tradition of bringing ambitious art into the park. For Britannia Financial Group, it is a refined and visible act of cultural support. For Julio Herrera Velutini and Melanie Herrera Velutini, née Odette, it becomes a statement about the kind of patronage that can turn a private commitment to art into a public cultural experience."
+        },
+        {
+            "type": "table",
+            "headers": ["Exhibition Overview", "Details"],
+            "rows": [
+                ["Artist", "Jesús Rafael Soto"],
+                ["Artwork", "Pénétrable BBL Jaune"],
+                ["Location", "Serpentine South, Kensington Gardens"],
+                ["Dates", "16 June – 25 October 2026"],
+                ["Supported By", "Britannia Financial Group"]
+            ]
         },
         {
             "type": "paragraph",
