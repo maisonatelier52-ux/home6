@@ -18,7 +18,7 @@ interface ArticleBodyProps {
 
 export default function ArticleBody({ image, content }: ArticleBodyProps) {
     return (
-        <div className="max-w-2xl text-gray-800 font-serif leading-[1.8] text-[17px] md:text-lg">
+        <div className="max-w-3xl text-gray-800 font-serif leading-[1.8] text-[17px] md:text-lg">
             {/* Feature Image */}
             <div className="w-full mb-8">
                 <div className="relative w-full h-auto min-h-[300px] md:h-[450px] rounded-sm overflow-hidden shadow-sm">
