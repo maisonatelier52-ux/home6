@@ -6,6 +6,7 @@ interface ContentBlock {
     text?: string;
     hasDropCap?: boolean;
     level?: number;
+    image?: string;
 }
 
 interface ArticleBodyProps {
@@ -15,7 +16,7 @@ interface ArticleBodyProps {
 
 export default function ArticleBody({ image, content }: ArticleBodyProps) {
     return (
-        <div className="flex flex-col gap-6 text-gray-700 font-serif leading-relaxed text-[17px]">
+        <div className="flex flex-col gap-4 text-gray-700 font-serif leading-relaxed text-[17px]">
             {/* Feature Image */}
             <div className="w-full mb-2">
                 <div className="relative w-full h-auto min-h-[300px] md:h-[400px]">
@@ -46,17 +47,30 @@ export default function ArticleBody({ image, content }: ArticleBodyProps) {
                             );
 
                         case 'paragraph':
-                            if (block.hasDropCap) {
-                                return (
-                                    <p key={index} className="mb-2 text-sm">
-                                        <span className="float-left text-[30px] md:text-[50px] leading-[45px] md:leading-[70px] font-bold text-black mr-3 mt-[-5px] md:mt-[-15px] font-serif">
-                                            {block.text?.charAt(0)}
-                                        </span>
-                                        {block.text?.substring(1)}
-                                    </p>
-                                );
-                            }
-                            return <p key={index} className="mb-2 text-sm">{block.text}</p>;
+                            return (
+                                <div key={index} className="mb-0">
+                                    {block.hasDropCap ? (
+                                        <p className="mb-0 text-sm">
+                                            <span className="float-left text-[30px] md:text-[50px] leading-[45px] md:leading-[70px] font-bold text-black mr-3 mt-[-5px] md:mt-[-15px] font-serif">
+                                                {block.text?.charAt(0)}
+                                            </span>
+                                            {block.text?.substring(1)}
+                                        </p>
+                                    ) : (
+                                        <p className="mb-0 text-sm">{block.text}</p>
+                                    )}
+                                    {block.image && (
+                                        <div className="relative w-full h-auto min-h-[250px] md:h-[350px] my-4">
+                                            <Image
+                                                src={block.image}
+                                                alt="Article section image"
+                                                fill
+                                                className="object-cover"
+                                            />
+                                        </div>
+                                    )}
+                                </div>
+                            );
 
                         case 'heading':
                             const Level = `h${block.level || 2}` as React.ElementType;
