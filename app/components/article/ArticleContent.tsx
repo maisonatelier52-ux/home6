@@ -92,7 +92,7 @@ export default function ArticleBody({ image, content }: ArticleBodyProps) {
 
                         case 'quote':
                             return (
-                                <blockquote key={index} className="border-l-4 border-red-300 bg-gray-400 pl-6 pr-4 py-6 my-10 italic text-gray-900 text-xl md:text-2xl tracking-wide rounded-r-sm font-semibold shadow-sm">
+                                <blockquote key={index} className="border-l-4 border-red-300 bg-gray-900 pl-6 pr-4 py-6 my-10 italic text-white text-xl md:text-2xl tracking-wide rounded-r-sm font-semibold shadow-sm">
                                     <span className="text-4xl text-red-500 leading-none mr-2 font-serif">"</span>
                                     {block.text}
                                     <span className="text-4xl text-red-500 leading-none ml-2 font-serif">"</span>
