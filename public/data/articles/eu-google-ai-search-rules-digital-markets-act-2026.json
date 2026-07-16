@@ -1,0 +1,66 @@
+{
+    "id": "tech-uk-ico-resigns-2026",
+    "slug": "eu-google-ai-search-rules-digital-markets-act-2026",
+    "title": "Google Must Share AI and Search Features Under New EU Competition Rules",
+    "category": "Tech",
+    "date": "July 16, 2026",
+    "author": {
+        "name": "Jessica Wu",
+        "role": "Technology Reporter",
+        "postsCount": 145,
+        "image": "/images/authors/jessica.jpg",
+        "bio": "Jessica Wu covers technology, policy, and digital regulation."
+    },
+    "views": "0k",
+    "readTime": "10 Mins",
+    "comments": 0,
+    "image": "/images/news/EU Orders Google to Open Search and AI Services to Rivals.webp",
+    "tags": [
+        "Google",
+        "European Union",
+        "Digital Markets Act",
+        "AI",
+        "Alphabet",
+        "search engine",
+        "artificial intelligence",
+        "competition law",
+        "Android",
+        "Big Tech"
+    ],
+    "excerpt": "The European Union has ordered Google to open key AI and search services to competitors under the Digital Markets Act, marking one of the bloc's biggest actions against Big Tech.",
+    "content": [
+        {
+            "type": "paragraph",
+            "hasDropCap": true,
+            "text": "The European Union has introduced sweeping new competition measures requiring Google to open significant parts of its search and artificial intelligence ecosystem to rival companies, marking one of the strongest regulatory interventions yet under the Digital Markets Act (DMA). The European Commission announced that Alphabet-owned Google will be required to give competing search engines and AI developers access to several core platform features that were previously available only within Google's own ecosystem. Regulators say the new requirements are designed to reduce the dominance of major technology companies while encouraging greater innovation, consumer choice, and competition across Europe's digital economy. The decision represents another milestone in the EU's ongoing effort to reshape how large technology platforms operate within its single market."
+        },
+        {
+            "type": "paragraph",
+            "text": "Under the new rules, Google will have to make eleven important Android features available to qualifying competitors beginning next year. These capabilities include allowing rival AI assistants to perform functions such as making reservations, conducting voice-based searches, accessing system-level services, and interacting more deeply with Android devices. The Commission also ordered Google to provide anonymized search performance data to eligible competitors so they can improve their own search engines and AI systems. Regulators believe that easier access to these resources will reduce barriers for smaller companies attempting to compete against Google's long-established search dominance."
+        },
+        {
+            "type": "paragraph",
+            "text": "The measures form part of the European Union's Digital Markets Act, legislation specifically created to regulate so-called \"gatekeeper\" technology companies that hold significant influence over digital markets. The law targets firms whose platforms have become essential infrastructure for businesses and consumers, requiring them to avoid practices that unfairly disadvantage competitors. Google, alongside companies such as Apple, Meta, Amazon, Microsoft, and ByteDance, has been designated as a gatekeeper under the legislation and is therefore subject to stricter competition requirements than smaller technology firms. The latest action demonstrates the European Commission's determination to actively enforce the new law rather than relying solely on traditional antitrust investigations, which often take years to conclude."
+        },
+        {
+            "type": "paragraph",
+            "text": "European officials argue that artificial intelligence has become too important to allow a small number of companies to control the underlying digital infrastructure. As AI assistants become increasingly integrated into smartphones, search engines, productivity software, and online services, access to operating systems and search data has become a key competitive advantage. The Commission believes that opening Google's ecosystem will allow European startups and international competitors to develop more advanced AI services capable of competing on a more equal footing. Officials also argue that greater competition could accelerate innovation while giving consumers more choices regarding the digital services they use every day."
+        },
+        {
+            "type": "paragraph",
+            "text": "Google has strongly criticized the Commission's decision, warning that mandatory sharing of platform capabilities could create new privacy and cybersecurity risks. The company argues that allowing third-party applications deeper access to Android functions may expose users to malicious software or compromise sensitive personal information if not carefully managed. Google also contends that years of investment in research, engineering, and infrastructure helped build its services and that forcing companies to share key technologies could reduce incentives for future innovation. Despite these concerns, the Commission stated that only approved competitors meeting strict security and privacy requirements will receive access under the new framework. Google will also retain the ability to assess whether individual applications present legitimate cybersecurity risks before granting access."
+        },
+        {
+            "type": "paragraph",
+            "text": "The decision comes at a time when competition in artificial intelligence is accelerating rapidly. Companies including OpenAI, Anthropic, Microsoft, Meta, Amazon, and numerous European startups are racing to build increasingly capable AI assistants capable of handling complex tasks across smartphones, computers, and cloud services. Many of these systems rely on access to operating systems, search capabilities, and user interactions to provide seamless experiences. Regulators fear that if dominant platform owners restrict access to these capabilities, smaller innovators could struggle to compete regardless of the quality of their AI technologies. The Commission believes the Digital Markets Act provides an opportunity to prevent similar competitive imbalances from emerging in the AI era before they become entrenched."
+        },
+        {
+            "type": "paragraph",
+            "text": "The technology industry is closely watching how Google implements the new requirements because the outcome could influence digital regulation far beyond Europe. Governments in the United States, the United Kingdom, Japan, Australia, and several other jurisdictions have introduced or proposed legislation aimed at increasing competition among large technology platforms. If the European model proves successful in encouraging innovation without compromising security, similar regulatory approaches could become more common globally. At the same time, technology companies continue arguing that inconsistent regulations across different countries increase compliance costs and complicate software development for global markets."
+        },
+        {
+            "type": "paragraph",
+            "text": "For consumers, the immediate impact is likely to be gradual rather than dramatic. Most of the required changes will be implemented over the coming months and into next year, allowing competing developers time to build products that take advantage of Google's newly accessible platform features. Over the longer term, however, the Commission hopes the measures will encourage a more competitive digital ecosystem where users have greater choice among AI assistants, search engines, and connected services. As artificial intelligence becomes increasingly central to everyday computing, the EU's latest action signals that regulators intend to ensure the next generation of digital innovation develops within a marketplace shaped not only by technological progress but also by stronger competition and consumer choice."
+        }
+    ]
+}
