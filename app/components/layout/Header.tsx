@@ -5,15 +5,15 @@ import Link from 'next/link';
 import NewsTicker from './NewsTicker';
 import CurrentDate from './CurrentDate';
 
+import allArticles from '@/public/data/all-articles-index.json';
+
 export default function Header() {
-    const tickerItems = [
-        { title: "UK Information Commissioner Quits Following Probe Into Inappropriate Workplace Humour", category: "Tech", slug: "uk-data-ai-regulator-john-edwards-resigns" },
-        { title: "Ryanair CEO Michael O'Leary Signs New Contract With Potential £130M Payout", category: "Business", slug: "michael-oleary-ryanair-contract-extension" },
-        { title: "Investors Pile Into Dollar Bets After Kevin Warsh Signals Tougher Fed Stance", category: "Finance", slug: "dollar-rally-hawkish-fed-warsh-currency-markets-2026" },
-        { title: "Barack Obama Opens Presidential Center on Chicago’s South Side", category: "Politics", slug: "obama-presidential-center-opens-chicago-2026" },
-        { title: "Apollo Launches £5.7 Billion Takeover Offer for easyJet, Outbidding Rivals", category: "Business", slug: "apollo-easyjet-takeover-offer-2026" },
-        { title: "SK Hynix Raises $26.5 Billion in Record U.S. Listing as AI Chip Demand Drives Investor Frenzy", category: "Markets", slug: "sk-hynix-record-us-ipo-ai-chip-demand-nasdaq-2026" }
-    ];
+    const sortedArticles = [...allArticles].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+    const tickerItems = sortedArticles.slice(0, 6).map(article => ({
+        title: article.title,
+        category: article.category,
+        slug: article.slug
+    }));
 
     return (
         <header className="w-full flex flex-col bg-white text-black font-sans max-w-6xl mx-auto">
