@@ -152,28 +152,24 @@
         ]
     },
     {
-        "id": "pol-trump-meloni-2026",
-        "slug": "trump-meloni-feud-iran-g7-2026",
-        "title": "Donald Trump Blasts Giorgia Meloni After Italy Refuses Request Linked to Iran",
+        "id": "pol-mamdani-2026",
+        "slug": "mamdani-pied-a-terre-tax-controversy-2026",
+        "title": "Zohran Mamdani Sparks Controversy with Warning to Wealthy New Yorkers Over Pied à Terre Tax",
         "category": "Politics",
-        "date": "June 22, 2026",
+        "date": "July 27, 2026",
         "author": "Sarah Jenkins",
-        "views": "82k",
-        "readTime": "14 Mins",
-        "comments": 615,
-        "image": "/images/news/Trump Escalates Feud With Italy’s Meloni Over.webp",
-        "excerpt": "President Donald Trump intensified his dispute with Italian Prime Minister Giorgia Meloni, criticizing Italy’s refusal to support U.S. efforts concerning Iran and reviving controversy surrounding their G7 summit interactions.",
+        "views": "0k",
+        "readTime": "10 Mins",
+        "comments": 0,
+        "image": "/images/news/NYC Mayor Mamdani Faces Backlash Over Comments on Wealthy Homeowners and ‘Fair Share’ Taxes.webp",
+        "excerpt": "New York City Mayor Zohran Mamdani’s remarks urging wealthy homeowners to pay a “fair share” in taxes — including on pied à terre properties — have drawn strong criticism and an online backlash from political opponents.",
         "tags": [
-            "Donald Trump",
-            "Giorgia Meloni",
-            "Italy",
-            "Iran",
-            "G7 Summit",
-            "U.S.-Italy relations",
-            "foreign policy",
-            "nuclear threat",
-            "diplomacy",
-            "Truth Social"
+            "Zohran Mamdani",
+            "New York City",
+            "pied a terre tax",
+            "wealth tax",
+            "public backlash",
+            "online controversy"
         ]
     },
     {
@@ -241,12 +237,25 @@
         "date": "July 15, 2026"
     },
     {
-        "slug": "oil-prices-us-strikes-iran-strait-hormuz-energy-markets-2026",
-        "title": "Oil Markets React After U.S. Strikes Iran as Traders Watch Strait of Hormuz Risks",
-        "shortdescription": "Global oil markets reacted after the United States launched fresh strikes against Iran, raising concerns over Middle East tensions, shipping routes, and energy supply risks.",
+        "id": "mkt-oil-pause-2026",
+        "slug": "oil-prices-slide-us-pauses-iran-strikes-2026",
+        "title": "Brent and WTI Slide as U.S.–Iran Tensions Ease; Global Oil Markets React",
         "category": "Markets",
+        "date": "July 27, 2026",
         "author": "Markets Desk",
-        "date": "July 9, 2026"
+        "views": "0k",
+        "readTime": "6 Mins",
+        "comments": 0,
+        "image": "/images/news/Oil Prices Fall Over 5% After U.S. Signals Pause in Strikes on Iran.webp",
+        "excerpt": "Oil prices dropped more than 5% after the United States paused strikes on Iran, easing immediate geopolitical risk and prompting sharp reactions in global energy markets.",
+        "tags": [
+            "oil prices",
+            "Iran",
+            "United States",
+            "Brent crude",
+            "geopolitical risk",
+            "energy markets"
+        ]
     },
     {
         "slug": "samsung-galaxy-card-barclays-us-credit-card-launch-2026",
