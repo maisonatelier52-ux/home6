@@ -39,12 +39,12 @@ export default function NewsSectionThreeCols({ data }: NewsSectionThreeColsProps
                             title={data.sportNews.title}
                             articles={data.sportNews.articles}
                         />
-                        <div className="mt-8 pt-8 border-t border-gray-300">
+                        {/* <div className="mt-8 pt-8 border-t border-gray-300">
                             <HotWeekTopPeoples
                                 title={data.hotWeek.title}
                                 articles={data.hotWeek.articles}
                             />
-                        </div>
+                        </div> */}
                     </div>
 
                     {/* Third Column (1/4 width) */}
