@@ -9,11 +9,11 @@ interface Post {
 }
 
 interface RecentPostsProps {
-    posts?: Post[];
+    posts?: Post[]; // Keep prop to avoid breaking parent components, but ignore it
 }
 
 export default function RecentPosts({ posts = [] }: RecentPostsProps) {
-    const displayPosts = posts.length > 0 ? posts : getSortedArticles().slice(0, 5).map(article => ({
+    const displayPosts = getSortedArticles().slice(0, 5).map(article => ({
         title: article.title,
         category: article.category,
         slug: article.slug
