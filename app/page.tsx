@@ -109,7 +109,7 @@ export default function Home() {
       <div className="max-w-6xl mx-auto ">
 
 
-        <TextNewsGrid items={textNewsData.textNews} />
+        <TextNewsGrid items={dynamicData?.textNews || textNewsData.textNews} />
 
         <FeatureWithSidebar
           hero={featureHome.hero}
@@ -121,14 +121,14 @@ export default function Home() {
         />
         <div className="my-6">
           <Module6Carousel
-            title={module6Data.title}
-            articles={module6Data.articles}
+            title={dynamicData?.module6?.title || module6Data.title}
+            articles={dynamicData?.module6?.articles || module6Data.articles}
           />
         </div>
 
-        <NewsSectionThreeCols data={threeColData} />
+        <NewsSectionThreeCols data={dynamicData?.threeCol || threeColData} />
 
-        <NewsSectionV2 data={newsV2Data} />
+        <NewsSectionV2 data={dynamicData?.newsV2 || newsV2Data} />
 
         <div className=" mb-8 p-4 lg:p-0">
           <h2 className="text-2xl font-bold font-serif text-gray-900 mb-2 uppercase tracking-wide">
@@ -139,7 +139,7 @@ export default function Home() {
           </p>
         </div>
 
-        <NewsSectionFiveCols data={newsFiveColData} />
+        <NewsSectionFiveCols data={dynamicData?.newsFiveCol || newsFiveColData} />
       </div>
 
       <Footer />

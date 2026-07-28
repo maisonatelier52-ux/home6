@@ -89,11 +89,32 @@ export function mapToSidebarItem(fullArticle: any) {
     };
 }
 
+export function mapToColHeroStructure(fullArticle: any) {
+    if (!fullArticle) return null;
+    
+    let intro = fullArticle.excerpt || fullArticle.shortdescription || "";
+    let contentLeft = fullArticle.content?.[0]?.text || intro;
+    let contentRight = fullArticle.content?.[1]?.text || fullArticle.excerptPart2 || "";
+    
+    return {
+        category: fullArticle.category,
+        title: fullArticle.title,
+        intro: intro,
+        author: typeof fullArticle.author === 'string' ? fullArticle.author : fullArticle.author?.name,
+        role: "Editor",
+        date: fullArticle.date,
+        contentLeft: contentLeft,
+        contentRight: contentRight,
+        image: fullArticle.image,
+        slug: fullArticle.slug
+    };
+}
+
 export function getAutomatedHomeData() {
     const sorted = getSortedArticles();
     
     // Fetch full data for top articles and merge with index data (to get shortdescription)
-    const fullArticles = sorted.slice(0, 25).map(item => {
+    const fullArticles = sorted.slice(0, 70).map(item => {
         const full = getFullArticle(item.slug);
         if (!full) return null;
         return { ...full, shortdescription: item.shortdescription };
@@ -149,7 +170,116 @@ export function getAutomatedHomeData() {
         slug: a.slug
     }));
 
+    // 8. Text News (18, 19, 20, 21)
+    const textNews = fullArticles.slice(18, 22).map(a => ({
+        id: a.id || a.slug,
+        categories: [a.category],
+        title: a.title,
+        slug: a.slug
+    }));
+
+    // 9. Module 6 (22 to 29)
+    const module6Articles = fullArticles.slice(22, 30).map(a => ({
+        id: a.id || a.slug,
+        author: typeof a.author === 'string' ? a.author : a.author?.name,
+        date: a.date,
+        title: a.title,
+        slug: a.slug,
+        image: a.image
+    }));
+
+    // 10. Three Col - Hero (30)
+    const threeColHero = mapToColHeroStructure(fullArticles[30]);
+
+    // 11. Three Col - SportNews (31 to 34)
+    const threeColSportNews = fullArticles.slice(31, 35).map(a => ({
+        category: a.category,
+        title: a.title,
+        excerpt: a.excerpt || a.shortdescription,
+        slug: a.slug
+    }));
+
+    // 12. Three Col - Coronavirus (35 to 38)
+    const threeColTimeline = fullArticles.slice(35, 39).map(a => ({
+        time: a.date,
+        title: a.title,
+        slug: a.slug,
+        category: a.category
+    }));
+
+    // 13. Three Col - Culture (39 to 41)
+    const threeColCulture = fullArticles.slice(39, 42).map(a => ({
+        category: a.category,
+        title: a.title,
+        image: a.image,
+        excerpt: a.excerpt || a.shortdescription,
+        slug: a.slug
+    }));
+
+    // 14. Three Col - Module15 (42 to 45)
+    const threeColModule15 = fullArticles.slice(42, 46).map(a => ({
+        slug: a.slug,
+        title: a.title,
+        image: a.image
+    }));
+
+    // 15. Three Col - HotWeek (46 to 48)
+    const threeColHotWeek = fullArticles.slice(46, 49).map(a => ({
+        category: a.category,
+        title: a.title,
+        image: a.image,
+        slug: a.slug
+    }));
+
+    // 16. News V2 - Col1 (49 to 53)
+    const newsV2Col1 = fullArticles.slice(49, 54).map(a => ({
+        category: a.category,
+        title: a.title,
+        excerpt: a.excerpt || a.shortdescription,
+        slug: a.slug
+    }));
+
+    // 17. News V2 - Col2 Hero (54)
+    const newsV2Col2Hero = mapToColHeroStructure(fullArticles[54]);
+
+    // 18. News V2 - Col2 Bullets (55 to 57)
+    const newsV2Col2Bullets = fullArticles.slice(55, 58).map(a => ({
+        title: a.title,
+        category: a.category,
+        slug: a.slug
+    }));
+
+    // 19. News V2 - Col3 Hero (58)
+    const newsV2Col3Hero = mapToColHeroStructure(fullArticles[58]);
+
+    // 20. News Five Col (59 to 66)
+    const newsFiveCol2 = fullArticles.slice(59, 61).map(a => ({
+        category: a.category,
+        title: a.title,
+        excerpt: a.excerpt || a.shortdescription,
+        slug: a.slug
+    }));
+    const newsFiveCol3 = fullArticles.slice(61, 63).map(a => ({
+        category: a.category,
+        title: a.title,
+        excerpt: a.excerpt || a.shortdescription,
+        slug: a.slug
+    }));
+    const newsFiveCol4 = fullArticles.slice(63, 65).map(a => ({
+        category: a.category,
+        title: a.title,
+        excerpt: a.excerpt || a.shortdescription,
+        slug: a.slug
+    }));
+    const newsFiveCol5 = fullArticles.slice(65, 67).map(a => ({
+        category: a.category,
+        title: a.title,
+        excerpt: a.excerpt || a.shortdescription,
+        slug: a.slug
+    }));
+
     return {
+        textNews: textNews,
         featureHome: {
             hero,
             sidebar,
@@ -186,6 +316,84 @@ export function getAutomatedHomeData() {
                 title: { red: "Policy", rest: "BRIEFINGS" },
                 articles: sidebarModuleList
             }
+        },
+        module6: {
+            title: { red: "Wealth", rest: "INSIGHTS" },
+            articles: module6Articles
+        },
+        threeCol: {
+            hero: threeColHero,
+            sportNews: {
+                title: { red: "Market", rest: "MOVERS & SHAKERS" },
+                articles: threeColSportNews
+            },
+            coronavirus: {
+                title: { red: "Latest", rest: "HEADLINES" },
+                description: "Stay updated with real-time alerts from our global newsroom tracking the most significant economic shifts.",
+                timeline: threeColTimeline
+            },
+            culture: {
+                title: { red: "Business", rest: "INTELLIGENCE" },
+                articles: threeColCulture
+            },
+            module15: {
+                title: { red: "Wealth", rest: "MANAGEMENT" },
+                description: "Strategies for capital preservation and high-alpha returns in a volatile global economy.",
+                articles: threeColModule15
+            },
+            hotWeek: {
+                title: { red: "Top", rest: "STORIES" },
+                articles: threeColHotWeek
+            }
+        },
+        newsV2: {
+            sectionHeader: {
+                title: "Finance & Economics",
+                subtitle: "Global wealth management and monetary policy analysis."
+            },
+            col1: {
+                title: { red: "Finance", rest: "WATCH" },
+                articles: newsV2Col1
+            },
+            col2: {
+                hero: newsV2Col2Hero,
+                bullets: newsV2Col2Bullets
+            },
+            col3: {
+                hero: newsV2Col3Hero
+            }
+        },
+        newsFiveCol: {
+            sectionHeader: {
+                title: "Technology & Innovation",
+                subtitle: "Tracking the cutting edge of human progress."
+            },
+            columns: [
+                {
+                    type: "image",
+                    image: fullArticles[67]?.image || "/images/news/tech-5.1.jpg"
+                },
+                {
+                    type: "articles",
+                    header: { red: "MEDIA", rest: "ACQUISITION" },
+                    articles: newsFiveCol2
+                },
+                {
+                    type: "articles",
+                    header: { red: "SAFE", rest: "HAVENS" },
+                    articles: newsFiveCol3
+                },
+                {
+                    type: "articles",
+                    header: { red: "NATURE", rest: "FRONTIERS" },
+                    articles: newsFiveCol4
+                },
+                {
+                    type: "articles",
+                    header: { red: "CLIMATE", rest: "RESToration" },
+                    articles: newsFiveCol5
+                }
+            ]
         }
     };
 }
