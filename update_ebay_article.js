@@ -6,7 +6,7 @@ const articlesDir = path.join(dataDir, 'articles');
 const indexFile = path.join(dataDir, 'all-articles-index.json');
 const sitemapFile = path.join(__dirname, 'public', 'sitemap-articles.xml');
 
-const oldSlug = 'britannia-financial-group-supports-soto-serpentine-public-art';
+const oldSlug = 'shell-profits-double-oil-prices-iran-war-q2-2026';
 const newSlug = 'ebay-56-million-settlement-blogger-harassment-lawsuit-2026';
 
 const newArticle = {
