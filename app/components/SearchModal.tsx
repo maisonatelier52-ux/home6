@@ -41,9 +41,9 @@ const SearchModal: React.FC<SearchModalProps> = ({ isOpen, onClose }) => {
 
         const filtered = allArticles
             .filter((article) =>
-                article.title.toLowerCase().includes(query.toLowerCase()) ||
-                article.shortdescription.toLowerCase().includes(query.toLowerCase()) ||
-                article.category.toLowerCase().includes(query.toLowerCase())
+                (article.title?.toLowerCase() || '').includes(query.toLowerCase()) ||
+                (article.shortdescription?.toLowerCase() || '').includes(query.toLowerCase()) ||
+                (article.category?.toLowerCase() || '').includes(query.toLowerCase())
             )
             .slice(0, 6); // Show max 6 results
 
