@@ -59,7 +59,7 @@ export default function ArticleBody({ image, content }: ArticleBodyProps) {
                                             {block.text?.substring(1)}
                                         </p>
                                     ) : (
-                                        <p>{block.text}</p>
+                                        <p className='text-[16px]'>{block.text}</p>
                                     )}
                                     {block.image && (
                                         <div className="relative w-full h-auto min-h-[250px] md:h-[400px] my-8 rounded-sm overflow-hidden shadow-sm">
@@ -78,8 +78,8 @@ export default function ArticleBody({ image, content }: ArticleBodyProps) {
                             const Level = `h${block.level || 2}` as React.ElementType;
                             const sizes: Record<number, string> = {
                                 1: "text-3xl md:text-4xl",
-                                2: "text-2xl md:text-3xl",
-                                3: "text-xl md:text-2xl",
+                                2: "text-lg md:text-2xl",
+                                3: "text-xl md:text-xl",
                                 4: "text-lg md:text-xl",
                                 5: "text-base md:text-lg",
                                 6: "text-sm md:text-base"
