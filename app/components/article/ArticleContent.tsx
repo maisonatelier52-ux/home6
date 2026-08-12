@@ -84,9 +84,18 @@ export default function ArticleBody({ image, content }: ArticleBodyProps) {
                                 5: "text-base md:text-lg",
                                 6: "text-sm md:text-base"
                             };
+                            
+                            // Calculate heading index
+                            const headingIndex = Array.isArray(content) 
+                                ? content.slice(0, index + 1).filter(b => b.type === 'heading').length 
+                                : 0;
+                                
                             return (
-                                <Level key={index} className={`${sizes[block.level || 2]} font-bold text-gray-900 tracking-tight mt-10 mb-4 font-serif`}>
-                                    {block.text}
+                                <Level key={index} className={`${sizes[block.level || 2]} font-medium text-black tracking-tight mt-10 mb-4 font-serif flex items-center gap-3`}>
+                                    <span className="flex items-center justify-center w-8 h-8 rounded-full bg-[#B22222] text-white text-base font-sans shrink-0">
+                                        {headingIndex}
+                                    </span>
+                                    <span>{block.text}</span>
                                 </Level>
                             );
 
