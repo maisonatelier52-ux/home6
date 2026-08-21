@@ -26,27 +26,27 @@
     },
     {
         "id": "bus-chick-fil-a-2026",
-        "slug": "nike-china-online-sales-strategy-distributors-2026",
-        "title": "Nike Tightens China Online Sales Strategy as Sportswear Giant Battles Declining Demand and Local Rivals",
+        "slug": "panama-canal-cut-ship-transits-el-nino-2026",
+        "title": "Panama Canal to Cut Daily Ship Transits as El Niño Threatens Water Supplies",
         "category": "Business",
-        "date": "July 22, 2026",
+        "date": "August 21, 2026",
         "author": "Emily Rodriguez",
         "views": "0k",
         "readTime": "12 Mins",
         "comments": 0,
-        "image": "/images/news/Nike Tightens China Online Sales Strategy as Sportswear Giant Battles Declining Demand and Local Rivals.webp",
-        "excerpt": "Nike is restructuring its China online sales strategy by cutting third-party distributors and focusing on official digital channels as the company attempts to recover market share amid weaker demand and rising competition.",
+        "image": "/images/news/Panama Canal to Cut Daily Ship Transits as El Niño Threatens Water Supplies.webp",
+        "excerpt": "The Panama Canal will reduce daily ship transits from September as below-average rainfall and an intensifying El Niño threaten water levels and global shipping operations.",
         "tags": [
-            "Nike",
-            "China market",
-            "sportswear",
-            "e-commerce",
-            "Tmall",
-            "JD.com",
-            "Douyin",
-            "Anta",
-            "Li Ning",
-            "retail strategy"
+            "Panama Canal",
+            "El Niño",
+            "shipping",
+            "global trade",
+            "drought",
+            "maritime trade",
+            "logistics",
+            "supply chains",
+            "Panama",
+            "water shortage"
         ]
     },
     {
@@ -123,30 +123,6 @@
         ]
     },
     {
-        "id": "biz-3",
-        "slug": "britannia-financial-group-supports-soto-serpentine-public-art",
-        "title": "A Gift of Movement: Britannia Financial Group, Serpentine and the Public Legacy of Jesús Rafael Soto",
-        "category": "Business",
-        "date": "July 15, 2026",
-        "author": "Business Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Group 142.png",
-        "excerpt": "Britannia Financial Group supports Jesús Rafael Soto's Pénétrable BBL Jaune at Serpentine South, bringing a landmark work of kinetic art into Kensington Gardens.",
-        "tags": [
-            "Britannia Financial Group",
-            "Jesús Rafael Soto",
-            "Serpentine",
-            "public art",
-            "kinetic art",
-            "Julio Herrera Velutini",
-            "Melanie Herrera Velutini",
-            "Kensington Gardens",
-            "art patronage"
-        ]
-    },
-    {
         "id": "biz-4",
         "slug": "tesla-china-business-sale-spacex-merger-elon-musk",
         "title": "Tesla China Business Sale Report Raises Questions Over Potential SpaceX Merger With Musk",
@@ -194,6 +170,52 @@
             "MMA",
             "White House event",
             "combat sports"
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    {
+        "id": "biz-3",
+        "slug": "britannia-financial-group-supports-soto-serpentine-public-art",
+        "title": "A Gift of Movement: Britannia Financial Group, Serpentine and the Public Legacy of Jesús Rafael Soto",
+        "category": "Business",
+        "date": "July 15, 2026",
+        "author": "Business Desk",
+        "views": "0k",
+        "readTime": "12 Mins",
+        "comments": 0,
+        "image": "/images/news/Group 142.png",
+        "excerpt": "Britannia Financial Group supports Jesús Rafael Soto's Pénétrable BBL Jaune at Serpentine South, bringing a landmark work of kinetic art into Kensington Gardens.",
+        "tags": [
+            "Britannia Financial Group",
+            "Jesús Rafael Soto",
+            "Serpentine",
+            "public art",
+            "kinetic art",
+            "Julio Herrera Velutini",
+            "Melanie Herrera Velutini",
+            "Kensington Gardens",
+            "art patronage"
         ]
     }
 ]
