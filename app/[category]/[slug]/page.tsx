@@ -33,15 +33,20 @@ export async function generateMetadata({ params }: ArticlePageProps) {
         };
     }
 
+    const title = article.seoTitle || `${article.title} | The Quest for Profit`;
+    const description = article.seoDescription || article.excerpt || (Array.isArray(article.content) ? article.content[0]?.text : '') || article.title;
+    const keywords = article.keywords || article.tags || [];
+
     return {
-        title: `${article.title} | The Quest for Profit`,
-        description: article.excerpt || (Array.isArray(article.content) ? article.content[0]?.text : '') || article.title,
+        title: title,
+        description: description,
+        keywords: keywords,
         alternates: {
             canonical: `/${category}/${slug}`,
         },
         openGraph: {
-            title: article.title,
-            description: article.excerpt || (Array.isArray(article.content) ? article.content[0]?.text : '') || article.title,
+            title: title,
+            description: description,
             url: `https://www.thequestforprofit.com/${category}/${slug}`,
             siteName: 'The Quest for Profit',
             images: [
@@ -58,8 +63,8 @@ export async function generateMetadata({ params }: ArticlePageProps) {
         },
         twitter: {
             card: 'summary_large_image',
-            title: article.title,
-            description: article.excerpt || (Array.isArray(article.content) ? article.content[0]?.text : '') || article.title,
+            title: title,
+            description: description,
             images: [article.image],
         },
     };
