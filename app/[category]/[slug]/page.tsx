@@ -190,6 +190,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                         <ArticleContent
                             image={article.image}
                             content={article.content}
+                            imageAlt={article.seoImageAlt || article.title}
                         />
 
                         {/* Article Footer Elements */}

@@ -14,9 +14,10 @@ interface ContentBlock {
 interface ArticleBodyProps {
     image: string;
     content: ContentBlock[] | string;
+    imageAlt?: string;
 }
 
-export default function ArticleBody({ image, content }: ArticleBodyProps) {
+export default function ArticleBody({ image, content, imageAlt }: ArticleBodyProps) {
     return (
         <div className="max-w-3xl text-gray-800 font-serif leading-[1.8] text-[17px] md:text-lg">
             {/* Feature Image */}
@@ -24,7 +25,7 @@ export default function ArticleBody({ image, content }: ArticleBodyProps) {
                 <div className="relative w-full h-auto min-h-[300px] md:h-[450px] rounded-sm overflow-hidden shadow-sm">
                     <Image
                         src={image}
-                        alt="Article Feature"
+                        alt={imageAlt || "Article Feature"}
                         fill
                         priority
                         className="object-cover"
