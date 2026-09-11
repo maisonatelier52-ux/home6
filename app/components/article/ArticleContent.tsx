@@ -57,10 +57,10 @@ export default function ArticleBody({ image, content, imageAlt }: ArticleBodyPro
                                             <span className="float-left text-6xl leading-[0.8] font-serif font-bold text-gray-900 mr-4 mt-2">
                                                 {block.text?.charAt(0)}
                                             </span>
-                                            {block.text?.substring(1)}
+                                            <span dangerouslySetInnerHTML={{ __html: block.text?.substring(1) || '' }} />
                                         </p>
                                     ) : (
-                                        <p className='text-[16px]'>{block.text}</p>
+                                        <p className='text-[16px]' dangerouslySetInnerHTML={{ __html: block.text || '' }} />
                                     )}
                                     {block.image && (
                                         <div className="relative w-full h-auto min-h-[250px] md:h-[400px] my-8 rounded-sm overflow-hidden shadow-sm">
