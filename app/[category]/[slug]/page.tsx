@@ -42,19 +42,19 @@ export async function generateMetadata({ params }: ArticlePageProps) {
         description: description,
         keywords: keywords,
         alternates: {
-            canonical: `/${category}/${slug}`,
+            canonical: `https://www.thequestforprofit.xyz/${category}/${slug}`,
         },
         openGraph: {
             title: title,
             description: description,
-            url: `https://www.thequestforprofit.com/${category}/${slug}`,
+            url: `https://www.thequestforprofit.xyz/${category}/${slug}`,
             siteName: 'The Quest for Profit',
             images: [
                 {
                     url: article.image,
                     width: 1200,
                     height: 630,
-                    alt: article.title,
+                    alt: article.seoImageAlt || article.title,
                 },
             ],
             type: 'article',
