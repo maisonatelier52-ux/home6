@@ -241,7 +241,6 @@
     "articleType": "Analysis & context",
     "author": "The Quest for Profit"
   },
-  
   {
     "id": "biz-2",
     "slug": "ai-regulatory-alignment-global",
@@ -266,58 +265,31 @@
   },
   {
     "id": "biz-3",
-    "slug": "remote-work-productivity-debate",
-    "date": "January 3, 2026",
+    "slug": "dangote-refinery-ipo-nigerians-share-buying-frenzy-2026",
+    "date": "September 18, 2026",
     "category": "Business",
     "categories": [
       "Business"
     ],
-    "title": "The Great Remote Work Productivity Debate Intensifies",
-    "image": "/images/illustrations/remote-work-productivity-debate.webp",
-    "excerpt": "New data from major tech firms reveals conflicting results regarding productivity and innovation in hybrid versus fully remote environments, fueling a fierce debate in corporate boardrooms.",
+    "title": "Dangote Refinery IPO Sparks Share-Buying Frenzy as Nigerians Rush to Own Oil Wealth",
+    "image": "/images/illustrations/dangote-refinery-ipo-nigerians-share-buying-frenzy-2026.webp",
+    "excerpt": "Nigerians are rushing to buy Dangote Refinery shares in Africa's biggest IPO, with low entry costs fueling a nationwide retail-investor frenzy.",
     "tags": [
-      "Remote Work",
-      "Management",
-      "Culture",
-      "HR"
+      "Dangote Refinery",
+      "Aliko Dangote",
+      "Nigeria IPO",
+      "Stock Market",
+      "Oil Industry",
+      "African Markets",
+      "Retail Investors",
+      "Nigerian Exchange",
+      "Energy",
+      "Investing"
     ],
-    "readTime": "2 min read",
+    "readTime": "6 min read",
     "articleType": "Analysis & context",
     "author": "The Quest for Profit"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
   {
     "id": "biz-3",
     "slug": "britannia-financial-group-supports-soto-serpentine-public-art",
