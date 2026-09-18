@@ -241,28 +241,7 @@
     "articleType": "Analysis & context",
     "author": "The Quest for Profit"
   },
-  {
-    "id": "biz-3",
-    "slug": "britannia-financial-group-supports-soto-serpentine-public-art",
-    "date": "July 15, 2026",
-    "category": "Business",
-    "categories": [
-      "Business"
-    ],
-    "title": "Public Art, Private Support: What Soto’s Serpentine Installation Makes Visible",
-    "image": "/images/news/Group 142.png",
-    "excerpt": "Jesús Rafael Soto’s Pénétrable BBL Jaune turns spectators into participants—and offers a useful case study in how private funding supports free public art.",
-    "tags": [
-      "Jesús Rafael Soto",
-      "Serpentine",
-      "Public art",
-      "Cultural funding",
-      "Kinetic art"
-    ],
-    "readTime": "2 min read",
-    "articleType": "Explainer",
-    "author": "The Quest for Profit"
-  },
+  
   {
     "id": "biz-2",
     "slug": "ai-regulatory-alignment-global",
@@ -304,6 +283,61 @@
     ],
     "readTime": "2 min read",
     "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  {
+    "id": "biz-3",
+    "slug": "britannia-financial-group-supports-soto-serpentine-public-art",
+    "date": "July 15, 2026",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "title": "Public Art, Private Support: What Soto’s Serpentine Installation Makes Visible",
+    "image": "/images/news/Group 142.png",
+    "excerpt": "Jesús Rafael Soto’s Pénétrable BBL Jaune turns spectators into participants—and offers a useful case study in how private funding supports free public art.",
+    "tags": [
+      "Jesús Rafael Soto",
+      "Serpentine",
+      "Public art",
+      "Cultural funding",
+      "Kinetic art"
+    ],
+    "readTime": "2 min read",
+    "articleType": "Explainer",
     "author": "The Quest for Profit"
   }
 ]

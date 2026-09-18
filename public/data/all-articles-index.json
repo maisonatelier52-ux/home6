@@ -256,12 +256,32 @@
     "date": "August 3, 2026"
   },
   {
-    "slug": "south-korea-kospi-rebound-samsung-sk-hynix-ai-chip-stocks",
-    "title": "South Korea’s KOSPI Surges as Samsung and SK Hynix Lead Record AI Chip Recovery",
-    "shortdescription": "South Korea’s KOSPI recorded a historic rebound as Samsung Electronics and SK Hynix shares surged, driven by renewed confidence in AI demand and semiconductor growth.",
+    "id": "mkt-1",
+    "slug": "japan-bank-of-japan-rate-hike-1-25-inflation-september-2026",
+    "date": "September 18, 2026",
     "category": "Markets",
-    "author": "The Quest for Profit",
-    "date": "July 31, 2026"
+    "categories": [
+      "Markets"
+    ],
+    "title": "Bank of Japan Raises Interest Rate to 1.25% as Inflation Risks Grow",
+    "image": "/images/illustrations/japan-bank-of-japan-rate-hike-1-25-inflation-september-2026.webp",
+    "excerpt": "The Bank of Japan raises its policy rate to 1.25%, a 31-year high, as rising prices, oil costs and yen weakness increase inflation risks.",
+    "tags": [
+      "Japan",
+      "Bank of Japan",
+      "BOJ",
+      "Interest Rates",
+      "Yen",
+      "Inflation",
+      "Japanese Economy",
+      "Nikkei",
+      "JGBs",
+      "Monetary Policy",
+      "Global Markets"
+    ],
+    "readTime": "6 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
   },
   {
     "slug": "burnham-no-scope-increase-borrowing-think-tank-warning-2026",
