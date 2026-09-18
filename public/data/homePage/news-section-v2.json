@@ -1,89 +1,89 @@
 {
-    "sectionHeader": {
-        "title": "Finance & Economics",
-        "subtitle": "Global wealth management and monetary policy analysis."
+  "sectionHeader": {
+    "title": "Finance & Economics",
+    "subtitle": "Global wealth management and monetary policy analysis."
+  },
+  "col1": {
+    "title": {
+      "red": "Finance",
+      "rest": "WATCH"
     },
-    "col1": {
-        "title": {
-            "red": "Finance",
-            "rest": "WATCH"
-        },
-        "articles": [
-            {
-                "category": "Culture",
-                "title": "The Metaverse Migration: Digital Festivals in 2026",
-                "excerpt": "In 2026, the line between physical and digital culture has blurred as digital festivals go mainstream.",
-                "slug": "metaverse-festivals-culture-2026"
-            },
-            {
-                "category": "Culture",
-                "title": "Restitution and Reconciliation: Global Museum Reform",
-                "excerpt": "A historic international agreement in 2026 has set the stage for massive restitution of artifacts.",
-                "slug": "global-museum-reform-restitution-2026"
-            },
-            {
-                "category": "Finance",
-                "title": "Stock Market Today: Dow, S&P 500, Nasdaq Swing as Tech Stocks Trigger Global Market Volatility",
-                "excerpt": "Global equities ended mixed as tech-driven volatility weighed on U.S. indexes, while Asian markets prepared for a choppy open amid uncertain investor sentiment.",
-                "slug": "stock-market-today-tech-volatility-wall-street-asia-choppy-open-2026"
-            },
-            {
-                "category": "Finance",
-                "title": "US Dollar Struggles Despite Rising Fed Rate Hike Bets as Yen and Euro Gain",
-                "excerpt": "The US dollar is struggling despite rising expectations of a September Fed rate hike as yen strength, ECB tightening and global inflation risks limit its advantage.",
-                "slug": "dollar-struggles-fed-rate-hike-expectations-september-2026"
-            },
-            {
-                "category": "Finance",
-                "title": "Investors Pile Into Dollar Bets After Kevin Warsh Signals Tougher Fed Stance",
-                "excerpt": "Investors are increasing bullish bets on the U.S. dollar after Federal Reserve Chair Kevin Warsh signaled a more hawkish policy approach, prompting markets to reconsider interest-rate expectations.",
-                "slug": "dollar-rally-hawkish-fed-warsh-currency-markets-2026"
-            }
-        ]
+    "articles": [
+      {
+        "category": "Culture",
+        "title": "What Digital Festivals Can—and Cannot—Replace",
+        "excerpt": "Virtual events can widen access and enable new forms of performance, but they do not erase the social, economic or technical value of gathering in person.",
+        "slug": "metaverse-festivals-culture-2026"
+      },
+      {
+        "category": "Culture",
+        "title": "Museum Restitution: The Legal and Ethical Tests That Matter",
+        "excerpt": "Restitution decisions turn on provenance, the circumstances of removal, present law and the claims of source communities—not slogans alone.",
+        "slug": "global-museum-reform-restitution-2026"
+      },
+      {
+        "category": "Finance",
+        "title": "Trump Targets Canadian Companies as US-Canada Trade War Escalates",
+        "excerpt": "Trump has ordered US agencies to remove Canadian-origin products from federal purchasing schedules, escalating the trade war beyond tariffs.",
+        "slug": "trump-canadian-firms-us-government-contracts-trade-war-2026"
+      },
+      {
+        "category": "Finance",
+        "title": "US Dollar Struggles Despite Rising Fed Rate Hike Bets as Yen and Euro Gain",
+        "excerpt": "The US dollar is struggling despite rising expectations of a September Fed rate hike as yen strength, ECB tightening and global inflation risks limit its advantage.",
+        "slug": "dollar-struggles-fed-rate-hike-expectations-september-2026"
+      },
+      {
+        "category": "Finance",
+        "title": "Netherlands Moves 86 Tonnes of Gold to London Amid Rising Geopolitical Risks",
+        "excerpt": "The Dutch central bank has moved 86 tonnes of gold from New York and Ottawa to London, saying the relocation will make its reserves easier to trade and deploy during a crisis.",
+        "slug": "netherlands-gold-moved-london-crisis-preparedness-2026"
+      }
+    ]
+  },
+  "col2": {
+    "hero": {
+      "category": "Politics",
+      "title": "US Supreme Court Rules Against Trump on Birthright Citizenship, Reaffirms Constitutional Protections",
+      "intro": "The U.S. Supreme Court has rejected President Donald Trump’s executive order restricting birthright citizenship, reaffirming the 14th Amendment and long-standing precedent granting citizenship to those born on U.S. soil.",
+      "author": "The Quest for Profit",
+      "role": "Political Analyst",
+      "date": "July 1, 2026",
+      "contentLeft": "The Court Tuesday sided with long-standing precedent that has shaped U.S. citizenship law for more than a century and rejected the administration's attempt to limit citizenship to children born to undocumented immigrants or those on temporary visas.",
+      "contentRight": "In the majority opinion, Chief Justice John Roberts wrote that this principle could only be altered by a constitutional amendment or a completely different legal regime adopted by Congress, not by an executive order.",
+      "image": "/images/illustrations/supreme-court-birthright-citizenship-trump-ruling-2026.webp",
+      "slug": "supreme-court-birthright-citizenship-trump-ruling-2026"
     },
-    "col2": {
-        "hero": {
-            "category": "Politics",
-            "title": "US Supreme Court Rules Against Trump on Birthright Citizenship, Reaffirms Constitutional Protections",
-            "intro": "The U.S. Supreme Court has rejected President Donald Trump’s executive order restricting birthright citizenship, reaffirming the 14th Amendment and long-standing precedent granting citizenship to those born on U.S. soil.",
-            "author": "Emily Rodriguez",
-            "role": "Political Analyst",
-            "date": "July 1, 2026",
-            "contentLeft": "The Court Tuesday sided with long-standing precedent that has shaped U.S. citizenship law for more than a century and rejected the administration's attempt to limit citizenship to children born to undocumented immigrants or those on temporary visas.",
-            "contentRight": "In the majority opinion, Chief Justice John Roberts wrote that this principle could only be altered by a constitutional amendment or a completely different legal regime adopted by Congress, not by an executive order.",
-            "image": "/images/news/Supreme Court Rejects Trump Bid to End Birthright Citizenship, Upholds 14th Amendment.webp",
-            "slug": "supreme-court-birthright-citizenship-trump-ruling-2026"
-        },
-        "bullets": [
-            {
-                "title": "UFC Freedom 250 White House Event Lost $30 Million as TKO Reveals High Production Costs",
-                "category": "Business",
-                "slug": "ufc-freedom-250-white-house-event-30-million-loss"
-            },
-            {
-                "title": "The Subtle Art of Cultural Expression in Modern Era",
-                "category": "Culture",
-                "slug": "subtle-art-cultural-expression"
-            },
-            {
-                "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
-                "category": "Culture",
-                "slug": "timmediately-quail-was-inverse"
-            }
-        ]
-    },
-    "col3": {
-        "hero": {
-            "category": "CULTURE",
-            "title": "Traditional Music in the Heart of Globalized World",
-            "intro": "In an increasingly connected world, traditional music faces both challenges and opportunities.",
-            "author": "Maxin Dalton",
-            "role": "Culture Blogger",
-            "date": "Jan 14, 2026",
-            "contentLeft": "Globalization can lead to the homogenization of sound, but also provides new platforms for regional artists.",
-            "contentRight": "New digital archives are preserving ancient melodies for the 2020s generation.\n\nMusic festivals are seeing a revival of ethnic genres.",
-            "image": "/images/oldmen.webp",
-            "slug": "traditional-music-globalized-world"
-        }
+    "bullets": [
+      {
+        "title": "US-Venezuela Oil Deal Gives American-Led Group 100-Year Access to 65 Billion Barrels",
+        "category": "Business",
+        "slug": "us-venezuela-oil-deal-65-billion-barrels-2026"
+      },
+      {
+        "title": "How Cultural Traditions Change Without Disappearing",
+        "category": "Culture",
+        "slug": "subtle-art-cultural-expression"
+      },
+      {
+        "title": "How Seasonal Change Shapes Quail Habitat",
+        "category": "Nature",
+        "slug": "timmediately-quail-was-inverse"
+      }
+    ]
+  },
+  "col3": {
+    "hero": {
+      "category": "Culture",
+      "title": "How Traditional Music Travels Without Losing Its Roots",
+      "intro": "In an increasingly connected world, traditional music faces both challenges and opportunities.",
+      "author": "The Quest for Profit",
+      "role": "Culture Blogger",
+      "date": "January 14, 2026",
+      "contentLeft": "Globalization can lead to the homogenization of sound, but also provides new platforms for regional artists.",
+      "contentRight": "New digital archives are preserving ancient melodies for the 2020s generation.\n\nMusic festivals are seeing a revival of ethnic genres.",
+      "image": "/images/illustrations/traditional-music-globalized-world.webp",
+      "slug": "traditional-music-globalized-world"
     }
+  }
 }

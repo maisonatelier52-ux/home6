@@ -1,199 +1,242 @@
 [
-    {
-        "id": "tech-meta-ai-chip-2026",
-        "slug": "ai-global-economic-downturn-andrew-bailey-g20-warning-2026",
-        "title": "Bank of England Chief Warns AI Market Crash Could Spread Across Global Economy",
-        "category": "Tech",
-        "date": "September 1, 2026",
-        "author": "Tech Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/AI could cause global economic downturn, Andrew Bailey warns G20.webp",
-        "excerpt": "Bank of England Governor Andrew Bailey has warned G20 finance chiefs that an AI market correction could spread globally, while autonomous AI systems could create new cybersecurity risks for financial institutions.",
-        "tags": [
-            "AI",
-            "artificial intelligence",
-            "Andrew Bailey",
-            "Bank of England",
-            "G20",
-            "AI bubble",
-            "financial stability",
-            "cybersecurity",
-            "technology stocks",
-            "global economy"
-        ]
-    },
-    {
-        "id": "tech-waymo-atlanta-2026",
-        "slug": "nasa-roman-space-telescope-launch-2026",
-        "title": "NASA Launches Nancy Grace Roman Space Telescope to Study Dark Matter and Distant Worlds",
-        "category": "Tech",
-        "date": "August 31, 2026",
-        "author": "Tech Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/A giant leap forward Nasa launches powerful new space telescope.webp",
-        "excerpt": "NASA has launched the Nancy Grace Roman Space Telescope on a mission to explore dark energy, dark matter, black holes and thousands of distant planets.",
-        "tags": [
-            "NASA",
-            "Nancy Grace Roman Space Telescope",
-            "space telescope",
-            "dark energy",
-            "dark matter",
-            "exoplanets",
-            "astronomy",
-            "NASA mission",
-            "SpaceX",
-            "space technology"
-        ]
-    },
-    {
-        "id": "tech-apple-iphone-duo",
-        "slug": "apple-iphone-duo-foldable-samsung-market-2026",
-        "title": "Apple iPhone Duo Launches at $1,999 as Samsung Defends Foldable Phone Lead",
-        "category": "Tech",
-        "date": "September 10, 2026",
-        "author": "Tech Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Apple Enters Foldable Phone Market With iPhone Duo as Samsung Defends Its Lead.webp",
-        "excerpt": "Apple has launched the $1,999 iPhone Duo, entering the foldable market as Samsung defends its lead with the Galaxy Z Fold8 and years of experience.",
-        "tags": [
-            "Apple",
-            "iPhone Duo",
-            "Foldable Phones",
-            "Samsung",
-            "Galaxy Z Fold8",
-            "Smartphones",
-            "Apple Intelligence",
-            "Mobile Technology",
-            "Tech Industry"
-        ]
-    },
-    {
-        "id": "tech-uk-ico-resigns-2026",
-        "slug": "self-flying-planes-autonomous-aircraft-future-aviation-2026",
-        "title": "Self-Flying Planes Are Coming, but Can Autonomous Aircraft Really Replace Pilots?",
-        "category": "Tech",
-        "date": "September 2, 2026",
-        "author": "Tech Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Will self-flying planes transform the skies.webp",
-        "excerpt": "Autonomous aircraft are moving beyond drones as companies develop self-flying planes for farming, cargo and eventually passenger travel, but safety and regulation remain major obstacles.",
-        "tags": [
-            "self-flying planes",
-            "autonomous aircraft",
-            "aviation technology",
-            "AI aviation",
-            "pilotless aircraft",
-            "Pyka",
-            "Boeing",
-            "Wisk Aero",
-            "Merlin Labs",
-            "robotics",
-            "air taxis"
-        ]
-    },
-    {
-        "id": "tech-2",
-        "slug": "robots-future-theme-parks-ai-robotics",
-        "title": "How Robots and AI Are Changing the Future of Theme Parks",
-        "category": "Tech",
-        "date": "September 4, 2026",
-        "author": "Tech Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Could robots be the future of theme parks.webp",
-        "excerpt": "Robots are moving beyond rides and animatronics as Disney and other theme-park operators explore AI, autonomous characters and robotic entertainment.",
-        "tags": [
-            "Robotics",
-            "Artificial Intelligence",
-            "Theme Parks",
-            "Disney",
-            "Animatronics",
-            "Entertainment Technology",
-            "AI",
-            "Future Technology"
-        ]
-    },
-    {
-        "id": "tech-xiaomi-18-fold",
-        "slug": "xiaomi-18-fold-ifa-2026-xring-o3-ai-chip",
-        "title": "Xiaomi 18 Fold Launches With Wide Foldable Design and XRing O3 AI Chip",
-        "category": "Tech",
-        "date": "September 8, 2026",
-        "author": "Tech Desk",
-        "views": "0k",
-        "readTime": "8 Mins",
-        "comments": 0,
-        "image": "/images/news/Xiaomi 18 Fold Debuts at IFA 2026 With Wide Design and Custom AI Chip.webp",
-        "excerpt": "Xiaomi's 18 Fold combines a wider foldable design, XRing O3 AI processor, 6,000mAh battery and Leica cameras as competition intensifies.",
-        "tags": [
-            "Xiaomi 18 Fold",
-            "Foldable Phones",
-            "XRing O3",
-            "AI Chip",
-            "Xiaomi",
-            "IFA 2026",
-            "Smartphones",
-            "Samsung",
-            "Apple",
-            "Mobile Technology"
-        ]
-    },
-    {
-        "id": "tech-playstation-pulse",
-        "slug": "playstation-pulse-pulse-edge-wireless-headsets-ps5-2026",
-        "title": "Sony Refreshes PS5 Audio Lineup With New Pulse and Pulse Edge Wireless Headsets",
-        "category": "Tech",
-        "date": "September 16, 2026",
-        "author": "Tech Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/PlayStation Pulse and Pulse Edge Wireless Headsets Introduced With Upgraded PS5 Audio Features.webp",
-        "excerpt": "Sony has unveiled new PlayStation Pulse and Pulse Edge wireless headsets with planar magnetic drivers, AI noise rejection and PlayStation Link.",
-        "tags": [
-            "PlayStation",
-            "PS5",
-            "Pulse Headset",
-            "Pulse Edge",
-            "Sony",
-            "Wireless Headsets",
-            "Gaming Audio",
-            "Planar Magnetic Drivers",
-            "PlayStation Link",
-            "AI Noise Rejection"
-        ]
-    },
-    {
-        "id": "tech-5",
-        "slug": "us-warning-siemens-devices-water-infrastructure-cyberattacks-2026",
-        "title": "US Warns Siemens Industrial Devices Are Being Targeted as Water Infrastructure Faces Cyber Threats",
-        "category": "Tech",
-        "date": "August 20, 2026",
-        "author": "Tech Desk",
-        "views": "0k",
-        "readTime": "8 Mins",
-        "comments": 0,
-        "image": "/images/news/US Warns Siemens Industrial Devices Are Being Targeted as Water Infrastructure Faces Cyber Threats.webp",
-        "excerpt": "US agencies warn that Siemens industrial control devices used in water systems and critical infrastructure are being targeted by hackers amid fears of escalating cyberattacks.",
-        "tags": [
-            "Siemens",
-            "cybersecurity",
-            "water infrastructure",
-            "Iran cyberattacks",
-            "CISA",
-            "FBI",
-            "NSA",
-            "industrial control systems",
-            "critical infrastructure"
-        ]
-    }
+  {
+    "id": "tech-apple-iphone-duo",
+    "slug": "apple-iphone-duo-foldable-samsung-market-2026",
+    "date": "September 10, 2026",
+    "category": "Tech",
+    "categories": [
+      "Tech"
+    ],
+    "title": "Apple iPhone Duo Launches at $1,999 as Samsung Defends Foldable Phone Lead",
+    "image": "/images/illustrations/apple-iphone-duo-foldable-samsung-market-2026.webp",
+    "excerpt": "Apple has launched the $1,999 iPhone Duo, entering the foldable market as Samsung defends its lead with the Galaxy Z Fold8 and years of experience.",
+    "tags": [
+      "Apple",
+      "iPhone Duo",
+      "Foldable Phones",
+      "Samsung",
+      "Galaxy Z Fold8",
+      "Smartphones",
+      "Apple Intelligence",
+      "Mobile Technology",
+      "Tech Industry"
+    ],
+    "readTime": "9 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "tech-xiaomi-18-fold",
+    "slug": "xiaomi-18-fold-ifa-2026-xring-o3-ai-chip",
+    "date": "September 8, 2026",
+    "category": "Tech",
+    "categories": [
+      "Tech"
+    ],
+    "title": "Xiaomi 18 Fold Launches With Wide Foldable Design and XRing O3 AI Chip",
+    "image": "/images/illustrations/xiaomi-18-fold-ifa-2026-xring-o3-ai-chip.webp",
+    "excerpt": "Xiaomi's 18 Fold combines a wider foldable design, XRing O3 AI processor, 6,000mAh battery and Leica cameras as competition intensifies.",
+    "tags": [
+      "Xiaomi 18 Fold",
+      "Foldable Phones",
+      "XRing O3",
+      "AI Chip",
+      "Xiaomi",
+      "IFA 2026",
+      "Smartphones",
+      "Samsung",
+      "Apple",
+      "Mobile Technology"
+    ],
+    "readTime": "7 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "tech-2",
+    "slug": "robots-future-theme-parks-ai-robotics",
+    "date": "September 4, 2026",
+    "category": "Tech",
+    "categories": [
+      "Tech"
+    ],
+    "title": "How Robots and AI Are Changing the Future of Theme Parks",
+    "image": "/images/illustrations/robots-future-theme-parks-ai-robotics.webp",
+    "excerpt": "Robots are moving beyond rides and animatronics as Disney and other theme-park operators explore AI, autonomous characters and robotic entertainment.",
+    "tags": [
+      "Robotics",
+      "Artificial Intelligence",
+      "Theme Parks",
+      "Disney",
+      "Animatronics",
+      "Entertainment Technology",
+      "AI",
+      "Future Technology"
+    ],
+    "readTime": "6 min read",
+    "articleType": "Explainer",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "tech-uk-ico-resigns-2026",
+    "slug": "self-flying-planes-autonomous-aircraft-future-aviation-2026",
+    "date": "September 2, 2026",
+    "category": "Tech",
+    "categories": [
+      "Tech"
+    ],
+    "title": "Self-Flying Planes Are Coming, but Can Autonomous Aircraft Really Replace Pilots?",
+    "image": "/images/illustrations/self-flying-planes-autonomous-aircraft-future-aviation-2026.webp",
+    "excerpt": "Autonomous aircraft are moving beyond drones as companies develop self-flying planes for farming, cargo and eventually passenger travel, but safety and regulation remain major obstacles.",
+    "tags": [
+      "self-flying planes",
+      "autonomous aircraft",
+      "aviation technology",
+      "AI aviation",
+      "pilotless aircraft",
+      "Pyka",
+      "Boeing",
+      "Wisk Aero",
+      "Merlin Labs",
+      "robotics",
+      "air taxis"
+    ],
+    "readTime": "9 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "tech-meta-ai-chip-2026",
+    "slug": "ai-global-economic-downturn-andrew-bailey-g20-warning-2026",
+    "date": "September 1, 2026",
+    "category": "Tech",
+    "categories": [
+      "Tech"
+    ],
+    "title": "Bank of England Chief Warns AI Market Crash Could Spread Across Global Economy",
+    "image": "/images/illustrations/ai-global-economic-downturn-andrew-bailey-g20-warning-2026.webp",
+    "excerpt": "Bank of England Governor Andrew Bailey has warned G20 finance chiefs that an AI market correction could spread globally, while autonomous AI systems could create new cybersecurity risks for financial institutions.",
+    "tags": [
+      "AI",
+      "artificial intelligence",
+      "Andrew Bailey",
+      "Bank of England",
+      "G20",
+      "AI bubble",
+      "financial stability",
+      "cybersecurity",
+      "technology stocks",
+      "global economy"
+    ],
+    "readTime": "7 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "tech-waymo-atlanta-2026",
+    "slug": "nasa-roman-space-telescope-launch-2026",
+    "date": "August 31, 2026",
+    "category": "Tech",
+    "categories": [
+      "Tech"
+    ],
+    "title": "NASA Launches Nancy Grace Roman Space Telescope to Study Dark Matter and Distant Worlds",
+    "image": "/images/illustrations/nasa-roman-space-telescope-launch-2026.webp",
+    "excerpt": "NASA has launched the Nancy Grace Roman Space Telescope on a mission to explore dark energy, dark matter, black holes and thousands of distant planets.",
+    "tags": [
+      "NASA",
+      "Nancy Grace Roman Space Telescope",
+      "space telescope",
+      "dark energy",
+      "dark matter",
+      "exoplanets",
+      "astronomy",
+      "NASA mission",
+      "SpaceX",
+      "space technology"
+    ],
+    "readTime": "8 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "tech-bezos-ai-2026",
+    "slug": "electric-landscaping-gardening-tools-battery-technology",
+    "date": "August 24, 2026",
+    "category": "Tech",
+    "categories": [
+      "Tech"
+    ],
+    "title": "Electric Gardening Equipment Is Replacing Petrol Tools as Landscapers Go Greener",
+    "image": "/images/illustrations/electric-landscaping-gardening-tools-battery-technology.webp",
+    "excerpt": "Landscaping is gradually moving from petrol-powered equipment to quieter electric tools, driven by noise restrictions, lower emissions and advances in battery technology.",
+    "tags": [
+      "electric gardening",
+      "landscaping technology",
+      "battery tools",
+      "leaf blowers",
+      "Stihl",
+      "Whisper Aero",
+      "electric lawn equipment",
+      "green technology",
+      "clean energy",
+      "gardening"
+    ],
+    "readTime": "6 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "tech-5",
+    "slug": "us-warning-siemens-devices-water-infrastructure-cyberattacks-2026",
+    "date": "August 20, 2026",
+    "category": "Tech",
+    "categories": [
+      "Tech"
+    ],
+    "title": "US Warns Siemens Industrial Devices Are Being Targeted as Water Infrastructure Faces Cyber Threats",
+    "image": "/images/illustrations/us-warning-siemens-devices-water-infrastructure-cyberattacks-2026.webp",
+    "excerpt": "US agencies warn that Siemens industrial control devices used in water systems and critical infrastructure are being targeted by hackers amid fears of escalating cyberattacks.",
+    "tags": [
+      "Siemens",
+      "cybersecurity",
+      "water infrastructure",
+      "Iran cyberattacks",
+      "CISA",
+      "FBI",
+      "NSA",
+      "industrial control systems",
+      "critical infrastructure"
+    ],
+    "readTime": "6 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "tech-new-claude",
+    "slug": "claude-ai-public-chat-links-privacy-concerns-2026",
+    "date": "July 28, 2026",
+    "category": "Tech",
+    "categories": [
+      "Tech"
+    ],
+    "title": "Claude AI Conversations Exposed Online After Users Shared Chats Publicly",
+    "image": "/images/illustrations/claude-ai-public-chat-links-privacy-concerns-2026.webp",
+    "excerpt": "Some conversations with Anthropic's Claude AI were found publicly accessible through shared links that appeared in search results, raising fresh concerns about AI privacy and user awareness.",
+    "tags": [
+      "Claude AI",
+      "Anthropic",
+      "AI privacy",
+      "artificial intelligence",
+      "data security",
+      "chatbot",
+      "search engines",
+      "technology",
+      "online privacy",
+      "AI safety"
+    ],
+    "readTime": "5 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  }
 ]

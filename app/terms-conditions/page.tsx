@@ -6,8 +6,8 @@ import Footer from "../components/layout/Footer";
 import { Mail, Copy } from "lucide-react";
 
 export const metadata: Metadata = {
-    title: "Terms & Conditions | Mirror Standard",
-    description: "Terms and conditions for Mirror Standard.",
+    title: "Terms & Conditions | The Quest for Profit",
+    description: "Terms and conditions for The Quest for Profit blog.",
 };
 
 export default function TermsConditionsPage() {
@@ -28,7 +28,7 @@ export default function TermsConditionsPage() {
                     </div>
 
                     <p className="text-[14px] leading-relaxed mb-12 text-gray-700 font-medium">
-                        By accessing Mirror Standard, you agree to the following terms. We aim to keep these straightforward and transparent so readers understand how our journalism may be used.
+                        By accessing The Quest for Profit, you agree to the following terms. We keep them straightforward so readers understand how the blog and its content may be used.
                     </p>
 
                     <div className="space-y-10">
@@ -40,14 +40,14 @@ export default function TermsConditionsPage() {
                             <div className="h-[1px] w-full bg-black mb-4"></div>
                             <div className="space-y-4 text-[14px] leading-relaxed text-gray-600">
                                 <p>
-                                    All original content published by Mirror Standard is protected by copyright. Readers may share links and quote brief excerpts with proper attribution. Republishing full articles without permission is not permitted.
+                                    All original content published by The Quest for Profit is protected by copyright. Readers may share links and quote brief excerpts with proper attribution. Republishing full posts without permission is not permitted.
                                 </p>
                                 <p>
                                     For permissions or republication inquiries, contact:
                                 </p>
                                 <div className="flex items-center gap-2 text-black font-medium">
                                     <Mail className="w-4 h-4" />
-                                    <span>editorial@mirrorstandard.com</span>
+                                    <span>editorial@thequestforprofit.com</span>
                                     <Copy className="w-4 h-4 cursor-pointer text-gray-400 hover:text-black transition-colors" />
                                 </div>
                             </div>
@@ -60,7 +60,7 @@ export default function TermsConditionsPage() {
                             </h2>
                             <div className="h-[1px] w-full bg-black mb-4"></div>
                             <p className="text-[14px] leading-relaxed text-gray-600">
-                                We strive for accuracy and timely updates, but news evolves. Information may change after publication. Errors are corrected transparently in accordance with our <Link href="/corrections-policy" className="text-blue-500 hover:underline">Corrections Policy</Link>.
+                                We strive for accuracy, but facts and interpretations may change after publication. Errors are corrected transparently in accordance with our <Link href="/corrections-policy" className="text-blue-500 hover:underline">Corrections Policy</Link>.
                             </p>
                         </section>
 
@@ -71,7 +71,7 @@ export default function TermsConditionsPage() {
                             </h2>
                             <div className="h-[1px] w-full bg-black mb-4"></div>
                             <p className="text-[14px] leading-relaxed text-gray-600">
-                                Opinion and analysis articles are clearly labeled and reflect the views of the author, not necessarily those of Mirror Standard as a whole.
+                                Opinion and analysis posts are clearly labeled and reflect the views of the author, not necessarily those of The Quest for Profit as a whole.
                             </p>
                         </section>
 
@@ -82,7 +82,7 @@ export default function TermsConditionsPage() {
                             </h2>
                             <div className="h-[1px] w-full bg-black mb-4"></div>
                             <p className="text-[14px] leading-relaxed text-gray-600">
-                                Our reporting may include links to external websites for reference. We are not responsible for the content or privacy practices of third-party sites.
+                                Our posts may include links to external websites for reference. We are not responsible for the content or privacy practices of third-party sites.
                             </p>
                         </section>
 
@@ -93,7 +93,7 @@ export default function TermsConditionsPage() {
                             </h2>
                             <div className="h-[1px] w-full bg-black mb-4"></div>
                             <p className="text-[14px] leading-relaxed text-gray-600">
-                                Mirror Standard provides journalism for general informational purposes. Content should not be considered legal, medical, or financial advice.
+                                The Quest for Profit publishes essays, commentary and analysis for general informational purposes. Content should not be considered legal, medical, or financial advice.
                             </p>
                         </section>
 
@@ -129,14 +129,14 @@ export default function TermsConditionsPage() {
                             </p>
                             <div className="flex items-center justify-center gap-2 text-black font-medium mb-12">
                                 <Mail className="w-4 h-4" />
-                                <span>editorial@mirrorstandard.com</span>
+                                <span>editorial@thequestforprofit.com</span>
                                 <Copy className="w-4 h-4 cursor-pointer text-gray-400 hover:text-black transition-colors" />
                             </div>
                             
                             <div className="h-[1px] w-full bg-gray-300 mb-8"></div>
                             
                             <p className="text-center text-gray-600 text-[13px] mb-12 max-w-[300px] mx-auto">
-                                Mirror Standard encourages responsible sharing, proper attribution, and informed readership.
+                                The Quest for Profit encourages responsible sharing, proper attribution, and informed readership.
                             </p>
                             
                             <p className="text-center text-[11px] text-gray-400 italic">

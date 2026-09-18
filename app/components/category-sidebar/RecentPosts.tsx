@@ -22,7 +22,7 @@ export default function RecentPosts({ posts = [] }: RecentPostsProps) {
     return (
         <div>
             <h2 className="text-sm font-bold uppercase tracking-widest text-gray-900 mb-6 border-b border-gray-100 pb-2">
-                RECENT POST
+                RECENT POSTS
             </h2>
             <ul className="flex flex-col gap-4">
                 {displayPosts.map((post, i) => (

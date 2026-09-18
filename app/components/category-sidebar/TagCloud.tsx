@@ -7,15 +7,14 @@ interface TagCloudProps {
 export default function TagCloud({ tags = [] }: TagCloudProps) {
     // Default tags if none provided
     const displayTags = tags.length > 0 ? tags : [
-        "#Art&Culture", "#best", "#Best theme", "#brunch", "#Business",
-        "#Entertainment", "#Magazine", "#Mother Nature", "#Musical",
-        "#NewsCommerce", "#Newspaper"
+        "#Analysis", "#Business", "#Culture", "#Finance", "#Ideas",
+        "#Markets", "#Nature", "#Politics", "#Technology", "#Wealth"
     ];
 
     return (
         <div>
             <h2 className="text-sm font-bold uppercase tracking-widest text-gray-900 mb-2 border-b border-gray-100 pb-2">
-                TAG
+                TOPICS
             </h2>
             <div className="flex flex-wrap gap-2">
                 {displayTags.map((tag, i) => (

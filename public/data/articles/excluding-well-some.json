@@ -1,29 +1,85 @@
 {
-    "id": "3",
-    "slug": "excluding-well-some",
-    "title": "Excluding Well A Some Hummingbird Meticulous",
-    "category": "Finance",
-    "date": "January 5, 2026",
-    "views": "1500",
-    "readTime": "4 Mins",
-    "comments": 0,
-    "image": "/images/news/unsplash_cbe5a3b4.webp",
-    "tags": [
-        "#Finance",
-        "#Hummingbird",
-        "#Nature"
-    ],
-    "author": {
-        "name": "Maxin Dalton",
-        "role": "Editor",
-        "postsCount": 23,
-        "image": "/images/authors/maxin.jpg",
-        "bio": "Financial analyst with a love for meticulous details."
+  "id": "3",
+  "slug": "excluding-well-some",
+  "title": "The High-Energy Economics of a Hummingbird's Day",
+  "category": "Nature",
+  "date": "January 5, 2026",
+  "readTime": "2 min read",
+  "image": "/images/illustrations/excluding-well-some.webp",
+  "tags": [
+    "Hummingbirds",
+    "Ecology",
+    "Energy",
+    "Pollination",
+    "Wildlife"
+  ],
+  "author": "The Quest for Profit",
+  "content": [
+    {
+      "type": "intro",
+      "text": "Hummingbirds offer a vivid lesson in biological budgeting: the energy gained from food must cover flight, temperature control, defense and reproduction without adding too much weight."
     },
-    "content": [
-        {
-            "type": "intro",
-            "text": "Excluding well, some hummingbird meticulous in its approach to finance."
-        }
-    ]
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why hovering is expensive"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hovering lets a bird feed from flowers that cannot support its weight, but it demands rapid wing movement and continuous muscular work. Hummingbirds compensate by feeding frequently and choosing routes that reduce wasted travel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nectar provides fast carbohydrate energy. Small insects and spiders supply protein and other nutrients that sugar water alone cannot provide."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The role of torpor"
+    },
+    {
+      "type": "paragraph",
+      "text": "At night or in cold conditions, some hummingbirds enter torpor, lowering body temperature and metabolic demand. The strategy conserves energy but delays escape and morning activity, so the decision carries risk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Flower timing, weather and competition can therefore affect survival even when habitat appears green and abundant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What helps in a garden"
+    },
+    {
+      "type": "paragraph",
+      "text": "Native flowering plants with staggered bloom periods provide a more complete food system than a feeder alone. Avoiding pesticides helps preserve the insects that hummingbirds eat."
+    },
+    {
+      "type": "paragraph",
+      "text": "A feeder, if used, needs a plain sugar-water solution and frequent cleaning. The most useful intervention is a diverse, pesticide-light habitat rather than a single source of calories."
+    }
+  ],
+  "excerpt": "A hummingbird survives on a narrow energy budget, balancing nectar intake, insect protein, temperature and the cost of hovering flight.",
+  "seoTitle": "The High-Energy Economics of a Hummingbird's Day",
+  "seoDescription": "A hummingbird survives on a narrow energy budget, balancing nectar intake, insect protein, temperature and the cost of hovering flight.",
+  "seoImageAlt": "The High-Energy Economics of a Hummingbird's Day — editorial illustration",
+  "datePublished": "2026-01-04",
+  "dateModified": "2026-09-17",
+  "articleType": "Analysis & context",
+  "keyPoints": [
+    "A hummingbird survives on a narrow energy budget, balancing nectar intake, insect protein, temperature and the cost of hovering flight.",
+    "Separate observation from attribution and look for methods, baselines, uncertainty and peer review.",
+    "Scientific confidence depends on the quality of the method and whether independent evidence agrees."
+  ],
+  "referenceDesk": [
+    {
+      "name": "NASA science",
+      "url": "https://science.nasa.gov/"
+    },
+    {
+      "name": "NOAA research",
+      "url": "https://www.noaa.gov/research"
+    }
+  ],
+  "editorialNote": "Reviewed 2026-09-17. This post distinguishes reported facts from analysis and links to records readers can check. Scientific confidence depends on the quality of the method and whether independent evidence agrees."
 }

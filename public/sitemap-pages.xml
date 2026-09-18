@@ -1,33 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.thequestforprofit.xyz/</loc>
-    <lastmod>2026-01-14</lastmod>
+    <loc>https://www.thequestforprofit.com/</loc>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.thequestforprofit.xyz/about-us</loc>
-    <lastmod>2026-01-14</lastmod>
+    <loc>https://www.thequestforprofit.com/about-us</loc>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.thequestforprofit.xyz/privacy-policy</loc>
-    <lastmod>2026-01-14</lastmod>
+    <loc>https://www.thequestforprofit.com/privacy-policy</loc>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.thequestforprofit.xyz/terms-conditions</loc>
-    <lastmod>2026-01-14</lastmod>
+    <loc>https://www.thequestforprofit.com/terms-conditions</loc>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.thequestforprofit.xyz/authors</loc>
-    <lastmod>2026-01-14</lastmod>
+    <loc>https://www.thequestforprofit.com/authors</loc>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url><loc>https://www.thequestforprofit.com/contact-us</loc><lastmod>2026-09-17</lastmod></url>
+  <url><loc>https://www.thequestforprofit.com/editorial-policy</loc><lastmod>2026-09-17</lastmod></url>
+  <url><loc>https://www.thequestforprofit.com/corrections-policy</loc><lastmod>2026-09-17</lastmod></url>
+  <url><loc>https://www.thequestforprofit.com/source-methodology</loc><lastmod>2026-09-17</lastmod></url>
+  <url><loc>https://www.thequestforprofit.com/ownership-funding</loc><lastmod>2026-09-17</lastmod></url>
+  <url><loc>https://www.thequestforprofit.com/advertising-policy</loc><lastmod>2026-09-17</lastmod></url>
+  <url><loc>https://www.thequestforprofit.com/right-of-reply</loc><lastmod>2026-09-17</lastmod></url>
+  <url><loc>https://www.thequestforprofit.com/legal</loc><lastmod>2026-09-17</lastmod></url>
 </urlset>

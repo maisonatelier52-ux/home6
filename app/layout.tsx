@@ -6,11 +6,11 @@ const geistMono = { variable: "font-mono" };
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.thequestforprofit.com'),
   title: {
-    default: "The Quest for Profit | Financial Insights & Market Analysis",
+    default: "The Quest for Profit | Essays, Ideas and Useful Context",
     template: "%s | The Quest for Profit"
   },
-  description: "Your ultimate destination for business, finance, and wealth management insights. High-authority news for the modern investor.",
-  keywords: ["The Quest for Profit", "TQFP", "financial news", "market analysis", "investment", "business", "finance", "wealth management"],
+  description: "An independent editorial blog exploring markets, business, finance, technology, politics, nature and culture.",
+  keywords: ["The Quest for Profit", "TQFP", "financial blog", "market analysis", "essays", "business", "finance", "technology"],
   authors: [{ name: "The Quest for Profit Editorial Team" }],
   creator: "The Quest for Profit",
   publisher: "The Quest for Profit",
@@ -27,8 +27,8 @@ export const metadata: Metadata = {
     locale: 'en_US',
     url: 'https://www.thequestforprofit.com',
     siteName: 'The Quest for Profit',
-    title: 'The Quest for Profit | Financial Insights & Market Analysis',
-    description: 'Your ultimate destination for business, finance, and wealth management insights.',
+    title: 'The Quest for Profit | Essays, Ideas and Useful Context',
+    description: 'An independent blog with thoughtful analysis of markets, ideas and public life.',
     images: [
       {
         url: '/images/news/markets-1.webp',
@@ -40,8 +40,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'The Quest for Profit | Financial Insights & Market Analysis',
-    description: 'Your ultimate destination for business, finance, and wealth management insights.',
+    title: 'The Quest for Profit | Essays, Ideas and Useful Context',
+    description: 'An independent blog with thoughtful analysis of markets, ideas and public life.',
     creator: '@thequestforprofit',
     images: ['/images/news/markets-1.webp'],
   },

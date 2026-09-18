@@ -38,7 +38,8 @@ export default function FeatureWithSidebar({
                     {/* Right Sidebar Form/List (Takes 1 column) */}
                     <div className="lg:col-span-1 border-l border-gray-300 px-4 md:px-0 lg:border-none py-0 md:py-8">
                         <SidebarFormAndList
-                            moduleData={sidebarModuleData}                           
+                            moduleData={sidebarModuleData}
+                            hotPeoples={hotPeoples}
                         />
                     </div>
 

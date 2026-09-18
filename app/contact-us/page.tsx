@@ -7,7 +7,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
     title: "Contact Us | The Quest for Profit",
-    description: "Get in touch with The Quest for Profit. We welcome news tips, corrections, and general inquiries.",
+    description: "Get in touch with The Quest for Profit. We welcome story ideas, corrections, and general inquiries.",
 };
 
 export default function ContactUsPage() {
@@ -25,7 +25,7 @@ export default function ContactUsPage() {
                         </h1>
 
                         <p className="text-base md:text-lg leading-relaxed text-gray-700 mb-12 text-center max-w-2xl mx-auto">
-                            The Quest for Profit is an independent news platform. We welcome news tips, corrections, and inquiries from readers, journalists, and partner organizations responding to our coverage.
+                            The Quest for Profit is an independent editorial blog. We welcome story ideas, corrections, and inquiries from readers, writers, and organizations responding to our work.
                         </p>
 
                         <div className="space-y-6 max-w-2xl mx-auto mb-12">
@@ -36,7 +36,7 @@ export default function ContactUsPage() {
                                 </div>
                                 <div>
                                     <h3 className="text-base font-bold text-gray-900 mb-1">Editorial & General Contact</h3>
-                                    <p className="text-sm text-gray-600">Questions about our reporting, coverage ideas, or editorial matters.</p>
+                                    <p className="text-sm text-gray-600">Questions about a post, topic ideas, or editorial matters.</p>
                                 </div>
                             </div>
 
@@ -46,8 +46,8 @@ export default function ContactUsPage() {
                                     <Send className="w-5 h-5" />
                                 </div>
                                 <div>
-                                    <h3 className="text-base font-bold text-gray-900 mb-1">Confidential News Tips</h3>
-                                    <p className="text-sm text-gray-600">Share information that you believe should be investigated or reported.</p>
+                                    <h3 className="text-base font-bold text-gray-900 mb-1">Story Ideas & Tips</h3>
+                                    <p className="text-sm text-gray-600">Share information or a subject you believe deserves closer examination.</p>
                                 </div>
                             </div>
 
@@ -77,7 +77,7 @@ export default function ContactUsPage() {
                         {/* Contact details box */}
                         <div className="bg-gray-50 border border-gray-200 rounded-lg p-8 max-w-2xl mx-auto mb-12">
                             <p className="text-sm text-gray-600 mb-6 text-center leading-relaxed">
-                                Contact our newsroom using the address that best matches your request. If you are reporting an error, challenging a factual claim, requesting a reply, or sending a permissions or legal concern, please include the specific article URL and detail the issue so it can be routed quickly.
+                                Contact the editorial team using the address that best matches your request. If you are reporting an error, challenging a factual claim, requesting a reply, or raising a permissions or legal concern, include the specific post URL and enough detail for us to review it.
                             </p>
                             <div className="space-y-4 text-sm text-gray-800">
                                 <div className="flex justify-between flex-wrap gap-2 border-b border-gray-200 pb-2">

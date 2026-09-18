@@ -1,173 +1,177 @@
 [
-    {
-        "date": "January 01, 2026",
-        "categories": [
-            "Culture"
-        ],
-        "views": "5332",
-        "readTime": "5 Mins",
-        "comments": 4,
-        "title": "Incongruous Jeepers Jellyfish One Far Well Known",
-        "slug": "incongruous-jeepers-jellyfish",
-        "image": "/images/maskgirl.webp",
-        "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more so. This nudged jeepers less dogged sheared opposite then around but a due heinous square subtle amphibiously chameleon palpable tyrannical aboard removed much outside and without vicious scallop flapped [...]",
-        "tags": [
-            "#Art and Culture",
-            "#brunch",
-            "#Entertainment",
-            "#Magazine",
-            "#Mother Nature",
-            "#Showbiz",
-            "#TechNews"
-        ]
-    },
-    {
-        "date": "February 05, 2026",
-        "categories": [
-            "Culture"
-        ],
-        "views": "77",
-        "readTime": "4 Mins",
-        "comments": 0,
-        "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
-        "slug": "timmediately-quail-was-inverse",
-        "image": "/images/musthash.webp",
-        "excerpt": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more then around but a due so well and where supply much. This nudged jeepers less dogged sheared opposite then around but a due heinous square subtle amphibiously chameleon palpable [...]",
-        "tags": [
-            "#Art and Culture",
-            "#brunch",
-            "#Entertainment",
-            "#Magazine",
-            "#Showbiz"
-        ]
-    },
-    {
-        "date": "February 12, 2026",
-        "categories": [
-            "Culture"
-        ],
-        "views": "1240",
-        "readTime": "6 Mins",
-        "comments": 2,
-        "title": "The Subtle Art of Cultural Expression in Modern Era",
-        "slug": "subtle-art-cultural-expression",
-        "image": "/images/car.webp",
-        "excerpt": "Deep within the heart of the city lies a secret garden that only the locals know. It's a place where time seems to stand still and the noise of the outside world fades into a distant memory. The air is filled with the scent of blooming flowers and the gentle rustle of leaves.",
-        "tags": [
-            "#Art",
-            "#Modern",
-            "#Culture"
-        ]
-    },
-    {
-        "date": "January 20, 2026",
-        "categories": [
-            "Culture"
-        ],
-        "views": "850",
-        "readTime": "3 Mins",
-        "comments": 1,
-        "title": "Capturing the Essence of Street Life through Lense",
-        "slug": "capturing-essence-street-life",
-        "image": "/images/eyepaint.webp",
-        "excerpt": "Street photography is more than just taking pictures of people in public. It's about capturing a moment, a look, or an interaction that tells a story about the human condition. It requires patience, observation, and a quick eye for composition.",
-        "tags": [
-            "#Photography",
-            "#Street",
-            "#Life"
-        ]
-    },
-    {
-        "date": "February 15, 2026",
-        "categories": [
-            "Culture"
-        ],
-        "views": "2100",
-        "readTime": "7 Mins",
-        "comments": 5,
-        "title": "Traditional Music in the Heart of Globalized World",
-        "slug": "traditional-music-globalized-world",
-        "image": "/images/oldmen.webp",
-        "excerpt": "In an increasingly connected world, traditional music faces both challenges and opportunities. While globalization can lead to the homogenization of sound, it also provides new platforms for regional artists to reach a wider audience than ever before.",
-        "tags": [
-            "#Music",
-            "#Tradition",
-            "#Global"
-        ]
-    },
-    {
-        "date": "January 01, 2026",
-        "categories": [
-            "Culture"
-        ],
-        "views": "3400",
-        "readTime": "8 Mins",
-        "comments": 8,
-        "title": "Ancient Architecture and Its Influence on Modern Design",
-        "slug": "ancient-architecture-modern-design",
-        "image": "/images/clockhead.webp",
-        "excerpt": "The majestic bridges and temples of ancient civilizations continue to inspire architects today. By studying the techniques and materials used thousands of years ago, modern designers can create structures that are both aesthetically pleasing and structurally sound.",
-        "tags": [
-            "#Architecture",
-            "#History",
-            "#Design"
-        ]
-    },
-    {
-        "id": "cul-6",
-        "slug": "fifa-world-cup-2026-preview",
-        "title": "FIFA World Cup 2026: The Global Stage Set for North America",
-        "category": "Culture",
-        "date": "February 12, 2026",
-        "author": "Sarah Jenkins",
-        "views": "72k",
-        "readTime": "15 Mins",
-        "comments": 425,
-        "image": "/images/news/culture-6.webp",
-        "excerpt": "The countdown to the greatest show on earth has reached its final months. In June 2026, the FIFA World Cup will descend upon North America...",
-        "tags": [
-            "#FIFA",
-            "#World Cup",
-            "#Soccer",
-            "#North America"
-        ]
-    },
-    {
-        "id": "cul-7",
-        "slug": "metaverse-festivals-culture-2026",
-        "title": "The Metaverse Migration: How 'Digital Festivals' are Redefining Culture in 2026",
-        "category": "Culture",
-        "date": "January 15, 2026",
-        "author": "Sarah Jenkins",
-        "views": "25k",
-        "readTime": "25 Mins",
-        "comments": 42,
-        "image": "/images/news/culture-7.webp",
-        "excerpt": "In 2026, the line between physical and digital culture has blurred, as 'Digital Festivals' become a mainstream way for people to experience art and music...",
-        "tags": [
-            "#Culture",
-            "#2026",
-            "#Future",
-            "#Evolution"
-        ]
-    },
-    {
-        "id": "cul-8",
-        "slug": "global-museum-reform-restitution-2026",
-        "title": "Restitution and Reconciliation: The 2026 Global Museum Reform",
-        "category": "Culture",
-        "date": "February 05, 2026",
-        "author": "Sarah Jenkins",
-        "views": "31k",
-        "readTime": "28 Mins",
-        "comments": 84,
-        "image": "/images/news/culture-8.webp",
-        "excerpt": "A historic international agreement in 2026 has set the stage for a massive restitution of cultural artifacts, fundamentally changing the museum landscape...",
-        "tags": [
-            "#Museums",
-            "#Restitution",
-            "#History",
-            "#Reform"
-        ]
-    }
+  {
+    "id": "cul-6",
+    "slug": "fifa-world-cup-2026-preview",
+    "date": "February 12, 2026",
+    "category": "Culture",
+    "categories": [
+      "Culture"
+    ],
+    "title": "FIFA World Cup 2026: The Global Stage Set for North America",
+    "image": "/images/illustrations/fifa-world-cup-2026-preview.webp",
+    "excerpt": "The countdown to the greatest show on earth has reached its final months.",
+    "tags": [
+      "FIFA",
+      "World Cup",
+      "Soccer",
+      "North America"
+    ],
+    "readTime": "6 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "cul-8",
+    "slug": "global-museum-reform-restitution-2026",
+    "date": "February 05, 2026",
+    "category": "Culture",
+    "categories": [
+      "Culture"
+    ],
+    "title": "Museum Restitution: The Legal and Ethical Tests That Matter",
+    "image": "/images/illustrations/global-museum-reform-restitution-2026.webp",
+    "excerpt": "Restitution decisions turn on provenance, the circumstances of removal, present law and the claims of source communities—not slogans alone.",
+    "tags": [
+      "Museums",
+      "Restitution",
+      "Provenance",
+      "Cultural heritage",
+      "Ethics"
+    ],
+    "readTime": "2 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "4",
+    "slug": "capturing-essence-street-life",
+    "date": "January 16, 2026",
+    "category": "Culture",
+    "categories": [
+      "Culture"
+    ],
+    "title": "Street Photography: Ethics, Attention and the Decisive Moment",
+    "image": "/images/illustrations/capturing-essence-street-life.webp",
+    "excerpt": "A strong street photograph depends on observation and timing, but its value also rests on how the photographer handles consent, vulnerability and context.",
+    "tags": [
+      "Street photography",
+      "Visual ethics",
+      "Documentary",
+      "Consent",
+      "Public space"
+    ],
+    "readTime": "2 min read",
+    "articleType": "Explainer",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "cul-7",
+    "slug": "metaverse-festivals-culture-2026",
+    "date": "January 15, 2026",
+    "category": "Culture",
+    "categories": [
+      "Culture"
+    ],
+    "title": "What Digital Festivals Can—and Cannot—Replace",
+    "image": "/images/illustrations/metaverse-festivals-culture-2026.webp",
+    "excerpt": "Virtual events can widen access and enable new forms of performance, but they do not erase the social, economic or technical value of gathering in person.",
+    "tags": [
+      "Digital culture",
+      "Festivals",
+      "Virtual events",
+      "Accessibility",
+      "Creative economy"
+    ],
+    "readTime": "2 min read",
+    "articleType": "Explainer",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "2",
+    "slug": "heared-opposite-around",
+    "date": "January 14, 2026",
+    "category": "Culture",
+    "categories": [
+      "Culture"
+    ],
+    "title": "Why Cultural Context Changes What an Audience Hears",
+    "image": "/images/illustrations/heared-opposite-around.webp",
+    "excerpt": "Meaning is shaped by language, history, setting and power; the same sound or phrase can carry very different weight across audiences.",
+    "tags": [
+      "Culture",
+      "Language",
+      "Media literacy",
+      "Context",
+      "Communication"
+    ],
+    "readTime": "2 min read",
+    "articleType": "Explainer",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "5",
+    "slug": "traditional-music-globalized-world",
+    "date": "January 14, 2026",
+    "category": "Culture",
+    "categories": [
+      "Culture"
+    ],
+    "title": "How Traditional Music Travels Without Losing Its Roots",
+    "image": "/images/illustrations/traditional-music-globalized-world.webp",
+    "excerpt": "Global platforms can help regional music reach new listeners, but durable cultural exchange depends on attribution, consent and fair returns to the people who sustain the tradition.",
+    "tags": [
+      "Traditional music",
+      "Cultural heritage",
+      "Streaming",
+      "Attribution",
+      "Creative economy"
+    ],
+    "readTime": "2 min read",
+    "articleType": "Explainer",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "6",
+    "slug": "ancient-architecture-modern-design",
+    "date": "January 9, 2026",
+    "category": "Culture",
+    "categories": [
+      "Culture"
+    ],
+    "title": "What Ancient Architecture Can—and Cannot—Teach Modern Designers",
+    "image": "/images/illustrations/ancient-architecture-modern-design.webp",
+    "excerpt": "Historic buildings offer lessons in climate, material efficiency and civic meaning, but copying their appearance is not the same as understanding how they worked.",
+    "tags": [
+      "Architecture",
+      "Design history",
+      "Passive design",
+      "Materials",
+      "Urbanism"
+    ],
+    "readTime": "2 min read",
+    "articleType": "Explainer",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "3",
+    "slug": "subtle-art-cultural-expression",
+    "date": "January 4, 2026",
+    "category": "Culture",
+    "categories": [
+      "Culture"
+    ],
+    "title": "How Cultural Traditions Change Without Disappearing",
+    "image": "/images/illustrations/subtle-art-cultural-expression.webp",
+    "excerpt": "Cultural preservation is not about freezing a practice in time; it is about keeping knowledge, context and community control alive as the form evolves.",
+    "tags": [
+      "Cultural heritage",
+      "Tradition",
+      "Contemporary art",
+      "Community",
+      "Preservation"
+    ],
+    "readTime": "2 min read",
+    "articleType": "Explainer",
+    "author": "The Quest for Profit"
+  }
 ]

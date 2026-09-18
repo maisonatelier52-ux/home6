@@ -1,42 +1,42 @@
 {
-    "politics": {
-        "title": "Politics",
-        "count": 5,
-        "description": "In-depth coverage of political events, governance, and policy-making impacting the global landscape."
-    },
-    "markets": {
-        "title": "Markets",
-        "count": 5,
-        "description": "Real-time analysis of stock markets, bonds, commodities, and global economic trends."
-    },
-    "business": {
-        "title": "Business",
-        "count": 5,
-        "description": "Breaking news on corporations, startups, mergers, and executive leadership."
-    },
-    "finance": {
-        "title": "Finance",
-        "count": 5,
-        "description": "Expert advice on banking, investment strategies, and fiscal responsibility."
-    },
-    "tech": {
-        "title": "Tech",
-        "count": 5,
-        "description": "The latest innovations in technology, AI, software, and consumer electronics."
-    },
-    "wealth": {
-        "title": "Wealth",
-        "count": 5,
-        "description": "Insights into luxury living, high-net-worth management, and legacy building."
-    },
-    "nature": {
-        "title": "Nature",
-        "count": 7,
-        "description": "Coverage of environmental shifts, wildlife conservation, and planetary health."
-    },
-    "culture": {
-        "title": "Culture",
-        "count": 10,
-        "description": "Exploration of global traditions, arts, entertainment, and the evolving human experience."
-    }
+  "politics": {
+    "title": "Politics",
+    "count": 12,
+    "description": "Essays on political events, governance and the policy choices shaping public life."
+  },
+  "markets": {
+    "title": "Markets",
+    "count": 8,
+    "description": "Thoughtful analysis of stock markets, bonds, commodities and global economic trends."
+  },
+  "business": {
+    "title": "Business",
+    "count": 12,
+    "description": "Essays on corporations, startups, mergers, strategy and executive leadership."
+  },
+  "finance": {
+    "title": "Finance",
+    "count": 7,
+    "description": "Practical explainers on banking, investing and the choices behind financial decisions."
+  },
+  "tech": {
+    "title": "Tech",
+    "count": 9,
+    "description": "Ideas and explainers about technology, AI, software and consumer electronics."
+  },
+  "wealth": {
+    "title": "Wealth",
+    "count": 8,
+    "description": "Insights into luxury living, high-net-worth management, and legacy building."
+  },
+  "nature": {
+    "title": "Nature",
+    "count": 10,
+    "description": "Essays on environmental change, wildlife conservation and planetary health."
+  },
+  "culture": {
+    "title": "Culture",
+    "count": 8,
+    "description": "Exploration of global traditions, arts, entertainment, and the evolving human experience."
+  }
 }

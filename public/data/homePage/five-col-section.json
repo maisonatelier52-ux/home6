@@ -1,96 +1,96 @@
 {
-    "sectionHeader": {
-        "title": "Technology & Innovation",
-        "subtitle": "Tracking the cutting edge of human progress."
+  "sectionHeader": {
+    "title": "Technology & Innovation",
+    "subtitle": "Tracking the cutting edge of human progress."
+  },
+  "columns": [
+    {
+      "type": "image",
+      "image": "/images/news/tech-5.1.jpg"
     },
-    "columns": [
+    {
+      "type": "articles",
+      "header": {
+        "red": "MEDIA",
+        "rest": "ACQUISITION"
+      },
+      "articles": [
         {
-            "type": "image",
-            "image": "/images/news/tech-5.1.jpg"
+          "category": "Finance",
+          "title": "Wall Street Falls as $100 Oil and Inflation Concerns Complicate Fed Rate Outlook",
+          "excerpt": "Wall Street retreats as oil surges above $100, Treasury yields rise and investors await US inflation data ahead of the Federal Reserve meeting.",
+          "slug": "wall-street-slips-inflation-oil-prices-federal-reserve-outlook-september-2026"
         },
         {
-            "type": "articles",
-            "header": {
-                "red": "MEDIA",
-                "rest": "ACQUISITION"
-            },
-            "articles": [
-                {
-                    "category": "Finance",
-                    "title": "Hewlett Packard Enterprise (HPE) Posts Record Quarter as AI Infrastructure Demand Soars",
-                    "excerpt": "HPE reported record quarterly revenue as demand for AI infrastructure, servers and networking products surged, prompting the company to raise its financial outlook.",
-                    "slug": "hpe-ai-infrastructure-revenue-growth"
-                },
-                {
-                    "category": "Finance",
-                    "title": "US Dollar Struggles Despite Rising Fed Rate Hike Bets as Yen and Euro Gain",
-                    "excerpt": "The US dollar is struggling despite rising expectations of a September Fed rate hike as yen strength, ECB tightening and global inflation risks limit its advantage.",
-                    "slug": "dollar-struggles-fed-rate-hike-expectations-september-2026"
-                }
-            ]
-        },
-        {
-            "type": "articles",
-            "header": {
-                "red": "SAFE",
-                "rest": "HAVENS"
-            },
-            "articles": [
-                {
-                    "category": "Markets",
-                    "title": "Securitize Tokenizes $295M of Stock on Solana and Avalanche After NYSE Listing in Landmark Crypto IPO Moment",
-                    "excerpt": "Securitize has gone public on the NYSE under ticker SECZ while simultaneously tokenizing $295 million of its own stock on Solana and Avalanche, marking a major milestone in blockchain-based equity markets.",
-                    "slug": "securitize-tokenizes-shares-nyse-debut-solana-avalanche-2026"
-                },
-                {
-                    "category": "Markets",
-                    "title": "Tech Rout Wipes More Than $1 Trillion From Nasdaq 100 as SpaceX Leads Declines",
-                    "excerpt": "The Nasdaq 100 was on track to lose more than $1 trillion in market value as a broad technology sell-off intensified, with SpaceX, Alphabet and other major tech companies under pressure.",
-                    "slug": "nasdaq-100-tech-selloff-spacex-june-2026"
-                }
-            ]
-        },
-        {
-            "type": "articles",
-            "header": {
-                "red": "NATURE",
-                "rest": "FRONTIERS"
-            },
-            "articles": [
-                {
-                    "category": "Nature",
-                    "title": "The 2026 Climate Milestone: Global Emissions Peak and the Path Downward",
-                    "excerpt": "For the first time since the dawn of the industrial age, global greenhouse gas emissions have officially peaked in early 2026.",
-                    "slug": "global-emissions-peak-2026-milestone"
-                },
-                {
-                    "category": "Nature",
-                    "title": "Artemis II: Humanity's Return to Lunar Orbit",
-                    "excerpt": "Humans have returned to the vicinity of the Moon in over half a century.",
-                    "slug": "artemis-ii-lunar-orbit-2026"
-                }
-            ]
-        },
-        {
-            "type": "articles",
-            "header": {
-                "red": "CLIMATE",
-                "rest": "RESToration"
-            },
-            "articles": [
-                {
-                    "category": "Nature",
-                    "title": "The 2026 Climate Milestone: Global Emissions Peak",
-                    "excerpt": "Global greenhouse gas emissions have officially peaked, marking a historic turning point.",
-                    "slug": "global-emissions-peak-2026-milestone"
-                },
-                {
-                    "category": "Nature",
-                    "title": "Biodiversity Breakthrough: De-Extinction Success",
-                    "excerpt": "The successful birth of the first 'proxy' Thylacine has signaled the dawn of a new era.",
-                    "slug": "biodiversity-de-extinction-2026-success"
-                }
-            ]
+          "category": "Finance",
+          "title": "US Dollar Struggles Despite Rising Fed Rate Hike Bets as Yen and Euro Gain",
+          "excerpt": "The US dollar is struggling despite rising expectations of a September Fed rate hike as yen strength, ECB tightening and global inflation risks limit its advantage.",
+          "slug": "dollar-struggles-fed-rate-hike-expectations-september-2026"
         }
-    ]
+      ]
+    },
+    {
+      "type": "articles",
+      "header": {
+        "red": "SAFE",
+        "rest": "HAVENS"
+      },
+      "articles": [
+        {
+          "category": "Markets",
+          "title": "US Stock Futures Fall as AI Fears and $108 Oil Shake Global Markets",
+          "excerpt": "US stock futures fall as AI safety concerns weigh on technology shares while oil surges above $108, raising inflation and Fed rate worries.",
+          "slug": "us-stock-futures-slide-ai-concerns-oil-surge-global-markets-2026"
+        },
+        {
+          "category": "Markets",
+          "title": "US Dollar Holds Gains as Oil Surge Raises Inflation and Fed Rate Hike Bets",
+          "excerpt": "The US dollar holds near a one-week high as surging oil prices fuel inflation fears, lift Treasury yields and increase Fed rate hike expectations.",
+          "slug": "dollar-holds-gains-middle-east-energy-shock-inflation-fed-2026"
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "header": {
+        "red": "NATURE",
+        "rest": "FRONTIERS"
+      },
+      "articles": [
+        {
+          "category": "Nature",
+          "title": "Could Global Emissions Peak in 2026? The Indicators That Would Confirm It",
+          "excerpt": "For the first time since the dawn of the industrial age, global greenhouse gas emissions have officially peaked.",
+          "slug": "global-emissions-peak-2026-milestone"
+        },
+        {
+          "category": "Nature",
+          "title": "Artemis II: Humanity's Return to Lunar Orbit in February 2026",
+          "excerpt": "In a moment that has captured the imagination of the entire planet, the four-person crew of NASA's Artemis II mission has successfully entered lunar orbit.",
+          "slug": "artemis-ii-lunar-orbit-2026"
+        }
+      ]
+    },
+    {
+      "type": "articles",
+      "header": {
+        "red": "CLIMATE",
+        "rest": "RESToration"
+      },
+      "articles": [
+        {
+          "category": "Nature",
+          "title": "Could Global Emissions Peak in 2026? The Indicators That Would Confirm It",
+          "excerpt": "For the first time since the dawn of the industrial age, global greenhouse gas emissions have officially peaked.",
+          "slug": "global-emissions-peak-2026-milestone"
+        },
+        {
+          "category": "Nature",
+          "title": "De-Extinction Claims in 2026: What Counts as a Scientific Success?",
+          "excerpt": "In a laboratory nestled in the Australian outback, a small, striped creature has taken its first steps, marking a historic victory for modern genetics.",
+          "slug": "biodiversity-de-extinction-2026-success"
+        }
+      ]
+    }
+  ]
 }

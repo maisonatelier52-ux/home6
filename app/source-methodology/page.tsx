@@ -23,14 +23,14 @@ export default function SourceMethodologyPage() {
                     </h1>
 
                     <p className="text-base md:text-lg leading-relaxed text-gray-700 mb-12 text-center max-w-2xl mx-auto">
-                        At The Quest for Profit, we believe readers have a right to know how our reporting is constructed. This methodology outlines how we identify, verify, and cite our sources to ensure our financial intelligence remains rigorous and objective.
+                        Readers should be able to see how a post was developed. This methodology explains how we identify, verify, and cite sources so our essays and analysis remain grounded in evidence.
                     </p>
 
                     <div className="space-y-12">
                         {/* How reporting begins */}
                         <section>
                             <h2 className="text-2xl font-serif font-semibold border-b border-gray-300 pb-2 mb-6">
-                                How Reporting Begins
+                                How a Post Begins
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800 space-y-4">
                                 Our goal is to base every article on primary, verifiable information rather than repeating aggregated summaries. This includes regulatory filings (such as SEC disclosures), official corporate statements, legal filings, direct interviews, and vetted public databases. When direct verification is not fully complete, our writers are instructed to qualify their wording to reflect exactly what is confirmed.
@@ -48,7 +48,7 @@ export default function SourceMethodologyPage() {
                                 </p>
                                 <ul className="space-y-3 pl-4">
                                     <li className="list-disc">Primary documents and original interviews are always our first choice.</li>
-                                    <li className="list-disc">Secondary reporting is clearly attributed, but we avoid repeating assertions if the core facts are still subject to dispute.</li>
+                                    <li className="list-disc">Secondary sources are clearly attributed, and we avoid repeating assertions when the core facts remain in dispute.</li>
                                     <li className="list-disc">Figures, dates, and legal details are cross-referenced with official archives or original documents before publication.</li>
                                 </ul>
                             </div>
@@ -80,7 +80,7 @@ export default function SourceMethodologyPage() {
                                 Source Notes, Attribution, and Links
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800 space-y-4">
-                                To ensure transparency, we link directly to primary records, filings, or data sources referenced in our coverage. This allows our audience to inspect the source material and draw their own conclusions.
+                                Every post includes a source section pointing readers to relevant primary databases and public institutions. When a post relies on a specific filing, order, dataset, or statement, it should link that record directly. General reference links are presented as a place to verify and explore the subject—not as proof of every claim in the piece.
                             </p>
                         </section>
 

@@ -23,7 +23,7 @@ export default function OwnershipFundingPage() {
                     </h1>
 
                     <p className="text-base md:text-lg leading-relaxed text-gray-700 mb-12 text-center max-w-2xl mx-auto">
-                        This document details the governing structure of The Quest for Profit, outlining how we separate commercial relationships from our newsroom operations to protect our editorial independence.
+                        This document explains how The Quest for Profit separates commercial relationships from editorial decisions to protect the blog&apos;s independence.
                     </p>
 
                     <div className="space-y-12">
@@ -33,7 +33,7 @@ export default function OwnershipFundingPage() {
                                 What This Page Covers
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800">
-                                The Quest for Profit operates as an independent digital news platform. This page is designed for our readers to understand our policies regarding corporate funding, advertisement boundaries, conflict-of-interest management, and our commitment to autonomous financial journalism.
+                                The Quest for Profit operates as an independent editorial blog. This page explains our approach to funding, advertising boundaries, conflicts of interest, and editorial independence.
                             </p>
                         </section>
 
@@ -64,12 +64,12 @@ export default function OwnershipFundingPage() {
                             </h2>
                             <div className="text-base md:text-lg leading-relaxed text-gray-800 space-y-4">
                                 <p>
-                                    Our editors and writers are required to disclose any personal, family, or financial interests that could potentially bias their reporting. If a conflict exists, the assignment is reassigned to another writer or disclosed prominently in the text.
+                                    Editors and writers are required to disclose personal, family, or financial interests that could bias their work. If a conflict exists, the post is reassigned or the conflict is disclosed prominently.
                                 </p>
                                 <ul className="space-y-3 pl-4">
                                     <li className="list-disc">Relevant financial ties or investments must be declared internally before writing.</li>
-                                    <li className="list-disc">We do not accept gifts, free travel, or special corporate access that could undermine our reporting integrity.</li>
-                                    <li className="list-disc">Writers are barred from engaging in outside consulting, advocacy, or projects that conflict with their reporting role.</li>
+                                    <li className="list-disc">We do not accept gifts, free travel, or special corporate access that could undermine editorial independence.</li>
+                                    <li className="list-disc">Writers may not take outside work that conflicts with subjects they cover for the blog.</li>
                                 </ul>
                             </div>
                         </section>
@@ -80,7 +80,7 @@ export default function OwnershipFundingPage() {
                                 Commercial Support Does Not Buy Coverage
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800 space-y-4">
-                                Commercial partnerships or advertising deals do not guarantee favorable reporting or protect companies from critical analysis. All paid content, native ads, or affiliate links are clearly marked with disclosures so readers can easily distinguish them from independent reporting.
+                                Commercial partnerships or advertising deals do not guarantee favorable treatment or protect companies from critical analysis. Paid content, native ads, and affiliate links are clearly marked so readers can distinguish them from independent posts.
                             </p>
                         </section>
 

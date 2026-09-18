@@ -1,165 +1,146 @@
 {
-    "hero": {
-        "id": "tech-apple-iphone-duo",
-        "image": "/images/news/Apple Enters Foldable Phone Market With iPhone Duo as Samsung Defends Its Lead.webp",
-        "author": "Tech Desk",
-        "category": "Tech",
-        "date": "September 10, 2026",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "title": "Apple iPhone Duo Launches at $1,999 as Samsung Defends Foldable Phone Lead",
-        "slug": "apple-iphone-duo-foldable-samsung-market-2026",
-        "excerpt": "Apple has launched the $1,999 iPhone Duo, entering the foldable market as Samsung defends its lead with the Galaxy Z Fold8 and years of experience.",
-        "excerptPart2": "The new device opens into a 7.6-inch inner display and represents Apple's first entry into the premium foldable category.",
-        "firstLetter": "A"
+  "hero": {
+    "id": "tech-apple-iphone-duo",
+    "image": "/images/illustrations/apple-iphone-duo-foldable-samsung-market-2026.webp",
+    "author": "The Quest for Profit",
+    "category": "Tech",
+    "date": "September 10, 2026",
+    "readTime": "9 min read",
+    "title": "Apple iPhone Duo Launches at $1,999 as Samsung Defends Foldable Phone Lead",
+    "slug": "apple-iphone-duo-foldable-samsung-market-2026",
+    "excerpt": "Apple has launched the $1,999 iPhone Duo, entering the foldable market as Samsung defends its lead with the Galaxy Z Fold8 and years of experience.",
+    "excerptPart2": "Apple has finally entered the foldable smartphone market, unveiling the iPhone Duo in a move that could significantly reshape one of the industry's most closely watched categories. The company announced the device on September 9, 2026, making it the first foldable iPhone after years of speculation and putting Apple directly against Samsung, which has spent seven generations building its position in the category. Starting at $1,999 in the United States, the iPhone Duo is aimed squarely at the premium end of the market and will compete most directly with Samsung's latest Galaxy Z Fold8. Reuters reported that analysts expect Apple's arrival to give the relatively small foldable market a substantial boost while challenging Samsung's established leadership.",
+    "firstLetter": "A"
+  },
+  "sidebar": [
+    {
+      "id": "pol-trump-iran-sanctions",
+      "category": "Politics",
+      "date": "September 11, 2026",
+      "title": "Trump Escalates Iran Pressure With New Sanctions as Oil Prices Surge",
+      "slug": "trump-iran-new-sanctions-oil-markets-disruption-2026"
     },
-    "sidebar": [
-        {
-            "id": "pol-trump-iran-sanctions",
-            "category": "Politics",
-            "date": "September 11",
-            "title": "Trump Escalates Iran Pressure With New Sanctions as Oil Prices Surge",
-            "slug": "trump-iran-new-sanctions-oil-markets-disruption-2026"
-        },
-        {
-            "id": "pol-2",
-            "image": "/images/news/Graham Platner Controversy Raises Questions Ahead of Maine Primary.webp",
-            "author": "SARAH JENKINS",
-            "category": "POLITICS",
-            "date": "June 1, 2026",
-            "title": "Graham Platner Controversy Raises Questions Ahead of Maine Primary",
-            "slug": "maine-senate-race-graham-platner-controversy"
-        },
-        {
-            "id": "tech-meta-ai-chip-2026",
-            "category": "Tech",
-            "date": "August 4",
-            "title": "Apple May Bring iPhone Clipboard Sharing to Windows PCs With New Cross-Platform Feature",
-            "slug": "apple-iphone-clipboard-access-windows-pc-copy-paste-feature"
-        }
-    ],
-    "module7": {
-        "id": "m7",
-        "title": "Global Politics",
-        "subtitle": "WORLD AFFAIRS",
-        "articles": [
-            {
-                "category": "Politics",
-                "title": "Democratic National Committee Autopsy Report Blames Strategic Failures for Kamala Harris’s 2024 Defeat",
-                "excerpt": "The Democratic National Committee released its long-delayed report on Kamala Harris’s 2024 defeat, blaming strategic failures.",
-                "slug": "dnc-autopsy-report-kamala-harris-2024"
-            },
-            {
-                "category": "Politics",
-                "title": "Election Polling: New Data Suggests Shifting Demographics",
-                "excerpt": "The latest polling data reveals significant shifts in voter behavior, with younger demographics prioritizing climate policy over traditional economic indicators.",
-                "slug": "election-polling-demographics-shift"
-            }
-        ]
+    {
+      "id": "pol-mamdani-2026",
+      "image": "/images/illustrations/trump-venezuela-65-billion-barrels-oil-deal-2026.webp",
+      "author": "The Quest for Profit",
+      "category": "Politics",
+      "date": "August 29, 2026",
+      "title": "Trump Announces Deal Giving US Control of 65 Billion Barrels of Venezuelan Oil",
+      "slug": "trump-venezuela-65-billion-barrels-oil-deal-2026"
     },
-    "module10": {
-        "id": "m10",
-        "title": "Tech Strategist",
-        "subtitle": "EXPERT ANALYSIS",
-        "editor": {
-            "name": "Jessica Wu",
-            "posts": "310 Posts",
-            "bio": "Jessica spans the gap between complex algorithms and business outcomes, focusing on the real-world deployment of Agentic AI.",
-            "image": "/images/authors/jessica.jpg",
-            "social": [
-                {
-                    "platform": "twitter",
-                    "url": "#"
-                },
-                {
-                    "platform": "instagram",
-                    "url": "https://www.instagram.com/thequestforprofit/"
-                },
-                {
-                    "platform": "youtube",
-                    "url": "#"
-                }
-            ]
-        },
-        "recentPosts": [
-            {
-                "title": "Snapchat Introduces New Measures to Fight Low-Quality AI Content Across Its Platform",
-                "date": "August 3, 2026",
-                "image": "/images/news/Snapchat joins other popular platforms in fight against 'AI slop'.webp",
-                "category": "Tech",
-                "slug": "snapchat-crackdown-ai-slop-content-moderation-2026"
-            },
-            {
-                "id": "tech-8",
-                "slug": "trump-considers-ai-controls-openai-security-incident-2026",
-                "title": "Trump Weighs AI Controls After OpenAI Security Incident",
-                "category": "Tech",
-                "date": "July 30, 2026",
-                "author": "Tech Desk",
-                "views": "0k",
-                "readTime": "12 Mins",
-                "comments": 0,
-                "image": "/images/news/Trump Weighs AI Controls After OpenAI Security Incident.webp",
-                "excerpt": "President Donald Trump said his administration is considering new AI controls after an OpenAI security testing incident involving a rogue AI agent reignited concerns about advanced artificial intelligence safety.",
-                "tags": [
-                    "Donald Trump",
-                    "OpenAI",
-                    "artificial intelligence",
-                    "AI regulation",
-                    "Sam Altman",
-                    "cybersecurity",
-                    "AI safety",
-                    "White House",
-                    "technology policy",
-                    "AI agents"
-                ]
-            },
-            {
-                "id": "mkt-9",
-                "slug": "meta-wynn-williams-lawsuit-careless-people-silencing-2026",
-                "title": "Meta Whistleblower Sues Company Over Alleged Attempt to Silence Memoir ‘Careless People’",
-                "category": "Business",
-                "date": "June 26, 2026",
-                "author": "Michael Chen",
-                "views": "12.4k",
-                "readTime": "12 Mins",
-                "comments": 45,
-                "image": "/images/news/Meta Whistleblower Sues Company Over.webp",
-                "excerpt": "Former Meta executive Sarah Wynn-Williams has filed a lawsuit accusing the company of unlawfully attempting to silence her following her memoir Careless People, which details allegations about Facebook’s internal culture and leadership.",
-                "tags": [
-                    "Meta",
-                    "Facebook",
-                    "Sarah Wynn-Williams",
-                    "Careless People",
-                    "whistleblower",
-                    "Mark Zuckerberg",
-                    "lawsuit",
-                    "free speech",
-                    "arbitration",
-                    "Silicon Valley"
-                ]
-            },
-            {
-                "title": "Oracle Beats Revenue Estimates as AI-Driven Cloud Growth Accelerates",
-                "date": "June 11, 2026",
-                "image": "/images/news/Oracle Beats Revenue.webp",
-                "category": "Business",
-                "slug": "oracle-cloud-growth-ai-spending-q4-2026"
-            }
-        ]
-    },
-    "hotPeoples": [
-        {
-            "category": "Business",
-            "slug": "meta-school-district-mental-health-settlement",
-            "title": "Meta Platforms Settles First School District Lawsuit Over Youth Mental Health Crisis",
-            "image": "/images/news/Meta Platforms.webp"
-        },
-        {
-            "category": "Finance",
-            "slug": "senate-blocks-clarity-act-crypto-regulation-congress-2026",
-            "title": "Senate Blocks CLARITY Act as US Crypto Regulation Effort Stalls",
-            "image": "/images/news/Senate Blocks Major Crypto Bill as Digital Asset Regulation Effort Stalls in Congress.webp"
-        }
+    {
+      "id": "tech-xiaomi-18-fold",
+      "category": "Tech",
+      "date": "September 8, 2026",
+      "title": "Xiaomi 18 Fold Launches With Wide Foldable Design and XRing O3 AI Chip",
+      "slug": "xiaomi-18-fold-ifa-2026-xring-o3-ai-chip"
+    }
+  ],
+  "module7": {
+    "id": "m7",
+    "title": "Global Politics",
+    "subtitle": "WORLD AFFAIRS",
+    "articles": [
+      {
+        "category": "Politics",
+        "title": "Keir Starmer Donates His Own Biography to Historic Downing Street Library",
+        "excerpt": "Former UK Prime Minister Sir Keir Starmer has donated a biography about himself, written by former Labour adviser Tom Baldwin, to the historic Downing Street library.",
+        "slug": "starmer-donates-biography-downing-street-library-2026"
+      },
+      {
+        "category": "Politics",
+        "title": "How to Read Demographic Shifts in Election Polling",
+        "excerpt": "Subgroup polling can reveal change, but small samples, turnout assumptions and broad identity labels make precise conclusions much harder than headline comparisons suggest.",
+        "slug": "election-polling-demographics-shift"
+      }
     ]
+  },
+  "module10": {
+    "id": "m10",
+    "title": "Tech Strategist",
+    "subtitle": "EXPERT ANALYSIS",
+    "editor": {
+      "name": "The Quest for Profit",
+      "role": "Independent editorial blog",
+      "posts": "74 essays"
+    },
+    "recentPosts": [
+      {
+        "title": "How Robots and AI Are Changing the Future of Theme Parks",
+        "date": "September 4, 2026",
+        "image": "/images/illustrations/robots-future-theme-parks-ai-robotics.webp",
+        "category": "Tech",
+        "slug": "robots-future-theme-parks-ai-robotics"
+      },
+      {
+        "id": "tech-uk-ico-resigns-2026",
+        "slug": "self-flying-planes-autonomous-aircraft-future-aviation-2026",
+        "title": "Self-Flying Planes Are Coming, but Can Autonomous Aircraft Really Replace Pilots?",
+        "category": "Tech",
+        "date": "September 2, 2026",
+        "author": "The Quest for Profit",
+        "readTime": "9 min read",
+        "image": "/images/illustrations/self-flying-planes-autonomous-aircraft-future-aviation-2026.webp",
+        "excerpt": "Autonomous aircraft are moving beyond drones as companies develop self-flying planes for farming, cargo and eventually passenger travel, but safety and regulation remain major obstacles.",
+        "tags": [
+          "self-flying planes",
+          "autonomous aircraft",
+          "aviation technology",
+          "AI aviation",
+          "pilotless aircraft",
+          "Pyka",
+          "Boeing",
+          "Wisk Aero",
+          "Merlin Labs",
+          "robotics",
+          "air taxis"
+        ]
+      },
+      {
+        "id": "bus-goldman-sachs-fed-hike",
+        "slug": "goldman-sachs-september-fed-rate-hike-forecast-2026",
+        "title": "Goldman Sachs Now Expects September Fed Rate Hike as Inflation Fears Rise",
+        "category": "Business",
+        "date": "September 14, 2026",
+        "author": "The Quest for Profit",
+        "readTime": "10 min read",
+        "image": "/images/illustrations/goldman-sachs-september-fed-rate-hike-forecast-2026.webp",
+        "excerpt": "Goldman Sachs now expects the Federal Reserve to raise rates by 25 basis points in September as stronger inflation and higher oil prices reshape the outlook.",
+        "tags": [
+          "Goldman Sachs",
+          "Federal Reserve",
+          "Fed Rate Hike",
+          "US Inflation",
+          "Interest Rates",
+          "Oil Prices",
+          "Jerome Powell",
+          "Kevin Warsh",
+          "Wall Street",
+          "Monetary Policy"
+        ]
+      },
+      {
+        "title": "Novartis Shares Fall After Muscle Disease Drug Del-desiran Fails Phase 3 Trial",
+        "date": "September 8, 2026",
+        "image": "/images/illustrations/novartis-del-desiran-muscle-disease-drug-trial-failure-2026.webp",
+        "category": "Business",
+        "slug": "novartis-del-desiran-muscle-disease-drug-trial-failure-2026"
+      }
+    ]
+  },
+  "hotPeoples": [
+    {
+      "category": "Business",
+      "slug": "us-diesel-prices-all-time-high-2026",
+      "title": "US Diesel Prices Hit Record $5.85 a Gallon as Global Fuel Crisis Deepens",
+      "image": "/images/illustrations/us-diesel-prices-all-time-high-2026.webp"
+    },
+    {
+      "category": "Finance",
+      "slug": "wall-street-futures-higher-iran-hormuz-berkshire-results-markets",
+      "title": "Wall Street Futures Edge Higher as Investors Weigh Iran Demands, Hormuz Outlook and Berkshire Results",
+      "image": "/images/illustrations/wall-street-futures-higher-iran-hormuz-berkshire-results-markets.webp"
+    }
+  ]
 }

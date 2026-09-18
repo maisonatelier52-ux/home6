@@ -1,155 +1,76 @@
 import { Metadata } from "next";
+import Link from "next/link";
 import Header from "../components/layout/Header";
 import Navbar from "../components/layout/Navbar";
 import Footer from "../components/layout/Footer";
-import Image from "next/image";
 
 export const metadata: Metadata = {
-    title: "Our Authors | The Quest for Profit",
-    description: "Meet the expert journalists and contributors behind The Quest for Profit's in-depth financial analysis and market insights.",
+    title: "How We Write | The Quest for Profit",
+    description: "How The Quest for Profit researches, reviews and updates its essays and analysis.",
     openGraph: {
-        title: "Our Authors | The Quest for Profit",
-        description: "Meet the expert journalists and contributors behind The Quest for Profit's in-depth financial analysis and market insights.",
+        title: "How We Write | The Quest for Profit",
+        description: "How The Quest for Profit researches, reviews and updates its essays and analysis.",
         url: "https://www.thequestforprofit.com/authors",
         siteName: "The Quest for Profit",
-        images: [
-            {
-                url: "/images/news/markets-1.webp",
-                width: 1200,
-                height: 630,
-                alt: "The Quest for Profit Authors",
-            }
-        ],
         type: "website",
-    },
-    twitter: {
-        card: "summary_large_image",
-        title: "Our Authors | The Quest for Profit",
-        description: "Meet the expert journalists and contributors behind The Quest for Profit's in-depth financial analysis and market insights.",
-        images: ["/images/news/markets-1.webp"],
     },
 };
 
-const authors = [
+const standards = [
     {
-        name: "Jessica Wu",
-        role: "Lead Tech Strategist",
-        bio: "Jessica spans the gap between complex algorithms and business outcomes, focusing on the real-world deployment of Agentic AI and emerging technologies.",
-        image: "/images/authors/jessica.jpg",
-        email: "jessicawu123@proton.me"
+        title: "A transparent byline",
+        text: "Posts are currently published under The Quest for Profit rather than invented contributor profiles. When a named contributor is added, the byline will identify a real person and link to a verifiable biography.",
     },
     {
-        name: "Sarah Jenkins",
-        role: "Senior Political Analyst",
-        bio: "Sarah brings decades of experience covering global politics and economic policy, with a focus on central banking and fiscal strategy.",
-        image: "/images/authors/sarah.jpg",
-        email: "sarahjenkins@thequestforprofit.com"
+        title: "Claims tied to records",
+        text: "Time-sensitive posts link to relevant filings, judgments, official releases, datasets or product documentation. Broader essays point readers to credible institutions for further research.",
     },
     {
-        name: "Michael Chen",
-        role: "Economic Correspondent",
-        bio: "Michael specializes in Asian markets and global trade dynamics, providing insights into the shifting economic landscape of the 21st century.",
-        image: "/images/authors/michael.jpg",
-        email: "Michaelchen4@proton.me"
+        title: "Analysis clearly labelled",
+        text: "We distinguish explainers from analysis and avoid presenting forecasts, market reactions or allegations as settled facts. Material uncertainty belongs in the article, not in fine print.",
     },
     {
-        name: "Robert Miller",
-        role: "Political Columnist",
-        bio: "Robert delivers sharp analysis on political developments and their market implications, with expertise in regulatory frameworks and policy impact.",
-        image: "/images/authors/robert.jpg",
-        email: "Robertmiller777@proton.me"
-    },
-    {
-        name: "Alex Thorne",
-        role: "Tech Strategist",
-        bio: "Alex covers the intersection of technology and finance, from fintech disruption to cryptocurrency regulation and digital transformation.",
-        image: "/images/authors/alex.jpg",
-        email: "Alexthorne4@proton.me"
-    },
-    {
-        name: "James O'Connor",
-        role: "Wealth Management Specialist",
-        bio: "James advises some of the world's most successful families on transition and growth, covering family offices and high-net-worth strategies.",
-        image: "/images/authors/james.jpg",
-        email: "JamesOConnor4@proton.me"
-    },
-    {
-        name: "Maria Sanchez",
-        role: "Real Estate Analyst",
-        bio: "Maria provides expert coverage of global real estate markets, luxury property trends, and investment strategies for high-value assets.",
-        image: "/images/authors/maria.jpg",
-        email: "MariaSanchez126@proton.me"
-    },
-    {
-        name: "David Smith",
-        role: "Senior Policy Analyst",
-        bio: "David covers regulatory developments and their impact on markets, with deep expertise in government policy and international relations.",
-        image: "/images/authors/david.jpg",
-        email: "DavidSmith773@proton.me"
-    },
-    {
-        name: "Emily Rodriguez",
-        role: "Business Correspondent",
-        bio: "Emily reports on corporate strategy, mergers and acquisitions, and the evolving landscape of global business operations.",
-        image: "/images/authors/emily.jpg",
-        email: "Emilyrodriguez4@proton.me"
+        title: "Visible review dates",
+        text: "Every article shows when it was published and when it was last reviewed. Substantive corrections follow the process described in our corrections policy.",
     },
 ];
 
 export default function AuthorsPage() {
     return (
-        <>
-            <div className="bg-white min-h-screen">
-                <Header />
-                <Navbar />
+        <div className="min-h-screen bg-white">
+            <Header />
+            <Navbar />
+            <main className="mx-auto max-w-5xl px-6 py-14 md:py-20">
+                <div className="max-w-3xl">
+                    <p className="text-xs font-bold uppercase tracking-[0.18em] text-[#a61f2d]">Editorial transparency</p>
+                    <h1 className="mt-4 font-serif text-4xl font-bold tracking-tight text-slate-950 md:text-6xl">How we write</h1>
+                    <p className="mt-6 font-serif text-xl leading-8 text-slate-600 md:text-2xl md:leading-9">
+                        The Quest for Profit is an independent blog. Until verified contributor profiles are available, the publication itself takes responsibility for every byline.
+                    </p>
+                </div>
 
-                <section className="py-12 px-6">
-                    <div className="max-w-6xl mx-auto">
-                        <div className="flex items-center gap-2 mb-12">
-                            <h1 className="text-3xl md:text-4xl font-bold text-gray-900">Our Authors</h1>
-                            <span className="text-gray-500 text-lg">›</span>
-                        </div>
-
-                        <div className="space-y-16">
-                            {authors.map((author, index) => (
-                                <div
-                                    key={author.name}
-                                    id={author.name.toLowerCase().replace(/\s+/g, '-')}
-                                    className={`flex flex-col ${index % 2 === 0 ? "md:flex-row" : "md:flex-row-reverse"
-                                        } gap-8 items-center bg-white border border-gray-200 rounded-lg p-8 hover:shadow-lg transition-shadow`}
-                                >
-                                    <div className="w-full md:w-1/3">
-                                        <div className="relative w-48 h-48 mx-auto rounded-full overflow-hidden border-4 border-gray-200">
-                                            <Image
-                                                src={author.image}
-                                                alt={author.name}
-                                                fill
-                                                className="object-cover"
-                                            />
-                                        </div>
-                                    </div>
-                                    <div className="w-full md:w-2/3 text-center md:text-left">
-                                        <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-2">
-                                            {author.name}
-                                        </h2>
-                                        <p className="text-red-600 font-semibold mb-2">{author.role}</p>
-                                        {author.email && (
-                                            <a href={`mailto:${author.email}`} title={`Send an email to ${author.name}`} className="text-sm font-semibold text-gray-600 hover:text-red-600 transition-colors mb-4 block">
-                                                {author.email}
-                                            </a>
-                                        )}
-                                        <p className="text-base md:text-lg leading-relaxed text-gray-700">
-                                            {author.bio}
-                                        </p>
-                                    </div>
-                                </div>
-                            ))}
-                        </div>
-                    </div>
+                <section className="mt-14 grid gap-px border border-slate-300 bg-slate-300 md:grid-cols-2" aria-label="Writing standards">
+                    {standards.map((standard) => (
+                        <article key={standard.title} className="bg-white p-7 md:p-9">
+                            <h2 className="font-serif text-2xl font-bold text-slate-950">{standard.title}</h2>
+                            <p className="mt-4 text-base leading-7 text-slate-600">{standard.text}</p>
+                        </article>
+                    ))}
                 </section>
 
-                <Footer />
-            </div>
-        </>
+                <section className="mt-14 border-y border-slate-300 py-9">
+                    <h2 className="font-serif text-3xl font-bold text-slate-950">Question a claim</h2>
+                    <p className="mt-4 max-w-3xl text-base leading-7 text-slate-600">
+                        If a passage appears inaccurate, unsupported or out of date, send the article URL, the specific passage and the strongest source you have. We review correction requests against the underlying record.
+                    </p>
+                    <div className="mt-6 flex flex-wrap gap-4 text-sm font-semibold">
+                        <Link href="/contact-us" className="text-[#a61f2d] underline decoration-slate-300 underline-offset-4 hover:decoration-[#a61f2d]">Contact the editor</Link>
+                        <Link href="/source-methodology" className="text-slate-900 underline decoration-slate-300 underline-offset-4 hover:decoration-[#a61f2d]">Read our source methodology</Link>
+                        <Link href="/corrections-policy" className="text-slate-900 underline decoration-slate-300 underline-offset-4 hover:decoration-[#a61f2d]">Corrections policy</Link>
+                    </div>
+                </section>
+            </main>
+            <Footer />
+        </div>
     );
 }

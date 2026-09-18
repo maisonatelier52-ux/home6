@@ -1,48 +1,85 @@
 {
-    "id": "pol-3",
-    "slug": "election-polling-demographics-shift",
-    "title": "Election Polling: New Data Suggests Shifting Demographics",
-    "category": "Politics",
-    "date": "January 16, 2026",
-    "views": "18.2k",
-    "readTime": "6 Mins",
-    "comments": 32,
-    "image": "/images/news/politics-2.webp",
-    "tags": [
-        "#Elections",
-        "#Demographics",
-        "#Polling",
-        "#Politics"
-    ],
-    "author": {
-        "name": "Robert Miller",
-        "role": "Political Columnist",
-        "postsCount": 89,
-        "image": "/images/authors/robert.jpg",
-        "bio": "Robert Miller specializes in electoral data and the sociology of voting patterns."
+  "id": "pol-3",
+  "slug": "election-polling-demographics-shift",
+  "title": "How to Read Demographic Shifts in Election Polling",
+  "category": "Politics",
+  "date": "January 16, 2026",
+  "readTime": "2 min read",
+  "image": "/images/illustrations/election-polling-demographics-shift.webp",
+  "tags": [
+    "Polling",
+    "Elections",
+    "Demographics",
+    "Survey methods",
+    "Political analysis"
+  ],
+  "author": "The Quest for Profit",
+  "content": [
+    {
+      "type": "intro",
+      "text": "Claims that a demographic group is “moving” toward a candidate often rely on a small slice of one poll. The direction may be real, but the evidence should be tested across surveys, time and actual elections."
     },
-    "content": [
-        {
-            "type": "intro",
-            "text": "The latest polling data reveals significant shifts in voter behavior, with younger demographics prioritizing climate policy over traditional economic indicators."
-        },
-        {
-            "type": "paragraph",
-            "hasDropCap": true,
-            "text": "Recent surveys conducted across a broad cross-section of the electorate have sent shockwaves through traditional political strategist circles. For decades, the mantra of 'it's the economy, stupid' has dominated campaign playbooks. However, new data suggests that for Gen Z and Millennial voters, the definition of 'the economy' is increasingly inseparable from environmental sustainability and social equity."
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "The Climate Factor"
-        },
-        {
-            "type": "paragraph",
-            "text": "Among voters under 30, climate change has surged to the number one priority, outranking even immediate employment concerns and housing affordability. This demographic block is not just concerned about the future; they are voting based on it. Candidates who fail to articulate a robust, actionable green transition plan are seeing their support crater in urban and suburban cores."
-        },
-        {
-            "type": "paragraph",
-            "text": "Furthermore, the data shows a significant increase in political engagement among these groups. Turnout projections for the upcoming cycle are at record highs, potentially tipping the balance in several key swing districts. The old guard of political consultants is now scrambling to adapt their messaging to a more demanding and information-savvy audience."
-        }
-    ]
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Subgroups carry more uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "A poll designed to represent the whole electorate may include only a few dozen respondents from a particular age, ethnic or regional group. The uncertainty for that subgroup is therefore much larger than the headline margin of error."
+    },
+    {
+      "type": "paragraph",
+      "text": "Weighting can correct known differences between the sample and population, but it cannot create information that was never collected. Large swings in a small cross-tab should be treated as a signal to investigate, not a settled fact."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Turnout models shape the result"
+    },
+    {
+      "type": "paragraph",
+      "text": "Registered voters, likely voters and all adults are different populations. Small changes in assumptions about who will vote can move estimates even when underlying preferences are stable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Broad labels also hide variation. “Young voters” or “Latino voters” include people with different education, income, geography and political histories. A useful analysis shows those differences instead of treating identity as a single cause."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Look for confirmation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Compare polling averages, survey methods, sample sizes and question wording. Then check whether voter registration, turnout and precinct results support the interpretation once an election occurs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Demographic change is usually gradual and uneven. The most credible conclusion states the size of the evidence, the uncertainty around it and what future data would confirm or weaken the claim."
+    }
+  ],
+  "excerpt": "Subgroup polling can reveal change, but small samples, turnout assumptions and broad identity labels make precise conclusions much harder than headline comparisons suggest.",
+  "seoTitle": "How to Read Demographic Shifts in Election Polling",
+  "seoDescription": "Subgroup polling can reveal change, but small samples, turnout assumptions and broad identity labels make precise conclusions much harder than headline.",
+  "seoImageAlt": "How to Read Demographic Shifts in Election Polling — editorial illustration",
+  "datePublished": "2026-01-15",
+  "dateModified": "2026-09-17",
+  "articleType": "Explainer",
+  "keyPoints": [
+    "Subgroup polling can reveal change, but small samples, turnout assumptions and broad identity labels make precise conclusions much harder than headline comparisons suggest.",
+    "Read the underlying law, order, judgment or certified result before relying on partisan summaries.",
+    "For contested claims, compare the majority record, dissenting view and procedural status."
+  ],
+  "referenceDesk": [
+    {
+      "name": "Congress.gov legislation and records",
+      "url": "https://www.congress.gov/"
+    },
+    {
+      "name": "U.S. Supreme Court opinions",
+      "url": "https://www.supremecourt.gov/opinions/slipopinion/"
+    }
+  ],
+  "editorialNote": "Reviewed 2026-09-17. This post distinguishes reported facts from analysis and links to records readers can check. For contested claims, compare the majority record, dissenting view and procedural status."
 }

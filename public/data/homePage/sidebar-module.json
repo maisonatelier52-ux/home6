@@ -1,62 +1,62 @@
 {
-    "moduleTitle": {
-        "red": "Market",
-        "rest": "ALERTS"
+  "moduleTitle": {
+    "red": "Market",
+    "rest": "ALERTS"
+  },
+  "description": "Critical updates and real-time market movement summaries for the active trader.",
+  "items": [
+    {
+      "id": "mkt-1",
+      "date": "July 31, 2026",
+      "title": "South Korea’s KOSPI Surges as Samsung and SK Hynix Lead Record AI Chip Recovery",
+      "slug": "south-korea-kospi-rebound-samsung-sk-hynix-ai-chip-stocks",
+      "category": "Markets"
     },
-    "description": "Critical updates and real-time market movement summaries for the active trader.",
-    "items": [
-        {
-            "id": "mkt-global-markets-fed-hike",
-            "date": "September 17, 2026",
-            "title": "Global Markets Rise After Fed Rate Hike as Investors Shift Focus to Central Bank Decisions",
-            "slug": "global-markets-rise-fed-rate-hike-central-bank-decisions-2026",
-            "category": "Markets"
-        },
-        {
-            "id": "biz-1",
-            "date": "Feb 26, 2026",
-            "title": "Nvidia CEO Jensen Huang Says Markets Are Wrong About AI Threat to Software Companies",
-            "slug": "nvidia-jensen-huang-ai-software-threat-markets-wrong",
-            "category": "Business"
-        },
-        {
-            "id": "tech-1",
-            "date": "May 29, 2026",
-            "title": "Intel Launches Arc G3 Chips for Handheld Gaming PCs",
-            "slug": "intel-arc-g3-handheld-gaming-pcs",
-            "category": "Tech"
-        }
-    ],
-    "articleList": {
-        "title": {
-            "red": "Policy",
-            "rest": "BRIEFINGS"
-        },
-        "articles": [
-            {
-                "category": "Tech",
-                "title": "I Tested AI Glasses in Paris. Here's What They Got Wrong",
-                "excerpt": "A real-world test of AI-powered smart glasses in Paris revealed both impressive capabilities and notable shortcomings.",
-                "slug": "ai-glasses-paris-real-world-test"
-            },
-            {
-                "category": "Wealth",
-                "title": "Luxury Real Estate: The New Era of Sustainable Mansions",
-                "excerpt": "Ultra-high-net-worth individuals are flocking to tertiary cities and remote retreats.",
-                "slug": "luxury-real-estate-hidden-hubs"
-            },
-            {
-                "category": "Wealth",
-                "title": "The Art Market 2.0: Digital Provenance and Rarity",
-                "excerpt": "Blockchain is becoming the gold standard for tracking physical masterpieces.",
-                "slug": "art-market-digital-provenance"
-            },
-            {
-                "category": "Tech",
-                "title": "GTA 6 Goes Digital-Only as Physical Game Discs Face Uncertain Future",
-                "excerpt": "Reports that Grand Theft Auto VI will launch as a download-only title have reignited debate over whether physical game discs are nearing the end of the road.",
-                "slug": "gta-6-download-only-physical-disc-future"
-            }
-        ]
+    {
+      "id": "biz-1",
+      "date": "September 1, 2026",
+      "title": "Japanese Companies Expand in India as Businesses Reduce Dependence on China",
+      "slug": "japan-companies-india-investment-china-risks-2026",
+      "category": "Business"
+    },
+    {
+      "id": "tech-meta-ai-chip-2026",
+      "date": "September 1, 2026",
+      "title": "Bank of England Chief Warns AI Market Crash Could Spread Across Global Economy",
+      "slug": "ai-global-economic-downturn-andrew-bailey-g20-warning-2026",
+      "category": "Tech"
     }
+  ],
+  "articleList": {
+    "title": {
+      "red": "Policy",
+      "rest": "BRIEFINGS"
+    },
+    "articles": [
+      {
+        "category": "Tech",
+        "title": "NASA Launches Nancy Grace Roman Space Telescope to Study Dark Matter and Distant Worlds",
+        "excerpt": "NASA has launched the Nancy Grace Roman Space Telescope on a mission to explore dark energy, dark matter, black holes and thousands of distant planets.",
+        "slug": "nasa-roman-space-telescope-launch-2026"
+      },
+      {
+        "category": "Wealth",
+        "title": "Beyond Dubai and Monaco: The New Luxury Real Estate Hubs",
+        "excerpt": "Ultra-high-net-worth individuals are flocking to tertiary cities and remote retreats, looking for privacy and community over traditional flashiness.",
+        "slug": "luxury-real-estate-hidden-hubs"
+      },
+      {
+        "category": "Wealth",
+        "title": "Digital Provenance Can Strengthen the Art Market—But It Cannot Verify Its Own Inputs",
+        "excerpt": "A durable digital record can improve an artwork’s chain of custody, but technology cannot prove that the first attribution, ownership claim or physical match was correct.",
+        "slug": "art-market-digital-provenance"
+      },
+      {
+        "category": "Tech",
+        "title": "Electric Gardening Equipment Is Replacing Petrol Tools as Landscapers Go Greener",
+        "excerpt": "Landscaping is gradually moving from petrol-powered equipment to quieter electric tools, driven by noise restrictions, lower emissions and advances in battery technology.",
+        "slug": "electric-landscaping-gardening-tools-battery-technology"
+      }
+    ]
+  }
 }

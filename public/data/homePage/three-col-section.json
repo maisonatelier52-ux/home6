@@ -1,163 +1,163 @@
 {
-    "hero": {
-        "category": "POLITICS",
-        "title": "South Carolina Republicans Block Effort to Redraw James Clyburn District",
-        "intro": "South Carolina Republicans unexpectedly blocked a redistricting proposal that could have eliminated Democratic Congressman James Clyburn’s congressional seat, defying pressure from Donald Trump.",
-        "author": "David Smith",
-        "role": "Political Correspondent",
-        "date": "May 12, 2026",
-        "contentLeft": "The failed vote exposes deep divisions inside the GOP over aggressive mid-decade redistricting strategies.",
-        "contentRight": "Representative James Clyburn's district remains the center of a national battle over voting rights and racial representation.\n\nThe decision marks a significant setback for Trump-backed efforts to strengthen the Republican House majority.",
-        "image": "/images/news/South Carolina.webp",
-        "slug": "south-carolina-redistricting-james-clyburn"
+  "hero": {
+    "category": "Politics",
+    "title": "South Carolina Republicans Block Effort to Redraw James Clyburn District",
+    "intro": "South Carolina Republicans unexpectedly blocked a redistricting proposal that could have eliminated Democratic Congressman James Clyburn’s congressional seat, defying pressure from Donald Trump.",
+    "author": "The Quest for Profit",
+    "role": "Editorial blog",
+    "date": "May 12, 2026",
+    "contentLeft": "The failed vote exposes deep divisions inside the GOP over aggressive mid-decade redistricting strategies.",
+    "contentRight": "Representative James Clyburn's district remains the center of a national battle over voting rights and racial representation.\n\nThe decision marks a significant setback for Trump-backed efforts to strengthen the Republican House majority.",
+    "image": "/images/illustrations/south-carolina-redistricting-james-clyburn.webp",
+    "slug": "south-carolina-redistricting-james-clyburn"
+  },
+  "sportNews": {
+    "title": {
+      "red": "Market",
+      "rest": "MOVERS & SHAKERS"
     },
-    "sportNews": {
-        "title": {
-            "red": "Market",
-            "rest": "MOVERS & SHAKERS"
-        },
-        "articles": [
-            {
-                "category": "Politics",
-                "title": "Graham Platner Drops Out of Maine Senate Race After Controversy as Democrats Begin Replacement Process",
-                "excerpt": "Graham Platner has ended his Maine Senate campaign after allegations and controversy disrupted his bid, leaving Democrats racing to select a replacement candidate before the election deadline.",
-                "slug": "graham-platner-ends-maine-senate-campaign-democrats-replacement-2026"
-            },
-            {
-                "category": "Finance",
-                "title": "Excluding Well A Some Hummingbird Meticulous",
-                "excerpt": "Excluding well, some hummingbird meticulous in its approach to modern finance.",
-                "slug": "excluding-well-some"
-            },
-            {
-                "category": "Politics",
-                "title": "Federal Budget: Infrastructure Focus for 2026",
-                "excerpt": "The new budget proposal prioritizes green energy infrastructure and high-speed rail development.",
-                "slug": "federal-budget-infrastructure-2026"
-            },
-            {
-                "category": "Business",
-                "title": "Cross-Border Regulatory Alignment on AI",
-                "excerpt": "International regulators are moving towards a shared framework for AI ethics.",
-                "slug": "ai-regulatory-alignment-global"
-            }
-        ]
+    "articles": [
+      {
+        "category": "Politics",
+        "title": "Graham Platner Drops Out of Maine Senate Race After Controversy as Democrats Begin Replacement Process",
+        "excerpt": "Democratic Senate candidate Graham Platner has suspended his campaign for the U.S.",
+        "slug": "graham-platner-ends-maine-senate-campaign-democrats-replacement-2026"
+      },
+      {
+        "category": "Nature",
+        "title": "The High-Energy Economics of a Hummingbird's Day",
+        "excerpt": "A hummingbird survives on a narrow energy budget, balancing nectar intake, insect protein, temperature and the cost of hovering flight.",
+        "slug": "excluding-well-some"
+      },
+      {
+        "category": "Politics",
+        "title": "How to Read an Infrastructure Budget Beyond the Headline Number",
+        "excerpt": "A large infrastructure allocation says little on its own; delivery depends on timing, funding source, project readiness, maintenance and measurable public value.",
+        "slug": "federal-budget-infrastructure-2026"
+      },
+      {
+        "category": "Business",
+        "title": "Why Global AI Rules Will Not Become One Rulebook",
+        "excerpt": "AI regulation is converging around risk, testing and accountability, but different legal systems will continue to define those duties in different ways.",
+        "slug": "ai-regulatory-alignment-global"
+      }
+    ]
+  },
+  "coronavirus": {
+    "title": {
+      "red": "Latest",
+      "rest": "HEADLINES"
     },
-    "coronavirus": {
-        "title": {
-            "red": "Latest",
-            "rest": "HEADLINES"
-        },
-        "description": "Stay updated with real-time alerts from our global newsroom tracking the most significant economic shifts.",
-        "timeline": [
-            {
-                "time": "Jan 18, 2026",
-                "title": "Beyond Dubai and Monaco: The New Luxury Real Estate Hubs",
-                "slug": "luxury-real-estate-hidden-hubs",
-                "category": "Wealth"
-            },
-            {
-                "time": "Jan 17, 2026",
-                "title": "The Art Market 2.0: Digital Provenance and Rarity",
-                "slug": "art-market-digital-provenance",
-                "category": "Wealth"
-            },
-            {
-                "time": "Jan 17, 2026",
-                "title": "Family Office 2.0: Managing Legacy in a Turbulent Century",
-                "slug": "family-office-trends-2026",
-                "category": "Wealth"
-            },
-            {
-                "time": "Jan 04, 2026",
-                "title": "The Rise of the Zero-Emission Superyacht",
-                "slug": "luxury-yachting-sustainable-shifts",
-                "category": "Wealth"
-            }
-        ]
+    "description": "Stay updated with real-time alerts from our global newsroom tracking the most significant economic shifts.",
+    "timeline": [
+      {
+        "time": "Jan 18, 2026",
+        "title": "Beyond Dubai and Monaco: The New Luxury Real Estate Hubs",
+        "slug": "luxury-real-estate-hidden-hubs",
+        "category": "Wealth"
+      },
+      {
+        "time": "Jan 17, 2026",
+        "title": "Digital Provenance Can Strengthen the Art Market—But It Cannot Verify Its Own Inputs",
+        "slug": "art-market-digital-provenance",
+        "category": "Wealth"
+      },
+      {
+        "time": "Jan 17, 2026",
+        "title": "Family Office 2.0: Managing Legacy in a Turbulent Century",
+        "slug": "family-office-trends-2026",
+        "category": "Wealth"
+      },
+      {
+        "time": "Jan 04, 2026",
+        "title": "The Rise of the Zero-Emission Superyacht",
+        "slug": "luxury-yachting-sustainable-shifts",
+        "category": "Wealth"
+      }
+    ]
+  },
+  "culture": {
+    "title": {
+      "red": "Business",
+      "rest": "INTELLIGENCE"
     },
-    "culture": {
-        "title": {
-            "red": "Business",
-            "rest": "INTELLIGENCE"
-        },
-        "articles": [
-            {
-                "category": "Wealth",
-                "title": "Gulf Economies Face Long-Term Risks From Iran Conflict",
-                "image": "/images/news/gulf economies.webp",
-                "excerpt": "Escalating tensions involving Iran are raising concerns about long-term economic damage across Gulf nations.",
-                "slug": "gulf-economies-iran-conflict-impact"
-            },
-            {
-                "category": "Finance",
-                "title": "US Dollar Struggles Despite Rising Fed Rate Hike Bets as Yen and Euro Gain",
-                "image": "/images/news/Dollar Struggles Despite Rising Fed Rate Hike Expectations.webp",
-                "excerpt": "The US dollar is struggling despite rising expectations of a September Fed rate hike as yen strength, ECB tightening and global inflation risks limit its advantage.",
-                "slug": "dollar-struggles-fed-rate-hike-expectations-september-2026"
-            },
-            {
-                "category": "Markets",
-                "title": "OPEC+ Raises Production Targets, Oil Prices Slip and Asian Shares React to Increased Supply",
-                "image": "/images/news/Oil Prices Ease as OPEC.webp",
-                "excerpt": "Oil prices declined after OPEC+ agreed to increase production quotas, affecting crude and global equities, while Asian markets remained cautious ahead of corporate earnings releases.",
-                "slug": "oil-slips-opec-plus-output-global-markets-2026"
-            }
-        ]
+    "articles": [
+      {
+        "category": "Wealth",
+        "title": "Gulf Economies Face Long-Term Risks From Iran Conflict",
+        "image": "/images/illustrations/gulf-economies-iran-conflict-impact.webp",
+        "excerpt": "Escalating tensions involving Iran are raising concerns about long-term economic damage across Gulf nations, threatening oil markets, investment confidence, and regional stability.",
+        "slug": "gulf-economies-iran-conflict-impact"
+      },
+      {
+        "category": "Finance",
+        "title": "US Dollar Struggles Despite Rising Fed Rate Hike Bets as Yen and Euro Gain",
+        "image": "/images/illustrations/dollar-struggles-fed-rate-hike-expectations-september-2026.webp",
+        "excerpt": "The US dollar is struggling despite rising expectations of a September Fed rate hike as yen strength, ECB tightening and global inflation risks limit its advantage.",
+        "slug": "dollar-struggles-fed-rate-hike-expectations-september-2026"
+      },
+      {
+        "category": "Markets",
+        "title": "Alejandro Betancourt: The Venezuelan Oil Tycoon at the Center of Trump's Landmark Deal",
+        "image": "/images/illustrations/alejandro-betancourt-us-venezuela-oil-deal-2026.webp",
+        "excerpt": "Alejandro Betancourt has emerged as a central figure in the US-Venezuela oil agreement, putting his company at the heart of a deal covering 17 oilfields and about 65 billion barrels of reserves.",
+        "slug": "alejandro-betancourt-us-venezuela-oil-deal-2026"
+      }
+    ]
+  },
+  "module15": {
+    "title": {
+      "red": "Wealth",
+      "rest": "MANAGEMENT"
     },
-    "module15": {
-        "title": {
-            "red": "Wealth",
-            "rest": "MANAGEMENT"
-        },
-        "description": "Strategies for capital preservation and high-alpha returns in a volatile global economy.",
-        "articles": [
-            {
-                "slug": "family-office-trends-2026",
-                "title": "Family Office 2.0: Managing Legacy in a Turbulent Century",
-                "image": "/images/news/wealth-3.webp"
-            },
-            {
-                "slug": "luxury-yachting-sustainable-shifts",
-                "title": "The Rise of the Zero-Emission Superyacht",
-                "image": "/images/news/wealth-4.webp"
-            },
-            {
-                "slug": "gulf-economies-iran-conflict-impact",
-                "title": "Gulf Economies Face Long-Term Risks From Iran Conflict",
-                "image": "/images/news/gulf economies.webp"
-            },
-            {
-                "slug": "paramount-david-ellison-california-exit-warner-bros-merger-dispute-2026",
-                "title": "Paramount CEO David Ellison Threatens California Exit Over Warner Bros. Merger Dispute",
-                "image": "/images/news/Paramount CEO David Ellison Threatens California Exit Over Warner Bros. Merger Dispute.webp"
-            }
-        ]
+    "description": "Strategies for capital preservation and high-alpha returns in a volatile global economy.",
+    "articles": [
+      {
+        "slug": "family-office-trends-2026",
+        "title": "Family Office 2.0: Managing Legacy in a Turbulent Century",
+        "image": "/images/illustrations/family-office-trends-2026.webp"
+      },
+      {
+        "slug": "luxury-yachting-sustainable-shifts",
+        "title": "The Rise of the Zero-Emission Superyacht",
+        "image": "/images/illustrations/luxury-yachting-sustainable-shifts.webp"
+      },
+      {
+        "slug": "gulf-economies-iran-conflict-impact",
+        "title": "Gulf Economies Face Long-Term Risks From Iran Conflict",
+        "image": "/images/illustrations/gulf-economies-iran-conflict-impact.webp"
+      },
+      {
+        "slug": "us-canada-trade-war-impact-businesses-consumers-2026",
+        "title": "US-Canada Trade War Raises Prices and Disrupts Businesses Across Both Countries",
+        "image": "/images/illustrations/us-canada-trade-war-impact-businesses-consumers-2026.webp"
+      }
+    ]
+  },
+  "hotWeek": {
+    "title": {
+      "red": "Top",
+      "rest": "STORIES"
     },
-    "hotWeek": {
-        "title": {
-            "red": "Top",
-            "rest": "STORIES"
-        },
-        "articles": [
-            {
-                "category": "Business",
-                "title": "A Gift of Movement: Britannia Financial Group, Serpentine and the Public Legacy of Jesús Rafael Soto",
-                "image": "/images/news/Group 142.png",
-                "slug": "britannia-financial-group-supports-soto-serpentine-public-art"
-            },
-            {
-                "category": "Business",
-                "title": "Tesla China Business Sale Report Raises Questions Over Potential SpaceX Merger With Musk",
-                "image": "/images/news/Tesla Considers China Business Separation as Elon Musk’s SpaceX Merger Plans Spark Debate.webp",
-                "slug": "tesla-china-business-sale-spacex-merger-elon-musk"
-            },
-            {
-                "category": "Culture",
-                "title": "Ancient Architecture and Its Influence on Modern Design",
-                "image": "/images/clockhead.webp",
-                "slug": "ancient-architecture-modern-design"
-            }
-        ]
-    }
+    "articles": [
+      {
+        "category": "Business",
+        "title": "A Gift of Movement: Britannia Financial Group, Serpentine and the Public Legacy of Jesús Rafael Soto",
+        "image": "/images/news/Group 142.png",
+        "slug": "britannia-financial-group-supports-soto-serpentine-public-art"
+      },
+      {
+        "category": "Business",
+        "title": "Judge Rules Trump Administration Unlawfully Retaliated Against Anthropic",
+        "image": "/images/illustrations/trump-anthropic-retaliation-pentagon-ruling-2026.webp",
+        "slug": "trump-anthropic-retaliation-pentagon-ruling-2026"
+      },
+      {
+        "category": "Culture",
+        "title": "What Ancient Architecture Can—and Cannot—Teach Modern Designers",
+        "image": "/images/illustrations/ancient-architecture-modern-design.webp",
+        "slug": "ancient-architecture-modern-design"
+      }
+    ]
+  }
 }

@@ -33,7 +33,7 @@ export default function LegalPage() {
                                 Informational Use of Our Content
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800 space-y-4">
-                                The Quest for Profit publishes financial journalism, market analyses, and informational overviews. While our articles adhere to strict journalistic standards, they are provided for educational and general informational purposes only. Nothing on this website constitutes professional legal, financial, tax, or investment advice. Readers are responsible for consulting qualified professionals before making any personal financial or legal decisions.
+                                The Quest for Profit publishes essays, market analysis, commentary and informational overviews. These posts are provided for educational and general informational purposes only. Nothing on this website constitutes professional legal, financial, tax, or investment advice. Readers should consult qualified professionals before making personal financial or legal decisions.
                             </p>
                         </section>
 
@@ -43,7 +43,7 @@ export default function LegalPage() {
                                 Copyright, Quotation, and Reuse
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800 space-y-4">
-                                You are welcome to link to our reporting or quote brief excerpts with explicit, clear attribution to The Quest for Profit. Full republication, bulk reproduction, systematic scraping, or commercial utilization of our content is prohibited without prior written licensing agreements. For syndication or reproduction inquiries, please contact our administrative desk.
+                                You are welcome to link to our posts or quote brief excerpts with clear attribution to The Quest for Profit. Full republication, bulk reproduction, systematic scraping, or commercial use of our content is prohibited without prior written permission. For licensing or reproduction inquiries, contact our administrative desk.
                             </p>
                         </section>
 
@@ -53,7 +53,7 @@ export default function LegalPage() {
                                 Complaints About Accuracy, Rights, or Fairness
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800">
-                                If you believe our reporting contains a material error, infringes intellectual property, or raises a serious ethical concern, please contact us immediately. We review factual disputes through our Corrections or Right of Reply policies, while copyright or privacy concerns are handled through a dedicated review process.
+                                If you believe a post contains a material error, infringes intellectual property, or raises a serious ethical concern, please contact us. We review factual disputes through our Corrections or Right of Reply policies, while copyright and privacy concerns follow a dedicated review process.
                             </p>
                         </section>
 
@@ -101,7 +101,7 @@ export default function LegalPage() {
                                 Formal Notices and Requests
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800">
-                                All legal correspondence, rights complaints, or licensing inquiries must be sent directly to our newsroom so they can be routed to the appropriate compliance reviewer. We handle all compliance correspondence electronically via our designated public email channels.
+                                Legal correspondence, rights complaints, and licensing inquiries should be sent to the editorial team so they can be routed to the appropriate reviewer. We handle compliance correspondence through our designated public email channels.
                             </p>
                         </section>
 

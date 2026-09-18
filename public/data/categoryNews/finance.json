@@ -1,176 +1,192 @@
 [
-    {
-        "id": "dollar-struggles-fed-rate-hike-expectations-september-2026",
-        "slug": "dollar-struggles-fed-rate-hike-expectations-september-2026",
-        "title": "US Dollar Struggles Despite Rising Fed Rate Hike Bets as Yen and Euro Gain",
-        "category": "Finance",
-        "date": "September 7, 2026",
-        "author": "James O'Connor",
-        "views": "15k",
-        "readTime": "6 Mins",
-        "comments": 32,
-        "image": "/images/news/Dollar Struggles Despite Rising Fed Rate Hike Expectations.webp",
-        "excerpt": "The US dollar is struggling despite rising expectations of a September Fed rate hike as yen strength, ECB tightening and global inflation risks limit its advantage.",
-        "tags": [
-            "US Dollar",
-            "Federal Reserve",
-            "Fed Rate Hike",
-            "Forex",
-            "Yen",
-            "Euro",
-            "Interest Rates",
-            "Inflation",
-            "Currency Markets",
-            "Global Economy"
-        ]
-    },
-    {
-        "id": "fin-3",
-        "slug": "netherlands-gold-moved-london-crisis-preparedness-2026",
-        "title": "Netherlands Moves 86 Tonnes of Gold to London Amid Rising Geopolitical Risks",
-        "category": "Finance",
-        "date": "September 3, 2026",
-        "author": "Finance Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Netherlands moves billions in gold to London in 'crisis preparedness' move.webp",
-        "excerpt": "The Dutch central bank has moved 86 tonnes of gold from New York and Ottawa to London, saying the relocation will make its reserves easier to trade and deploy during a crisis.",
-        "tags": [
-            "Netherlands",
-            "gold",
-            "Dutch central bank",
-            "DNB",
-            "Bank of England",
-            "gold reserves",
-            "geopolitical risk",
-            "central banks",
-            "financial markets",
-            "crisis preparedness"
-        ]
-    },
-    {
-        "id": "fin-wall-street-slips-inflation",
-        "slug": "wall-street-slips-inflation-oil-prices-federal-reserve-outlook-september-2026",
-        "title": "Wall Street Falls as $100 Oil and Inflation Concerns Complicate Fed Rate Outlook",
-        "category": "Finance",
-        "date": "September 10, 2026",
-        "author": "Finance Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Wall Street Slips as Investors Watch Inflation Oil Prices and Federal Reserve Outlook.webp",
-        "excerpt": "Wall Street retreats as oil surges above $100, Treasury yields rise and investors await US inflation data ahead of the Federal Reserve meeting.",
-        "tags": [
-            "Wall Street",
-            "S&P 500",
-            "Dow Jones",
-            "Nasdaq",
-            "Inflation",
-            "Federal Reserve",
-            "Oil Prices",
-            "Treasury Yields",
-            "US Stocks",
-            "Stock Market"
-        ]
-    },
-    {
-        "id": "fin-trump-canada-trade-war",
-        "slug": "trump-canadian-firms-us-government-contracts-trade-war-2026",
-        "title": "Trump Targets Canadian Companies as US-Canada Trade War Escalates",
-        "category": "Finance",
-        "date": "September 9, 2026",
-        "author": "Finance Desk",
-        "views": "0k",
-        "readTime": "11 Mins",
-        "comments": 0,
-        "image": "/images/news/Trump Moves to Block Canadian Firms From US Government Contracts Amid Trade War.webp",
-        "excerpt": "Trump has ordered US agencies to remove Canadian-origin products from federal purchasing schedules, escalating the trade war beyond tariffs.",
-        "tags": [
-            "Donald Trump",
-            "Canada",
-            "US-Canada Trade War",
-            "Government Contracts",
-            "Tariffs",
-            "Trade Policy",
-            "Federal Procurement",
-            "Mark Carney",
-            "GSA",
-            "Economy"
-        ]
-    },
-    {
-        "id": "fin-senate-blocks-crypto",
-        "slug": "senate-blocks-clarity-act-crypto-regulation-congress-2026",
-        "title": "Senate Blocks CLARITY Act as US Crypto Regulation Effort Stalls",
-        "category": "Finance",
-        "date": "September 16, 2026",
-        "author": "Finance Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Senate Blocks Major Crypto Bill as Digital Asset Regulation Effort Stalls in Congress.webp",
-        "excerpt": "The US Senate failed to advance the CLARITY Act after a 50-49 vote, delaying comprehensive crypto regulation and sending Bitcoin and crypto stocks lower.",
-        "tags": [
-            "Cryptocurrency",
-            "Crypto Regulation",
-            "CLARITY Act",
-            "Bitcoin",
-            "US Senate",
-            "Digital Assets",
-            "SEC",
-            "CFTC",
-            "Coinbase",
-            "Circle"
-        ]
-    },
-    {
-        "id": "fin-7",
-        "slug": "global-markets-oil-prices-tariffs-ai-stock-volatility-july-2026",
-        "title": "Global Markets Recover Slightly as Oil Prices Ease but Tariff and AI Concerns Keep Investors Cautious",
-        "category": "Finance",
-        "date": "July 24, 2026",
-        "author": "Sarah Wu",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Global Markets Recover Slightly as Oil Prices Ease but Tariff and AI Concerns Keep Investors Cautious.webp",
-        "excerpt": "Global markets attempted to stabilize after a sharp sell-off as oil prices eased from recent highs. Investors remain focused on Trump tariffs, AI spending concerns and inflation risks.",
-        "tags": [
-            "stock market",
-            "global markets",
-            "oil prices",
-            "Trump tariffs",
-            "AI stocks",
-            "Wall Street",
-            "inflation",
-            "commodities",
-            "technology stocks"
-        ]
-    },
-    {
-        "id": "fin-8",
-        "slug": "capital-one-trump-organization-accounts-closed-anti-money-laundering-review",
-        "title": "Capital One Rejects Trump Debanking Claims, Says Account Closures Followed AML Investigation",
-        "category": "Finance",
-        "date": "August 4, 2026",
-        "author": "Tech Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Capital One Says Trump Organization Accounts Were Closed After Anti-Money Laundering Review.webp",
-        "excerpt": "Capital One says it closed more than 300 Trump Organization accounts after an anti-money laundering review, rejecting claims that the decision was politically motivated.",
-        "tags": [
-            "Donald Trump",
-            "Capital One",
-            "Trump Organization",
-            "debanking",
-            "anti-money laundering",
-            "banking regulations",
-            "Eric Trump",
-            "JPMorgan Chase",
-            "financial services",
-            "U.S. politics"
-        ]
-    }
+  {
+    "id": "fin-wall-street-slips-inflation",
+    "slug": "wall-street-slips-inflation-oil-prices-federal-reserve-outlook-september-2026",
+    "date": "September 10, 2026",
+    "category": "Finance",
+    "categories": [
+      "Finance"
+    ],
+    "title": "Wall Street Falls as $100 Oil and Inflation Concerns Complicate Fed Rate Outlook",
+    "image": "/images/illustrations/wall-street-slips-inflation-oil-prices-federal-reserve-outlook-september-2026.webp",
+    "excerpt": "Wall Street retreats as oil surges above $100, Treasury yields rise and investors await US inflation data ahead of the Federal Reserve meeting.",
+    "tags": [
+      "Wall Street",
+      "S&P 500",
+      "Dow Jones",
+      "Nasdaq",
+      "Inflation",
+      "Federal Reserve",
+      "Oil Prices",
+      "Treasury Yields",
+      "US Stocks",
+      "Stock Market"
+    ],
+    "readTime": "9 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "fin-trump-canada-trade-war",
+    "slug": "trump-canadian-firms-us-government-contracts-trade-war-2026",
+    "date": "September 9, 2026",
+    "category": "Finance",
+    "categories": [
+      "Finance"
+    ],
+    "title": "Trump Targets Canadian Companies as US-Canada Trade War Escalates",
+    "image": "/images/illustrations/trump-canadian-firms-us-government-contracts-trade-war-2026.webp",
+    "excerpt": "Trump has ordered US agencies to remove Canadian-origin products from federal purchasing schedules, escalating the trade war beyond tariffs.",
+    "tags": [
+      "Donald Trump",
+      "Canada",
+      "US-Canada Trade War",
+      "Government Contracts",
+      "Tariffs",
+      "Trade Policy",
+      "Federal Procurement",
+      "Mark Carney",
+      "GSA",
+      "Economy"
+    ],
+    "readTime": "9 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "dollar-struggles-fed-rate-hike-expectations-september-2026",
+    "slug": "dollar-struggles-fed-rate-hike-expectations-september-2026",
+    "date": "September 7, 2026",
+    "category": "Finance",
+    "categories": [
+      "Finance"
+    ],
+    "title": "US Dollar Struggles Despite Rising Fed Rate Hike Bets as Yen and Euro Gain",
+    "image": "/images/illustrations/dollar-struggles-fed-rate-hike-expectations-september-2026.webp",
+    "excerpt": "The US dollar is struggling despite rising expectations of a September Fed rate hike as yen strength, ECB tightening and global inflation risks limit its advantage.",
+    "tags": [
+      "US Dollar",
+      "Federal Reserve",
+      "Fed Rate Hike",
+      "Forex",
+      "Yen",
+      "Euro",
+      "Interest Rates",
+      "Inflation",
+      "Currency Markets",
+      "Global Economy"
+    ],
+    "readTime": "6 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "fin-3",
+    "slug": "netherlands-gold-moved-london-crisis-preparedness-2026",
+    "date": "September 3, 2026",
+    "category": "Finance",
+    "categories": [
+      "Finance"
+    ],
+    "title": "Netherlands Moves 86 Tonnes of Gold to London Amid Rising Geopolitical Risks",
+    "image": "/images/illustrations/netherlands-gold-moved-london-crisis-preparedness-2026.webp",
+    "excerpt": "The Dutch central bank has moved 86 tonnes of gold from New York and Ottawa to London, saying the relocation will make its reserves easier to trade and deploy during a crisis.",
+    "tags": [
+      "Netherlands",
+      "gold",
+      "Dutch central bank",
+      "DNB",
+      "Bank of England",
+      "gold reserves",
+      "geopolitical risk",
+      "central banks",
+      "financial markets",
+      "crisis preparedness"
+    ],
+    "readTime": "7 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "fin-nextera-dominion-2026",
+    "slug": "wall-street-futures-higher-iran-hormuz-berkshire-results-markets",
+    "date": "August 10, 2026",
+    "category": "Finance",
+    "categories": [
+      "Finance"
+    ],
+    "title": "Wall Street Futures Edge Higher as Investors Weigh Iran Demands, Hormuz Outlook and Berkshire Results",
+    "image": "/images/illustrations/wall-street-futures-higher-iran-hormuz-berkshire-results-markets.webp",
+    "excerpt": "U.S.",
+    "tags": [
+      "Wall Street",
+      "S&P 500",
+      "Nasdaq",
+      "Dow Jones",
+      "Iran",
+      "Strait of Hormuz",
+      "Berkshire Hathaway",
+      "Greg Abel",
+      "inflation",
+      "Federal Reserve",
+      "U.S. stocks",
+      "oil prices"
+    ],
+    "readTime": "7 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "fin-8",
+    "slug": "capital-one-trump-organization-accounts-closed-anti-money-laundering-review",
+    "date": "August 4, 2026",
+    "category": "Finance",
+    "categories": [
+      "Finance"
+    ],
+    "title": "Capital One Rejects Trump Debanking Claims, Says Account Closures Followed AML Investigation",
+    "image": "/images/illustrations/capital-one-trump-organization-accounts-closed-anti-money-laundering-review.webp",
+    "excerpt": "Capital One says it closed more than 300 Trump Organization accounts after an anti-money laundering review, rejecting claims that the decision was politically motivated.",
+    "tags": [
+      "Donald Trump",
+      "Capital One",
+      "Trump Organization",
+      "debanking",
+      "anti-money laundering",
+      "banking regulations",
+      "Eric Trump",
+      "JPMorgan Chase",
+      "financial services",
+      "U.S. politics"
+    ],
+    "readTime": "5 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "fin-7",
+    "slug": "global-markets-oil-prices-tariffs-ai-stock-volatility-july-2026",
+    "date": "July 24, 2026",
+    "category": "Finance",
+    "categories": [
+      "Finance"
+    ],
+    "title": "Global Markets Recover Slightly as Oil Prices Ease but Tariff and AI Concerns Keep Investors Cautious",
+    "image": "/images/illustrations/global-markets-oil-prices-tariffs-ai-stock-volatility-july-2026.webp",
+    "excerpt": "Global markets attempted to stabilize after a sharp sell-off as oil prices eased from recent highs.",
+    "tags": [
+      "stock market",
+      "global markets",
+      "oil prices",
+      "Trump tariffs",
+      "AI stocks",
+      "Wall Street",
+      "inflation",
+      "commodities",
+      "technology stocks"
+    ],
+    "readTime": "7 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  }
 ]

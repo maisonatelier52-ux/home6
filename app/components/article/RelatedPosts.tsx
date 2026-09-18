@@ -22,7 +22,7 @@ export default function RelatedPosts({ posts, category }: RelatedPostsProps) {
     return (
         <div className="pt-4 border-t border-gray-200 mt-0">
             <h2 className="text-lg font-bold font-serif text-gray-900 mb-6">
-                Related Post
+                Related Posts
             </h2>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -48,7 +48,7 @@ export default function RelatedPosts({ posts, category }: RelatedPostsProps) {
                         </h3>
 
                         <div className="text-xs text-gray-500 font-sans font-bold ">
-                            <span className="text-black">{post.author || 'Maxin Dalton'}</span>
+                            <span className="text-black">{post.author || 'Editorial Desk'}</span>
                             <span className="mx-1 text-gray-300">|</span>
                             <span>{post.date}</span>
                         </div>

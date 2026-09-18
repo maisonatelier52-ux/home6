@@ -27,11 +27,11 @@ export async function generateMetadata({ params }: CategoryPageProps) {
     const categoryImage = `/images/news/${lowerSlug}-1.webp`;
 
     return {
-        title: `${category.title} News | TQFP`,
+        title: `${category.title} Essays | TQFP`,
         description: category.description,
-        keywords: [category.title.toLowerCase(), "news", "analysis", "insights", "TQFP"],
+        keywords: [category.title.toLowerCase(), "blog", "essays", "analysis", "insights", "TQFP"],
         openGraph: {
-            title: `${category.title} News | TQFP`,
+            title: `${category.title} Essays | TQFP`,
             description: category.description,
             url: `https://www.thequestforprofit.com/${lowerSlug}`,
             siteName: 'The Quest for Profit',
@@ -40,14 +40,14 @@ export async function generateMetadata({ params }: CategoryPageProps) {
                     url: categoryImage,
                     width: 1200,
                     height: 630,
-                    alt: `${category.title} Financial News`,
+                    alt: `${category.title} essays from The Quest for Profit`,
                 }
             ],
             type: 'website',
         },
         twitter: {
             card: 'summary_large_image',
-            title: `${category.title} News | TQFP`,
+            title: `${category.title} Essays | TQFP`,
             description: category.description,
             images: [categoryImage],
         },

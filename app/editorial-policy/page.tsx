@@ -46,7 +46,7 @@ export default function EditorialPolicyPage() {
                                 Editorial Independence
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800">
-                                Our coverage is never for sale. We reject any compensation, privileges, or third-party pressure aimed at shaping our reporting. The decisions of our editors and contributors are completely autonomous, insulated from governmental, corporate, or partisan interference. Partnerships, sponsorships, and advertisements do not influence or dictate our content.
+                                Our editorial judgment is never for sale. We reject any compensation, privileges, or third-party pressure aimed at shaping what we publish. The decisions of our editors and contributors are autonomous and insulated from governmental, corporate, or partisan interference. Partnerships, sponsorships, and advertisements do not influence or dictate our content.
                             </p>
                         </section>
 
@@ -81,7 +81,7 @@ export default function EditorialPolicyPage() {
                             <ul className="space-y-4 mb-6 text-gray-800 text-base md:text-lg">
                                 <li className="flex items-start gap-3">
                                     <Check className="w-5 h-5 mt-1 text-green-600 flex-shrink-0" />
-                                    <span>Strictly separating breaking news, commentary, and market analysis.</span>
+                                    <span>Clearly labeling essays, commentary, explainers, and market analysis.</span>
                                 </li>
                                 <li className="flex items-start gap-3">
                                     <Check className="w-5 h-5 mt-1 text-green-600 flex-shrink-0" />
@@ -89,11 +89,11 @@ export default function EditorialPolicyPage() {
                                 </li>
                                 <li className="flex items-start gap-3">
                                     <Check className="w-5 h-5 mt-1 text-green-600 flex-shrink-0" />
-                                    <span>Using a &quot;The Quest for Profit Desk&quot; byline for team-based or corporate reporting.</span>
+                                    <span>Using a &quot;The Quest for Profit Desk&quot; byline for posts developed collaboratively.</span>
                                 </li>
                                 <li className="flex items-start gap-3">
                                     <Check className="w-5 h-5 mt-1 text-green-600 flex-shrink-0" />
-                                    <span>Plainly identifying sponsored posts, affiliate links, and promotional articles so they are never confused with independent journalism.</span>
+                                    <span>Plainly identifying sponsored posts, affiliate links, and promotional articles so they are never confused with independent editorial work.</span>
                                 </li>
                             </ul>
                         </section>
@@ -104,7 +104,7 @@ export default function EditorialPolicyPage() {
                                 Disclosure and Labeling
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800">
-                                We believe in highlighting potential conflicts of interest. Any financial associations, including advertisements, affiliate revenue, or promotional material, will be explicitly labeled and kept structurally separate from our core news output.
+                                We believe in highlighting potential conflicts of interest. Any financial associations, including advertisements, affiliate revenue, or promotional material, will be explicitly labeled and kept structurally separate from our independent posts.
                             </p>
                         </section>
 
@@ -135,7 +135,7 @@ export default function EditorialPolicyPage() {
                                 Reader Feedback and Accountability
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800 mb-6">
-                                Healthy reporting thrives on active communication. We welcome reader input, queries, and editorial corrections.
+                                Thoughtful publishing improves through active communication. We welcome reader input, questions, and editorial corrections.
                             </p>
                             <div className="flex items-center gap-2 text-gray-800 text-base md:text-lg">
                                 <Mail className="w-5 h-5 text-red-600" />

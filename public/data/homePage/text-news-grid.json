@@ -1,36 +1,36 @@
 {
-    "textNews": [
-        {
-            "id": "tech-5",
-            "categories": [
-                "Tech"
-            ],
-            "title": "US Warns Siemens Industrial Devices Are Being Targeted as Water Infrastructure Faces Cyber Threats",
-            "slug": "us-warning-siemens-devices-water-infrastructure-cyberattacks-2026"
-        },
-        {
-            "id": "tech-bezos-ai-2026",
-            "categories": [
-                "Tech"
-            ],
-            "title": "Jeff Bezos Predicts AI Will Lead to Worker Shortages, Not Job Losses",
-            "slug": "jeff-bezos-ai-labor-shortages-vivatech-2026"
-        },
-        {
-            "id": "mkt-smartbird-2026",
-            "categories": [
-                "Markets"
-            ],
-            "title": "Oil Markets React After U.S. Strikes Iran as Traders Watch Strait of Hormuz Risks",
-            "slug": "oil-prices-us-strikes-iran-strait-hormuz-energy-markets-2026"
-        },
-        {
-            "id": "mkt-3",
-            "categories": [
-                "Markets"
-            ],
-            "title": "US and Japan Take Coordinated Action to Stabilize Yen Amid Currency Volatility",
-            "slug": "us-japan-joint-yen-intervention-2026"
-        }
-    ]
+  "textNews": [
+    {
+      "id": "tech-5",
+      "categories": [
+        "Tech"
+      ],
+      "title": "US Warns Siemens Industrial Devices Are Being Targeted as Water Infrastructure Faces Cyber Threats",
+      "slug": "us-warning-siemens-devices-water-infrastructure-cyberattacks-2026"
+    },
+    {
+      "id": "mkt-google-finland-nuclear",
+      "categories": [
+        "Tech"
+      ],
+      "title": "Google to Invest $15 Billion in Finland AI Infrastructure With 22-Year Nuclear Power Deal",
+      "slug": "google-15-billion-finland-ai-infrastructure-nuclear-power-deal"
+    },
+    {
+      "id": "oil-gas-prices-surge-iran-war-global-energy-supply-fears",
+      "categories": [
+        "Markets"
+      ],
+      "title": "Oil Prices Near $100 as Iran War Disrupts Global Energy Supplies",
+      "slug": "oil-gas-prices-surge-iran-war-global-energy-supply-fears"
+    },
+    {
+      "id": "mkt-3",
+      "categories": [
+        "Markets"
+      ],
+      "title": "US and Japan Take Coordinated Action to Stabilize Yen Amid Currency Volatility",
+      "slug": "us-japan-joint-yen-intervention-2026"
+    }
+  ]
 }

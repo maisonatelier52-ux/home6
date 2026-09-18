@@ -294,8 +294,8 @@ export function getAutomatedHomeData() {
                 title: "Expert Analysis",
                 subtitle: "TRENDING NOW",
                 editor: {
-                    name: "Jessica Wu",
-                    posts: "310 Posts",
+                    name: "The Quest for Profit",
+                    posts: "74 essays",
                     bio: "Jessica spans the gap between complex algorithms and business outcomes, focusing on the real-world deployment of Agentic AI.",
                     image: "/images/authors/jessica.jpg",
                     social: [

@@ -13,16 +13,16 @@ interface ContentBlock {
 
 interface ArticleBodyProps {
     image: string;
-    content: ContentBlock[] | string;
+    content: Array<ContentBlock | string> | string;
     imageAlt?: string;
 }
 
 export default function ArticleBody({ image, content, imageAlt }: ArticleBodyProps) {
     return (
-        <div className="max-w-3xl text-gray-800 font-serif leading-[1.8] text-[17px] md:text-lg">
+        <article className="max-w-3xl font-serif text-[18px] leading-[1.85] text-slate-800 md:text-[19px]">
             {/* Feature Image */}
             <div className="w-full mb-8">
-                <div className="relative w-full h-auto min-h-[300px] md:h-[450px] rounded-sm overflow-hidden shadow-sm">
+                <div className="relative aspect-[16/10] w-full overflow-hidden bg-slate-100">
                     <Image
                         src={image}
                         alt={imageAlt || "Article Feature"}
@@ -41,26 +41,33 @@ export default function ArticleBody({ image, content, imageAlt }: ArticleBodyPro
                 />
             ) : (
                 content.map((block, index) => {
+                    if (typeof block === 'string') {
+                        return (
+                            <p key={index} className={index === 0 ? "mb-8 text-xl font-semibold leading-8 text-slate-950" : "mb-7"}>
+                                {block}
+                            </p>
+                        );
+                    }
                     switch (block.type) {
                         case 'intro':
                             return (
-                                <p key={index} className="text-xl md:text-2xl font-bold text-gray-900 leading-relaxed mb-8 tracking-tight">
+                                <p key={index} className="mb-9 border-l-4 border-[#a61f2d] pl-5 font-serif text-xl font-semibold leading-8 text-slate-950 md:text-2xl md:leading-9">
                                     {block.text}
                                 </p>
                             );
 
                         case 'paragraph':
                             return (
-                                <div key={index} className="mb-6">
+                                <div key={index} className="mb-7">
                                     {block.hasDropCap ? (
                                         <p>
-                                            <span className="float-left text-6xl leading-[0.8] font-serif font-bold text-gray-900 mr-4 mt-2">
+                                            <span className="float-left mr-3 mt-2 font-serif text-6xl font-bold leading-[0.8] text-[#a61f2d]">
                                                 {block.text?.charAt(0)}
                                             </span>
                                             <span dangerouslySetInnerHTML={{ __html: block.text?.substring(1) || '' }} />
                                         </p>
                                     ) : (
-                                        <p className='text-[16px]' dangerouslySetInnerHTML={{ __html: block.text || '' }} />
+                                        <p dangerouslySetInnerHTML={{ __html: block.text || '' }} />
                                     )}
                                     {block.image && (
                                         <div className="relative w-full h-auto min-h-[250px] md:h-[400px] my-8 rounded-sm overflow-hidden shadow-sm">
@@ -79,33 +86,25 @@ export default function ArticleBody({ image, content, imageAlt }: ArticleBodyPro
                             const Level = `h${block.level || 2}` as React.ElementType;
                             const sizes: Record<number, string> = {
                                 1: "text-3xl md:text-4xl",
-                                2: "text-lg md:text-2xl",
-                                3: "text-xl md:text-xl",
+                                2: "text-2xl md:text-3xl",
+                                3: "text-xl md:text-2xl",
                                 4: "text-lg md:text-xl",
                                 5: "text-base md:text-lg",
                                 6: "text-sm md:text-base"
                             };
                             
-                            // Calculate heading index
-                            const headingIndex = Array.isArray(content) 
-                                ? content.slice(0, index + 1).filter(b => b.type === 'heading').length 
-                                : 0;
-                                
                             return (
-                                <Level key={index} className={`${sizes[block.level || 2]} font-medium text-black tracking-tight mt-10 mb-4 font-serif flex items-center gap-3`}>
-                                    <span className="flex items-center justify-center w-8 h-8 rounded-full bg-[#B22222] text-white text-base font-sans shrink-0">
-                                        {headingIndex}
-                                    </span>
-                                    <span>{block.text}</span>
+                                <Level key={index} className={`${sizes[block.level || 2]} mb-5 mt-12 border-t border-slate-300 pt-5 font-serif font-bold leading-tight tracking-tight text-slate-950`}>
+                                    {block.text}
                                 </Level>
                             );
 
                         case 'quote':
                             return (
-                                <blockquote key={index} className="border-l-4 border-red-300 bg-gray-900 pl-6 pr-4 py-6 my-10 italic text-white text-xl md:text-2xl tracking-wide rounded-r-sm font-semibold shadow-sm">
-                                    <span className="text-4xl text-red-500 leading-none mr-2 font-serif">"</span>
+                                <blockquote key={index} className="my-10 border-y border-slate-300 py-7 font-serif text-xl font-semibold italic leading-8 text-slate-900 md:text-2xl md:leading-9">
+                                    <span className="mr-2 font-serif text-4xl leading-none text-[#a61f2d]">“</span>
                                     {block.text}
-                                    <span className="text-4xl text-red-500 leading-none ml-2 font-serif">"</span>
+                                    <span className="ml-2 font-serif text-4xl leading-none text-[#a61f2d]">”</span>
                                 </blockquote>
                             );
 
@@ -147,6 +146,6 @@ export default function ArticleBody({ image, content, imageAlt }: ArticleBodyPro
                     }
                 })
             )}
-        </div>
+        </article>
     );
 }

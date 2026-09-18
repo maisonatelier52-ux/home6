@@ -1,630 +1,594 @@
 [
-    {
-        "slug": "anthony-fauci-contempt-of-congress-vote-rand-paul-covid-investigation",
-        "title": "Senate Panel Moves Toward Contempt Vote Against Anthony Fauci Over COVID Hearing Dispute",
-        "shortdescription": "A Senate panel is moving toward a contempt vote against Anthony Fauci after he declined to answer questions during a COVID-19 investigation, escalating a political battle over pandemic response.",
-        "category": "Politics",
-        "author": "Tech Desk",
-        "date": "August 6, 2026"
-    },
-    {
-        "slug": "apple-iphone-duo-foldable-samsung-market-2026",
-        "title": "Apple iPhone Duo Launches at $1,999 as Samsung Defends Foldable Phone Lead",
-        "shortdescription": "Apple has launched the $1,999 iPhone Duo, entering the foldable market as Samsung defends its lead with the Galaxy Z Fold8 and years of experience.",
-        "category": "Tech",
-        "author": "Tech Desk",
-        "date": "September 10, 2026"
-    },
-    {
-        "slug": "japan-companies-india-investment-china-risks-2026",
-        "title": "Japanese Companies Expand in India as Businesses Reduce Dependence on China",
-        "shortdescription": "Japanese companies are expanding investment in India as geopolitical tensions, supply-chain concerns and rising business risks in China push firms to diversify across Asia.",
-        "category": "Business",
-        "author": "Business Desk",
-        "date": "September 1, 2026"
-    },
-    {
-        "slug": "ebay-56-million-settlement-blogger-harassment-lawsuit-2026",
-        "title": "eBay to Pay $56 Million to Settle Lawsuit Over Cyberstalking of EcommerceBytes Publishers",
-        "shortdescription": "eBay and three former executives have agreed to pay $55.7 million to settle a lawsuit brought by the publishers of EcommerceBytes, ending a years-long legal battle over a shocking cyberstalking and harassment campaign.",
-        "category": "Business",
-        "author": "Business Desk",
-        "date": "July 29, 2026"
-    },
-    {
-        "slug": "ai-regulatory-alignment-global",
-        "title": "Cross-Border Regulatory Alignment on AI",
-        "shortdescription": "International regulators are moving towards a shared framework for AI ethics and safety to prevent market fragmentation and ensure responsible deployment.",
-        "category": "Business",
-        "author": "Jessica Wu",
-        "date": "January 8, 2026"
-    },
-    {
-        "slug": "ancient-architecture-modern-design",
-        "title": "Ancient Architecture and Its Influence on Modern Design",
-        "shortdescription": "The majestic bridges and temples of ancient civilizations continue to inspire architects today.",
-        "category": "Culture",
-        "author": "Maxin Dalton",
-        "date": "January 9, 2026"
-    },
-    {
-        "slug": "art-market-digital-provenance",
-        "title": "The Art Market 2.0: Digital Provenance and Rarity",
-        "shortdescription": "Blockchain isn't just for digital art; it's becoming the gold standard for tracking physical masterpieces, reducing fraud and increasing liquidity.",
-        "category": "Wealth",
-        "author": "David Smith",
-        "date": "January 17, 2026"
-    },
-    {
-        "slug": "playstation-pulse-pulse-edge-wireless-headsets-ps5-2026",
-        "title": "Sony Refreshes PS5 Audio Lineup With New Pulse and Pulse Edge Wireless Headsets",
-        "shortdescription": "Sony has unveiled new PlayStation Pulse and Pulse Edge wireless headsets with planar magnetic drivers, AI noise rejection and PlayStation Link.",
-        "category": "Tech",
-        "author": "Tech Desk",
-        "date": "September 16, 2026"
-    },
-    {
-        "slug": "global-markets-slide-trump-tariffs-oil-ai-stock-selloff-july-2026",
-        "title": "Global Markets Slide as Trump Tariffs, Oil Surge and AI Stock Sell-Off Shake Investor Confidence",
-        "shortdescription": "Global markets declined as investors reacted to new Trump tariffs, rising oil prices, AI stock volatility and growing concerns over inflation and interest rates. Asian exporters including Japan and South Korea faced heavy losses.",
-        "category": "Markets",
-        "author": "Sarah Jenkins",
-        "date": "July 24, 2026"
-    },
-    {
-        "slug": "capturing-essence-street-life",
-        "title": "Capturing the Essence of Street Life through Lense",
-        "shortdescription": "Street photography is more than just taking pictures of people in public. It's about capturing a moment, a look, or an interaction.",
-        "category": "Culture",
-        "author": "Maxin Dalton",
-        "date": "January 16, 2026"
-    },
-    {
-        "slug": "us-japan-joint-yen-intervention-2026",
-        "title": "US and Japan Take Coordinated Action to Stabilize Yen Amid Currency Volatility",
-        "shortdescription": "The United States and Japan have taken the rare step of coordinating action to support the Japanese yen, highlighting growing concerns over currency volatility and its impact on global financial markets.",
-        "category": "Markets",
-        "author": "Alex Thorne",
-        "date": "August 3, 2026"
-    },
-    {
-        "slug": "south-carolina-redistricting-james-clyburn",
-        "title": "South Carolina Republicans Block Effort to Redraw James Clyburn District",
-        "shortdescription": "South Carolina Republicans blocked a Trump-backed redistricting proposal targeting Congressman James Clyburn’s district, exposing divisions inside the GOP.",
-        "category": "Politics",
-        "author": "David Smith",
-        "date": "May 12, 2026"
-    },
-    {
-        "slug": "election-polling-demographics-shift",
-        "title": "Election Polling: New Data Suggests Shifting Demographics",
-        "shortdescription": "The latest polling data reveals significant shifts in voter behavior, with younger demographics prioritizing climate policy over traditional economic indicators.",
-        "category": "Politics",
-        "author": "Robert Miller",
-        "date": "January 16, 2026"
-    },
-    {
-        "slug": "graham-platner-ends-maine-senate-campaign-democrats-replacement-2026",
-        "title": "Graham Platner Drops Out of Maine Senate Race After Controversy as Democrats Begin Replacement Process",
-        "shortdescription": "Graham Platner has ended his Maine Senate campaign after allegations and controversy disrupted his bid, leaving Democrats racing to select a replacement candidate before the election deadline.",
-        "category": "Politics",
-        "author": "Sarah Jenkins",
-        "date": "July 9, 2026"
-    },
-    {
-        "slug": "excluding-well-some",
-        "title": "Excluding Well A Some Hummingbird Meticulous",
-        "shortdescription": "Excluding well, some hummingbird meticulous in its approach to finance.",
-        "category": "Finance",
-        "author": "Maxin Dalton",
-        "date": "January 5, 2026"
-    },
-    {
-        "slug": "family-office-trends-2026",
-        "title": "Family Office 2.0: Managing Legacy in a Turbulent Century",
-        "shortdescription": "The multi-generational transfer of wealth is facing new challenges, from ESG requirements to the complexities of digital asset inheritance.",
-        "category": "Wealth",
-        "author": "James O'Connor",
-        "date": "January 17, 2026"
-    },
-    {
-        "slug": "federal-budget-infrastructure-2026",
-        "title": "Federal Budget: Infrastructure Focus for 2026",
-        "shortdescription": "The new budget proposal prioritizes green energy infrastructure and high-speed rail development across major corridors, signaling a shift in national priorities.",
-        "category": "Politics",
-        "author": "Sarah Jenkins",
-        "date": "January 18, 2026"
-    },
-    {
-        "slug": "wall-street-slips-inflation-oil-prices-federal-reserve-outlook-september-2026",
-        "title": "Wall Street Falls as $100 Oil and Inflation Concerns Complicate Fed Rate Outlook",
-        "shortdescription": "Wall Street retreats as oil surges above $100, Treasury yields rise and investors await US inflation data ahead of the Federal Reserve meeting.",
-        "category": "Finance",
-        "author": "Finance Desk",
-        "date": "September 10, 2026"
-    },
-    {
-        "id": "tech-uk-ico-resigns-2026",
-        "slug": "self-flying-planes-autonomous-aircraft-future-aviation-2026",
-        "title": "Self-Flying Planes Are Coming, but Can Autonomous Aircraft Really Replace Pilots?",
-        "category": "Tech",
-        "date": "September 2, 2026",
-        "author": "Tech Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Will self-flying planes transform the skies.webp",
-        "excerpt": "Autonomous aircraft are moving beyond drones as companies develop self-flying planes for farming, cargo and eventually passenger travel, but safety and regulation remain major obstacles.",
-        "tags": [
-            "self-flying planes",
-            "autonomous aircraft",
-            "aviation technology",
-            "AI aviation",
-            "pilotless aircraft",
-            "Pyka",
-            "Boeing",
-            "Wisk Aero",
-            "Merlin Labs",
-            "robotics",
-            "air taxis"
-        ]
-    },
-    {
-        "slug": "trump-venezuela-65-billion-barrels-oil-deal-2026",
-        "title": "Trump Announces Deal Giving US Control of 65 Billion Barrels of Venezuelan Oil",
-        "shortdescription": "Donald Trump says the US has secured majority control of more than 65 billion barrels of Venezuela's proven oil reserves in a landmark deal involving private investment and efforts to rebuild the country's oil industry.",
-        "category": "Politics",
-        "author": "Political Desk",
-        "date": "August 29, 2026"
-    },
-    {
-        "slug": "google-15-billion-finland-ai-infrastructure-nuclear-power-deal",
-        "title": "Google to Invest $15 Billion in Finland AI Infrastructure With 22-Year Nuclear Power Deal",
-        "shortdescription": "Google will invest at least €13 billion in Finnish AI infrastructure while securing nuclear and renewable power as data-centre energy demand surges.",
-        "category": "Markets",
-        "author": "Tech Desk",
-        "date": "September 9, 2026"
-    },
-    {
-        "slug": "us-warning-siemens-devices-water-infrastructure-cyberattacks-2026",
-        "title": "US Warns Siemens Industrial Devices Are Being Targeted as Water Infrastructure Faces Cyber Threats",
-        "shortdescription": "US agencies warn that Siemens industrial control devices used in water systems and critical infrastructure are being targeted by hackers amid fears of escalating cyberattacks.",
-        "category": "Tech",
-        "author": "Tech Desk",
-        "date": "August 20, 2026"
-    },
-    {
-        "slug": "heared-opposite-around",
-        "title": "Heared Opposite Then Around But A Heinous Square Amphibisly",
-        "shortdescription": "Hearing the opposite then around, a heinous square amphibiously approaches.",
-        "category": "Culture",
-        "author": "Maxin Dalton",
-        "date": "January 14, 2026"
-    },
-    {
-        "slug": "incongruous-jeepers-jellyfish",
-        "title": "Incongruous Jeepers Jellyfish One Far Well Known",
-        "shortdescription": "One aside wombat delicate caterpillar babbled much some broke capitally darn far awakened ravenously-wallaby krill a far in circa considering and shrewd gosh spluttered.",
-        "category": "Culture",
-        "author": "Maxin Dalton",
-        "date": "January 12, 2026"
-    },
-    {
-        "slug": "gulf-economies-iran-conflict-impact",
-        "title": "Gulf Economies Face Long-Term Risks From Iran Conflict",
-        "shortdescription": "Escalating tensions involving Iran are raising concerns about long-term economic damage across Gulf nations, threatening oil markets and regional stability.",
-        "category": "Wealth",
-        "author": "Maria Sanchez",
-        "date": "May 7, 2026"
-    },
-    {
-        "slug": "luxury-real-estate-hidden-hubs",
-        "title": "Beyond Dubai and Monaco: The New Luxury Real Estate Hubs",
-        "shortdescription": "Ultra-high-net-worth individuals are flocking to tertiary cities and remote retreats, looking for privacy and community over traditional flashiness.",
-        "category": "Wealth",
-        "author": "Maria Sanchez",
-        "date": "January 18, 2026"
-    },
-    {
-        "slug": "luxury-yachting-sustainable-shifts",
-        "title": "The Rise of the Zero-Emission Superyacht",
-        "shortdescription": "Hydrogen fuel cells and high-tech sails are transforming the world's most exclusive shipyards as the elite look to reduce their carbon wake.",
-        "category": "Wealth",
-        "author": "Robert Miller",
-        "date": "January 4, 2026"
-    },
-    {
-        "slug": "johnson-johnson-5-5bn-baby-powder-lawsuit-settlement-2026",
-        "title": "Johnson & Johnson Agrees to $5.5 Billion Talc Settlement to Resolve Baby Powder Cancer Claims",
-        "shortdescription": "Johnson & Johnson has agreed to pay up to $5.5 billion to settle tens of thousands of lawsuits alleging its talc-based baby powder caused ovarian cancer, marking a major step toward ending years of litigation.",
-        "category": "Business",
-        "author": "Business Desk",
-        "date": "July 28, 2026"
-    },
-    {
-        "slug": "dollar-holds-gains-middle-east-energy-shock-inflation-fed-2026",
-        "title": "US Dollar Holds Gains as Oil Surge Raises Inflation and Fed Rate Hike Bets",
-        "shortdescription": "The US dollar holds near a one-week high as surging oil prices fuel inflation fears, lift Treasury yields and increase Fed rate hike expectations.",
-        "category": "Markets",
-        "author": "Tech Desk",
-        "date": "September 11, 2026"
-    },
-    {
-        "slug": "netherlands-gold-moved-london-crisis-preparedness-2026",
-        "title": "Netherlands Moves 86 Tonnes of Gold to London Amid Rising Geopolitical Risks",
-        "shortdescription": "The Dutch central bank has moved 86 tonnes of gold from New York and Ottawa to London, saying the relocation will make its reserves easier to trade and deploy during a crisis.",
-        "category": "Finance",
-        "author": "Finance Desk",
-        "date": "September 3, 2026"
-    },
-    {
-        "slug": "dollar-struggles-fed-rate-hike-expectations-september-2026",
-        "title": "US Dollar Struggles Despite Rising Fed Rate Hike Bets as Yen and Euro Gain",
-        "shortdescription": "The US dollar is struggling despite rising expectations of a September Fed rate hike as yen strength, ECB tightening and global inflation risks limit its advantage.",
-        "category": "Finance",
-        "author": "James O'Connor",
-        "date": "September 7, 2026"
-    },
-    {
-        "slug": "xiaomi-18-fold-ifa-2026-xring-o3-ai-chip",
-        "title": "Xiaomi 18 Fold Launches With Wide Foldable Design and XRing O3 AI Chip",
-        "shortdescription": "Xiaomi's 18 Fold combines a wider foldable design, XRing O3 AI processor, 6,000mAh battery and Leica cameras as competition intensifies.",
-        "category": "Tech",
-        "author": "Tech Desk",
-        "date": "September 8, 2026"
-    },
-    {
-        "slug": "robots-future-theme-parks-ai-robotics",
-        "title": "How Robots and AI Are Changing the Future of Theme Parks",
-        "shortdescription": "Robots are moving beyond rides and animatronics as Disney and other theme-park operators explore AI, autonomous characters and robotic entertainment.",
-        "category": "Tech",
-        "author": "Tech Desk",
-        "date": "September 4, 2026"
-    },
-    {
-        "slug": "trump-canadian-firms-us-government-contracts-trade-war-2026",
-        "title": "Trump Targets Canadian Companies as US-Canada Trade War Escalates",
-        "shortdescription": "Trump has ordered US agencies to remove Canadian-origin products from federal purchasing schedules, escalating the trade war beyond tariffs.",
-        "category": "Finance",
-        "author": "Finance Desk",
-        "date": "September 9, 2026"
-    },
-    {
-        "slug": "britannia-financial-group-supports-soto-serpentine-public-art",
-        "title": "A Gift of Movement: Britannia Financial Group, Serpentine and the Public Legacy of Jesús Rafael Soto",
-        "shortdescription": "Britannia Financial Group supports Jesús Rafael Soto's Pénétrable BBL Jaune at Serpentine South, bringing a landmark work of kinetic art into Kensington Gardens.",
-        "category": "Business",
-        "author": "Business Desk",
-        "date": "July 15, 2026"
-    },
-    {
-        "slug": "continental-resources-venezuela-oil-investment-foreign-capital-2026",
-        "title": "Continental Resources Signs Venezuela Oil Deal as Foreign Investment Returns to Energy Sector",
-        "shortdescription": "Continental Resources signs a deal with PDVSA to develop Venezuela's Ayacucho 2 block as Caracas opens its oil industry to new foreign investment.",
-        "category": "Business",
-        "author": "Business Desk",
-        "date": "September 17, 2026"
-    },
-    {
-        "slug": "supreme-court-birthright-citizenship-trump-ruling-2026",
-        "title": "US Supreme Court Rules Against Trump on Birthright Citizenship, Reaffirms Constitutional Protections",
-        "shortdescription": "The U.S. Supreme Court has rejected President Donald Trump’s executive order restricting birthright citizenship, reaffirming the 14th Amendment and long-standing precedent granting citizenship to those born on U.S. soil.",
-        "category": "Politics",
-        "author": "Emily Rodriguez",
-        "date": "July 1, 2026"
-    },
-    {
-        "slug": "us-venezuela-oil-deal-65-billion-barrels-2026",
-        "title": "US-Venezuela Oil Deal Gives American-Led Group 100-Year Access to 65 Billion Barrels",
-        "shortdescription": "A sweeping US-Venezuela oil agreement grants a US-led company 100-year concessions over 17 oilfields, promising billions in investment while raising concerns over sovereignty, timing and economic returns.",
-        "category": "Business",
-        "author": "Business Desk",
-        "date": "September 2, 2026"
-    },
-    {
-        "slug": "subtle-art-cultural-expression",
-        "title": "The Subtle Art of Cultural Expression in Modern Era",
-        "shortdescription": "Deep within the heart of the city lies a secret garden that only the locals know. It's a place where time seems to stand still.",
-        "category": "Culture",
-        "author": "Maxin Dalton",
-        "date": "January 4, 2026"
-    },
-    {
-        "slug": "us-canada-trade-war-impact-businesses-consumers-2026",
-        "title": "US-Canada Trade War Raises Prices and Disrupts Businesses Across Both Countries",
-        "shortdescription": "The escalating US-Canada trade war is raising costs, disrupting supply chains and forcing businesses on both sides of the border to rethink investment, sourcing and trade plans.",
-        "category": "Business",
-        "author": "Business Desk",
-        "date": "August 31, 2026"
-    },
-    {
-        "slug": "global-markets-rise-fed-rate-hike-central-bank-decisions-2026",
-        "title": "Global Markets Rise After Fed Rate Hike as Investors Shift Focus to Central Bank Decisions",
-        "shortdescription": "Global markets edge higher after the Fed raised rates to 3.75%-4.00%, while investors turn to Bank of England and Bank of Japan decisions.",
-        "category": "Markets",
-        "author": "Markets Desk",
-        "date": "September 17, 2026"
-    },
-    {
-        "slug": "timmediately-quail-was-inverse",
-        "title": "Timmediately Quail Was Inverse Much So Remade Dimly Salmon",
-        "shortdescription": "Within spread beside the ouch sulky and this wonderfully and as the well and where supply much hyena so tolerantly recast hawk darn woodpecker less more then around but a due so well and where supply much.",
-        "category": "Culture",
-        "author": "Maxin Dalton",
-        "date": "January 19, 2026"
-    },
-    {
-        "slug": "trump-iran-new-sanctions-oil-markets-disruption-2026",
-        "title": "Trump Escalates Iran Pressure With New Sanctions as Oil Prices Surge",
-        "shortdescription": "The Trump administration is expanding sanctions on Iran and its proxy networks as the conflict disrupts oil supplies and keeps global energy markets under pressure.",
-        "category": "Politics",
-        "author": "Sarah Jenkins",
-        "date": "September 11, 2026"
-    },
-    {
-        "slug": "traditional-music-globalized-world",
-        "title": "Traditional Music in the Heart of Globalized World",
-        "shortdescription": "In an increasingly connected world, traditional music faces both challenges and opportunities.",
-        "category": "Culture",
-        "author": "Maxin Dalton",
-        "date": "January 14, 2026"
-    },
-
-    {
-        "slug": "burnham-no-scope-increase-borrowing-think-tank-warning-2026",
-        "title": "NIESR Says UK PM Andy Burnham Must Raise Taxes or Cut Spending Instead of Borrowing More",
-        "shortdescription": "The National Institute of Economic and Social Research has warned that UK Prime Minister Andy Burnham has little room to increase borrowing, saying future spending commitments may require tax rises or spending cuts.",
-        "category": "Politics",
-        "author": "Michael Chen",
-        "date": "July 29, 2026"
-    },
-    {
-        "id": "pol-obama-presidential-center-2026",
-        "slug": "starmer-donates-biography-downing-street-library-2026",
-        "title": "Keir Starmer Donates His Own Biography to Historic Downing Street Library",
-        "category": "Politics",
-        "date": "August 21, 2026",
-        "author": "Sarah Jenkins",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Starmer Donates Biography of Himself to Downing Street Library.webp",
-        "excerpt": "Former UK Prime Minister Sir Keir Starmer has donated a biography about himself, written by former Labour adviser Tom Baldwin, to the historic Downing Street library.",
-        "tags": [
-            "Keir Starmer",
-            "Downing Street",
-            "UK politics",
-            "Labour Party",
-            "Tom Baldwin",
-            "political biography",
-            "Prime Minister",
-            "Westminster",
-            "British politics"
-        ]
-    },
-    {
-        "slug": "ai-global-economic-downturn-andrew-bailey-g20-warning-2026",
-        "title": "Bank of England Chief Warns AI Market Crash Could Spread Across Global Economy",
-        "shortdescription": "Bank of England Governor Andrew Bailey has warned G20 finance chiefs that an AI market correction could spread globally, while autonomous AI systems could create new cybersecurity risks for financial institutions.",
-        "category": "Tech",
-        "author": "Tech Desk",
-        "date": "September 1, 2026"
-    },
-    {
-        "slug": "nasa-roman-space-telescope-launch-2026",
-        "title": "NASA Launches Nancy Grace Roman Space Telescope to Study Dark Matter and Distant Worlds",
-        "shortdescription": "NASA has launched the Nancy Grace Roman Space Telescope on a mission to explore dark energy, dark matter, black holes and thousands of distant planets.",
-        "category": "Tech",
-        "author": "Tech Desk",
-        "date": "August 31, 2026"
-    },
-    {
-        "slug": "claude-ai-public-chat-links-privacy-concerns-2026",
-        "title": "Claude AI Conversations Exposed Online After Users Shared Chats Publicly",
-        "shortdescription": "Some conversations with Anthropic's Claude AI were found publicly accessible through shared links that appeared in search results, raising fresh concerns about AI privacy and user awareness.",
-        "category": "Tech",
-        "author": "Editorial Team",
-        "date": "July 28, 2026"
-    },
-    {
-        "slug": "novartis-del-desiran-muscle-disease-drug-trial-failure-2026",
-        "title": "Novartis Shares Fall After Muscle Disease Drug Del-desiran Fails Phase 3 Trial",
-        "shortdescription": "Novartis suffered a major pipeline setback after del-desiran failed its Phase 3 trial for myotonic dystrophy, sending shares sharply lower.",
-        "category": "Business",
-        "author": "Michael Chen",
-        "date": "September 8, 2026"
-    },
-    {
-        "slug": "us-diesel-prices-all-time-high-2026",
-        "title": "US Diesel Prices Hit Record $5.85 a Gallon as Global Fuel Crisis Deepens",
-        "shortdescription": "US diesel prices have reached a record high near $5.85 a gallon as Middle East and Russian refinery disruptions squeeze global fuel supplies.",
-        "category": "Business",
-        "author": "Business Desk",
-        "date": "September 4, 2026"
-    },
-    {
-        "slug": "goldman-sachs-september-fed-rate-hike-forecast-2026",
-        "title": "Goldman Sachs Now Expects September Fed Rate Hike as Inflation Fears Rise",
-        "shortdescription": "Goldman Sachs now expects the Federal Reserve to raise rates by 25 basis points in September as stronger inflation and higher oil prices reshape the outlook.",
-        "category": "Business",
-        "author": "Finance Desk",
-        "date": "September 14, 2026"
-    },
-    {
-        "slug": "senate-blocks-clarity-act-crypto-regulation-congress-2026",
-        "title": "Senate Blocks CLARITY Act as US Crypto Regulation Effort Stalls",
-        "shortdescription": "The US Senate failed to advance the CLARITY Act after a 50-49 vote, delaying comprehensive crypto regulation and sending Bitcoin and crypto stocks lower.",
-        "category": "Finance",
-        "author": "Finance Desk",
-        "date": "September 16, 2026"
-    },
-    {
-        "slug": "global-markets-oil-prices-tariffs-ai-stock-volatility-july-2026",
-        "title": "Global Markets Recover Slightly as Oil Prices Ease but Tariff and AI Concerns Keep Investors Cautious",
-        "shortdescription": "Global markets attempted to stabilize after a sharp sell-off as oil prices eased from recent highs. Investors remain focused on Trump tariffs, AI spending concerns and inflation risks.",
-        "category": "Finance",
-        "author": "Sarah Wu",
-        "date": "July 24, 2026"
-    },
-    {
-        "slug": "capital-one-trump-organization-accounts-closed-anti-money-laundering-review",
-        "title": "Capital One Rejects Trump Debanking Claims, Says Account Closures Followed AML Investigation",
-        "shortdescription": "Capital One says it closed more than 300 Trump Organization accounts after an anti-money laundering review, rejecting claims that the decision was politically motivated.",
-        "category": "Finance",
-        "author": "Tech Desk",
-        "date": "August 4, 2026"
-    },
-    {
-        "slug": "us-stock-futures-slide-ai-concerns-oil-surge-global-markets-2026",
-        "title": "US Stock Futures Fall as AI Fears and $108 Oil Shake Global Markets",
-        "shortdescription": "US stock futures fall as AI safety concerns weigh on technology shares while oil surges above $108, raising inflation and Fed rate worries.",
-        "category": "Markets",
-        "author": "Markets Desk",
-        "date": "September 14, 2026"
-    },
-    {
-        "slug": "oil-gas-prices-surge-iran-war-global-energy-supply-fears",
-        "title": "Oil Prices Near $100 as Iran War Disrupts Global Energy Supplies",
-        "shortdescription": "Oil and gas prices are surging as the Iran war disrupts shipping through the Strait of Hormuz, threatens supply and raises global inflation risks.",
-        "category": "Markets",
-        "author": "Michael Chen",
-        "date": "September 7, 2026"
-    },
-    {
-        "id": "mark-asian-markets-2026",
-        "slug": "alejandro-betancourt-us-venezuela-oil-deal-2026",
-        "title": "Alejandro Betancourt: The Venezuelan Oil Tycoon at the Center of Trump's Landmark Deal",
-        "category": "Markets",
-        "date": "September 3, 2026",
-        "author": "Markets Desk",
-        "views": "0k",
-        "readTime": "15 Mins",
-        "comments": 0,
-        "image": "/images/news/Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal.webp",
-        "excerpt": "Alejandro Betancourt has emerged as a central figure in the US-Venezuela oil agreement, putting his company at the heart of a deal covering 17 oilfields and about 65 billion barrels of reserves.",
-        "tags": [
-            "Alejandro Betancourt",
-            "Venezuela oil",
-            "US-Venezuela deal",
-            "NABEP",
-            "Donald Trump",
-            "oil markets",
-            "Venezuela",
-            "North American Blue Energy Partners",
-            "Chevron",
-            "energy investment"
-        ]
-    },
-    {
-        "slug": "artemis-ii-lunar-orbit-2026",
-        "title": "Artemis II: Humanity's Return to Lunar Orbit in February 2026",
-        "shortdescription": "In a moment that has captured the imagination of the entire planet, the crew of Artemis II has successfully entered lunar orbit.",
-        "category": "Nature",
-        "author": "Sarah Jenkins",
-        "date": "February 12, 2026"
-    },
-    {
-        "slug": "global-emissions-peak-2026-milestone",
-        "title": "The 2026 Climate Milestone: Global Emissions Peak and the Path Downward",
-        "shortdescription": "For the first time since the dawn of the industrial age, global greenhouse gas emissions have officially peaked in early 2026.",
-        "category": "Nature",
-        "author": "David Smith",
-        "date": "January 15, 2026"
-    },
-    {
-        "slug": "biodiversity-de-extinction-2026-success",
-        "title": "Biodiversity Breakthrough: The First Successes of the 2026 'De-Extinction' Projects",
-        "shortdescription": "The successful birth of the first 'proxy' Thylacine in early 2026 has signaled the dawn of the 'De-Extinction' era for conservation.",
-        "category": "Nature",
-        "author": "Sarah Jenkins",
-        "date": "February 05, 2026"
-    },
-    {
-        "slug": "mariana-trench-new-species-2026",
-        "title": "The Secret Life of the Deep: New Species Discovered in the Mariana Trench",
-        "shortdescription": "A deep-sea expedition has uncovered dozens of previously unknown species in the deepest parts of the Mariana Trench.",
-        "category": "Nature",
-        "author": "Sarah Jenkins",
-        "date": "February 01, 2026"
-    },
-    {
-        "slug": "ai-drones-reforestation-2026",
-        "title": "Reforestation 2.0: AI-Drones Planting 1 Billion Trees in 2026",
-        "shortdescription": "Using advanced AI and autonomous drone swarms, a global reforestation project has successfully planted its billionth tree of 2026.",
-        "category": "Nature",
-        "author": "Sarah Jenkins",
-        "date": "January 20, 2026"
-    },
-    {
-        "slug": "plastic-eating-enzyme-ocean-clean-up-2026",
-        "title": "The Plastic-Eating Enzyme Breakthrough: Scaling for Global Ocean Clean-up",
-        "shortdescription": "A new, bio-engineered enzyme that can digest PET plastics in days is being scaled for use in large-scale ocean clean-up operations.",
-        "category": "Nature",
-        "author": "Sarah Jenkins",
-        "date": "February 10, 2026"
-    },
-    {
-        "slug": "vertical-forests-living-skyscrapers-2026",
-        "title": "Vertical Forests: The Rise of the 'Living Skyscraper' in 2026",
-        "shortdescription": "Architects are increasingly integrating 'Vertical Forests' into their designs, creating living skyscrapers that sequester carbon.",
-        "category": "Nature",
-        "author": "Sarah Jenkins",
-        "date": "February 12, 2026"
-    },
-    {
-        "slug": "fifa-world-cup-2026-preview",
-        "title": "FIFA World Cup 2026: The Global Stage Set for North America",
-        "shortdescription": "The countdown to the greatest show on earth has reached its final months. In June 2026, the FIFA World Cup will descend upon North America.",
-        "category": "Culture",
-        "author": "Sarah Jenkins",
-        "date": "February 12, 2026"
-    },
-    {
-        "slug": "metaverse-festivals-culture-2026",
-        "title": "The Metaverse Migration: How 'Digital Festivals' are Redefining Culture in 2026",
-        "shortdescription": "In 2026, 'Digital Festivals' become a mainstream way for people to experience art and music in immersive virtual environments.",
-        "category": "Culture",
-        "author": "Sarah Jenkins",
-        "date": "January 15, 2026"
-    },
-    {
-        "slug": "global-museum-reform-restitution-2026",
-        "title": "Restitution and Reconciliation: The 2026 Global Museum Reform",
-        "shortdescription": "A historic international agreement in 2026 has set the stage for a massive restitution of cultural artifacts to their countries of origin.",
-        "category": "Culture",
-        "author": "Sarah Jenkins",
-        "date": "February 05, 2026"
-    },
-    {
-        "slug": "imf-boj-rate-hikes-japan-neutral-rate-2027",
-        "title": "IMF Backs BOJ Rate Hikes, Sees Japan Policy Rate at 1.5% by 2027",
-        "shortdescription": "IMF supports gradual BOJ rate hikes to 1.5% by 2027 as Japan exits ultra-easy policy, balancing inflation, growth risks, and heavy public debt pressures.",
-        "category": "Wealth",
-        "author": "Michael Chen",
-        "date": "February 18, 2026"
-    },
-    {
-        "slug": "family-offices-planetary-impact-2026",
-        "title": "Family Offices in 2026: Shifting from Preservation to Planetary Impact",
-        "shortdescription": "Ultra-wealthy families are increasingly aligning their portfolios with 'Planetary Health' in 2026, viewing sustainability as the ultimate legacy.",
-        "category": "Wealth",
-        "author": "Michael Chen",
-        "date": "January 28, 2026"
-    },
-    {
-        "slug": "climate-proof-luxury-real-estate-2026",
-        "title": "Luxury Real Estate 2026: The Rise of 'Climate-Proof' Sanctuaries",
-        "shortdescription": "In 2026, the luxury real estate market is being redefined by 'Climate Resilience,' with the elite seeking future-proof sanctuaries.",
-        "category": "Wealth",
-        "author": "Michael Chen",
-        "date": "February 08, 2026"
-    },
-    {
-        "slug": "wesley-bell-defeats-cori-bush-missouri-democratic-primary-2026",
-        "title": "Wesley Bell Beats Cori Bush in Missouri Primary as Democratic Party Divisions Deepen",
-        "shortdescription": "Rep. Wesley Bell defeated former Rep. Cori Bush in Missouri's Democratic primary rematch, highlighting ongoing divisions between moderate and progressive Democrats.",
-        "category": "Politics",
-        "author": "Tech Desk",
-        "date": "August 5, 2026"
-    }
+  {
+    "slug": "goldman-sachs-september-fed-rate-hike-forecast-2026",
+    "title": "Goldman Sachs Now Expects September Fed Rate Hike as Inflation Fears Rise",
+    "shortdescription": "Goldman Sachs now expects the Federal Reserve to raise rates by 25 basis points in September as stronger inflation and higher oil prices reshape the outlook.",
+    "category": "Business",
+    "author": "The Quest for Profit",
+    "date": "September 14, 2026"
+  },
+  {
+    "slug": "us-stock-futures-slide-ai-concerns-oil-surge-global-markets-2026",
+    "title": "US Stock Futures Fall as AI Fears and $108 Oil Shake Global Markets",
+    "shortdescription": "US stock futures fall as AI safety concerns weigh on technology shares while oil surges above $108, raising inflation and Fed rate worries.",
+    "category": "Markets",
+    "author": "The Quest for Profit",
+    "date": "September 14, 2026"
+  },
+  {
+    "slug": "dollar-holds-gains-middle-east-energy-shock-inflation-fed-2026",
+    "title": "US Dollar Holds Gains as Oil Surge Raises Inflation and Fed Rate Hike Bets",
+    "shortdescription": "The US dollar holds near a one-week high as surging oil prices fuel inflation fears, lift Treasury yields and increase Fed rate hike expectations.",
+    "category": "Markets",
+    "author": "The Quest for Profit",
+    "date": "September 11, 2026"
+  },
+  {
+    "slug": "trump-iran-new-sanctions-oil-markets-disruption-2026",
+    "title": "Trump Escalates Iran Pressure With New Sanctions as Oil Prices Surge",
+    "shortdescription": "The Trump administration is expanding sanctions on Iran and its proxy networks as the conflict disrupts oil supplies and keeps global energy markets under pressure.",
+    "category": "Politics",
+    "author": "The Quest for Profit",
+    "date": "September 11, 2026"
+  },
+  {
+    "slug": "apple-iphone-duo-foldable-samsung-market-2026",
+    "title": "Apple iPhone Duo Launches at $1,999 as Samsung Defends Foldable Phone Lead",
+    "shortdescription": "Apple has launched the $1,999 iPhone Duo, entering the foldable market as Samsung defends its lead with the Galaxy Z Fold8 and years of experience.",
+    "category": "Tech",
+    "author": "The Quest for Profit",
+    "date": "September 10, 2026"
+  },
+  {
+    "slug": "wall-street-slips-inflation-oil-prices-federal-reserve-outlook-september-2026",
+    "title": "Wall Street Falls as $100 Oil and Inflation Concerns Complicate Fed Rate Outlook",
+    "shortdescription": "Wall Street retreats as oil surges above $100, Treasury yields rise and investors await US inflation data ahead of the Federal Reserve meeting.",
+    "category": "Finance",
+    "author": "The Quest for Profit",
+    "date": "September 10, 2026"
+  },
+  {
+    "slug": "google-15-billion-finland-ai-infrastructure-nuclear-power-deal",
+    "title": "Google to Invest $15 Billion in Finland AI Infrastructure With 22-Year Nuclear Power Deal",
+    "shortdescription": "Google will invest at least €13 billion in Finnish AI infrastructure while securing nuclear and renewable power as data-centre energy demand surges.",
+    "category": "Markets",
+    "author": "The Quest for Profit",
+    "date": "September 9, 2026"
+  },
+  {
+    "slug": "trump-canadian-firms-us-government-contracts-trade-war-2026",
+    "title": "Trump Targets Canadian Companies as US-Canada Trade War Escalates",
+    "shortdescription": "Trump has ordered US agencies to remove Canadian-origin products from federal purchasing schedules, escalating the trade war beyond tariffs.",
+    "category": "Finance",
+    "author": "The Quest for Profit",
+    "date": "September 9, 2026"
+  },
+  {
+    "slug": "novartis-del-desiran-muscle-disease-drug-trial-failure-2026",
+    "title": "Novartis Shares Fall After Muscle Disease Drug Del-desiran Fails Phase 3 Trial",
+    "shortdescription": "Novartis suffered a major pipeline setback after del-desiran failed its Phase 3 trial for myotonic dystrophy, sending shares sharply lower.",
+    "category": "Business",
+    "author": "The Quest for Profit",
+    "date": "September 8, 2026"
+  },
+  {
+    "slug": "xiaomi-18-fold-ifa-2026-xring-o3-ai-chip",
+    "title": "Xiaomi 18 Fold Launches With Wide Foldable Design and XRing O3 AI Chip",
+    "shortdescription": "Xiaomi's 18 Fold combines a wider foldable design, XRing O3 AI processor, 6,000mAh battery and Leica cameras as competition intensifies.",
+    "category": "Tech",
+    "author": "The Quest for Profit",
+    "date": "September 8, 2026"
+  },
+  {
+    "slug": "dollar-struggles-fed-rate-hike-expectations-september-2026",
+    "title": "US Dollar Struggles Despite Rising Fed Rate Hike Bets as Yen and Euro Gain",
+    "shortdescription": "The US dollar is struggling despite rising expectations of a September Fed rate hike as yen strength, ECB tightening and global inflation risks limit its advantage.",
+    "category": "Finance",
+    "author": "The Quest for Profit",
+    "date": "September 7, 2026"
+  },
+  {
+    "slug": "oil-gas-prices-surge-iran-war-global-energy-supply-fears",
+    "title": "Oil Prices Near $100 as Iran War Disrupts Global Energy Supplies",
+    "shortdescription": "Oil and gas prices are surging as the Iran war disrupts shipping through the Strait of Hormuz, threatens supply and raises global inflation risks.",
+    "category": "Markets",
+    "author": "The Quest for Profit",
+    "date": "September 7, 2026"
+  },
+  {
+    "slug": "robots-future-theme-parks-ai-robotics",
+    "title": "How Robots and AI Are Changing the Future of Theme Parks",
+    "shortdescription": "Robots are moving beyond rides and animatronics as Disney and other theme-park operators explore AI, autonomous characters and robotic entertainment.",
+    "category": "Tech",
+    "author": "The Quest for Profit",
+    "date": "September 4, 2026"
+  },
+  {
+    "slug": "us-diesel-prices-all-time-high-2026",
+    "title": "US Diesel Prices Hit Record $5.85 a Gallon as Global Fuel Crisis Deepens",
+    "shortdescription": "US diesel prices have reached a record high near $5.85 a gallon as Middle East and Russian refinery disruptions squeeze global fuel supplies.",
+    "category": "Business",
+    "author": "The Quest for Profit",
+    "date": "September 4, 2026"
+  },
+  {
+    "slug": "alejandro-betancourt-us-venezuela-oil-deal-2026",
+    "title": "Alejandro Betancourt: The Venezuelan Oil Tycoon at the Center of Trump's Landmark Deal",
+    "shortdescription": "Alejandro Betancourt has emerged as a central figure in the US-Venezuela oil agreement, putting his company at the heart of a deal covering 17 oilfields and about 65 billion barrels of reserves.",
+    "category": "Markets",
+    "author": "The Quest for Profit",
+    "date": "September 3, 2026"
+  },
+  {
+    "slug": "netherlands-gold-moved-london-crisis-preparedness-2026",
+    "title": "Netherlands Moves 86 Tonnes of Gold to London Amid Rising Geopolitical Risks",
+    "shortdescription": "The Dutch central bank has moved 86 tonnes of gold from New York and Ottawa to London, saying the relocation will make its reserves easier to trade and deploy during a crisis.",
+    "category": "Finance",
+    "author": "The Quest for Profit",
+    "date": "September 3, 2026"
+  },
+  {
+    "slug": "self-flying-planes-autonomous-aircraft-future-aviation-2026",
+    "title": "Self-Flying Planes Are Coming, but Can Autonomous Aircraft Really Replace Pilots?",
+    "shortdescription": "Autonomous aircraft are moving beyond drones as companies develop self-flying planes for farming, cargo and eventually passenger travel, but safety and regulation remain major obstacles.",
+    "category": "Tech",
+    "author": "The Quest for Profit",
+    "date": "September 2, 2026"
+  },
+  {
+    "slug": "us-venezuela-oil-deal-65-billion-barrels-2026",
+    "title": "US-Venezuela Oil Deal Gives American-Led Group 100-Year Access to 65 Billion Barrels",
+    "shortdescription": "A sweeping US-Venezuela oil agreement grants a US-led company 100-year concessions over 17 oilfields, promising billions in investment while raising concerns over sovereignty, timing and economic returns.",
+    "category": "Business",
+    "author": "The Quest for Profit",
+    "date": "September 2, 2026"
+  },
+  {
+    "slug": "ai-global-economic-downturn-andrew-bailey-g20-warning-2026",
+    "title": "Bank of England Chief Warns AI Market Crash Could Spread Across Global Economy",
+    "shortdescription": "Bank of England Governor Andrew Bailey has warned G20 finance chiefs that an AI market correction could spread globally, while autonomous AI systems could create new cybersecurity risks for financial institutions.",
+    "category": "Tech",
+    "author": "The Quest for Profit",
+    "date": "September 1, 2026"
+  },
+  {
+    "slug": "japan-companies-india-investment-china-risks-2026",
+    "title": "Japanese Companies Expand in India as Businesses Reduce Dependence on China",
+    "shortdescription": "Japanese companies are expanding investment in India as geopolitical tensions, supply-chain concerns and rising business risks in China push firms to diversify across Asia.",
+    "category": "Business",
+    "author": "The Quest for Profit",
+    "date": "September 1, 2026"
+  },
+  {
+    "slug": "nasa-roman-space-telescope-launch-2026",
+    "title": "NASA Launches Nancy Grace Roman Space Telescope to Study Dark Matter and Distant Worlds",
+    "shortdescription": "NASA has launched the Nancy Grace Roman Space Telescope on a mission to explore dark energy, dark matter, black holes and thousands of distant planets.",
+    "category": "Tech",
+    "author": "The Quest for Profit",
+    "date": "August 31, 2026"
+  },
+  {
+    "slug": "us-canada-trade-war-impact-businesses-consumers-2026",
+    "title": "US-Canada Trade War Raises Prices and Disrupts Businesses Across Both Countries",
+    "shortdescription": "The escalating US-Canada trade war is raising costs, disrupting supply chains and forcing businesses on both sides of the border to rethink investment, sourcing and trade plans.",
+    "category": "Business",
+    "author": "The Quest for Profit",
+    "date": "August 31, 2026"
+  },
+  {
+    "slug": "trump-venezuela-65-billion-barrels-oil-deal-2026",
+    "title": "Trump Announces Deal Giving US Control of 65 Billion Barrels of Venezuelan Oil",
+    "shortdescription": "Donald Trump says the US has secured majority control of more than 65 billion barrels of Venezuela's proven oil reserves in a landmark deal involving private investment and efforts to rebuild the country's oil industry.",
+    "category": "Politics",
+    "author": "The Quest for Profit",
+    "date": "August 29, 2026"
+  },
+  {
+    "slug": "trump-anthropic-retaliation-pentagon-ruling-2026",
+    "title": "Judge Rules Trump Administration Unlawfully Retaliated Against Anthropic",
+    "shortdescription": "A US federal judge has ruled that the Trump administration's blacklisting of AI company Anthropic was unlawful, blocking the Pentagon from enforcing its supply-chain risk designation against the company.",
+    "category": "Business",
+    "author": "The Quest for Profit",
+    "date": "August 28, 2026"
+  },
+  {
+    "slug": "electric-landscaping-gardening-tools-battery-technology",
+    "title": "Electric Gardening Equipment Is Replacing Petrol Tools as Landscapers Go Greener",
+    "shortdescription": "Landscaping is gradually moving from petrol-powered equipment to quieter electric tools, driven by noise restrictions, lower emissions and advances in battery technology.",
+    "category": "Tech",
+    "author": "The Quest for Profit",
+    "date": "August 24, 2026"
+  },
+  {
+    "slug": "starmer-donates-biography-downing-street-library-2026",
+    "title": "Keir Starmer Donates His Own Biography to Historic Downing Street Library",
+    "shortdescription": "Former UK Prime Minister Sir Keir Starmer has donated a biography about himself, written by former Labour adviser Tom Baldwin, to the historic Downing Street library.",
+    "category": "Politics",
+    "author": "The Quest for Profit",
+    "date": "August 21, 2026"
+  },
+  {
+    "slug": "us-warning-siemens-devices-water-infrastructure-cyberattacks-2026",
+    "title": "US Warns Siemens Industrial Devices Are Being Targeted as Water Infrastructure Faces Cyber Threats",
+    "shortdescription": "US agencies warn that Siemens industrial control devices used in water systems and critical infrastructure are being targeted by hackers amid fears of escalating cyberattacks.",
+    "category": "Tech",
+    "author": "The Quest for Profit",
+    "date": "August 20, 2026"
+  },
+  {
+    "slug": "wall-street-futures-higher-iran-hormuz-berkshire-results-markets",
+    "title": "Wall Street Futures Edge Higher as Investors Weigh Iran Demands, Hormuz Outlook and Berkshire Results",
+    "shortdescription": "U.S.",
+    "category": "Finance",
+    "author": "The Quest for Profit",
+    "date": "August 10, 2026"
+  },
+  {
+    "slug": "anthony-fauci-contempt-of-congress-vote-rand-paul-covid-investigation",
+    "title": "Senate Panel Moves Toward Contempt Vote Against Anthony Fauci Over COVID Hearing Dispute",
+    "shortdescription": "A Senate panel is moving toward a contempt vote against Anthony Fauci after he declined to answer questions during a COVID-19 investigation, escalating a political battle over pandemic response.",
+    "category": "Politics",
+    "author": "The Quest for Profit",
+    "date": "August 6, 2026"
+  },
+  {
+    "slug": "wesley-bell-defeats-cori-bush-missouri-democratic-primary-2026",
+    "title": "Wesley Bell Beats Cori Bush in Missouri Primary as Democratic Party Divisions Deepen",
+    "shortdescription": "Rep.",
+    "category": "Politics",
+    "author": "The Quest for Profit",
+    "date": "August 5, 2026"
+  },
+  {
+    "slug": "capital-one-trump-organization-accounts-closed-anti-money-laundering-review",
+    "title": "Capital One Rejects Trump Debanking Claims, Says Account Closures Followed AML Investigation",
+    "shortdescription": "Capital One says it closed more than 300 Trump Organization accounts after an anti-money laundering review, rejecting claims that the decision was politically motivated.",
+    "category": "Finance",
+    "author": "The Quest for Profit",
+    "date": "August 4, 2026"
+  },
+  {
+    "slug": "us-japan-joint-yen-intervention-2026",
+    "title": "US and Japan Take Coordinated Action to Stabilize Yen Amid Currency Volatility",
+    "shortdescription": "The United States and Japan have taken the rare step of coordinating action to support the Japanese yen, highlighting growing concerns over currency volatility and its impact on global financial markets.",
+    "category": "Markets",
+    "author": "The Quest for Profit",
+    "date": "August 3, 2026"
+  },
+  {
+    "slug": "south-korea-kospi-rebound-samsung-sk-hynix-ai-chip-stocks",
+    "title": "South Korea’s KOSPI Surges as Samsung and SK Hynix Lead Record AI Chip Recovery",
+    "shortdescription": "South Korea’s KOSPI recorded a historic rebound as Samsung Electronics and SK Hynix shares surged, driven by renewed confidence in AI demand and semiconductor growth.",
+    "category": "Markets",
+    "author": "The Quest for Profit",
+    "date": "July 31, 2026"
+  },
+  {
+    "slug": "burnham-no-scope-increase-borrowing-think-tank-warning-2026",
+    "title": "NIESR Says UK PM Andy Burnham Must Raise Taxes or Cut Spending Instead of Borrowing More",
+    "shortdescription": "The National Institute of Economic and Social Research has warned that UK Prime Minister Andy Burnham has little room to increase borrowing, saying future spending commitments may require tax rises or spending cuts.",
+    "category": "Politics",
+    "author": "The Quest for Profit",
+    "date": "July 29, 2026"
+  },
+  {
+    "slug": "ebay-56-million-settlement-blogger-harassment-lawsuit-2026",
+    "title": "eBay to Pay $56 Million to Settle Lawsuit Over Cyberstalking of EcommerceBytes Publishers",
+    "shortdescription": "eBay and three former executives have agreed to pay $55.7 million to settle a lawsuit brought by the publishers of EcommerceBytes, ending a years-long legal battle over a shocking cyberstalking and harassment campaign.",
+    "category": "Business",
+    "author": "The Quest for Profit",
+    "date": "July 29, 2026"
+  },
+  {
+    "slug": "claude-ai-public-chat-links-privacy-concerns-2026",
+    "title": "Claude AI Conversations Exposed Online After Users Shared Chats Publicly",
+    "shortdescription": "Some conversations with Anthropic's Claude AI were found publicly accessible through shared links that appeared in search results, raising fresh concerns about AI privacy and user awareness.",
+    "category": "Tech",
+    "author": "The Quest for Profit",
+    "date": "July 28, 2026"
+  },
+  {
+    "slug": "johnson-johnson-5-5bn-baby-powder-lawsuit-settlement-2026",
+    "title": "Johnson & Johnson Agrees to $5.5 Billion Talc Settlement to Resolve Baby Powder Cancer Claims",
+    "shortdescription": "Johnson & Johnson has agreed to pay up to $5.5 billion to settle tens of thousands of lawsuits alleging its talc-based baby powder caused ovarian cancer, marking a major step toward ending years of litigation.",
+    "category": "Business",
+    "author": "The Quest for Profit",
+    "date": "July 28, 2026"
+  },
+  {
+    "slug": "global-markets-oil-prices-tariffs-ai-stock-volatility-july-2026",
+    "title": "Global Markets Recover Slightly as Oil Prices Ease but Tariff and AI Concerns Keep Investors Cautious",
+    "shortdescription": "Global markets attempted to stabilize after a sharp sell-off as oil prices eased from recent highs.",
+    "category": "Finance",
+    "author": "The Quest for Profit",
+    "date": "July 24, 2026"
+  },
+  {
+    "slug": "global-markets-slide-trump-tariffs-oil-ai-stock-selloff-july-2026",
+    "title": "Global Markets Slide as Trump Tariffs, Oil Surge and AI Stock Sell-Off Shake Investor Confidence",
+    "shortdescription": "Global markets declined as investors reacted to new Trump tariffs, rising oil prices, AI stock volatility and growing concerns over inflation and interest rates.",
+    "category": "Markets",
+    "author": "The Quest for Profit",
+    "date": "July 24, 2026"
+  },
+  {
+    "slug": "britannia-financial-group-supports-soto-serpentine-public-art",
+    "title": "Public Art, Private Support: What Soto’s Serpentine Installation Makes Visible",
+    "shortdescription": "Jesús Rafael Soto’s Pénétrable BBL Jaune turns spectators into participants—and offers a useful case study in how private funding supports free public art.",
+    "category": "Business",
+    "author": "The Quest for Profit",
+    "date": "July 15, 2026"
+  },
+  {
+    "slug": "graham-platner-ends-maine-senate-campaign-democrats-replacement-2026",
+    "title": "Graham Platner Drops Out of Maine Senate Race After Controversy as Democrats Begin Replacement Process",
+    "shortdescription": "Democratic Senate candidate Graham Platner has suspended his campaign for the U.S.",
+    "category": "Politics",
+    "author": "The Quest for Profit",
+    "date": "July 9, 2026"
+  },
+  {
+    "slug": "supreme-court-birthright-citizenship-trump-ruling-2026",
+    "title": "US Supreme Court Rules Against Trump on Birthright Citizenship, Reaffirms Constitutional Protections",
+    "shortdescription": "The U.S.",
+    "category": "Politics",
+    "author": "The Quest for Profit",
+    "date": "July 1, 2026"
+  },
+  {
+    "slug": "south-carolina-redistricting-james-clyburn",
+    "title": "South Carolina Republicans Block Effort to Redraw James Clyburn District",
+    "shortdescription": "South Carolina Republicans unexpectedly blocked a redistricting proposal that could have eliminated Democratic Congressman James Clyburn’s congressional seat, creating a major political setback for national Republicans and President Donald.",
+    "category": "Politics",
+    "author": "The Quest for Profit",
+    "date": "May 12, 2026"
+  },
+  {
+    "slug": "gulf-economies-iran-conflict-impact",
+    "title": "Gulf Economies Face Long-Term Risks From Iran Conflict",
+    "shortdescription": "Escalating tensions involving Iran are raising concerns about long-term economic damage across Gulf nations, threatening oil markets, investment confidence, and regional stability.",
+    "category": "Wealth",
+    "author": "The Quest for Profit",
+    "date": "May 7, 2026"
+  },
+  {
+    "slug": "imf-boj-rate-hikes-japan-neutral-rate-2027",
+    "title": "IMF Backs BOJ Rate Hikes, Sees Japan Policy Rate at 1.5% by 2027",
+    "shortdescription": "IMF supports gradual BOJ rate hikes to 1.5% by 2027 as Japan exits ultra-easy policy, balancing inflation, growth risks, and heavy public debt pressures.",
+    "category": "Wealth",
+    "author": "The Quest for Profit",
+    "date": "February 18, 2026"
+  },
+  {
+    "slug": "artemis-ii-lunar-orbit-2026",
+    "title": "Artemis II: Humanity's Return to Lunar Orbit in February 2026",
+    "shortdescription": "In a moment that has captured the imagination of the entire planet, the four-person crew of NASA's Artemis II mission has successfully entered lunar orbit.",
+    "category": "Nature",
+    "author": "The Quest for Profit",
+    "date": "February 12, 2026"
+  },
+  {
+    "slug": "fifa-world-cup-2026-preview",
+    "title": "FIFA World Cup 2026: The Global Stage Set for North America",
+    "shortdescription": "The countdown to the greatest show on earth has reached its final months.",
+    "category": "Culture",
+    "author": "The Quest for Profit",
+    "date": "February 12, 2026"
+  },
+  {
+    "slug": "vertical-forests-living-skyscrapers-2026",
+    "title": "Do Vertical Forests Deliver Measurable Urban Benefits?",
+    "shortdescription": "Tree-covered towers can provide shade, habitat and identity, but their performance depends on species, maintenance, water and the building's full carbon cost.",
+    "category": "Nature",
+    "author": "The Quest for Profit",
+    "date": "February 12, 2026"
+  },
+  {
+    "slug": "plastic-eating-enzyme-ocean-clean-up-2026",
+    "title": "Plastic-Eating Enzymes: What Works in the Lab and What Scaling Requires",
+    "shortdescription": "Enzymes can help recycle selected plastics under controlled conditions; they are not a stand-alone method for cleaning mixed waste from the ocean.",
+    "category": "Nature",
+    "author": "The Quest for Profit",
+    "date": "February 10, 2026"
+  },
+  {
+    "slug": "climate-proof-luxury-real-estate-2026",
+    "title": "What “Climate-Proof” Really Means in Luxury Real Estate",
+    "shortdescription": "No property is climate-proof.",
+    "category": "Wealth",
+    "author": "The Quest for Profit",
+    "date": "February 08, 2026"
+  },
+  {
+    "slug": "biodiversity-de-extinction-2026-success",
+    "title": "De-Extinction Claims in 2026: What Counts as a Scientific Success?",
+    "shortdescription": "In a laboratory nestled in the Australian outback, a small, striped creature has taken its first steps, marking a historic victory for modern genetics.",
+    "category": "Nature",
+    "author": "The Quest for Profit",
+    "date": "February 05, 2026"
+  },
+  {
+    "slug": "global-museum-reform-restitution-2026",
+    "title": "Museum Restitution: The Legal and Ethical Tests That Matter",
+    "shortdescription": "Restitution decisions turn on provenance, the circumstances of removal, present law and the claims of source communities—not slogans alone.",
+    "category": "Culture",
+    "author": "The Quest for Profit",
+    "date": "February 05, 2026"
+  },
+  {
+    "slug": "mariana-trench-new-species-2026",
+    "title": "How Scientists Confirm a New Deep-Sea Species",
+    "shortdescription": "A striking image from the Mariana region is only the start; a species claim requires specimens, comparison, taxonomy and a preserved record.",
+    "category": "Nature",
+    "author": "The Quest for Profit",
+    "date": "February 01, 2026"
+  },
+  {
+    "slug": "family-offices-planetary-impact-2026",
+    "title": "How Family Offices Can Measure Environmental Impact Without Greenwashing",
+    "shortdescription": "Impact claims become useful when investors define the outcome, establish a baseline and report both additionality and trade-offs.",
+    "category": "Wealth",
+    "author": "The Quest for Profit",
+    "date": "January 28, 2026"
+  },
+  {
+    "slug": "ai-drones-reforestation-2026",
+    "title": "Can AI-Guided Drones Make Reforestation Scale? What the Evidence Must Show",
+    "shortdescription": "Drone planting can map damaged land and place seeds quickly, but hectares restored—not seeds dropped—is the outcome that matters.",
+    "category": "Nature",
+    "author": "The Quest for Profit",
+    "date": "January 20, 2026"
+  },
+  {
+    "slug": "timmediately-quail-was-inverse",
+    "title": "How Seasonal Change Shapes Quail Habitat",
+    "shortdescription": "Quail need a patchwork of cover, seed, insects and open ground; land management succeeds when those needs overlap through the year.",
+    "category": "Nature",
+    "author": "The Quest for Profit",
+    "date": "January 19, 2026"
+  },
+  {
+    "slug": "federal-budget-infrastructure-2026",
+    "title": "How to Read an Infrastructure Budget Beyond the Headline Number",
+    "shortdescription": "A large infrastructure allocation says little on its own; delivery depends on timing, funding source, project readiness, maintenance and measurable public value.",
+    "category": "Politics",
+    "author": "The Quest for Profit",
+    "date": "January 18, 2026"
+  },
+  {
+    "slug": "luxury-real-estate-hidden-hubs",
+    "title": "Beyond Dubai and Monaco: The New Luxury Real Estate Hubs",
+    "shortdescription": "Ultra-high-net-worth individuals are flocking to tertiary cities and remote retreats, looking for privacy and community over traditional flashiness.",
+    "category": "Wealth",
+    "author": "The Quest for Profit",
+    "date": "January 18, 2026"
+  },
+  {
+    "slug": "art-market-digital-provenance",
+    "title": "Digital Provenance Can Strengthen the Art Market—But It Cannot Verify Its Own Inputs",
+    "shortdescription": "A durable digital record can improve an artwork’s chain of custody, but technology cannot prove that the first attribution, ownership claim or physical match was correct.",
+    "category": "Wealth",
+    "author": "The Quest for Profit",
+    "date": "January 17, 2026"
+  },
+  {
+    "slug": "family-office-trends-2026",
+    "title": "Family Office 2.0: Managing Legacy in a Turbulent Century",
+    "shortdescription": "The multi-generational transfer of wealth is facing new challenges, from ESG requirements to the complexities of digital asset inheritance.",
+    "category": "Wealth",
+    "author": "The Quest for Profit",
+    "date": "January 17, 2026"
+  },
+  {
+    "slug": "capturing-essence-street-life",
+    "title": "Street Photography: Ethics, Attention and the Decisive Moment",
+    "shortdescription": "A strong street photograph depends on observation and timing, but its value also rests on how the photographer handles consent, vulnerability and context.",
+    "category": "Culture",
+    "author": "The Quest for Profit",
+    "date": "January 16, 2026"
+  },
+  {
+    "slug": "election-polling-demographics-shift",
+    "title": "How to Read Demographic Shifts in Election Polling",
+    "shortdescription": "Subgroup polling can reveal change, but small samples, turnout assumptions and broad identity labels make precise conclusions much harder than headline comparisons suggest.",
+    "category": "Politics",
+    "author": "The Quest for Profit",
+    "date": "January 16, 2026"
+  },
+  {
+    "slug": "global-emissions-peak-2026-milestone",
+    "title": "Could Global Emissions Peak in 2026? The Indicators That Would Confirm It",
+    "shortdescription": "For the first time since the dawn of the industrial age, global greenhouse gas emissions have officially peaked.",
+    "category": "Nature",
+    "author": "The Quest for Profit",
+    "date": "January 15, 2026"
+  },
+  {
+    "slug": "metaverse-festivals-culture-2026",
+    "title": "What Digital Festivals Can—and Cannot—Replace",
+    "shortdescription": "Virtual events can widen access and enable new forms of performance, but they do not erase the social, economic or technical value of gathering in person.",
+    "category": "Culture",
+    "author": "The Quest for Profit",
+    "date": "January 15, 2026"
+  },
+  {
+    "slug": "heared-opposite-around",
+    "title": "Why Cultural Context Changes What an Audience Hears",
+    "shortdescription": "Meaning is shaped by language, history, setting and power; the same sound or phrase can carry very different weight across audiences.",
+    "category": "Culture",
+    "author": "The Quest for Profit",
+    "date": "January 14, 2026"
+  },
+  {
+    "slug": "traditional-music-globalized-world",
+    "title": "How Traditional Music Travels Without Losing Its Roots",
+    "shortdescription": "Global platforms can help regional music reach new listeners, but durable cultural exchange depends on attribution, consent and fair returns to the people who sustain the tradition.",
+    "category": "Culture",
+    "author": "The Quest for Profit",
+    "date": "January 14, 2026"
+  },
+  {
+    "slug": "trade-policy-shifts-asia",
+    "title": "Asia’s Supply Chains Are Reconfiguring, Not Retreating From Global Trade",
+    "shortdescription": "Regional sourcing is growing in parts of Asia, but the evidence points to selective diversification rather than a clean break from global production networks.",
+    "category": "Politics",
+    "author": "The Quest for Profit",
+    "date": "January 13, 2026"
+  },
+  {
+    "slug": "incongruous-jeepers-jellyfish",
+    "title": "Why Jellyfish Blooms Are So Difficult to Explain",
+    "shortdescription": "A crowded shoreline can reflect currents, temperature, food, predators or observation bias; one bloom does not prove a global trend.",
+    "category": "Nature",
+    "author": "The Quest for Profit",
+    "date": "January 12, 2026"
+  },
+  {
+    "slug": "ancient-architecture-modern-design",
+    "title": "What Ancient Architecture Can—and Cannot—Teach Modern Designers",
+    "shortdescription": "Historic buildings offer lessons in climate, material efficiency and civic meaning, but copying their appearance is not the same as understanding how they worked.",
+    "category": "Culture",
+    "author": "The Quest for Profit",
+    "date": "January 9, 2026"
+  },
+  {
+    "slug": "ai-regulatory-alignment-global",
+    "title": "Why Global AI Rules Will Not Become One Rulebook",
+    "shortdescription": "AI regulation is converging around risk, testing and accountability, but different legal systems will continue to define those duties in different ways.",
+    "category": "Business",
+    "author": "The Quest for Profit",
+    "date": "January 8, 2026"
+  },
+  {
+    "slug": "excluding-well-some",
+    "title": "The High-Energy Economics of a Hummingbird's Day",
+    "shortdescription": "A hummingbird survives on a narrow energy budget, balancing nectar intake, insect protein, temperature and the cost of hovering flight.",
+    "category": "Nature",
+    "author": "The Quest for Profit",
+    "date": "January 5, 2026"
+  },
+  {
+    "slug": "luxury-yachting-sustainable-shifts",
+    "title": "The Rise of the Zero-Emission Superyacht",
+    "shortdescription": "Hydrogen fuel cells and high-tech sails are transforming the world's most exclusive shipyards as the elite look to reduce their carbon wake.",
+    "category": "Wealth",
+    "author": "The Quest for Profit",
+    "date": "January 4, 2026"
+  },
+  {
+    "slug": "subtle-art-cultural-expression",
+    "title": "How Cultural Traditions Change Without Disappearing",
+    "shortdescription": "Cultural preservation is not about freezing a practice in time; it is about keeping knowledge, context and community control alive as the form evolves.",
+    "category": "Culture",
+    "author": "The Quest for Profit",
+    "date": "January 4, 2026"
+  },
+  {
+    "slug": "remote-work-productivity-debate",
+    "title": "The Great Remote Work Productivity Debate Intensifies",
+    "shortdescription": "New data from major tech firms reveals conflicting results regarding productivity and innovation in hybrid versus fully remote environments, fueling a fierce debate in corporate boardrooms.",
+    "category": "Business",
+    "author": "The Quest for Profit",
+    "date": "January 3, 2026"
+  }
 ]

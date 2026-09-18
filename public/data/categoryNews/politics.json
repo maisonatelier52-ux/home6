@@ -1,197 +1,306 @@
 [
-    {
-        "id": "pol-redistricting-2026",
-        "slug": "anthony-fauci-contempt-of-congress-vote-rand-paul-covid-investigation",
-        "title": "Senate Panel Moves Toward Contempt Vote Against Anthony Fauci Over COVID Hearing Dispute",
-        "category": "Politics",
-        "date": "August 6, 2026",
-        "author": "Tech Desk",
-        "views": "0k",
-        "readTime": "10 Mins",
-        "comments": 0,
-        "image": "/images/news/Senate Panel Moves Toward Contempt Vote Against Anthony Fauci Over COVID Hearing Dispute.webp",
-        "excerpt": "A Senate panel is moving toward a contempt vote against Anthony Fauci after he declined to answer questions during a COVID-19 investigation, escalating a political battle over pandemic response.",
-        "tags": [
-            "Anthony Fauci",
-            "Rand Paul",
-            "Congress",
-            "Senate investigation",
-            "COVID-19",
-            "pandemic response",
-            "Department of Justice",
-            "public health",
-            "Republicans",
-            "Democrats"
-        ]
-    },
-    {
-        "id": "pol-7",
-        "slug": "wesley-bell-defeats-cori-bush-missouri-democratic-primary-2026",
-        "title": "Wesley Bell Beats Cori Bush in Missouri Primary as Democratic Party Divisions Deepen",
-        "category": "Politics",
-        "date": "August 5, 2026",
-        "author": "Tech Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Wesley Bell Defeats Cori Bush in Missouri Democratic Primary Rematch, Securing St. Louis House Seat.webp",
-        "excerpt": "Rep. Wesley Bell defeated former Rep. Cori Bush in Missouri's Democratic primary rematch, highlighting ongoing divisions between moderate and progressive Democrats.",
-        "tags": [
-            "Wesley Bell",
-            "Cori Bush",
-            "Missouri election",
-            "Democratic primary",
-            "St. Louis",
-            "2026 elections",
-            "progressive Democrats",
-            "Democratic Party",
-            "U.S. House",
-            "Missouri politics"
-        ]
-    },
-    {
-        "id": "pol-obama-presidential-center-2026",
-        "slug": "starmer-donates-biography-downing-street-library-2026",
-        "title": "Keir Starmer Donates His Own Biography to Historic Downing Street Library",
-        "category": "Politics",
-        "date": "August 21, 2026",
-        "author": "Sarah Jenkins",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Starmer Donates Biography of Himself to Downing Street Library.webp",
-        "excerpt": "Former UK Prime Minister Sir Keir Starmer has donated a biography about himself, written by former Labour adviser Tom Baldwin, to the historic Downing Street library.",
-        "tags": [
-            "Keir Starmer",
-            "Downing Street",
-            "UK politics",
-            "Labour Party",
-            "Tom Baldwin",
-            "political biography",
-            "Prime Minister",
-            "Westminster",
-            "British politics"
-        ]
-    },
-    {
-        "id": "pol-mamdani-2026",
-        "slug": "trump-venezuela-65-billion-barrels-oil-deal-2026",
-        "title": "Trump Announces Deal Giving US Control of 65 Billion Barrels of Venezuelan Oil",
-        "category": "Politics",
-        "date": "August 29, 2026",
-        "author": "Political Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Trump hails historic deal for US to control 65bn barrels of Venezuela's oil.webp",
-        "excerpt": "Donald Trump says the US has secured majority control of more than 65 billion barrels of Venezuela's proven oil reserves in a landmark deal involving private investment and efforts to rebuild the country's oil industry.",
-        "tags": [
-            "Donald Trump",
-            "Venezuela",
-            "Venezuelan oil",
-            "Delcy Rodriguez",
-            "Marco Rubio",
-            "Pete Hegseth",
-            "oil reserves",
-            "US foreign policy",
-            "energy security",
-            "Venezuela politics"
-        ]
-    },
-    {
-        "id": "pol-trump-iran-sanctions",
-        "slug": "trump-iran-new-sanctions-oil-markets-disruption-2026",
-        "title": "Trump Escalates Iran Pressure With New Sanctions as Oil Prices Surge",
-        "category": "Politics",
-        "date": "September 11, 2026",
-        "author": "Sarah Jenkins",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Trump Administration Escalates Iran Pressure With New Sanctions as Oil Markets Face Disruption.webp",
-        "excerpt": "The Trump administration is expanding sanctions on Iran and its proxy networks as the conflict disrupts oil supplies and keeps global energy markets under pressure.",
-        "tags": [
-            "Donald Trump",
-            "Iran",
-            "US Sanctions",
-            "Iran War",
-            "Oil Prices",
-            "Strait of Hormuz",
-            "Middle East",
-            "Energy Markets",
-            "US Foreign Policy",
-            "Treasury Department"
-        ]
-    },
-    {
-        "id": "pol-3",
-        "slug": "graham-platner-ends-maine-senate-campaign-democrats-replacement-2026",
-        "title": "Graham Platner Drops Out of Maine Senate Race After Controversy as Democrats Begin Replacement Process",
-        "category": "Politics",
-        "date": "July 9, 2026",
-        "author": "Sarah Jenkins",
-        "views": "45k",
-        "readTime": "12 Mins",
-        "comments": 24,
-        "image": "/images/news/Graham Platner Ends Maine Senate Campaign, Leaving Democrats Searching for Replacement.webp",
-        "excerpt": "Graham Platner has ended his Maine Senate campaign after allegations and controversy disrupted his bid, leaving Democrats racing to select a replacement candidate before the election deadline.",
-        "tags": [
-            "Graham Platner",
-            "Maine Senate race",
-            "Democratic Party",
-            "Susan Collins",
-            "2026 elections",
-            "U.S. Senate",
-            "Maine politics"
-        ]
-    },
-    {
-        "id": "pol-4",
-        "slug": "supreme-court-birthright-citizenship-trump-ruling-2026",
-        "title": "US Supreme Court Rules Against Trump on Birthright Citizenship, Reaffirms Constitutional Protections",
-        "category": "Politics",
-        "date": "July 1, 2026",
-        "author": "Emily Rodriguez",
-        "views": "25.5k",
-        "readTime": "9 Mins",
-        "comments": 34,
-        "image": "/images/news/Supreme Court Rejects Trump Bid to End Birthright Citizenship, Upholds 14th Amendment.webp",
-        "excerpt": "The U.S. Supreme Court has rejected President Donald Trump’s executive order restricting birthright citizenship, reaffirming the 14th Amendment and long-standing precedent granting citizenship to those born on U.S. soil.",
-        "tags": [
-            "Supreme Court",
-            "Donald Trump",
-            "birthright citizenship",
-            "immigration",
-            "14th Amendment",
-            "constitutional law",
-            "DOJ",
-            "Washington",
-            "SCOTUS ruling"
-        ]
-    },
-    {
-        "id": "pol-5",
-        "slug": "south-carolina-redistricting-james-clyburn",
-        "title": "South Carolina Republicans Block Effort to Redraw James Clyburn District",
-        "category": "Politics",
-        "date": "May 12, 2026",
-        "author": "David Smith",
-        "views": "7.1k",
-        "readTime": "6 Mins",
-        "comments": 15,
-        "image": "/images/news/South Carolina.webp",
-        "excerpt": "South Carolina Republicans blocked a Trump-backed redistricting proposal targeting Congressman James Clyburn’s district, exposing divisions inside the GOP ahead of the 2026 midterms.",
-        "tags": [
-            "James Clyburn",
-            "South Carolina",
-            "redistricting",
-            "Donald Trump",
-            "Voting Rights Act",
-            "gerrymandering",
-            "Republican Party",
-            "2026 midterms",
-            "House elections",
-            "voting rights"
-        ]
-    }
+  {
+    "id": "pol-trump-iran-sanctions",
+    "slug": "trump-iran-new-sanctions-oil-markets-disruption-2026",
+    "date": "September 11, 2026",
+    "category": "Politics",
+    "categories": [
+      "Politics"
+    ],
+    "title": "Trump Escalates Iran Pressure With New Sanctions as Oil Prices Surge",
+    "image": "/images/illustrations/trump-iran-new-sanctions-oil-markets-disruption-2026.webp",
+    "excerpt": "The Trump administration is expanding sanctions on Iran and its proxy networks as the conflict disrupts oil supplies and keeps global energy markets under pressure.",
+    "tags": [
+      "Donald Trump",
+      "Iran",
+      "US Sanctions",
+      "Iran War",
+      "Oil Prices",
+      "Strait of Hormuz",
+      "Middle East",
+      "Energy Markets",
+      "US Foreign Policy",
+      "Treasury Department"
+    ],
+    "readTime": "10 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "pol-mamdani-2026",
+    "slug": "trump-venezuela-65-billion-barrels-oil-deal-2026",
+    "date": "August 29, 2026",
+    "category": "Politics",
+    "categories": [
+      "Politics"
+    ],
+    "title": "Trump Announces Deal Giving US Control of 65 Billion Barrels of Venezuelan Oil",
+    "image": "/images/illustrations/trump-venezuela-65-billion-barrels-oil-deal-2026.webp",
+    "excerpt": "Donald Trump says the US has secured majority control of more than 65 billion barrels of Venezuela's proven oil reserves in a landmark deal involving private investment and efforts to rebuild the country's oil industry.",
+    "tags": [
+      "Donald Trump",
+      "Venezuela",
+      "Venezuelan oil",
+      "Delcy Rodriguez",
+      "Marco Rubio",
+      "Pete Hegseth",
+      "oil reserves",
+      "US foreign policy",
+      "energy security",
+      "Venezuela politics"
+    ],
+    "readTime": "7 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "pol-obama-presidential-center-2026",
+    "slug": "starmer-donates-biography-downing-street-library-2026",
+    "date": "August 21, 2026",
+    "category": "Politics",
+    "categories": [
+      "Politics"
+    ],
+    "title": "Keir Starmer Donates His Own Biography to Historic Downing Street Library",
+    "image": "/images/illustrations/starmer-donates-biography-downing-street-library-2026.webp",
+    "excerpt": "Former UK Prime Minister Sir Keir Starmer has donated a biography about himself, written by former Labour adviser Tom Baldwin, to the historic Downing Street library.",
+    "tags": [
+      "Keir Starmer",
+      "Downing Street",
+      "UK politics",
+      "Labour Party",
+      "Tom Baldwin",
+      "political biography",
+      "Prime Minister",
+      "Westminster",
+      "British politics"
+    ],
+    "readTime": "5 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "pol-redistricting-2026",
+    "slug": "anthony-fauci-contempt-of-congress-vote-rand-paul-covid-investigation",
+    "date": "August 6, 2026",
+    "category": "Politics",
+    "categories": [
+      "Politics"
+    ],
+    "title": "Senate Panel Moves Toward Contempt Vote Against Anthony Fauci Over COVID Hearing Dispute",
+    "image": "/images/illustrations/anthony-fauci-contempt-of-congress-vote-rand-paul-covid-investigation.webp",
+    "excerpt": "A Senate panel is moving toward a contempt vote against Anthony Fauci after he declined to answer questions during a COVID-19 investigation, escalating a political battle over pandemic response.",
+    "tags": [
+      "Anthony Fauci",
+      "Rand Paul",
+      "Congress",
+      "Senate investigation",
+      "COVID-19",
+      "pandemic response",
+      "Department of Justice",
+      "public health",
+      "Republicans",
+      "Democrats"
+    ],
+    "readTime": "6 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "pol-7",
+    "slug": "wesley-bell-defeats-cori-bush-missouri-democratic-primary-2026",
+    "date": "August 5, 2026",
+    "category": "Politics",
+    "categories": [
+      "Politics"
+    ],
+    "title": "Wesley Bell Beats Cori Bush in Missouri Primary as Democratic Party Divisions Deepen",
+    "image": "/images/illustrations/wesley-bell-defeats-cori-bush-missouri-democratic-primary-2026.webp",
+    "excerpt": "Rep.",
+    "tags": [
+      "Wesley Bell",
+      "Cori Bush",
+      "Missouri election",
+      "Democratic primary",
+      "St. Louis",
+      "2026 elections",
+      "progressive Democrats",
+      "Democratic Party",
+      "U.S. House",
+      "Missouri politics"
+    ],
+    "readTime": "5 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "pol-new-burnham",
+    "slug": "burnham-no-scope-increase-borrowing-think-tank-warning-2026",
+    "date": "July 29, 2026",
+    "category": "Politics",
+    "categories": [
+      "Politics"
+    ],
+    "title": "NIESR Says UK PM Andy Burnham Must Raise Taxes or Cut Spending Instead of Borrowing More",
+    "image": "/images/illustrations/burnham-no-scope-increase-borrowing-think-tank-warning-2026.webp",
+    "excerpt": "The National Institute of Economic and Social Research has warned that UK Prime Minister Andy Burnham has little room to increase borrowing, saying future spending commitments may require tax rises or spending cuts.",
+    "tags": [
+      "Andy Burnham",
+      "UK politics",
+      "NIESR",
+      "UK economy",
+      "borrowing",
+      "public spending",
+      "taxation",
+      "inflation",
+      "fiscal policy",
+      "government finances"
+    ],
+    "readTime": "5 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "pol-3",
+    "slug": "graham-platner-ends-maine-senate-campaign-democrats-replacement-2026",
+    "date": "July 9, 2026",
+    "category": "Politics",
+    "categories": [
+      "Politics"
+    ],
+    "title": "Graham Platner Drops Out of Maine Senate Race After Controversy as Democrats Begin Replacement Process",
+    "image": "/images/illustrations/graham-platner-ends-maine-senate-campaign-democrats-replacement-2026.webp",
+    "excerpt": "Democratic Senate candidate Graham Platner has suspended his campaign for the U.S.",
+    "tags": [
+      "Graham Platner",
+      "Maine Senate race",
+      "Democratic Party",
+      "Susan Collins",
+      "2026 elections",
+      "U.S. Senate",
+      "Maine politics"
+    ],
+    "readTime": "4 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "pol-4",
+    "slug": "supreme-court-birthright-citizenship-trump-ruling-2026",
+    "date": "July 1, 2026",
+    "category": "Politics",
+    "categories": [
+      "Politics"
+    ],
+    "title": "US Supreme Court Rules Against Trump on Birthright Citizenship, Reaffirms Constitutional Protections",
+    "image": "/images/illustrations/supreme-court-birthright-citizenship-trump-ruling-2026.webp",
+    "excerpt": "The U.S.",
+    "tags": [
+      "Supreme Court",
+      "Donald Trump",
+      "birthright citizenship",
+      "immigration",
+      "14th Amendment",
+      "constitutional law",
+      "DOJ",
+      "Washington",
+      "SCOTUS ruling"
+    ],
+    "readTime": "3 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "pol-5",
+    "slug": "south-carolina-redistricting-james-clyburn",
+    "date": "May 12, 2026",
+    "category": "Politics",
+    "categories": [
+      "Politics"
+    ],
+    "title": "South Carolina Republicans Block Effort to Redraw James Clyburn District",
+    "image": "/images/illustrations/south-carolina-redistricting-james-clyburn.webp",
+    "excerpt": "South Carolina Republicans unexpectedly blocked a redistricting proposal that could have eliminated Democratic Congressman James Clyburn’s congressional seat, creating a major political setback for national Republicans and President Donald.",
+    "tags": [
+      "James Clyburn",
+      "South Carolina",
+      "redistricting",
+      "Donald Trump",
+      "Voting Rights Act",
+      "gerrymandering",
+      "Republican Party",
+      "2026 midterms",
+      "House elections",
+      "voting rights"
+    ],
+    "readTime": "4 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "pol-4",
+    "slug": "federal-budget-infrastructure-2026",
+    "date": "January 18, 2026",
+    "category": "Politics",
+    "categories": [
+      "Politics"
+    ],
+    "title": "How to Read an Infrastructure Budget Beyond the Headline Number",
+    "image": "/images/illustrations/federal-budget-infrastructure-2026.webp",
+    "excerpt": "A large infrastructure allocation says little on its own; delivery depends on timing, funding source, project readiness, maintenance and measurable public value.",
+    "tags": [
+      "Infrastructure",
+      "Public finance",
+      "Budgets",
+      "Project delivery",
+      "Accountability"
+    ],
+    "readTime": "2 min read",
+    "articleType": "Explainer",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "pol-3",
+    "slug": "election-polling-demographics-shift",
+    "date": "January 16, 2026",
+    "category": "Politics",
+    "categories": [
+      "Politics"
+    ],
+    "title": "How to Read Demographic Shifts in Election Polling",
+    "image": "/images/illustrations/election-polling-demographics-shift.webp",
+    "excerpt": "Subgroup polling can reveal change, but small samples, turnout assumptions and broad identity labels make precise conclusions much harder than headline comparisons suggest.",
+    "tags": [
+      "Polling",
+      "Elections",
+      "Demographics",
+      "Survey methods",
+      "Political analysis"
+    ],
+    "readTime": "2 min read",
+    "articleType": "Explainer",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "pol-2",
+    "slug": "trade-policy-shifts-asia",
+    "date": "January 13, 2026",
+    "category": "Politics",
+    "categories": [
+      "Politics"
+    ],
+    "title": "Asia’s Supply Chains Are Reconfiguring, Not Retreating From Global Trade",
+    "image": "/images/illustrations/trade-policy-shifts-asia.webp",
+    "excerpt": "Regional sourcing is growing in parts of Asia, but the evidence points to selective diversification rather than a clean break from global production networks.",
+    "tags": [
+      "Asia",
+      "Trade",
+      "Supply chains",
+      "Regional integration",
+      "Economic resilience"
+    ],
+    "readTime": "2 min read",
+    "articleType": "Explainer",
+    "author": "The Quest for Profit"
+  }
 ]

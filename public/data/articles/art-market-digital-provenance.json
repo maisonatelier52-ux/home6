@@ -1,52 +1,89 @@
 {
-    "id": "wth-2",
-    "slug": "art-market-digital-provenance",
-    "title": "The Art Market 2.0: Digital Provenance and Rarity",
-    "category": "Wealth",
-    "date": "January 17, 2026",
-    "views": "15k",
-    "readTime": "8 Mins",
-    "comments": 22,
-    "image": "/images/news/wealth-2.webp",
-    "tags": [
-        "#Art",
-        "#Investing",
-        "#Blockchain",
-        "#Wealth"
-    ],
-    "author": {
-        "name": "David Smith",
-        "role": "Art & Alternative Asset Editor",
-        "postsCount": 204,
-        "image": "/images/authors/david.jpg",
-        "bio": "David examines the financialization of culture and the arts."
+  "id": "wth-2",
+  "slug": "art-market-digital-provenance",
+  "title": "Digital Provenance Can Strengthen the Art Market—But It Cannot Verify Its Own Inputs",
+  "category": "Wealth",
+  "date": "January 17, 2026",
+  "readTime": "2 min read",
+  "image": "/images/illustrations/art-market-digital-provenance.webp",
+  "tags": [
+    "Art market",
+    "Provenance",
+    "Digital records",
+    "Due diligence",
+    "Cultural property"
+  ],
+  "author": "The Quest for Profit",
+  "content": [
+    {
+      "type": "intro",
+      "text": "Digital provenance systems promise a clearer record of ownership, condition and movement. Their value is real when institutions agree on identifiers and keep the record current, but a tamper-resistant ledger is not the same as a truthful history."
     },
-    "content": [
-        {
-            "type": "intro",
-            "text": "Blockchain isn't just for digital art; it's becoming the gold standard for tracking physical masterpieces, reducing fraud and increasing liquidity."
-        },
-        {
-            "type": "paragraph",
-            "hasDropCap": true,
-            "text": "The traditional art market has long been criticized for its opacity and reliance on 'experts' whose opinions can be subjective or even compromised. Fraud and looting have plagued the industry for centuries. But a technological revolution is underway. By attaching a secure, blockchain-based 'digital twin' to physical artworks, auction houses and galleries are creating a permanent, immutable record of ownership and condition. This is the end of the forged provenance."
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "Fractional Ownership"
-        },
-        {
-            "type": "paragraph",
-            "text": "This technology also unlocks 'fractional ownership.' Instead of needing $50 million to buy a Picasso, an investor can now buy a $500 share of that same painting. We are seeing platforms that allow everyday investors to diversify into blue-chip art, much like they would into stocks or bonds. This 'financialization' of art is controversial among purists, but it is undoubtedly bringing more liquidity and more eyes to the market."
-        },
-        {
-            "type": "quote",
-            "text": "Art is an asset, but it is also a legacy. Technology is making that legacy easier to protect and share."
-        },
-        {
-            "type": "paragraph",
-            "text": "We are also seeing a shift in what is considered 'valuable.' As Gen Z enters the high-net-worth segment, they are bringing different tastes—favoring contemporary artists who use digital mediums and social activism. The next generation of masterpieces may be born on a tablet, but their value is being established on the blockchain."
-        }
-    ]
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The first record is the weak point"
+    },
+    {
+      "type": "paragraph",
+      "text": "A database can preserve an entry without alteration; it cannot independently confirm that the person creating the entry had good title or that the photographed object is the work described. False or incomplete information becomes durable too."
+    },
+    {
+      "type": "paragraph",
+      "text": "Physical inspection, archival research, export records and seller identification therefore remain essential. For older works, gaps may reflect war, forced sale, colonial removal or illicit excavation rather than ordinary paperwork loss."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interoperability matters more than novelty"
+    },
+    {
+      "type": "paragraph",
+      "text": "A provenance record is useful when museums, insurers, conservators, auction houses and owners can read it over decades. Closed platforms and abandoned products can make a supposedly permanent record difficult to access."
+    },
+    {
+      "type": "paragraph",
+      "text": "Good systems publish their governance: who may add or correct information, how disputes are recorded, what evidence supports each claim and how the record is exported if the service closes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "A better due-diligence standard"
+    },
+    {
+      "type": "paragraph",
+      "text": "Buyers should compare the digital record with invoices, collection history, condition reports, sanctions checks and relevant stolen-art or cultural-property databases. A token or certificate should be treated as one document among several."
+    },
+    {
+      "type": "paragraph",
+      "text": "Digital tools can reduce friction and make alterations visible. They improve provenance when they preserve accountable research; they do not replace the research itself."
+    }
+  ],
+  "excerpt": "A durable digital record can improve an artwork’s chain of custody, but technology cannot prove that the first attribution, ownership claim or physical match was correct.",
+  "seoTitle": "Digital Provenance Can Strengthen the Art Market—But It Cannot Verify Its Own Inputs",
+  "seoDescription": "A durable digital record can improve an artwork’s chain of custody, but technology cannot prove that the first attribution, ownership claim or physical match.",
+  "seoImageAlt": "Digital Provenance Can Strengthen the Art Market—But It Cannot Verify Its Own Inputs — editorial illustration",
+  "datePublished": "2026-01-16",
+  "dateModified": "2026-09-17",
+  "articleType": "Explainer",
+  "keyPoints": [
+    "A durable digital record can improve an artwork’s chain of custody, but technology cannot prove that the first attribution, ownership claim or physical match was correct.",
+    "Test the costs, liquidity, tax treatment and downside risk alongside the headline return or asset story.",
+    "This is general analysis, not personal investment, tax or legal advice."
+  ],
+  "referenceDesk": [
+    {
+      "name": "UNESCO: due diligence for cultural objects offered online",
+      "url": "https://www.unesco.org/sites/default/files/medias/fichiers/2023/03/G20_Priority%201%20India%20CWG%20Background%20Paper.pdf"
+    },
+    {
+      "name": "SEC investor resources",
+      "url": "https://www.investor.gov/"
+    },
+    {
+      "name": "Federal Reserve economic data",
+      "url": "https://fred.stlouisfed.org/"
+    }
+  ],
+  "editorialNote": "Reviewed 2026-09-17. This post distinguishes reported facts from analysis and links to records readers can check. This is general analysis, not personal investment, tax or legal advice."
 }

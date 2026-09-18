@@ -40,6 +40,8 @@ interface FeatureModulesProps {
 }
 
 export default function FeatureModules({ module7, module10, hotPeoples }: FeatureModulesProps) {
+    const featuredVisual = module10.recentPosts[0];
+
     return (
         <div className="flex flex-col lg:flex-row gap-4 w-full mt-8">
             {/* Left Modules (Takes 2/3 width) */}
@@ -142,16 +144,21 @@ export default function FeatureModules({ module7, module10, hotPeoples }: Featur
             {/* Right Sidebar (Takes 1/3 width) */}
             <div className="lg:w-1/3">
                 <div className='md:border-l border-gray-300 pl-0 md:pl-4 h-full'>
-                    {/* Advertisement */}
-                    <div>
-                        <Link href="https://www.venturecapi.com/" title="Visit VentureCapi" className="w-full mb-8 overflow-hidden group cursor-pointer">
-                            <img
-                                src="/images/adv333.svg"
-                                alt="Advertisement"
-                                className="w-full h-auto"
+                    {featuredVisual && (
+                        <Link
+                            href={`/${(featuredVisual.category || "tech").toLowerCase()}/${featuredVisual.slug}`}
+                            title={featuredVisual.title}
+                            className="group relative mb-8 block aspect-[4/5] w-full overflow-hidden"
+                        >
+                            <Image
+                                src={featuredVisual.image}
+                                alt={featuredVisual.title}
+                                fill
+                                sizes="(max-width: 1024px) 100vw, 360px"
+                                className="object-cover transition-transform duration-300 group-hover:scale-[1.02]"
                             />
                         </Link>
-                    </div>
+                    )}
 
                     {/* Hot Peoples */}
                     <SidebarHotPeoples items={hotPeoples} />

@@ -1,43 +1,85 @@
 {
-    "id": "4",
-    "slug": "capturing-essence-street-life",
-    "title": "Capturing the Essence of Street Life through Lense",
-    "category": "Culture",
-    "date": "January 16, 2026",
-    "views": "850",
-    "readTime": "3 Mins",
-    "comments": 1,
-    "image": "/images/eyepaint.webp",
-    "tags": [
-        "#Photography",
-        "#Street",
-        "#Life"
-    ],
-    "author": {
-        "name": "Maxin Dalton",
-        "role": "Editor",
-        "postsCount": 23,
-        "image": "/images/authors/maxin.jpg",
-        "bio": "Photographer and writer with a passion for urban stories."
+  "id": "4",
+  "slug": "capturing-essence-street-life",
+  "title": "Street Photography: Ethics, Attention and the Decisive Moment",
+  "category": "Culture",
+  "date": "January 16, 2026",
+  "readTime": "2 min read",
+  "image": "/images/illustrations/capturing-essence-street-life.webp",
+  "tags": [
+    "Street photography",
+    "Visual ethics",
+    "Documentary",
+    "Consent",
+    "Public space"
+  ],
+  "author": "The Quest for Profit",
+  "content": [
+    {
+      "type": "intro",
+      "text": "Street photography turns ordinary public life into a record of gesture, light and social change. The camera's access to a public scene does not remove the photographer's responsibility to the people inside it."
     },
-    "content": [
-        {
-            "type": "intro",
-            "text": "Street photography is more than just taking pictures of people in public. It's about capturing a moment, a look, or an interaction."
-        },
-        {
-            "type": "paragraph",
-            "hasDropCap": true,
-            "text": "It requires patience, observation, and a quick eye for composition. The best street photographs are those that reveal the extraordinary in the ordinary. A shaft of light hitting a building, a fleeting expression on a stranger's face, the juxtaposition of old and new."
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "The Decisive Moment"
-        },
-        {
-            "type": "paragraph",
-            "text": "Henri Cartier-Bresson coined the term 'the decisive moment' to describe that split second when all the elements of a scene come together perfectly. In street photography, missing that moment means missing the shot forever."
-        }
-    ]
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The decisive moment is edited, not found"
+    },
+    {
+      "type": "paragraph",
+      "text": "Timing matters, but every image is also a set of choices about position, framing and what happens before and after the shutter. A photograph can suggest a relationship or conflict that the wider scene would complicate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Captions and sequencing therefore matter. They should distinguish what the photographer observed from what they inferred, and they should not invent motives for a person who cannot answer back."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Public visibility is not unlimited consent"
+    },
+    {
+      "type": "paragraph",
+      "text": "Laws on photographing in public differ by jurisdiction, while ethical judgment depends on circumstance. Children, medical distress, grief and economic vulnerability require more care than a general crowd scene."
+    },
+    {
+      "type": "paragraph",
+      "text": "When an identifiable subject carries the meaning of the image, a conversation can improve accuracy as well as consent. There are exceptions for fleeting public events, but “it was legal” is an incomplete editorial test."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Build a trustworthy practice"
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep accurate notes, avoid staging documentary scenes without disclosure and explain meaningful digital manipulation. When safety permits, give subjects a way to see the work and raise concerns."
+    },
+    {
+      "type": "paragraph",
+      "text": "The strongest street photographs do more than surprise. They preserve a specific encounter without flattening the person photographed into a symbol for someone else's argument."
+    }
+  ],
+  "excerpt": "A strong street photograph depends on observation and timing, but its value also rests on how the photographer handles consent, vulnerability and context.",
+  "seoTitle": "Street Photography: Ethics, Attention and the Decisive Moment",
+  "seoDescription": "A strong street photograph depends on observation and timing, but its value also rests on how the photographer handles consent, vulnerability and context.",
+  "seoImageAlt": "Street Photography: Ethics, Attention and the Decisive Moment — editorial illustration",
+  "datePublished": "2026-01-15",
+  "dateModified": "2026-09-17",
+  "articleType": "Explainer",
+  "keyPoints": [
+    "A strong street photograph depends on observation and timing, but its value also rests on how the photographer handles consent, vulnerability and context.",
+    "Ask whose interpretation is presented, what history is missing and whether the originating community retains agency.",
+    "Attribution and context are part of the evidence, not decorative background."
+  ],
+  "referenceDesk": [
+    {
+      "name": "UNESCO culture and heritage",
+      "url": "https://www.unesco.org/en/culture"
+    },
+    {
+      "name": "Library of Congress collections",
+      "url": "https://www.loc.gov/"
+    }
+  ],
+  "editorialNote": "Reviewed 2026-09-17. This post distinguishes reported facts from analysis and links to records readers can check. Attribution and context are part of the evidence, not decorative background."
 }

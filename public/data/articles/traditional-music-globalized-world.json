@@ -1,42 +1,85 @@
 {
-    "id": "5",
-    "slug": "traditional-music-globalized-world",
-    "title": "Traditional Music in the Heart of Globalized World",
-    "category": "Culture",
-    "date": "January 14, 2026",
-    "views": "2100",
-    "readTime": "7 Mins",
-    "comments": 5,
-    "image": "/images/oldmen.webp",
-    "tags": [
-        "#Music",
-        "#Tradition",
-        "#Global"
-    ],
-    "author": {
-        "name": "Maxin Dalton",
-        "role": "Editor",
-        "postsCount": 23,
-        "image": "/images/authors/maxin.jpg",
-        "bio": "Musicologist exploring the sounds of the world."
+  "id": "5",
+  "slug": "traditional-music-globalized-world",
+  "title": "How Traditional Music Travels Without Losing Its Roots",
+  "category": "Culture",
+  "date": "January 14, 2026",
+  "readTime": "2 min read",
+  "image": "/images/illustrations/traditional-music-globalized-world.webp",
+  "tags": [
+    "Traditional music",
+    "Cultural heritage",
+    "Streaming",
+    "Attribution",
+    "Creative economy"
+  ],
+  "author": "The Quest for Profit",
+  "content": [
+    {
+      "type": "intro",
+      "text": "Traditional music has never been completely static or isolated. Musicians borrow instruments, rhythms and stories across borders; the challenge is ensuring that wider circulation does not erase the people and places that gave the music meaning."
     },
-    "content": [
-        {
-            "type": "intro",
-            "text": "In an increasingly connected world, traditional music faces both challenges and opportunities."
-        },
-        {
-            "type": "paragraph",
-            "hasDropCap": true,
-            "text": "While globalization can lead to the homogenization of sound, it also provides new platforms for regional artists to reach a wider audience than ever before. From the steppes of Mongolia to the mountains of the Andes, traditional musicians are finding new ways to share their heritage."
-        },
-        {
-            "type": "paragraph",
-            "text": "Collaborations between traditional artists and modern pop stars are becoming more common, creating exciting new hybrids that bridge the gap between old and new."
-        },
-        {
-            "type": "quote",
-            "text": "Music is the universal language of mankind."
-        }
-    ]
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reach is not the same as recognition"
+    },
+    {
+      "type": "paragraph",
+      "text": "Streaming and short-form video can introduce a regional style to millions of listeners. The same systems can detach a sound from its language, ceremony or community and reward the account that repackages it most effectively."
+    },
+    {
+      "type": "paragraph",
+      "text": "Useful credits name performers, composers, communities, languages and source recordings. Vague labels such as “tribal” or “world music” conceal history and make it harder for listeners to follow the work back to its creators."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Collaboration needs more than permission"
+    },
+    {
+      "type": "paragraph",
+      "text": "A legal licence may cover a recording without addressing the cultural authority to reuse it. Musicians working with sacred, ceremonial or collectively held material may need consent that ordinary copyright does not capture."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fair collaboration also means transparent payment, shared decision-making and an agreement about how the work will be described. A prominent feature credit is useful, but it does not replace control over context."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What listeners and institutions can do"
+    },
+    {
+      "type": "paragraph",
+      "text": "Listeners can seek original performers, liner notes and local archives rather than stopping at a viral sample. Festivals and labels can fund documentation, translation and touring relationships that last beyond one release."
+    },
+    {
+      "type": "paragraph",
+      "text": "Music can travel widely without becoming anonymous. The test is whether circulation strengthens the people who carry the tradition or merely extracts a recognisable sound from them."
+    }
+  ],
+  "excerpt": "Global platforms can help regional music reach new listeners, but durable cultural exchange depends on attribution, consent and fair returns to the people who sustain the tradition.",
+  "seoTitle": "How Traditional Music Travels Without Losing Its Roots",
+  "seoDescription": "Global platforms can help regional music reach new listeners, but durable cultural exchange depends on attribution, consent and fair returns to the people who.",
+  "seoImageAlt": "How Traditional Music Travels Without Losing Its Roots — editorial illustration",
+  "datePublished": "2026-01-13",
+  "dateModified": "2026-09-17",
+  "articleType": "Explainer",
+  "keyPoints": [
+    "Global platforms can help regional music reach new listeners, but durable cultural exchange depends on attribution, consent and fair returns to the people who sustain the tradition.",
+    "Ask whose interpretation is presented, what history is missing and whether the originating community retains agency.",
+    "Attribution and context are part of the evidence, not decorative background."
+  ],
+  "referenceDesk": [
+    {
+      "name": "UNESCO culture and heritage",
+      "url": "https://www.unesco.org/en/culture"
+    },
+    {
+      "name": "Library of Congress collections",
+      "url": "https://www.loc.gov/"
+    }
+  ],
+  "editorialNote": "Reviewed 2026-09-17. This post distinguishes reported facts from analysis and links to records readers can check. Attribution and context are part of the evidence, not decorative background."
 }

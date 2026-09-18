@@ -23,7 +23,7 @@ export default function CorrectionsPolicyPage() {
                     </h1>
 
                     <p className="text-base md:text-lg leading-relaxed text-gray-700 mb-12 text-center max-w-2xl mx-auto">
-                        Precision is the foundation of The Quest for Profit&apos;s financial journalism. While our editorial team rigorously verifies all data and reports before they are published, errors can happen. When discrepancies occur, we address and correct them openly, quickly, and clearly.
+                        Precision is the foundation of The Quest for Profit&apos;s editorial work. While we review factual claims and data before publishing, errors can happen. When discrepancies occur, we address and correct them openly, quickly, and clearly.
                     </p>
 
                     <div className="space-y-12">
@@ -68,7 +68,7 @@ export default function CorrectionsPolicyPage() {
                                     <div>
                                         <h3 className="text-lg font-bold text-gray-900 mb-1">Evolving Coverage</h3>
                                         <p className="text-base text-gray-700">
-                                            For active, developing news stories, content may be continuously updated as new details are confirmed. These updates are appended with a timestamp so readers can track how the story developed.
+                                            For posts about developing subjects, content may be updated as new details are confirmed. Material updates are appended with a timestamp so readers can track what changed.
                                         </p>
                                     </div>
                                 </div>
@@ -81,7 +81,7 @@ export default function CorrectionsPolicyPage() {
                                 Where Corrections Appear
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800">
-                                All updates and corrections are applied directly to the original article page. We do not bury corrections or place them in hard-to-find sections. Transparency means the correction remains attached to the reporting itself, enabling any reader of the piece to see what changes were made.
+                                All updates and corrections are applied directly to the original post. We do not bury corrections or place them in hard-to-find sections. The correction remains attached to the piece so readers can see what changed.
                             </p>
                         </section>
 
@@ -101,7 +101,7 @@ export default function CorrectionsPolicyPage() {
                                 Reader Submissions
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800 mb-6">
-                                Our readers are vital in helping us maintain the absolute accuracy of our financial journalism. If you spot an error, please reach out to our editorial desk immediately:
+                                Readers help us improve the accuracy of the blog. If you spot an error, please contact our editorial team:
                             </p>
                             <div className="flex items-center gap-2 text-gray-800 text-base md:text-lg">
                                 <Mail className="w-5 h-5 text-red-600" />

@@ -35,7 +35,7 @@ export default function PrivacyPolicyPage() {
                     </h1>
 
                     <p className="text-base md:text-lg leading-relaxed mb-12">
-                        The Quest for Profit values reader trust. We collect only limited information necessary to operate our newsroom, communicate with readers, and improve our journalism. This policy explains what we collect, why we collect it, and how we protect it.
+                        The Quest for Profit values reader trust. We collect only limited information necessary to operate the blog, communicate with readers, and improve our content. This policy explains what we collect, why we collect it, and how we protect it.
                     </p>
 
                     <div className="space-y-12">
@@ -92,7 +92,7 @@ export default function PrivacyPolicyPage() {
                             </h2>
                             <div className="space-y-4 text-gray-800 text-base md:text-lg leading-relaxed">
                                 <p>
-                                    We use cookies and analytics tools to understand how readers interact with our content. You may disable cookies in your browser without affecting access to our reporting.
+                                    We use cookies and analytics tools to understand how readers interact with our content. You may disable cookies in your browser without affecting access to our posts.
                                 </p>
                                 <p>
                                     Third-party analytics services may process anonymized data under their own privacy policies.
@@ -126,7 +126,7 @@ export default function PrivacyPolicyPage() {
                             <hr className="border-t border-gray-300 mb-8" />
                             
                             <p className="text-center text-gray-700 text-base md:text-lg mb-8">
-                                The Quest for Profit collects as little information as possible, uses it only to support journalism, and never sells personal data.
+                                The Quest for Profit collects as little information as possible, uses it only to operate and improve the blog, and never sells personal data.
                             </p>
                             
                             <p className="text-center text-xs text-gray-500 italic">

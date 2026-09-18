@@ -1,202 +1,218 @@
 [
-    {
-        "id": "mark-us-stock-futures-slide",
-        "slug": "us-stock-futures-slide-ai-concerns-oil-surge-global-markets-2026",
-        "title": "US Stock Futures Fall as AI Fears and $108 Oil Shake Global Markets",
-        "category": "Markets",
-        "date": "September 14, 2026",
-        "author": "Markets Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/US Stock Futures Slide as AI Concerns and Oil Surge Pressure Global Markets.webp",
-        "excerpt": "US stock futures fall as AI safety concerns weigh on technology shares while oil surges above $108, raising inflation and Fed rate worries.",
-        "tags": [
-            "US Stock Futures",
-            "Wall Street",
-            "AI Stocks",
-            "Oil Prices",
-            "Federal Reserve",
-            "Inflation",
-            "Nvidia",
-            "Nasdaq",
-            "Energy Markets",
-            "Global Markets"
-        ]
-    },
-    {
-        "id": "mark-asian-markets-2026",
-        "slug": "alejandro-betancourt-us-venezuela-oil-deal-2026",
-        "title": "Alejandro Betancourt: The Venezuelan Oil Tycoon at the Center of Trump's Landmark Deal",
-        "category": "Markets",
-        "date": "September 3, 2026",
-        "author": "Markets Desk",
-        "views": "0k",
-        "readTime": "15 Mins",
-        "comments": 0,
-        "image": "/images/news/Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal.webp",
-        "excerpt": "Alejandro Betancourt has emerged as a central figure in the US-Venezuela oil agreement, putting his company at the heart of a deal covering 17 oilfields and about 65 billion barrels of reserves.",
-        "tags": [
-            "Alejandro Betancourt",
-            "Venezuela oil",
-            "US-Venezuela deal",
-            "NABEP",
-            "Donald Trump",
-            "oil markets",
-            "Venezuela",
-            "North American Blue Energy Partners",
-            "Chevron",
-            "energy investment"
-        ]
-    },
-    {
-        "id": "oil-gas-prices-surge-iran-war-global-energy-supply-fears",
-        "slug": "oil-gas-prices-surge-iran-war-global-energy-supply-fears",
-        "title": "Oil Prices Near $100 as Iran War Disrupts Global Energy Supplies",
-        "category": "Markets",
-        "date": "September 7, 2026",
-        "author": "Michael Chen",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Oil and Gas Prices Surge as Iran War Raises Global Energy Supply Fears.webp",
-        "excerpt": "Oil and gas prices are surging as the Iran war disrupts shipping through the Strait of Hormuz, threatens supply and raises global inflation risks.",
-        "tags": [
-            "Oil Prices",
-            "Natural Gas",
-            "Iran War",
-            "Strait of Hormuz",
-            "Energy Markets",
-            "Brent Crude",
-            "LNG",
-            "Geopolitics",
-            "Inflation",
-            "Global Economy"
-        ]
-    },
-    {
-        "id": "mkt-dollar-holds-gains",
-        "slug": "dollar-holds-gains-middle-east-energy-shock-inflation-fed-2026",
-        "title": "US Dollar Holds Gains as Oil Surge Raises Inflation and Fed Rate Hike Bets",
-        "category": "Markets",
-        "date": "September 11, 2026",
-        "author": "Tech Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Dollar Holds Gains as Middle East Energy Shock Fuels Inflation and Rate Concerns.webp",
-        "excerpt": "The US dollar holds near a one-week high as surging oil prices fuel inflation fears, lift Treasury yields and increase Fed rate hike expectations.",
-        "tags": [
-            "US Dollar",
-            "Forex",
-            "Oil Prices",
-            "Inflation",
-            "Federal Reserve",
-            "Interest Rates",
-            "Treasury Yields",
-            "Middle East War",
-            "Energy Markets",
-            "Global Markets"
-        ]
-    },
-    {
-        "id": "mkt-google-finland-nuclear",
-        "slug": "google-15-billion-finland-ai-infrastructure-nuclear-power-deal",
-        "title": "Google to Invest $15 Billion in Finland AI Infrastructure With 22-Year Nuclear Power Deal",
-        "category": "Markets",
-        "date": "September 9, 2026",
-        "author": "Tech Desk",
-        "views": "0k",
-        "readTime": "8 Mins",
-        "comments": 0,
-        "image": "/images/news/Google Commits 15 Billion to AI Infrastructure in Finland With Nuclear Power Deal.webp",
-        "excerpt": "Google will invest at least €13 billion in Finnish AI infrastructure while securing nuclear and renewable power as data-centre energy demand surges.",
-        "tags": [
-            "Google",
-            "Alphabet",
-            "AI Infrastructure",
-            "Finland",
-            "Nuclear Power",
-            "Data Centres",
-            "Fortum",
-            "Energy Markets",
-            "Artificial Intelligence",
-            "Technology Investment"
-        ]
-    },
-    {
-        "id": "mkt-global-markets-fed-hike",
-        "slug": "global-markets-rise-fed-rate-hike-central-bank-decisions-2026",
-        "title": "Global Markets Rise After Fed Rate Hike as Investors Shift Focus to Central Bank Decisions",
-        "category": "Markets",
-        "date": "September 17, 2026",
-        "author": "Markets Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Global Markets Rise After Fed Rate Hike as Investors Shift Focus to Central Bank Decisions.webp",
-        "excerpt": "Global markets edge higher after the Fed raised rates to 3.75%-4.00%, while investors turn to Bank of England and Bank of Japan decisions.",
-        "tags": [
-            "Global Markets",
-            "Federal Reserve",
-            "Fed Rate Hike",
-            "Bank of England",
-            "Bank of Japan",
-            "Stocks",
-            "Bonds",
-            "Dollar",
-            "Inflation",
-            "Interest Rates"
-        ]
-    },
-    {
-        "id": "mkt-3",
-        "slug": "us-japan-joint-yen-intervention-2026",
-        "title": "US and Japan Take Coordinated Action to Stabilize Yen Amid Currency Volatility",
-        "category": "Markets",
-        "date": "August 3, 2026",
-        "author": "Alex Thorne",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/US and Japan take action to prop up yen in rare joint move.webp",
-        "excerpt": "The United States and Japan have taken the rare step of coordinating action to support the Japanese yen, highlighting growing concerns over currency volatility and its impact on global financial markets.",
-        "tags": [
-            "Japanese yen",
-            "US Treasury",
-            "Bank of Japan",
-            "currency markets",
-            "forex",
-            "exchange rates",
-            "Federal Reserve",
-            "Japan economy",
-            "global markets",
-            "intervention"
-        ]
-    },
-    {
-        "id": "mkt-4",
-        "slug": "global-markets-slide-trump-tariffs-oil-ai-stock-selloff-july-2026",
-        "title": "Global Markets Slide as Trump Tariffs, Oil Surge and AI Stock Sell-Off Shake Investor Confidence",
-        "category": "Markets",
-        "date": "July 24, 2026",
-        "author": "Sarah Jenkins",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Global Markets Slide as Trump Tariffs, Oil Surge and AI Stock Sell-Off Shake Investor Confidence.webp",
-        "excerpt": "Global markets declined as investors reacted to new Trump tariffs, rising oil prices, AI stock volatility and growing concerns over inflation and interest rates. Asian exporters including Japan and South Korea faced heavy losses.",
-        "tags": [
-            "global markets",
-            "stock market",
-            "Trump tariffs",
-            "Asian stocks",
-            "AI stocks",
-            "oil prices",
-            "inflation",
-            "Japan markets",
-            "South Korea stocks",
-            "Wall Street"
-        ]
-    }
+  {
+    "id": "mark-us-stock-futures-slide",
+    "slug": "us-stock-futures-slide-ai-concerns-oil-surge-global-markets-2026",
+    "date": "September 14, 2026",
+    "category": "Markets",
+    "categories": [
+      "Markets"
+    ],
+    "title": "US Stock Futures Fall as AI Fears and $108 Oil Shake Global Markets",
+    "image": "/images/illustrations/us-stock-futures-slide-ai-concerns-oil-surge-global-markets-2026.webp",
+    "excerpt": "US stock futures fall as AI safety concerns weigh on technology shares while oil surges above $108, raising inflation and Fed rate worries.",
+    "tags": [
+      "US Stock Futures",
+      "Wall Street",
+      "AI Stocks",
+      "Oil Prices",
+      "Federal Reserve",
+      "Inflation",
+      "Nvidia",
+      "Nasdaq",
+      "Energy Markets",
+      "Global Markets"
+    ],
+    "readTime": "10 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "mkt-dollar-holds-gains",
+    "slug": "dollar-holds-gains-middle-east-energy-shock-inflation-fed-2026",
+    "date": "September 11, 2026",
+    "category": "Markets",
+    "categories": [
+      "Markets"
+    ],
+    "title": "US Dollar Holds Gains as Oil Surge Raises Inflation and Fed Rate Hike Bets",
+    "image": "/images/illustrations/dollar-holds-gains-middle-east-energy-shock-inflation-fed-2026.webp",
+    "excerpt": "The US dollar holds near a one-week high as surging oil prices fuel inflation fears, lift Treasury yields and increase Fed rate hike expectations.",
+    "tags": [
+      "US Dollar",
+      "Forex",
+      "Oil Prices",
+      "Inflation",
+      "Federal Reserve",
+      "Interest Rates",
+      "Treasury Yields",
+      "Middle East War",
+      "Energy Markets",
+      "Global Markets"
+    ],
+    "readTime": "9 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "mkt-google-finland-nuclear",
+    "slug": "google-15-billion-finland-ai-infrastructure-nuclear-power-deal",
+    "date": "September 9, 2026",
+    "category": "Markets",
+    "categories": [
+      "Markets"
+    ],
+    "title": "Google to Invest $15 Billion in Finland AI Infrastructure With 22-Year Nuclear Power Deal",
+    "image": "/images/illustrations/google-15-billion-finland-ai-infrastructure-nuclear-power-deal.webp",
+    "excerpt": "Google will invest at least €13 billion in Finnish AI infrastructure while securing nuclear and renewable power as data-centre energy demand surges.",
+    "tags": [
+      "Google",
+      "Alphabet",
+      "AI Infrastructure",
+      "Finland",
+      "Nuclear Power",
+      "Data Centres",
+      "Fortum",
+      "Energy Markets",
+      "Artificial Intelligence",
+      "Technology Investment"
+    ],
+    "readTime": "8 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "oil-gas-prices-surge-iran-war-global-energy-supply-fears",
+    "slug": "oil-gas-prices-surge-iran-war-global-energy-supply-fears",
+    "date": "September 7, 2026",
+    "category": "Markets",
+    "categories": [
+      "Markets"
+    ],
+    "title": "Oil Prices Near $100 as Iran War Disrupts Global Energy Supplies",
+    "image": "/images/illustrations/oil-gas-prices-surge-iran-war-global-energy-supply-fears.webp",
+    "excerpt": "Oil and gas prices are surging as the Iran war disrupts shipping through the Strait of Hormuz, threatens supply and raises global inflation risks.",
+    "tags": [
+      "Oil Prices",
+      "Natural Gas",
+      "Iran War",
+      "Strait of Hormuz",
+      "Energy Markets",
+      "Brent Crude",
+      "LNG",
+      "Geopolitics",
+      "Inflation",
+      "Global Economy"
+    ],
+    "readTime": "8 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "mark-asian-markets-2026",
+    "slug": "alejandro-betancourt-us-venezuela-oil-deal-2026",
+    "date": "September 3, 2026",
+    "category": "Markets",
+    "categories": [
+      "Markets"
+    ],
+    "title": "Alejandro Betancourt: The Venezuelan Oil Tycoon at the Center of Trump's Landmark Deal",
+    "image": "/images/illustrations/alejandro-betancourt-us-venezuela-oil-deal-2026.webp",
+    "excerpt": "Alejandro Betancourt has emerged as a central figure in the US-Venezuela oil agreement, putting his company at the heart of a deal covering 17 oilfields and about 65 billion barrels of reserves.",
+    "tags": [
+      "Alejandro Betancourt",
+      "Venezuela oil",
+      "US-Venezuela deal",
+      "NABEP",
+      "Donald Trump",
+      "oil markets",
+      "Venezuela",
+      "North American Blue Energy Partners",
+      "Chevron",
+      "energy investment"
+    ],
+    "readTime": "8 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "mkt-3",
+    "slug": "us-japan-joint-yen-intervention-2026",
+    "date": "August 3, 2026",
+    "category": "Markets",
+    "categories": [
+      "Markets"
+    ],
+    "title": "US and Japan Take Coordinated Action to Stabilize Yen Amid Currency Volatility",
+    "image": "/images/illustrations/us-japan-joint-yen-intervention-2026.webp",
+    "excerpt": "The United States and Japan have taken the rare step of coordinating action to support the Japanese yen, highlighting growing concerns over currency volatility and its impact on global financial markets.",
+    "tags": [
+      "Japanese yen",
+      "US Treasury",
+      "Bank of Japan",
+      "currency markets",
+      "forex",
+      "exchange rates",
+      "Federal Reserve",
+      "Japan economy",
+      "global markets",
+      "intervention"
+    ],
+    "readTime": "5 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "mkt-1",
+    "slug": "south-korea-kospi-rebound-samsung-sk-hynix-ai-chip-stocks",
+    "date": "July 31, 2026",
+    "category": "Markets",
+    "categories": [
+      "Markets"
+    ],
+    "title": "South Korea’s KOSPI Surges as Samsung and SK Hynix Lead Record AI Chip Recovery",
+    "image": "/images/illustrations/south-korea-kospi-rebound-samsung-sk-hynix-ai-chip-stocks.webp",
+    "excerpt": "South Korea’s KOSPI recorded a historic rebound as Samsung Electronics and SK Hynix shares surged, driven by renewed confidence in AI demand and semiconductor growth.",
+    "tags": [
+      "South Korea",
+      "KOSPI",
+      "Samsung Electronics",
+      "SK Hynix",
+      "AI stocks",
+      "semiconductor industry",
+      "stock market rebound",
+      "artificial intelligence",
+      "technology stocks",
+      "global markets"
+    ],
+    "readTime": "4 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "mkt-4",
+    "slug": "global-markets-slide-trump-tariffs-oil-ai-stock-selloff-july-2026",
+    "date": "July 24, 2026",
+    "category": "Markets",
+    "categories": [
+      "Markets"
+    ],
+    "title": "Global Markets Slide as Trump Tariffs, Oil Surge and AI Stock Sell-Off Shake Investor Confidence",
+    "image": "/images/illustrations/global-markets-slide-trump-tariffs-oil-ai-stock-selloff-july-2026.webp",
+    "excerpt": "Global markets declined as investors reacted to new Trump tariffs, rising oil prices, AI stock volatility and growing concerns over inflation and interest rates.",
+    "tags": [
+      "global markets",
+      "stock market",
+      "Trump tariffs",
+      "Asian stocks",
+      "AI stocks",
+      "oil prices",
+      "inflation",
+      "Japan markets",
+      "South Korea stocks",
+      "Wall Street"
+    ],
+    "readTime": "6 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  }
 ]

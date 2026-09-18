@@ -1,44 +1,85 @@
 {
-    "id": "pol-4",
-    "slug": "federal-budget-infrastructure-2026",
-    "title": "Federal Budget: Infrastructure Focus for 2026",
-    "category": "Politics",
-    "date": "January 18, 2026",
-    "views": "9.8k",
-    "readTime": "7 Mins",
-    "comments": 18,
-    "image": "/images/news/politics-3.webp",
-    "tags": [
-        "#Budget",
-        "#Infrastructure",
-        "#Policy",
-        "#Transport"
-    ],
-    "author": {
-        "name": "Sarah Jenkins",
-        "role": "Senior Political Analyst",
-        "postsCount": 142,
-        "image": "/images/authors/sarah.jpg",
-        "bio": "Sarah Jenkins has covered global politics for over a decade, specializing in economic policy and international summits."
+  "id": "pol-4",
+  "slug": "federal-budget-infrastructure-2026",
+  "title": "How to Read an Infrastructure Budget Beyond the Headline Number",
+  "category": "Politics",
+  "date": "January 18, 2026",
+  "readTime": "2 min read",
+  "image": "/images/illustrations/federal-budget-infrastructure-2026.webp",
+  "tags": [
+    "Infrastructure",
+    "Public finance",
+    "Budgets",
+    "Project delivery",
+    "Accountability"
+  ],
+  "author": "The Quest for Profit",
+  "content": [
+    {
+      "type": "intro",
+      "text": "Infrastructure announcements compress years of approvals, procurement and construction into one number. A useful reading separates money that is genuinely new from funds that were previously authorised or shifted between programmes."
     },
-    "content": [
-        {
-            "type": "intro",
-            "text": "The new budget proposal prioritizes green energy infrastructure and high-speed rail development across major corridors, signaling a shift in national priorities."
-        },
-        {
-            "type": "paragraph",
-            "hasDropCap": true,
-            "text": "The 2026 federal budget proposal, unveiled this morning, represents one of the most significant pivots in national spending in recent history. With a clear focus on long-term resilience, the administration has allocated hundreds of billions to the modernization of the energy grid and the expansion of transit networks. The goal is clear: to decouple economic growth from carbon emissions while creating thousands of high-skilled jobs."
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "High-Speed Rail Expansion"
-        },
-        {
-            "type": "paragraph",
-            "text": "A centerpiece of the plan is the multi-year commitment to high-speed rail. For the first time, funding has been secured for dedicated corridors connecting regional hubs, aiming to reduce the reliance on short-haul flights. This move is expected to transform the landscape of regional commerce and tourism, though it faces stiff opposition from traditional transport lobbyists."
-        }
-    ]
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Follow the money through time"
+    },
+    {
+      "type": "paragraph",
+      "text": "Budget authority allows an agency to commit funds, while actual spending may occur much later. Multi-year totals should be compared on the same time horizon and adjusted for inflation before they are described as increases or cuts."
+    },
+    {
+      "type": "paragraph",
+      "text": "The funding source matters too. General taxation, borrowing, user charges and public-private structures distribute cost and risk differently. A project can be affordable to government while remaining expensive for users."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Project readiness limits delivery"
+    },
+    {
+      "type": "paragraph",
+      "text": "Land acquisition, environmental review, engineering capacity and local matching funds can delay otherwise funded work. A credible plan identifies which projects are ready, which approvals remain and how cost escalation will be managed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maintenance deserves equal attention. New assets create future obligations, and deferred repairs can erase the value of a visible construction programme."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Measure outcomes, not ribbon cuttings"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transport projects should report travel time, safety, reliability and access. Water and energy projects need service quality, resilience and affordability measures. Construction jobs are important but do not prove the asset will perform."
+    },
+    {
+      "type": "paragraph",
+      "text": "The headline number is the start of scrutiny. The durable questions are what will be delivered, by when, for whom and with what evidence of benefit."
+    }
+  ],
+  "excerpt": "A large infrastructure allocation says little on its own; delivery depends on timing, funding source, project readiness, maintenance and measurable public value.",
+  "seoTitle": "How to Read an Infrastructure Budget Beyond the Headline Number",
+  "seoDescription": "A large infrastructure allocation says little on its own; delivery depends on timing, funding source, project readiness, maintenance and measurable public.",
+  "seoImageAlt": "How to Read an Infrastructure Budget Beyond the Headline Number — editorial illustration",
+  "datePublished": "2026-01-17",
+  "dateModified": "2026-09-17",
+  "articleType": "Explainer",
+  "keyPoints": [
+    "A large infrastructure allocation says little on its own; delivery depends on timing, funding source, project readiness, maintenance and measurable public value.",
+    "Read the underlying law, order, judgment or certified result before relying on partisan summaries.",
+    "For contested claims, compare the majority record, dissenting view and procedural status."
+  ],
+  "referenceDesk": [
+    {
+      "name": "Congress.gov legislation and records",
+      "url": "https://www.congress.gov/"
+    },
+    {
+      "name": "U.S. Supreme Court opinions",
+      "url": "https://www.supremecourt.gov/opinions/slipopinion/"
+    }
+  ],
+  "editorialNote": "Reviewed 2026-09-17. This post distinguishes reported facts from analysis and links to records readers can check. For contested claims, compare the majority record, dissenting view and procedural status."
 }

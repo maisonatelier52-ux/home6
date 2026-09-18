@@ -23,18 +23,24 @@ interface SidebarFormAndListProps {
 }
 
 export default function SidebarFormAndList({ moduleData, hotPeoples }: SidebarFormAndListProps) {
+    const featuredPost = hotPeoples?.[0];
+
     return (
         <div className="w-full flex flex-col gap-8">
 
-
-            {/* 1. Advertisement */}
-            <Link href="https://www.mirrorstandard.com/" title="Visit Mirror Standard" className="w-full overflow-hidden group cursor-pointer">
-                <img
-                    src="/images/add-svg1.svg"
-                    alt="Advertisement"
-                    className="w-full h-auto"
-                />
-            </Link>
+            {featuredPost && (
+                <Link
+                    href={`/${(featuredPost.category || "business").toLowerCase()}/${featuredPost.slug}`}
+                    title={featuredPost.title}
+                    className="group block w-full overflow-hidden"
+                >
+                    <img
+                        src={featuredPost.image}
+                        alt={featuredPost.title}
+                        className="aspect-[4/5] w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]"
+                    />
+                </Link>
+            )}
 
             {/* 2. Module Enambelas */}
             <div>

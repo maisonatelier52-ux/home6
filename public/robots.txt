@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.thequestforprofit.com/sitemap-articles.xml
-Sitemap: https://www.thequestforprofit.com/sitemap-categories.xml
+Sitemap: https://www.thequestforprofit.com/sitemap.xml

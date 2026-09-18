@@ -7,15 +7,6 @@ import { ChevronUp, Instagram, Youtube } from 'lucide-react';
 export default function Footer() {
 
 
-    const hotNews = [
-        {
-            author: "Jessica Wu",
-            category: "Tech",
-            title: "Intel Launches Arc G3 Chips for Handheld Gaming PCs",
-            slug: "intel-arc-g3-handheld-gaming-pcs"
-        }
-    ];
-
     const scrollToTop = () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     };
@@ -30,10 +21,10 @@ export default function Footer() {
                         <h2 className="text-white text-md font-bold font-serif">About Us</h2>
                         <div className="flex flex-col gap-4 text-sm leading-relaxed text-gray-400">
                             <p>
-                                <strong>The Quest for Profit</strong> is your ultimate source for the latest <strong>financial news</strong>, providing expert <strong>market analysis</strong> and deep <strong>insights</strong> into global economics.
+                                <strong className="text-white">The Quest for Profit</strong> is an independent blog publishing essays and explainers across markets, business, technology, politics, nature and culture.
                             </p>
                             <p>
-                                Our <strong>quest</strong> is to deliver rigorously researched <strong>analysis</strong> and <strong>proven financial insights</strong> to help you navigate the path to <strong>profit</strong>.
+                                We lead with the primary record, label analysis clearly and give readers a direct path to corrections.
                             </p>
                         </div>
 
@@ -55,7 +46,7 @@ export default function Footer() {
 
                     {/* Categories */}
                     <div className="flex flex-col gap-6">
-                        <h2 className="text-white text-md font-bold font-serif">Categories</h2>
+                        <h2 className="text-white text-md font-bold font-serif">Topics</h2>
                         <div className="flex flex-wrap gap-2">
                             {["Markets", "Wealth", "Business", "Finance", "Tech", "Politics", "Nature", "Culture"].map((category, index) => (
                                 <Link
@@ -76,7 +67,7 @@ export default function Footer() {
                         <div className="grid grid-cols-2 gap-x-4 gap-y-1 text-sm">
                             {[
                                 { name: "About Us", href: "/about-us" },
-                                { name: "Authors", href: "/authors" },
+                                { name: "How We Write", href: "/authors" },
                                 { name: "Privacy Policy", href: "/privacy-policy" },
                                 { name: "Terms & Conditions", href: "/terms-conditions" },
                                 { name: "Contact Us", href: "/contact-us" },
@@ -101,7 +92,7 @@ export default function Footer() {
                     <div className="hidden md:block"></div> {/* Spacer for centering balance */}
 
                     <p className="text-[12px] text-gray-500 text-center">
-                        © Copyright 2026 - The Quest for Profit. All Rights Reserved
+                        © 2026 The Quest for Profit. All rights reserved.
                     </p>
 
                     <div className="flex justify-center md:justify-end">

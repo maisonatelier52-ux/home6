@@ -1,43 +1,85 @@
 {
-    "id": "6",
-    "slug": "ancient-architecture-modern-design",
-    "title": "Ancient Architecture and Its Influence on Modern Design",
-    "category": "Culture",
-    "date": "January 9, 2026",
-    "views": "3400",
-    "readTime": "8 Mins",
-    "comments": 8,
-    "image": "/images/clockhead.webp",
-    "tags": [
-        "#Architecture",
-        "#History",
-        "#Design"
-    ],
-    "author": {
-        "name": "Maxin Dalton",
-        "role": "Editor",
-        "postsCount": 23,
-        "image": "/images/authors/maxin.jpg",
-        "bio": "Architectural historian sharing insights on design evolution."
+  "id": "6",
+  "slug": "ancient-architecture-modern-design",
+  "title": "What Ancient Architecture Can—and Cannot—Teach Modern Designers",
+  "category": "Culture",
+  "date": "January 9, 2026",
+  "readTime": "2 min read",
+  "image": "/images/illustrations/ancient-architecture-modern-design.webp",
+  "tags": [
+    "Architecture",
+    "Design history",
+    "Passive design",
+    "Materials",
+    "Urbanism"
+  ],
+  "author": "The Quest for Profit",
+  "content": [
+    {
+      "type": "intro",
+      "text": "Ancient buildings are useful to modern designers when they are studied as responses to climate, materials, labour and public life—not treated as a catalogue of decorative forms."
     },
-    "content": [
-        {
-            "type": "intro",
-            "text": "The majestic bridges and temples of ancient civilizations continue to inspire architects today."
-        },
-        {
-            "type": "paragraph",
-            "hasDropCap": true,
-            "text": "By studying the techniques and materials used thousands of years ago, modern designers can create structures that are both aesthetically pleasing and structurally sound. The columns of the Parthenon, the arches of the Colosseum, the domes of the Pantheon – these are not just relics of the past, but living textbooks for the architects of the future."
-        },
-        {
-            "type": "heading",
-            "level": 2,
-            "text": "Sustainable Design"
-        },
-        {
-            "type": "paragraph",
-            "text": "Many ancient buildings were designed with sustainability in mind, utilizing natural light, ventilation, and local materials. As we face the challenges of climate change, looking back at these ancient wisdoms can provide valuable solutions for sustainable building today."
-        }
-    ]
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Start with performance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Courtyards, thick walls, shaded openings and carefully oriented streets often moderated heat before mechanical cooling. Their value lies in how geometry, mass and air movement worked together under local conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Those strategies cannot simply be copied into any climate. A solution shaped by dry heat may fail in a humid region, and a material that once came from a nearby quarry may now carry a very different environmental cost."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Structure and symbolism are connected"
+    },
+    {
+      "type": "paragraph",
+      "text": "Arches, domes and columns solved engineering problems, but they also communicated religion, government and social hierarchy. Reusing the form without its history can turn a complex reference into surface decoration."
+    },
+    {
+      "type": "paragraph",
+      "text": "A stronger design explains why a precedent matters: perhaps it creates a durable public room, makes construction legible or uses repetition to organise movement. The reference should improve the building, not merely make it look established."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Use history as evidence, not authority"
+    },
+    {
+      "type": "paragraph",
+      "text": "Historic buildings that survive are a selective sample. Many ordinary or poorly built structures disappeared, and some celebrated monuments depended on coercive labour or resource systems that should not be romanticised."
+    },
+    {
+      "type": "paragraph",
+      "text": "The practical lesson is to test old ideas against present needs, codes and climate data. History expands the designer's toolkit; it does not remove the obligation to measure performance today."
+    }
+  ],
+  "excerpt": "Historic buildings offer lessons in climate, material efficiency and civic meaning, but copying their appearance is not the same as understanding how they worked.",
+  "seoTitle": "What Ancient Architecture Can—and Cannot—Teach Modern Designers",
+  "seoDescription": "Historic buildings offer lessons in climate, material efficiency and civic meaning, but copying their appearance is not the same as understanding how they.",
+  "seoImageAlt": "What Ancient Architecture Can—and Cannot—Teach Modern Designers — editorial illustration",
+  "datePublished": "2026-01-08",
+  "dateModified": "2026-09-17",
+  "articleType": "Explainer",
+  "keyPoints": [
+    "Historic buildings offer lessons in climate, material efficiency and civic meaning, but copying their appearance is not the same as understanding how they worked.",
+    "Ask whose interpretation is presented, what history is missing and whether the originating community retains agency.",
+    "Attribution and context are part of the evidence, not decorative background."
+  ],
+  "referenceDesk": [
+    {
+      "name": "UNESCO culture and heritage",
+      "url": "https://www.unesco.org/en/culture"
+    },
+    {
+      "name": "Library of Congress collections",
+      "url": "https://www.loc.gov/"
+    }
+  ],
+  "editorialNote": "Reviewed 2026-09-17. This post distinguishes reported facts from analysis and links to records readers can check. Attribution and context are part of the evidence, not decorative background."
 }

@@ -1,196 +1,120 @@
 import { Metadata } from "next";
-import { Newspaper, Globe, CheckCircle2, Scale, Search, Shield } from "lucide-react";
+import { BookOpen, CheckCircle2, Compass, Scale, Search, Shield } from "lucide-react";
 import Header from "../components/layout/Header";
 import Navbar from "../components/layout/Navbar";
 import Footer from "../components/layout/Footer";
 
 export const metadata: Metadata = {
-    title: "About Us | The Quest for Profit",
-    description: "Learn about The Quest for Profit - your premier source for global economic analysis, market intelligence, and wealth management strategies.",
+    title: "About the Blog | The Quest for Profit",
+    description: "The Quest for Profit is an independent editorial blog about markets, business, technology and the ideas shaping public life.",
     openGraph: {
-        title: "About Us | The Quest for Profit",
-        description: "Learn about The Quest for Profit - your premier source for global economic analysis, market intelligence, and wealth management strategies.",
+        title: "About the Blog | The Quest for Profit",
+        description: "An independent editorial blog for thoughtful essays, explainers and analysis.",
         url: "https://www.thequestforprofit.com/about-us",
         siteName: "The Quest for Profit",
-        images: [
-            {
-                url: "/images/news/markets-1.webp",
-                width: 1200,
-                height: 630,
-                alt: "About The Quest for Profit",
-            }
-        ],
+        images: [{
+            url: "/images/news/markets-1.webp",
+            width: 1200,
+            height: 630,
+            alt: "About The Quest for Profit blog",
+        }],
         type: "website",
     },
     twitter: {
         card: "summary_large_image",
-        title: "About Us | The Quest for Profit",
-        description: "Learn about The Quest for Profit - your premier source for global economic analysis, market intelligence, and wealth management strategies.",
+        title: "About the Blog | The Quest for Profit",
+        description: "An independent editorial blog for thoughtful essays, explainers and analysis.",
         images: ["/images/news/markets-1.webp"],
     },
 };
 
+const principles = [
+    {
+        title: "Accuracy",
+        text: "Claims should be checkable, sources should be visible and mistakes should be corrected clearly.",
+        icon: CheckCircle2,
+        iconClass: "text-green-700",
+        bgClass: "bg-green-50",
+    },
+    {
+        title: "Perspective",
+        text: "Analysis is labeled as analysis. A point of view should sharpen the evidence, not replace it.",
+        icon: Scale,
+        iconClass: "text-amber-700",
+        bgClass: "bg-amber-50",
+    },
+    {
+        title: "Independence",
+        text: "Editorial choices are kept separate from sponsors, affiliates and outside pressure.",
+        icon: Search,
+        iconClass: "text-purple-700",
+        bgClass: "bg-purple-50",
+    },
+    {
+        title: "Accountability",
+        text: "Readers can question a claim, request a correction and see how our standards work.",
+        icon: Shield,
+        iconClass: "text-blue-700",
+        bgClass: "bg-blue-50",
+    },
+];
+
 export default function AboutUsPage() {
     return (
-        <>
-            <div className="bg-white min-h-screen">
-                <Header />
-                <Navbar />
+        <div className="min-h-screen bg-white">
+            <Header />
+            <Navbar />
 
-                {/* Main Content - Our Story */}
-                <section className="py-12 px-6">
-                    <div className="max-w-6xl mx-auto">
-                        <div className="bg-white border border-gray-200 rounded-lg p-8 md:p-12">
-                            <div className="flex items-center gap-2 mb-8">
-                                <h1 className="text-3xl md:text-4xl font-bold text-gray-900">Our Story</h1>
-                                <span className="text-gray-500 text-lg">›</span>
-                            </div>
-                            <div className="space-y-6 text-base md:text-lg leading-relaxed text-gray-700">
-                                <p>
-                                    Founded in 2025, The Quest for Profit was born from a simple yet powerful belief: that quality financial journalism matters. In an era of information overload and clickbait headlines, we set out to create a news platform dedicated to accuracy, integrity, and in-depth reporting on markets, finance, and wealth.
-                                </p>
-                                <p>
-                                    What began as a small team of passionate financial journalists working from a modest office has evolved into a respected news source serving millions of readers worldwide. Our commitment to investigative journalism and unbiased reporting has earned us numerous awards and, more importantly, the trust of our readers.
-                                </p>
-                                <p>
-                                    Through market upheavals, global crises, and technological revolutions, we've remained steadfast in our mission: to inform and empower our audience with reliable, well-researched journalism that cuts through the noise.
-                                </p>
-                                <p className="text-lg md:text-xl font-semibold text-red-600 pt-4">
-                                    At The Quest for Profit, we don't just report the news — we help you understand what it means for your money, your future, and the world economy.
-                                </p>
-                            </div>
-                        </div>
+            <main className="mx-auto max-w-6xl px-4 py-12 md:px-6 lg:px-0">
+                <section className="border-y-4 border-slate-950 py-10 md:py-14">
+                    <p className="text-xs font-bold uppercase tracking-[0.18em] text-[#a61f2d]">About the blog</p>
+                    <h1 className="mt-4 max-w-4xl font-serif text-5xl font-bold tracking-[-0.04em] text-slate-950 md:text-7xl">
+                        Ideas are more useful when the evidence stays in view.
+                    </h1>
+                    <div className="mt-8 grid gap-8 text-lg leading-8 text-slate-700 md:grid-cols-2">
+                        <p>
+                            The Quest for Profit is an independent editorial blog about markets, business, finance, technology, politics, nature and culture. We publish essays and explainers for readers who want more than a headline but less noise than a constant news feed.
+                        </p>
+                        <p>
+                            Posts may interpret events, test an argument or connect developments across fields. Where a piece makes factual claims, we aim to show the underlying documents, data and credible sources so readers can examine the reasoning for themselves.
+                        </p>
                     </div>
                 </section>
 
-                {/* Mission & Vision Cards */}
-                <section className="py-8 px-6">
-                    <div className="max-w-6xl mx-auto">
-                        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                            {/* Our Mission */}
-                            <div className="bg-white border border-gray-200 rounded-lg p-8 hover:shadow-md transition-shadow">
-                                <div className="flex justify-center mb-6">
-                                    <div className="bg-red-100 rounded-full p-4">
-                                        <Newspaper className="w-10 h-10 text-red-600" />
-                                    </div>
-                                </div>
-                                <h2 className="text-2xl md:text-3xl font-bold text-center mb-6 text-gray-900">Our Mission</h2>
-                                <p className="text-base md:text-lg leading-relaxed text-gray-700 text-center">
-                                    To deliver accurate, unbiased, and timely financial news that empowers our readers to make informed decisions.
-                                    We are committed to investigative journalism that holds power accountable and gives voice to the voiceless,
-                                    while maintaining the highest standards of editorial integrity.
-                                </p>
-                            </div>
-
-                            {/* Our Vision */}
-                            <div className="bg-white border border-gray-200 rounded-lg p-8 hover:shadow-md transition-shadow">
-                                <div className="flex justify-center mb-6">
-                                    <div className="bg-red-100 rounded-full p-4">
-                                        <Globe className="w-10 h-10 text-red-600" />
-                                    </div>
-                                </div>
-                                <h2 className="text-2xl md:text-3xl font-bold text-center mb-6 text-gray-900">Our Vision</h2>
-                                <p className="text-base md:text-lg leading-relaxed text-gray-700 text-center">
-                                    To be the most trusted and respected financial news source globally, recognized for our commitment to truth,
-                                    journalistic excellence, and positive impact on society. We envision a world where quality journalism thrives
-                                    and informed citizens shape a better future.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+                <section className="grid gap-8 py-12 md:grid-cols-2">
+                    <article className="border border-slate-300 p-8">
+                        <BookOpen className="h-9 w-9 text-[#a61f2d]" aria-hidden="true" />
+                        <h2 className="mt-5 font-serif text-3xl font-bold text-slate-950">What we publish</h2>
+                        <p className="mt-4 text-base leading-7 text-slate-700">
+                            Long-form essays, practical explainers, commentary and analysis. The goal is not to be first; it is to leave the reader with a clearer model of the subject and useful questions to carry forward.
+                        </p>
+                    </article>
+                    <article className="border border-slate-300 p-8">
+                        <Compass className="h-9 w-9 text-[#a61f2d]" aria-hidden="true" />
+                        <h2 className="mt-5 font-serif text-3xl font-bold text-slate-950">How to read it</h2>
+                        <p className="mt-4 text-base leading-7 text-slate-700">
+                            Each post identifies its author, publication date and reading time. Source links and editorial notes help distinguish verifiable facts from interpretation, while corrections remain attached to the original post.
+                        </p>
+                    </article>
                 </section>
 
-                {/* Editorial Principles */}
-                <section className="py-12 px-6">
-                    <div className="max-w-6xl mx-auto">
-                        <div className="flex items-center gap-2 mb-10">
-                            <h2 className="text-2xl md:text-3xl font-bold text-gray-900">Our Editorial Principles</h2>
-                            <span className="text-gray-500 text-lg">›</span>
-                        </div>
-                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-                            {/* Accuracy */}
-                            <div className="bg-white border border-gray-200 rounded-lg p-6 text-center hover:shadow-md transition-shadow">
-                                <div className="bg-green-100 rounded-full p-4 w-20 h-20 mx-auto mb-4 flex items-center justify-center">
-                                    <CheckCircle2 className="w-10 h-10 text-green-600" />
+                <section className="border-t-4 border-slate-950 pt-8">
+                    <h2 className="font-serif text-4xl font-bold tracking-tight text-slate-950">Editorial principles</h2>
+                    <div className="mt-7 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+                        {principles.map(({ title, text, icon: Icon, iconClass, bgClass }) => (
+                            <article key={title} className="border border-slate-300 p-6">
+                                <div className={`flex h-12 w-12 items-center justify-center rounded-full ${bgClass}`}>
+                                    <Icon className={`h-6 w-6 ${iconClass}`} aria-hidden="true" />
                                 </div>
-                                <h3 className="text-xl font-bold mb-3 text-gray-900">Accuracy</h3>
-                                <p className="text-sm leading-relaxed text-gray-600">
-                                    Every fact is verified, every source is checked. We correct errors promptly and transparently.
-                                </p>
-                            </div>
-
-                            {/* Impartiality */}
-                            <div className="bg-white border border-gray-200 rounded-lg p-6 text-center hover:shadow-md transition-shadow">
-                                <div className="bg-yellow-100 rounded-full p-4 w-20 h-20 mx-auto mb-4 flex items-center justify-center">
-                                    <Scale className="w-10 h-10 text-yellow-600" />
-                                </div>
-                                <h3 className="text-xl font-bold mb-3 text-gray-900">Impartiality</h3>
-                                <p className="text-sm leading-relaxed text-gray-600">
-                                    We report without bias, presenting all sides of a story fairly and objectively.
-                                </p>
-                            </div>
-
-                            {/* Independence */}
-                            <div className="bg-white border border-gray-200 rounded-lg p-6 text-center hover:shadow-md transition-shadow">
-                                <div className="bg-purple-100 rounded-full p-4 w-20 h-20 mx-auto mb-4 flex items-center justify-center">
-                                    <Search className="w-10 h-10 text-purple-600" />
-                                </div>
-                                <h3 className="text-xl font-bold mb-3 text-gray-900">Independence</h3>
-                                <p className="text-sm leading-relaxed text-gray-600">
-                                    Our editorial decisions are free from political, commercial, or personal influence.
-                                </p>
-                            </div>
-
-                            {/* Accountability */}
-                            <div className="bg-white border border-gray-200 rounded-lg p-6 text-center hover:shadow-md transition-shadow">
-                                <div className="bg-blue-100 rounded-full p-4 w-20 h-20 mx-auto mb-4 flex items-center justify-center">
-                                    <Shield className="w-10 h-10 text-blue-600" />
-                                </div>
-                                <h3 className="text-xl font-bold mb-3 text-gray-900">Accountability</h3>
-                                <p className="text-sm leading-relaxed text-gray-600">
-                                    We hold ourselves to the same standards we apply to those we cover, admitting and correcting mistakes.
-                                </p>
-                            </div>
-                        </div>
+                                <h3 className="mt-5 font-serif text-2xl font-bold text-slate-950">{title}</h3>
+                                <p className="mt-3 text-sm leading-6 text-slate-600">{text}</p>
+                            </article>
+                        ))}
                     </div>
                 </section>
+            </main>
 
-                {/* Stats Banner */}
-                <section className="py-12 px-6">
-                    <div className="max-w-6xl mx-auto">
-                        <div className="bg-white border border-gray-200 rounded-lg p-8 md:p-12 shadow-sm">
-                            <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-                                <div>
-                                    <div className="text-3xl md:text-5xl font-bold text-gray-900 mb-2">1+</div>
-                                    <p className="text-gray-600 text-sm md:text-base">
-                                        Years of Quality<br />Journalism
-                                    </p>
-                                </div>
-                                <div>
-                                    <div className="text-3xl md:text-5xl font-bold text-gray-900 mb-2">10M+</div>
-                                    <p className="text-gray-600 text-sm md:text-base">
-                                        Monthly Readers
-                                    </p>
-                                </div>
-                                <div>
-                                    <div className="text-3xl md:text-5xl font-bold text-gray-900 mb-2">9</div>
-                                    <p className="text-gray-600 text-sm md:text-base">
-                                        Expert Journalists &<br />Contributors
-                                    </p>
-                                </div>
-                                <div>
-                                    <div className="text-3xl md:text-5xl font-bold text-gray-900 mb-2">50+</div>
-                                    <p className="text-gray-600 text-sm md:text-base">
-                                        Awards Won
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-
-                <Footer />
-            </div>
-        </>
+            <Footer />
+        </div>
     );
 }

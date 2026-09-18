@@ -15,9 +15,19 @@ import recentPostsData from '@/public/data/recentPosts.json';
 import tagsData from '@/public/data/tags.json';
 import RelatedPosts from '../../components/article/RelatedPosts';
 import StructuredData from '../../components/StructuredData';
+import { ArticleKeyPoints, ArticleReferenceDesk } from '../../components/article/ArticleAuthority';
 
 interface ArticlePageProps {
     params: Promise<{ category: string; slug: string }>;
+}
+
+function getAuthorProfile(article: any) {
+    return {
+        name: 'The Quest for Profit',
+        role: 'Independent editorial blog',
+        image: undefined,
+        bio: 'This post was reviewed by The Quest for Profit for clarity, sourcing and useful context. Read how the blog handles evidence, updates and corrections.',
+    };
 }
 
 export async function generateMetadata({ params }: ArticlePageProps) {
@@ -33,7 +43,7 @@ export async function generateMetadata({ params }: ArticlePageProps) {
         };
     }
 
-    const title = article.seoTitle || `${article.title} | The Quest for Profit`;
+    const title = article.seoTitle || article.title;
     const description = article.seoDescription || article.excerpt || (Array.isArray(article.content) ? article.content[0]?.text : '') || article.title;
     const keywords = article.keywords || article.tags || [];
 
@@ -42,24 +52,25 @@ export async function generateMetadata({ params }: ArticlePageProps) {
         description: description,
         keywords: keywords,
         alternates: {
-            canonical: `https://www.thequestforprofit.xyz/${category}/${slug}`,
+            canonical: `https://www.thequestforprofit.com/${category}/${slug}`,
         },
         openGraph: {
             title: title,
             description: description,
-            url: `https://www.thequestforprofit.xyz/${category}/${slug}`,
+            url: `https://www.thequestforprofit.com/${category}/${slug}`,
             siteName: 'The Quest for Profit',
             images: [
                 {
                     url: article.image,
                     width: 1200,
                     height: 630,
-                    alt: article.seoImageAlt || article.title,
+                    alt: article.title,
                 },
             ],
             type: 'article',
-            publishedTime: article.date,
-            authors: [article.author?.name || 'The Quest for Profit Editorial Team'],
+            publishedTime: article.datePublished,
+            modifiedTime: article.dateModified,
+            authors: [typeof article.author === 'string' ? article.author : article.author?.name || 'The Quest for Profit Editorial Team'],
         },
         twitter: {
             card: 'summary_large_image',
@@ -110,14 +121,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         ? [article.relatedPost, ...categoryArticles.filter((p: any) => p.slug !== slug && p.slug !== article.relatedPost.slug).slice(0, 3)]
         : categoryArticles.filter((p: any) => p.slug !== slug).slice(0, 4);
 
-    // Fallback author if not present in JSON
-    const author = article.author || {
-        name: "Maxin Dalton",
-        role: "Editor",
-        postsCount: 23,
-        image: "/images/author-placeholder.jpg",
-        bio: "Standard editor bio placeholder."
-    };
+    const author = getAuthorProfile(article);
 
     return (
         <div className="bg-white min-h-screen transition-colors duration-300">
@@ -125,20 +129,20 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 "@context": "https://schema.org",
                 "@graph": [
                     {
-                        "@type": "NewsArticle",
+                        "@type": "BlogPosting",
                         "headline": article.title,
                         "image": [
                             `https://www.thequestforprofit.com${article.image}`
                         ],
-                        "datePublished": article.date,
-                        "dateModified": article.date,
+                        "datePublished": article.datePublished || article.date,
+                        "dateModified": article.dateModified || article.datePublished || article.date,
                         "author": [{
-                            "@type": "Person",
+                            "@type": "Organization",
                             "name": author.name,
-                            "url": `https://www.thequestforprofit.com/authors#${(author.name || '').toLowerCase().replace(/\s+/g, '-')}`
+                            "url": "https://www.thequestforprofit.com/authors"
                         }],
                         "publisher": {
-                            "@type": "NewsMediaOrganization",
+                            "@type": "Organization",
                             "name": "The Quest for Profit",
                             "logo": {
                                 "@type": "ImageObject",
@@ -175,22 +179,31 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             <Header />
             <Navbar />
             <main className="container mx-auto max-w-6xl px-4 md:px-0 py-12">
-                <div className="flex flex-col lg:flex-row gap-12">
+                <div className="flex flex-col gap-12 lg:flex-row">
                     {/* Main Content Column (3/4 width) */}
                     <div className="w-full lg:w-3/4">
                         <ArticleHeader
                             category={article.category}
                             title={article.title}
                             date={article.date}
-                            views={article.views}
+                            updatedDate={article.dateModified}
                             readTime={article.readTime}
-                            comments={article.comments}
+                            author={author.name}
+                            excerpt={article.excerpt}
+                            articleType={article.articleType}
                         />
+
+                        <ArticleKeyPoints points={article.keyPoints || []} />
 
                         <ArticleContent
                             image={article.image}
                             content={article.content}
-                            imageAlt={article.seoImageAlt || article.title}
+                            imageAlt={article.title}
+                        />
+
+                        <ArticleReferenceDesk
+                            references={article.referenceDesk || []}
+                            note={article.editorialNote}
                         />
 
                         {/* Article Footer Elements */}
@@ -213,7 +226,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                             <ArticleAuthor
                                 name={author.name}
                                 role={author.role}
-                                postsCount={author.postsCount}
                                 image={author.image}
                                 bio={author.bio}
                             />

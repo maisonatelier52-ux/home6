@@ -6,7 +6,7 @@ import { Mail, CheckCircle } from "lucide-react";
 
 export const metadata: Metadata = {
     title: "Advertising and Sponsored Content Policy | The Quest for Profit",
-    description: "Read the advertising policy of The Quest for Profit. We separate commercial material from editorial reporting.",
+    description: "Read the advertising policy of The Quest for Profit. We separate commercial material from independent editorial content.",
 };
 
 export default function AdvertisingPolicyPage() {
@@ -23,7 +23,7 @@ export default function AdvertisingPolicyPage() {
                     </h1>
 
                     <p className="text-base md:text-lg leading-relaxed text-gray-700 mb-12 text-center max-w-2xl mx-auto">
-                        The Quest for Profit separates commercial activity from independent reporting. We are committed to ensuring that all advertisements, sponsored placements, and affiliate relationships are clearly identified for our readers.
+                        The Quest for Profit separates commercial activity from independent editorial content. All advertisements, sponsored placements, and affiliate relationships are clearly identified for readers.
                     </p>
 
                     <div className="space-y-12">
@@ -33,7 +33,7 @@ export default function AdvertisingPolicyPage() {
                                 Editorial Separation
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800">
-                                Commercial partnerships do not grant editorial influence. Our story assignments, headlines, angles, source selections, and publishing schedules are determined solely by our editorial desk and are never sold. We maintain a strict visual separation to ensure that paid content is never confused with independent financial journalism.
+                                Commercial partnerships do not grant editorial influence. Topics, headlines, angles, sources, and publishing schedules are determined solely by our editorial team and are never sold. Paid material is visually separated so it cannot be confused with independent posts.
                             </p>
                         </section>
 
@@ -49,7 +49,7 @@ export default function AdvertisingPolicyPage() {
                                 <ul className="space-y-3 pl-4">
                                     <li className="list-disc">We use explicit labels such as &quot;Sponsor Content,&quot; &quot;Paid Advertisement,&quot; or &quot;Sponsored Placement.&quot;</li>
                                     <li className="list-disc">Disclosures are placed near the top of the article or layout so readers notice them immediately before reading the content.</li>
-                                    <li className="list-disc">Paid placements are styled distinctively and do not use standard newsroom bylines.</li>
+                                    <li className="list-disc">Paid placements are styled distinctively and do not use standard editorial bylines.</li>
                                 </ul>
                             </div>
                         </section>
@@ -113,11 +113,11 @@ export default function AdvertisingPolicyPage() {
                                 </li>
                                 <li className="flex items-start gap-3">
                                     <CheckCircle className="w-5 h-5 mt-1 text-red-600 flex-shrink-0" />
-                                    <span>Disguising commercial placements under standard newsroom bylines.</span>
+                                    <span>Disguising commercial placements under standard editorial bylines.</span>
                                 </li>
                                 <li className="flex items-start gap-3">
                                     <CheckCircle className="w-5 h-5 mt-1 text-red-600 flex-shrink-0" />
-                                    <span>Allowing commercial sponsors to veto or influence independent news coverage.</span>
+                                    <span>Allowing commercial sponsors to veto or influence independent editorial coverage.</span>
                                 </li>
                                 <li className="flex items-start gap-3">
                                     <CheckCircle className="w-5 h-5 mt-1 text-red-600 flex-shrink-0" />

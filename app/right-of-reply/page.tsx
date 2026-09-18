@@ -23,7 +23,7 @@ export default function RightOfReplyPage() {
                     </h1>
 
                     <p className="text-base md:text-lg leading-relaxed text-gray-700 mb-12 text-center max-w-2xl mx-auto">
-                        The Quest for Profit is committed to fairness and precision. When our articles feature critical reports, significant allegations, or disputed factual points regarding individuals or corporate entities, we actively seek to provide a fair opportunity for response.
+                        The Quest for Profit is committed to fairness and precision. When a post includes significant allegations, criticism, or disputed factual points about a person or organization, we seek to provide a fair opportunity for response.
                     </p>
 
                     <div className="space-y-12">
@@ -33,7 +33,7 @@ export default function RightOfReplyPage() {
                                 When We Seek a Response
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800">
-                                If a draft article features direct criticism, allegations of wrongdoing, or adverse factual claims about a specific person or institution, our journalists make reasonable efforts to contact them for comment prior to publication. This process helps us verify our information and ensures that we present a complete, balanced perspective.
+                                If a draft features direct criticism, allegations of wrongdoing, or adverse factual claims about a person or institution, our writers make reasonable efforts to contact them before publication. This helps us verify information and present a fair, complete perspective.
                             </p>
                         </section>
 
@@ -43,7 +43,7 @@ export default function RightOfReplyPage() {
                                 How Outreach Is Handled
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800">
-                                Our editorial team initiates contact via email, phone, official contact channels, or through legal representation. The response window offered is determined by the complexity of the allegations and the timing of the news. In fast-moving breaking news scenarios, response windows may be short to ensure timely reporting of vital facts.
+                                Our editorial team may make contact by email, phone, official channels, or through legal representation. The response window depends on the complexity of the issue and the planned publication time. For time-sensitive subjects, that window may be shorter.
                             </p>
                         </section>
 
@@ -63,7 +63,7 @@ export default function RightOfReplyPage() {
                                 Post-Publication Responses
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800">
-                                If a subject contacts us after an article is published to offer missing context or challenge facts, our editors review the submission immediately. Depending on our findings, we may update the article, add a clarification note, publish a follow-up piece, or make no change if the original reporting remains accurate and complete.
+                                If a subject contacts us after a post is published to offer missing context or challenge facts, our editors review the submission. We may update the post, add a clarification, publish a follow-up, or make no change when the original work remains accurate and complete.
                             </p>
                         </section>
 
@@ -83,7 +83,7 @@ export default function RightOfReplyPage() {
                                 Urgent Matters and Legal Sensitivity
                             </h2>
                             <p className="text-base md:text-lg leading-relaxed text-gray-800">
-                                For matters involving active litigation, regulatory actions, or corporate audits, we handle our pre-publication outreach with strict documentation. Right-of-reply requests are intended to improve accuracy and balance, and we do not allow them to be used to stall or suppress independent reporting.
+                                For matters involving active litigation, regulatory actions, or corporate audits, we document pre-publication outreach carefully. Right-of-reply requests are meant to improve accuracy and balance and cannot be used to stall or suppress independent editorial work.
                             </p>
                         </section>
 

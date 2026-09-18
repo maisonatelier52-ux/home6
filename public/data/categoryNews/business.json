@@ -1,222 +1,309 @@
 [
-    {
-        "id": "biz-novartis-del-desiran",
-        "slug": "novartis-del-desiran-muscle-disease-drug-trial-failure-2026",
-        "title": "Novartis Shares Fall After Muscle Disease Drug Del-desiran Fails Phase 3 Trial",
-        "category": "Business",
-        "date": "September 8, 2026",
-        "author": "Michael Chen",
-        "views": "0k",
-        "readTime": "10 Mins",
-        "comments": 0,
-        "image": "/images/news/Novartis Faces Major Setback After Experimental Muscle Disease Drug Fails Trial.webp",
-        "excerpt": "Novartis suffered a major pipeline setback after del-desiran failed its Phase 3 trial for myotonic dystrophy, sending shares sharply lower.",
-        "tags": [
-            "Novartis",
-            "Del-desiran",
-            "Avidity Biosciences",
-            "Pharmaceuticals",
-            "Drug Trials",
-            "Biotechnology",
-            "Myotonic Dystrophy",
-            "Healthcare",
-            "Pharma Stocks"
-        ]
-    },
-    {
-        "id": "bus-chick-fil-a-2026",
-        "slug": "us-diesel-prices-all-time-high-2026",
-        "title": "US Diesel Prices Hit Record $5.85 a Gallon as Global Fuel Crisis Deepens",
-        "category": "Business",
-        "date": "September 4, 2026",
-        "author": "Business Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/US diesel prices hit an all-time-high.webp",
-        "excerpt": "US diesel prices have reached a record high near $5.85 a gallon as Middle East and Russian refinery disruptions squeeze global fuel supplies.",
-        "tags": [
-            "Diesel Prices",
-            "US Economy",
-            "Oil Prices",
-            "Energy Markets",
-            "Inflation",
-            "Fuel Crisis",
-            "Logistics",
-            "Global Oil Market"
-        ]
-    },
-    {
-        "id": "bus-goldman-sachs-fed-hike",
-        "slug": "goldman-sachs-september-fed-rate-hike-forecast-2026",
-        "title": "Goldman Sachs Now Expects September Fed Rate Hike as Inflation Fears Rise",
-        "category": "Business",
-        "date": "September 14, 2026",
-        "author": "Finance Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/goldman-sachs-illustrative.webp",
-        "excerpt": "Goldman Sachs now expects the Federal Reserve to raise rates by 25 basis points in September as stronger inflation and higher oil prices reshape the outlook.",
-        "tags": [
-            "Goldman Sachs",
-            "Federal Reserve",
-            "Fed Rate Hike",
-            "US Inflation",
-            "Interest Rates",
-            "Oil Prices",
-            "Jerome Powell",
-            "Kevin Warsh",
-            "Wall Street",
-            "Monetary Policy"
-        ]
-    },
-    {
-        "id": "biz-1",
-        "slug": "japan-companies-india-investment-china-risks-2026",
-        "title": "Japanese Companies Expand in India as Businesses Reduce Dependence on China",
-        "category": "Business",
-        "date": "September 1, 2026",
-        "author": "Business Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Japan Inc is betting big on India as China risks deepen.webp",
-        "excerpt": "Japanese companies are expanding investment in India as geopolitical tensions, supply-chain concerns and rising business risks in China push firms to diversify across Asia.",
-        "tags": [
-            "Japan Inc",
-            "India investment",
-            "Japanese companies",
-            "China",
-            "Uniqlo",
-            "Muji",
-            "Nippon Paint",
-            "Japanese banks",
-            "foreign investment",
-            "supply chains",
-            "manufacturing",
-            "Indian economy"
-        ]
-    },
-    {
-        "id": "biz-2",
-        "slug": "us-venezuela-oil-deal-65-billion-barrels-2026",
-        "title": "US-Venezuela Oil Deal Gives American-Led Group 100-Year Access to 65 Billion Barrels",
-        "category": "Business",
-        "date": "September 2, 2026",
-        "author": "Business Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Remarkable US oil deal puzzles analysts and angers many Venezuelans.webp",
-        "excerpt": "A sweeping US-Venezuela oil agreement grants a US-led company 100-year concessions over 17 oilfields, promising billions in investment while raising concerns over sovereignty, timing and economic returns.",
-        "tags": [
-            "Venezuela oil",
-            "US oil deal",
-            "Donald Trump",
-            "Delcy Rodriguez",
-            "oil industry",
-            "energy investment",
-            "Venezuela economy",
-            "Chevron",
-            "crude oil",
-            "global energy markets"
-        ]
-    },
-    {
-        "id": "biz-continental-venezuela",
-        "slug": "continental-resources-venezuela-oil-investment-foreign-capital-2026",
-        "title": "Continental Resources Signs Venezuela Oil Deal as Foreign Investment Returns to Energy Sector",
-        "category": "Business",
-        "date": "September 17, 2026",
-        "author": "Business Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/US Energy Producer Plans Major Venezuela Investment as Oil Sector Opens to Foreign Capital.webp",
-        "excerpt": "Continental Resources signs a deal with PDVSA to develop Venezuela's Ayacucho 2 block as Caracas opens its oil industry to new foreign investment.",
-        "tags": [
-            "Continental Resources",
-            "Venezuela Oil",
-            "PDVSA",
-            "Harold Hamm",
-            "Orinoco Belt",
-            "Foreign Investment",
-            "Oil Industry",
-            "Energy Markets",
-            "Venezuela Economy",
-            "US Energy"
-        ]
-    },
-    {
-        "id": "biz-5",
-        "slug": "us-canada-trade-war-impact-businesses-consumers-2026",
-        "title": "US-Canada Trade War Raises Prices and Disrupts Businesses Across Both Countries",
-        "category": "Business",
-        "date": "August 31, 2026",
-        "author": "Business Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/How the USCanada trade war is being felt on both sides of the border.webp",
-        "excerpt": "The escalating US-Canada trade war is raising costs, disrupting supply chains and forcing businesses on both sides of the border to rethink investment, sourcing and trade plans.",
-        "tags": [
-            "US-Canada trade war",
-            "Donald Trump",
-            "Mark Carney",
-            "tariffs",
-            "Canadian businesses",
-            "US businesses",
-            "supply chains",
-            "trade",
-            "inflation",
-            "manufacturing"
-        ]
-    },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    {
-        "id": "biz-3",
-        "slug": "britannia-financial-group-supports-soto-serpentine-public-art",
-        "title": "A Gift of Movement: Britannia Financial Group, Serpentine and the Public Legacy of Jesús Rafael Soto",
-        "category": "Business",
-        "date": "July 15, 2026",
-        "author": "Business Desk",
-        "views": "0k",
-        "readTime": "12 Mins",
-        "comments": 0,
-        "image": "/images/news/Group 142.png",
-        "excerpt": "Britannia Financial Group supports Jesús Rafael Soto's Pénétrable BBL Jaune at Serpentine South, bringing a landmark work of kinetic art into Kensington Gardens.",
-        "tags": [
-            "Britannia Financial Group",
-            "Jesús Rafael Soto",
-            "Serpentine",
-            "public art",
-            "kinetic art",
-            "Julio Herrera Velutini",
-            "Melanie Herrera Velutini",
-            "Kensington Gardens",
-            "art patronage"
-        ]
-    }
+  {
+    "id": "bus-goldman-sachs-fed-hike",
+    "slug": "goldman-sachs-september-fed-rate-hike-forecast-2026",
+    "date": "September 14, 2026",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "title": "Goldman Sachs Now Expects September Fed Rate Hike as Inflation Fears Rise",
+    "image": "/images/illustrations/goldman-sachs-september-fed-rate-hike-forecast-2026.webp",
+    "excerpt": "Goldman Sachs now expects the Federal Reserve to raise rates by 25 basis points in September as stronger inflation and higher oil prices reshape the outlook.",
+    "tags": [
+      "Goldman Sachs",
+      "Federal Reserve",
+      "Fed Rate Hike",
+      "US Inflation",
+      "Interest Rates",
+      "Oil Prices",
+      "Jerome Powell",
+      "Kevin Warsh",
+      "Wall Street",
+      "Monetary Policy"
+    ],
+    "readTime": "10 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "biz-novartis-del-desiran",
+    "slug": "novartis-del-desiran-muscle-disease-drug-trial-failure-2026",
+    "date": "September 8, 2026",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "title": "Novartis Shares Fall After Muscle Disease Drug Del-desiran Fails Phase 3 Trial",
+    "image": "/images/illustrations/novartis-del-desiran-muscle-disease-drug-trial-failure-2026.webp",
+    "excerpt": "Novartis suffered a major pipeline setback after del-desiran failed its Phase 3 trial for myotonic dystrophy, sending shares sharply lower.",
+    "tags": [
+      "Novartis",
+      "Del-desiran",
+      "Avidity Biosciences",
+      "Pharmaceuticals",
+      "Drug Trials",
+      "Biotechnology",
+      "Myotonic Dystrophy",
+      "Healthcare",
+      "Pharma Stocks"
+    ],
+    "readTime": "7 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "bus-chick-fil-a-2026",
+    "slug": "us-diesel-prices-all-time-high-2026",
+    "date": "September 4, 2026",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "title": "US Diesel Prices Hit Record $5.85 a Gallon as Global Fuel Crisis Deepens",
+    "image": "/images/illustrations/us-diesel-prices-all-time-high-2026.webp",
+    "excerpt": "US diesel prices have reached a record high near $5.85 a gallon as Middle East and Russian refinery disruptions squeeze global fuel supplies.",
+    "tags": [
+      "Diesel Prices",
+      "US Economy",
+      "Oil Prices",
+      "Energy Markets",
+      "Inflation",
+      "Fuel Crisis",
+      "Logistics",
+      "Global Oil Market"
+    ],
+    "readTime": "6 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "biz-2",
+    "slug": "us-venezuela-oil-deal-65-billion-barrels-2026",
+    "date": "September 2, 2026",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "title": "US-Venezuela Oil Deal Gives American-Led Group 100-Year Access to 65 Billion Barrels",
+    "image": "/images/illustrations/us-venezuela-oil-deal-65-billion-barrels-2026.webp",
+    "excerpt": "A sweeping US-Venezuela oil agreement grants a US-led company 100-year concessions over 17 oilfields, promising billions in investment while raising concerns over sovereignty, timing and economic returns.",
+    "tags": [
+      "Venezuela oil",
+      "US oil deal",
+      "Donald Trump",
+      "Delcy Rodriguez",
+      "oil industry",
+      "energy investment",
+      "Venezuela economy",
+      "Chevron",
+      "crude oil",
+      "global energy markets"
+    ],
+    "readTime": "8 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "biz-1",
+    "slug": "japan-companies-india-investment-china-risks-2026",
+    "date": "September 1, 2026",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "title": "Japanese Companies Expand in India as Businesses Reduce Dependence on China",
+    "image": "/images/illustrations/japan-companies-india-investment-china-risks-2026.webp",
+    "excerpt": "Japanese companies are expanding investment in India as geopolitical tensions, supply-chain concerns and rising business risks in China push firms to diversify across Asia.",
+    "tags": [
+      "Japan Inc",
+      "India investment",
+      "Japanese companies",
+      "China",
+      "Uniqlo",
+      "Muji",
+      "Nippon Paint",
+      "Japanese banks",
+      "foreign investment",
+      "supply chains",
+      "manufacturing",
+      "Indian economy"
+    ],
+    "readTime": "8 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "biz-5",
+    "slug": "us-canada-trade-war-impact-businesses-consumers-2026",
+    "date": "August 31, 2026",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "title": "US-Canada Trade War Raises Prices and Disrupts Businesses Across Both Countries",
+    "image": "/images/illustrations/us-canada-trade-war-impact-businesses-consumers-2026.webp",
+    "excerpt": "The escalating US-Canada trade war is raising costs, disrupting supply chains and forcing businesses on both sides of the border to rethink investment, sourcing and trade plans.",
+    "tags": [
+      "US-Canada trade war",
+      "Donald Trump",
+      "Mark Carney",
+      "tariffs",
+      "Canadian businesses",
+      "US businesses",
+      "supply chains",
+      "trade",
+      "inflation",
+      "manufacturing"
+    ],
+    "readTime": "8 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "biz-4",
+    "slug": "trump-anthropic-retaliation-pentagon-ruling-2026",
+    "date": "August 28, 2026",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "title": "Judge Rules Trump Administration Unlawfully Retaliated Against Anthropic",
+    "image": "/images/illustrations/trump-anthropic-retaliation-pentagon-ruling-2026.webp",
+    "excerpt": "A US federal judge has ruled that the Trump administration's blacklisting of AI company Anthropic was unlawful, blocking the Pentagon from enforcing its supply-chain risk designation against the company.",
+    "tags": [
+      "Anthropic",
+      "Donald Trump",
+      "Pentagon",
+      "AI industry",
+      "artificial intelligence",
+      "Pete Hegseth",
+      "Claude",
+      "national security",
+      "technology regulation",
+      "US government"
+    ],
+    "readTime": "7 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "biz-new-ebay",
+    "slug": "ebay-56-million-settlement-blogger-harassment-lawsuit-2026",
+    "date": "July 29, 2026",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "title": "eBay to Pay $56 Million to Settle Lawsuit Over Cyberstalking of EcommerceBytes Publishers",
+    "image": "/images/illustrations/ebay-56-million-settlement-blogger-harassment-lawsuit-2026.webp",
+    "excerpt": "eBay and three former executives have agreed to pay $55.7 million to settle a lawsuit brought by the publishers of EcommerceBytes, ending a years-long legal battle over a shocking cyberstalking and harassment campaign.",
+    "tags": [
+      "eBay",
+      "EcommerceBytes",
+      "cyberstalking",
+      "harassment lawsuit",
+      "Devin Wenig",
+      "corporate governance",
+      "settlement",
+      "business news",
+      "legal",
+      "Massachusetts"
+    ],
+    "readTime": "4 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "biz-new-jj",
+    "slug": "johnson-johnson-5-5bn-baby-powder-lawsuit-settlement-2026",
+    "date": "July 28, 2026",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "title": "Johnson & Johnson Agrees to $5.5 Billion Talc Settlement to Resolve Baby Powder Cancer Claims",
+    "image": "/images/illustrations/johnson-johnson-5-5bn-baby-powder-lawsuit-settlement-2026.webp",
+    "excerpt": "Johnson & Johnson has agreed to pay up to $5.5 billion to settle tens of thousands of lawsuits alleging its talc-based baby powder caused ovarian cancer, marking a major step toward ending years of litigation.",
+    "tags": [
+      "Johnson & Johnson",
+      "baby powder",
+      "talc lawsuits",
+      "ovarian cancer",
+      "settlement",
+      "pharmaceuticals",
+      "healthcare",
+      "litigation",
+      "corporate news",
+      "US courts"
+    ],
+    "readTime": "5 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "biz-3",
+    "slug": "britannia-financial-group-supports-soto-serpentine-public-art",
+    "date": "July 15, 2026",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "title": "Public Art, Private Support: What Soto’s Serpentine Installation Makes Visible",
+    "image": "/images/news/Group 142.png",
+    "excerpt": "Jesús Rafael Soto’s Pénétrable BBL Jaune turns spectators into participants—and offers a useful case study in how private funding supports free public art.",
+    "tags": [
+      "Jesús Rafael Soto",
+      "Serpentine",
+      "Public art",
+      "Cultural funding",
+      "Kinetic art"
+    ],
+    "readTime": "2 min read",
+    "articleType": "Explainer",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "biz-2",
+    "slug": "ai-regulatory-alignment-global",
+    "date": "January 8, 2026",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "title": "Why Global AI Rules Will Not Become One Rulebook",
+    "image": "/images/illustrations/ai-regulatory-alignment-global.webp",
+    "excerpt": "AI regulation is converging around risk, testing and accountability, but different legal systems will continue to define those duties in different ways.",
+    "tags": [
+      "AI regulation",
+      "Governance",
+      "Risk management",
+      "Standards",
+      "Accountability"
+    ],
+    "readTime": "2 min read",
+    "articleType": "Explainer",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "biz-3",
+    "slug": "remote-work-productivity-debate",
+    "date": "January 3, 2026",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "title": "The Great Remote Work Productivity Debate Intensifies",
+    "image": "/images/illustrations/remote-work-productivity-debate.webp",
+    "excerpt": "New data from major tech firms reveals conflicting results regarding productivity and innovation in hybrid versus fully remote environments, fueling a fierce debate in corporate boardrooms.",
+    "tags": [
+      "Remote Work",
+      "Management",
+      "Culture",
+      "HR"
+    ],
+    "readTime": "2 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  }
 ]

@@ -8,14 +8,14 @@ interface CategoryMainGridProps {
         date: string;
         categories?: string[];
         category?: string;
-        views: string;
-        readTime: string;
-        comments: number;
+        readTime?: string;
         title: string;
         slug: string;
         image: string;
         excerpt: string;
         tags: string[];
+        articleType?: string;
+        author?: string;
     }>;
     recentPosts?: Array<{ title: string; slug: string }>;
     tags?: string[];
@@ -23,12 +23,12 @@ interface CategoryMainGridProps {
 
 export default function CategoryMainGrid({ newsCards = [], recentPosts = [], tags = [] }: CategoryMainGridProps) {
     return (
-        <section className="py-12">
+        <section className="py-10 md:py-12">
             <div className="container mx-auto max-w-6xl px-4 md:px-0">
                 <div className="flex flex-col lg:flex-row gap-12">
                     {/* Left Column (3/4) */}
                     <div className="lg:w-3/4">
-                        <div className="flex flex-col gap-8">
+                        <div className="flex flex-col">
                             {newsCards.length > 0 ? (
                                 newsCards.map((card, index) => (
                                     <CategoryNewsCard
