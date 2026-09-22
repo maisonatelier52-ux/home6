@@ -160,12 +160,31 @@
     "date": "September 1, 2026"
   },
   {
-    "slug": "nasa-roman-space-telescope-launch-2026",
-    "title": "NASA Launches Nancy Grace Roman Space Telescope to Study Dark Matter and Distant Worlds",
-    "shortdescription": "NASA has launched the Nancy Grace Roman Space Telescope on a mission to explore dark energy, dark matter, black holes and thousands of distant planets.",
+    "id": "tech-waymo-atlanta-2026",
+    "slug": "apple-iphone-anti-snatching-autolock-ios-27-2-beta-2026",
+    "date": "September 22, 2026",
     "category": "Tech",
-    "author": "The Quest for Profit",
-    "date": "August 31, 2026"
+    "categories": [
+      "Tech"
+    ],
+    "title": "Apple Tests iPhone Anti-Snatching AutoLock Feature in iOS 27.2 Beta",
+    "image": "/images/illustrations/apple-iphone-anti-snatching-autolock-ios-27-2-beta-2026.webp",
+    "excerpt": "Apple is testing an AutoLock feature in iOS 27.2 that could automatically lock an iPhone after detecting signs of a snatch-and-grab theft.",
+    "tags": [
+      "Apple",
+      "iPhone",
+      "iOS 27.2",
+      "AutoLock",
+      "iPhone Security",
+      "Anti-Theft",
+      "Apple Watch",
+      "Stolen Device Protection",
+      "Privacy",
+      "Mobile Technology"
+    ],
+    "readTime": "8 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
   },
   {
     "slug": "us-canada-trade-war-impact-businesses-consumers-2026",
@@ -240,12 +259,31 @@
     "date": "August 5, 2026"
   },
   {
-    "slug": "capital-one-trump-organization-accounts-closed-anti-money-laundering-review",
-    "title": "Capital One Rejects Trump Debanking Claims, Says Account Closures Followed AML Investigation",
-    "shortdescription": "Capital One says it closed more than 300 Trump Organization accounts after an anti-money laundering review, rejecting claims that the decision was politically motivated.",
+    "id": "fin-8",
+    "slug": "wall-street-futures-slip-oil-treasury-yields-ai-concerns-2026",
+    "date": "September 22, 2026",
     "category": "Finance",
-    "author": "The Quest for Profit",
-    "date": "August 4, 2026"
+    "categories": [
+      "Finance"
+    ],
+    "title": "US Stock Futures Fall as Oil Prices, Treasury Yields and AI Fears Weigh on Wall Street",
+    "image": "/images/illustrations/wall-street-futures-slip-oil-treasury-yields-ai-concerns-2026.webp",
+    "excerpt": "US stock futures weaken as rising oil prices, Treasury yields above 5% and concerns over AI spending pressure investors ahead of the Fed.",
+    "tags": [
+      "Wall Street",
+      "US Stock Futures",
+      "Oil Prices",
+      "Treasury Yields",
+      "AI Stocks",
+      "Federal Reserve",
+      "Inflation",
+      "Nasdaq",
+      "S&P 500",
+      "Dow Jones"
+    ],
+    "readTime": "8 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
   },
   {
     "slug": "us-japan-joint-yen-intervention-2026",
