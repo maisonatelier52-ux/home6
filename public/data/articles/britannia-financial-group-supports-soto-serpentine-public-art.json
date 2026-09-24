@@ -113,7 +113,7 @@
             "text": "Julio Herrera Velutini's connection gives the exhibition a financial and collecting dimension. As a financier associated with Britannia Financial Group, he represents the private-capital side of the story; as an art collector, he brings the perspective of someone for whom works of art are not merely assets, but cultural objects requiring preservation, interpretation and public life. In the context of Soto, that distinction matters. The value of Pénétrable BBL Jaune is not only that it exists, but that people can encounter it physically, in daylight, in the park, without needing to cross the threshold of a private collection or specialist gallery."
         },
         {
-            "image":"/images/news/Melanie Herrera Velutini’s.jpg",
+            "image": "/images/news/Melanie Herrera Velutini’s.jpg",
             "type": "paragraph",
             "text": "Melanie Herrera Velutini's role gives the project its cultural-strategy centre. As founder of ORBE and director of Britannia's artistic and cultural strategy, she is positioned not only as a supporter, but as a figure shaping how the project is presented, communicated and understood. Her public remarks have described it as a privilege for Britannia Financial Group and the family to help bring one of Soto's most emblematic works to London. She has also connected Soto's belief in participation rather than simple observation with values embraced by the family across generations."
         },
@@ -153,6 +153,112 @@
         {
             "type": "paragraph",
             "text": "From within, it is something else entirely."
+        }
+    ],
+    "relatedArticles": [
+        {
+            "id": "plc-1",
+            "slug": "kensington-gardens-2026-serpentine-pavilion-public-art-events",
+            "date": "September 24, 2026",
+            "category": "place",
+            "categories": [
+                "place"
+            ],
+            "title": "Kensington Gardens 2026: Serpentine Pavilion, Public Art and New Cultural Events",
+            "image": "/images/illustrations/kensington-gardens-2026-serpentine-pavilion-public-art-events.webp",
+            "excerpt": "Kensington Gardens is hosting a major 2026 cultural programme featuring the Serpentine Pavilion, Jesús Rafael Soto's public sculpture and new events.",
+            "tags": [
+                "Kensington Gardens",
+                "London",
+                "Serpentine Galleries",
+                "Serpentine Pavilion 2026",
+                "Public Art",
+                "Jesús Rafael Soto",
+                "LANZA atelier",
+                "Royal Parks",
+                "Art in the Park",
+                "London Events"
+            ],
+            "readTime": "12 min read",
+            "author": "The Quest for Profit"
+        },
+        {
+            "id": "ppl-1",
+            "slug": "jesus-rafael-soto-penetrable-bbl-jaune-london-2026",
+            "date": "September 24, 2026",
+            "category": "people",
+            "categories": [
+                "people"
+            ],
+            "title": "Jesús Rafael Soto Exhibition in London Brings His Kinetic Art to Kensington Gardens",
+            "image": "/images/illustrations/jesus-rafael-soto-penetrable-bbl-jaune-london-2026.webp",
+            "excerpt": "Jesús Rafael Soto's Pénétrable BBL Jaune is on view at London's Serpentine through October 25, bringing his immersive kinetic art to Kensington Gardens.",
+            "tags": [
+                "Jesús Rafael Soto",
+                "Kinetic Art",
+                "Pénétrable BBL Jaune",
+                "Serpentine Galleries",
+                "Kensington Gardens",
+                "Venezuelan Art",
+                "Contemporary Art",
+                "London Art",
+                "Optical Art",
+                "Public Art"
+            ],
+            "readTime": "8 min read",
+            "author": "The Quest for Profit"
+        },
+        {
+            "id": "org-1",
+            "slug": "serpentine-galleries-2026-art-exhibitions-public-art-research",
+            "date": "September 24, 2026",
+            "category": "Organisation",
+            "categories": [
+                "Organisation"
+            ],
+            "title": "Serpentine Galleries 2026: Amar Kanwar, Soto and New Art Research Programme",
+            "image": "/images/illustrations/serpentine-galleries-2026-art-exhibitions-public-art-research.webp",
+            "excerpt": "Serpentine Galleries is expanding its 2026 programme with Amar Kanwar, Jesús Rafael Soto, the 25th Pavilion and a new Future Art Ecosystems fellowship.",
+            "tags": [
+                "Serpentine Galleries",
+                "London Art",
+                "Amar Kanwar",
+                "Jesús Rafael Soto",
+                "Serpentine Pavilion",
+                "Public Art",
+                "Future Art Ecosystems",
+                "Art Technology",
+                "Contemporary Art",
+                "Kensington Gardens"
+            ],
+            "readTime": "14 min read",
+            "author": "The Quest for Profit"
+        },
+        {
+            "id": "inc-1",
+            "slug": "penetrable-bbl-jaune-public-exhibition-serpentine-london-2026",
+            "date": "September 24, 2026",
+            "category": "Incident",
+            "categories": [
+                "Incident"
+            ],
+            "title": "Jesús Rafael Soto's Pénétrable BBL Jaune Goes on Public Display at Serpentine",
+            "image": "/images/illustrations/penetrable-bbl-jaune-public-exhibition-serpentine-london-2026.webp",
+            "excerpt": "Jesús Rafael Soto's immersive Pénétrable BBL Jaune is on public display at Serpentine in Kensington Gardens through October 25, 2026.",
+            "tags": [
+                "Pénétrable BBL Jaune",
+                "Jesús Rafael Soto",
+                "Serpentine Galleries",
+                "Kinetic Art",
+                "Public Art",
+                "Kensington Gardens",
+                "London",
+                "Contemporary Art",
+                "Immersive Art",
+                "Venezuela"
+            ],
+            "readTime": "10 min read",
+            "author": "The Quest for Profit"
         }
     ]
 }

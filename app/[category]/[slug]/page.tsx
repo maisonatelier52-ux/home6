@@ -117,7 +117,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const nextArticle = curIndex !== -1 && curIndex < categoryArticles.length - 1 ? categoryArticles[curIndex + 1] : null;
 
     // Get Related Posts (Exclude current, limit to 4)
-    let relatedArticles = article.relatedPost
+    let relatedArticles = (article.relatedArticles && article.relatedArticles.length > 0)
+        ? article.relatedArticles
+        : article.relatedPost
         ? [article.relatedPost, ...categoryArticles.filter((p: any) => p.slug !== slug && p.slug !== article.relatedPost.slug).slice(0, 3)]
         : categoryArticles.filter((p: any) => p.slug !== slug).slice(0, 4);
 
