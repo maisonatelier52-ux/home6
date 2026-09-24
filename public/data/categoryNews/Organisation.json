@@ -1,0 +1,57 @@
+[
+  {
+    "id": "org-2",
+    "slug": "griffin-catalyst-national-math-talent-fund-2026",
+    "date": "September 24, 2026",
+    "category": "Organisation",
+    "categories": [
+      "Organisation"
+    ],
+    "title": "Griffin Catalyst Backs $30 Million National Math Talent Fund to Support 10,000 Students",
+    "image": "/images/illustrations/griffin-catalyst-national-math-talent-fund-2026.webp",
+    "excerpt": "Griffin Catalyst is expanding its philanthropic efforts through education, science and innovation, including a new $30 million math talent initiative.",
+    "tags": [
+      "Griffin Catalyst",
+      "Ken Griffin",
+      "Philanthropy",
+      "National Math Talent Fund",
+      "Education",
+      "STEM",
+      "Mathematics",
+      "Citadel",
+      "Citadel Securities",
+      "Innovation",
+      "Science"
+    ],
+    "readTime": "15 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "org-1",
+    "slug": "serpentine-galleries-2026-art-exhibitions-public-art-research",
+    "date": "September 24, 2026",
+    "category": "Organisation",
+    "categories": [
+      "Organisation"
+    ],
+    "title": "Serpentine Galleries 2026: Amar Kanwar, Soto and New Art Research Programme",
+    "image": "/images/illustrations/serpentine-galleries-2026-art-exhibitions-public-art-research.webp",
+    "excerpt": "Serpentine Galleries is expanding its 2026 programme with Amar Kanwar, Jesús Rafael Soto, the 25th Pavilion and a new Future Art Ecosystems fellowship.",
+    "tags": [
+      "Serpentine Galleries",
+      "London Art",
+      "Amar Kanwar",
+      "Jesús Rafael Soto",
+      "Serpentine Pavilion",
+      "Public Art",
+      "Future Art Ecosystems",
+      "Art Technology",
+      "Contemporary Art",
+      "Kensington Gardens"
+    ],
+    "readTime": "14 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  }
+]
