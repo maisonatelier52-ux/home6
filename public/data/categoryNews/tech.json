@@ -1,5 +1,32 @@
 [
   {
+    "id": "tech-6",
+    "slug": "meta-vr-glasses-1299-muse-ai-agent-zuckerberg-2026",
+    "title": "Meta VR Glasses Launch at $1,299 With Muse AI, 5K Display and Hologram Calls",
+    "image": "/images/illustrations/meta-vr-glasses-1299-muse-ai-agent-zuckerberg-2026.webp",
+    "excerpt": "Meta has unveiled $1,299 VR Glasses with a 5K micro-OLED display, eye and hand controls, and direct integration with its Muse AI agent.",
+    "category": "Tech",
+    "categories": [
+      "Tech"
+    ],
+    "date": "September 24, 2026",
+    "readTime": "12 min read",
+    "author": "The Quest for Profit",
+    "tags": [
+      "Meta",
+      "Mark Zuckerberg",
+      "Meta VR Glasses",
+      "Muse AI",
+      "Virtual Reality",
+      "AI Agents",
+      "Meta Connect 2026",
+      "Spatial Computing",
+      "Smart Glasses",
+      "Wearables"
+    ],
+    "articleType": "Analysis & context"
+  },
+  {
     "id": "tech-apple-iphone-duo",
     "slug": "apple-iphone-duo-foldable-samsung-market-2026",
     "date": "September 10, 2026",
@@ -156,59 +183,6 @@
       "Mobile Technology"
     ],
     "readTime": "8 min read",
-    "articleType": "Analysis & context",
-    "author": "The Quest for Profit"
-  },
-  {
-    "id": "tech-bezos-ai-2026",
-    "slug": "electric-landscaping-gardening-tools-battery-technology",
-    "date": "August 24, 2026",
-    "category": "Tech",
-    "categories": [
-      "Tech"
-    ],
-    "title": "Electric Gardening Equipment Is Replacing Petrol Tools as Landscapers Go Greener",
-    "image": "/images/illustrations/electric-landscaping-gardening-tools-battery-technology.webp",
-    "excerpt": "Landscaping is gradually moving from petrol-powered equipment to quieter electric tools, driven by noise restrictions, lower emissions and advances in battery technology.",
-    "tags": [
-      "electric gardening",
-      "landscaping technology",
-      "battery tools",
-      "leaf blowers",
-      "Stihl",
-      "Whisper Aero",
-      "electric lawn equipment",
-      "green technology",
-      "clean energy",
-      "gardening"
-    ],
-    "readTime": "6 min read",
-    "articleType": "Analysis & context",
-    "author": "The Quest for Profit"
-  },
-  {
-    "id": "tech-5",
-    "slug": "us-warning-siemens-devices-water-infrastructure-cyberattacks-2026",
-    "date": "August 20, 2026",
-    "category": "Tech",
-    "categories": [
-      "Tech"
-    ],
-    "title": "US Warns Siemens Industrial Devices Are Being Targeted as Water Infrastructure Faces Cyber Threats",
-    "image": "/images/illustrations/us-warning-siemens-devices-water-infrastructure-cyberattacks-2026.webp",
-    "excerpt": "US agencies warn that Siemens industrial control devices used in water systems and critical infrastructure are being targeted by hackers amid fears of escalating cyberattacks.",
-    "tags": [
-      "Siemens",
-      "cybersecurity",
-      "water infrastructure",
-      "Iran cyberattacks",
-      "CISA",
-      "FBI",
-      "NSA",
-      "industrial control systems",
-      "critical infrastructure"
-    ],
-    "readTime": "6 min read",
     "articleType": "Analysis & context",
     "author": "The Quest for Profit"
   },

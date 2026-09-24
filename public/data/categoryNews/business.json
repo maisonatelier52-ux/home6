@@ -1,5 +1,32 @@
 [
   {
+    "id": "biz-2",
+    "slug": "bentley-first-electric-vehicle-torcal-luxury-ev-2026",
+    "title": "Bentley Torcal Launches as First Electric Bentley With 375-Mile Range",
+    "image": "/images/illustrations/bentley-first-electric-vehicle-torcal-luxury-ev-2026.webp",
+    "excerpt": "Bentley has unveiled the £173,000 Torcal, its first fully electric vehicle, as the luxury automaker tests demand for premium EVs.",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "date": "September 24, 2026",
+    "readTime": "14 min read",
+    "author": "The Quest for Profit",
+    "tags": [
+      "Bentley",
+      "Bentley Torcal",
+      "Electric Vehicles",
+      "Luxury Cars",
+      "EV Market",
+      "Volkswagen Group",
+      "Frank-Steffen Walliser",
+      "Automotive Industry",
+      "Premium EVs",
+      "Crewe"
+    ],
+    "articleType": "Analysis & context"
+  },
+  {
     "id": "bus-goldman-sachs-fed-hike",
     "slug": "goldman-sachs-september-fed-rate-hike-forecast-2026",
     "date": "September 14, 2026",
@@ -239,28 +266,6 @@
     ],
     "readTime": "5 min read",
     "articleType": "Analysis & context",
-    "author": "The Quest for Profit"
-  },
-  {
-    "id": "biz-2",
-    "slug": "ai-regulatory-alignment-global",
-    "date": "January 8, 2026",
-    "category": "Business",
-    "categories": [
-      "Business"
-    ],
-    "title": "Why Global AI Rules Will Not Become One Rulebook",
-    "image": "/images/illustrations/ai-regulatory-alignment-global.webp",
-    "excerpt": "AI regulation is converging around risk, testing and accountability, but different legal systems will continue to define those duties in different ways.",
-    "tags": [
-      "AI regulation",
-      "Governance",
-      "Risk management",
-      "Standards",
-      "Accountability"
-    ],
-    "readTime": "2 min read",
-    "articleType": "Explainer",
     "author": "The Quest for Profit"
   },
   {

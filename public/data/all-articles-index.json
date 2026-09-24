@@ -1,5 +1,59 @@
 [
   {
+    "id": "biz-2",
+    "slug": "bentley-first-electric-vehicle-torcal-luxury-ev-2026",
+    "title": "Bentley Torcal Launches as First Electric Bentley With 375-Mile Range",
+    "image": "/images/illustrations/bentley-first-electric-vehicle-torcal-luxury-ev-2026.webp",
+    "excerpt": "Bentley has unveiled the £173,000 Torcal, its first fully electric vehicle, as the luxury automaker tests demand for premium EVs.",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "date": "September 24, 2026",
+    "readTime": "14 min read",
+    "author": "The Quest for Profit",
+    "tags": [
+      "Bentley",
+      "Bentley Torcal",
+      "Electric Vehicles",
+      "Luxury Cars",
+      "EV Market",
+      "Volkswagen Group",
+      "Frank-Steffen Walliser",
+      "Automotive Industry",
+      "Premium EVs",
+      "Crewe"
+    ],
+    "articleType": "Analysis & context"
+  },
+  {
+    "id": "tech-6",
+    "slug": "meta-vr-glasses-1299-muse-ai-agent-zuckerberg-2026",
+    "title": "Meta VR Glasses Launch at $1,299 With Muse AI, 5K Display and Hologram Calls",
+    "image": "/images/illustrations/meta-vr-glasses-1299-muse-ai-agent-zuckerberg-2026.webp",
+    "excerpt": "Meta has unveiled $1,299 VR Glasses with a 5K micro-OLED display, eye and hand controls, and direct integration with its Muse AI agent.",
+    "category": "Tech",
+    "categories": [
+      "Tech"
+    ],
+    "date": "September 24, 2026",
+    "readTime": "12 min read",
+    "author": "The Quest for Profit",
+    "tags": [
+      "Meta",
+      "Mark Zuckerberg",
+      "Meta VR Glasses",
+      "Muse AI",
+      "Virtual Reality",
+      "AI Agents",
+      "Meta Connect 2026",
+      "Spatial Computing",
+      "Smart Glasses",
+      "Wearables"
+    ],
+    "articleType": "Analysis & context"
+  },
+  {
     "id": "org-2",
     "slug": "griffin-catalyst-national-math-talent-fund-2026",
     "date": "September 24, 2026",
@@ -374,28 +428,12 @@
     "date": "August 28, 2026"
   },
   {
-    "slug": "electric-landscaping-gardening-tools-battery-technology",
-    "title": "Electric Gardening Equipment Is Replacing Petrol Tools as Landscapers Go Greener",
-    "shortdescription": "Landscaping is gradually moving from petrol-powered equipment to quieter electric tools, driven by noise restrictions, lower emissions and advances in battery technology.",
-    "category": "Tech",
-    "author": "The Quest for Profit",
-    "date": "August 24, 2026"
-  },
-  {
     "slug": "starmer-donates-biography-downing-street-library-2026",
     "title": "Keir Starmer Donates His Own Biography to Historic Downing Street Library",
     "shortdescription": "Former UK Prime Minister Sir Keir Starmer has donated a biography about himself, written by former Labour adviser Tom Baldwin, to the historic Downing Street library.",
     "category": "Politics",
     "author": "The Quest for Profit",
     "date": "August 21, 2026"
-  },
-  {
-    "slug": "us-warning-siemens-devices-water-infrastructure-cyberattacks-2026",
-    "title": "US Warns Siemens Industrial Devices Are Being Targeted as Water Infrastructure Faces Cyber Threats",
-    "shortdescription": "US agencies warn that Siemens industrial control devices used in water systems and critical infrastructure are being targeted by hackers amid fears of escalating cyberattacks.",
-    "category": "Tech",
-    "author": "The Quest for Profit",
-    "date": "August 20, 2026"
   },
   {
     "slug": "wall-street-futures-higher-iran-hormuz-berkshire-results-markets",
@@ -805,14 +843,6 @@
     "category": "Culture",
     "author": "The Quest for Profit",
     "date": "January 9, 2026"
-  },
-  {
-    "slug": "ai-regulatory-alignment-global",
-    "title": "Why Global AI Rules Will Not Become One Rulebook",
-    "shortdescription": "AI regulation is converging around risk, testing and accountability, but different legal systems will continue to define those duties in different ways.",
-    "category": "Business",
-    "author": "The Quest for Profit",
-    "date": "January 8, 2026"
   },
   {
     "slug": "excluding-well-some",
