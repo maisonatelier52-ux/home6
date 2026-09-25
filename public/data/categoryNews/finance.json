@@ -1,5 +1,32 @@
 [
   {
+    "id": "fin-nextera-dominion-2026",
+    "slug": "rising-treasury-yields-diesel-prices-pressure-us-stocks-2026",
+    "title": "US Stocks Face Fresh Pressure as Treasury Yields Top 5% and Diesel Prices Surge",
+    "image": "/images/illustrations/rising-treasury-yields-diesel-prices-pressure-us-stocks-2026.webp",
+    "excerpt": "Rising Treasury yields and record diesel prices are adding fresh pressure to US stocks as investors assess inflation, borrowing costs and Fed policy.",
+    "category": "Finance",
+    "categories": [
+      "Finance"
+    ],
+    "date": "September 25, 2026",
+    "readTime": "15 min read",
+    "author": "The Quest for Profit",
+    "tags": [
+      "US Stocks",
+      "Wall Street",
+      "Treasury Yields",
+      "Diesel Prices",
+      "Federal Reserve",
+      "Inflation",
+      "Oil Prices",
+      "S&P 500",
+      "Nasdaq",
+      "Bonds"
+    ],
+    "articleType": "Analysis & context"
+  },
+  {
     "id": "fin-wall-street-slips-inflation",
     "slug": "wall-street-slips-inflation-oil-prices-federal-reserve-outlook-september-2026",
     "date": "September 10, 2026",
@@ -102,35 +129,6 @@
       "central banks",
       "financial markets",
       "crisis preparedness"
-    ],
-    "readTime": "7 min read",
-    "articleType": "Analysis & context",
-    "author": "The Quest for Profit"
-  },
-  {
-    "id": "fin-nextera-dominion-2026",
-    "slug": "wall-street-futures-higher-iran-hormuz-berkshire-results-markets",
-    "date": "August 10, 2026",
-    "category": "Finance",
-    "categories": [
-      "Finance"
-    ],
-    "title": "Wall Street Futures Edge Higher as Investors Weigh Iran Demands, Hormuz Outlook and Berkshire Results",
-    "image": "/images/illustrations/wall-street-futures-higher-iran-hormuz-berkshire-results-markets.webp",
-    "excerpt": "U.S.",
-    "tags": [
-      "Wall Street",
-      "S&P 500",
-      "Nasdaq",
-      "Dow Jones",
-      "Iran",
-      "Strait of Hormuz",
-      "Berkshire Hathaway",
-      "Greg Abel",
-      "inflation",
-      "Federal Reserve",
-      "U.S. stocks",
-      "oil prices"
     ],
     "readTime": "7 min read",
     "articleType": "Analysis & context",
