@@ -1,5 +1,32 @@
 [
   {
+    "id": "biz-new-jj",
+    "slug": "trump-administration-weaken-fuel-economy-standards-cars-trucks-2026",
+    "title": "Trump Administration Targets Biden-Era Fuel Economy Rules With Lower 2031 MPG Standard",
+    "image": "/images/illustrations/trump-administration-weaken-fuel-economy-standards-cars-trucks-2026.webp",
+    "excerpt": "The Trump administration is moving to weaken US fuel economy standards, lowering the planned 2031 fleet target and giving automakers more flexibility.",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "date": "September 28, 2026",
+    "readTime": "14 min read",
+    "author": "The Quest for Profit",
+    "tags": [
+      "Trump Administration",
+      "Fuel Economy Standards",
+      "CAFE",
+      "Automakers",
+      "Ford",
+      "General Motors",
+      "Stellantis",
+      "Electric Vehicles",
+      "NHTSA",
+      "Auto Industry"
+    ],
+    "articleType": "Analysis & context"
+  },
+  {
     "id": "biz-2",
     "slug": "bentley-first-electric-vehicle-torcal-luxury-ev-2026",
     "title": "Bentley Torcal Launches as First Electric Bentley With 375-Mile Range",
@@ -238,33 +265,6 @@
       "Massachusetts"
     ],
     "readTime": "4 min read",
-    "articleType": "Analysis & context",
-    "author": "The Quest for Profit"
-  },
-  {
-    "id": "biz-new-jj",
-    "slug": "johnson-johnson-5-5bn-baby-powder-lawsuit-settlement-2026",
-    "date": "July 28, 2026",
-    "category": "Business",
-    "categories": [
-      "Business"
-    ],
-    "title": "Johnson & Johnson Agrees to $5.5 Billion Talc Settlement to Resolve Baby Powder Cancer Claims",
-    "image": "/images/illustrations/johnson-johnson-5-5bn-baby-powder-lawsuit-settlement-2026.webp",
-    "excerpt": "Johnson & Johnson has agreed to pay up to $5.5 billion to settle tens of thousands of lawsuits alleging its talc-based baby powder caused ovarian cancer, marking a major step toward ending years of litigation.",
-    "tags": [
-      "Johnson & Johnson",
-      "baby powder",
-      "talc lawsuits",
-      "ovarian cancer",
-      "settlement",
-      "pharmaceuticals",
-      "healthcare",
-      "litigation",
-      "corporate news",
-      "US courts"
-    ],
-    "readTime": "5 min read",
     "articleType": "Analysis & context",
     "author": "The Quest for Profit"
   },

@@ -1,5 +1,59 @@
 [
   {
+    "id": "biz-new-jj",
+    "slug": "trump-administration-weaken-fuel-economy-standards-cars-trucks-2026",
+    "title": "Trump Administration Targets Biden-Era Fuel Economy Rules With Lower 2031 MPG Standard",
+    "image": "/images/illustrations/trump-administration-weaken-fuel-economy-standards-cars-trucks-2026.webp",
+    "excerpt": "The Trump administration is moving to weaken US fuel economy standards, lowering the planned 2031 fleet target and giving automakers more flexibility.",
+    "category": "Business",
+    "categories": [
+      "Business"
+    ],
+    "date": "September 28, 2026",
+    "readTime": "14 min read",
+    "author": "The Quest for Profit",
+    "tags": [
+      "Trump Administration",
+      "Fuel Economy Standards",
+      "CAFE",
+      "Automakers",
+      "Ford",
+      "General Motors",
+      "Stellantis",
+      "Electric Vehicles",
+      "NHTSA",
+      "Auto Industry"
+    ],
+    "articleType": "Analysis & context"
+  },
+  {
+    "id": "fin-3",
+    "slug": "wall-street-futures-fall-oil-trump-rejects-iran-peace-proposal-2026",
+    "title": "US Stock Futures Fall as Oil Tops $107 After Trump Rejects Iran Peace Proposal",
+    "image": "/images/illustrations/wall-street-futures-fall-oil-trump-rejects-iran-peace-proposal-2026.webp",
+    "excerpt": "US stock futures fall as oil jumps after Trump rejects an Iranian proposal to reopen the Strait of Hormuz, reviving inflation and rate fears.",
+    "category": "Finance",
+    "categories": [
+      "Finance"
+    ],
+    "date": "September 28, 2026",
+    "readTime": "15 min read",
+    "author": "The Quest for Profit",
+    "tags": [
+      "Wall Street",
+      "Stock Futures",
+      "Oil Prices",
+      "Iran",
+      "Donald Trump",
+      "Strait of Hormuz",
+      "Federal Reserve",
+      "Treasury Yields",
+      "Inflation",
+      "Global Markets"
+    ],
+    "articleType": "Analysis & context"
+  },
+  {
     "id": "fin-nextera-dominion-2026",
     "slug": "rising-treasury-yields-diesel-prices-pressure-us-stocks-2026",
     "title": "US Stocks Face Fresh Pressure as Treasury Yields Top 5% and Diesel Prices Surge",
@@ -391,14 +445,6 @@
     "date": "September 3, 2026"
   },
   {
-    "slug": "netherlands-gold-moved-london-crisis-preparedness-2026",
-    "title": "Netherlands Moves 86 Tonnes of Gold to London Amid Rising Geopolitical Risks",
-    "shortdescription": "The Dutch central bank has moved 86 tonnes of gold from New York and Ottawa to London, saying the relocation will make its reserves easier to trade and deploy during a crisis.",
-    "category": "Finance",
-    "author": "The Quest for Profit",
-    "date": "September 3, 2026"
-  },
-  {
     "slug": "self-flying-planes-autonomous-aircraft-future-aviation-2026",
     "title": "Self-Flying Planes Are Coming, but Can Autonomous Aircraft Really Replace Pilots?",
     "shortdescription": "Autonomous aircraft are moving beyond drones as companies develop self-flying planes for farming, cargo and eventually passenger travel, but safety and regulation remain major obstacles.",
@@ -581,14 +627,6 @@
     "title": "Claude AI Conversations Exposed Online After Users Shared Chats Publicly",
     "shortdescription": "Some conversations with Anthropic's Claude AI were found publicly accessible through shared links that appeared in search results, raising fresh concerns about AI privacy and user awareness.",
     "category": "Tech",
-    "author": "The Quest for Profit",
-    "date": "July 28, 2026"
-  },
-  {
-    "slug": "johnson-johnson-5-5bn-baby-powder-lawsuit-settlement-2026",
-    "title": "Johnson & Johnson Agrees to $5.5 Billion Talc Settlement to Resolve Baby Powder Cancer Claims",
-    "shortdescription": "Johnson & Johnson has agreed to pay up to $5.5 billion to settle tens of thousands of lawsuits alleging its talc-based baby powder caused ovarian cancer, marking a major step toward ending years of litigation.",
-    "category": "Business",
     "author": "The Quest for Profit",
     "date": "July 28, 2026"
   },

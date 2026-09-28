@@ -1,5 +1,32 @@
 [
   {
+    "id": "fin-3",
+    "slug": "wall-street-futures-fall-oil-trump-rejects-iran-peace-proposal-2026",
+    "title": "US Stock Futures Fall as Oil Tops $107 After Trump Rejects Iran Peace Proposal",
+    "image": "/images/illustrations/wall-street-futures-fall-oil-trump-rejects-iran-peace-proposal-2026.webp",
+    "excerpt": "US stock futures fall as oil jumps after Trump rejects an Iranian proposal to reopen the Strait of Hormuz, reviving inflation and rate fears.",
+    "category": "Finance",
+    "categories": [
+      "Finance"
+    ],
+    "date": "September 28, 2026",
+    "readTime": "15 min read",
+    "author": "The Quest for Profit",
+    "tags": [
+      "Wall Street",
+      "Stock Futures",
+      "Oil Prices",
+      "Iran",
+      "Donald Trump",
+      "Strait of Hormuz",
+      "Federal Reserve",
+      "Treasury Yields",
+      "Inflation",
+      "Global Markets"
+    ],
+    "articleType": "Analysis & context"
+  },
+  {
     "id": "fin-nextera-dominion-2026",
     "slug": "rising-treasury-yields-diesel-prices-pressure-us-stocks-2026",
     "title": "US Stocks Face Fresh Pressure as Treasury Yields Top 5% and Diesel Prices Surge",
@@ -104,33 +131,6 @@
       "Global Economy"
     ],
     "readTime": "6 min read",
-    "articleType": "Analysis & context",
-    "author": "The Quest for Profit"
-  },
-  {
-    "id": "fin-3",
-    "slug": "netherlands-gold-moved-london-crisis-preparedness-2026",
-    "date": "September 3, 2026",
-    "category": "Finance",
-    "categories": [
-      "Finance"
-    ],
-    "title": "Netherlands Moves 86 Tonnes of Gold to London Amid Rising Geopolitical Risks",
-    "image": "/images/illustrations/netherlands-gold-moved-london-crisis-preparedness-2026.webp",
-    "excerpt": "The Dutch central bank has moved 86 tonnes of gold from New York and Ottawa to London, saying the relocation will make its reserves easier to trade and deploy during a crisis.",
-    "tags": [
-      "Netherlands",
-      "gold",
-      "Dutch central bank",
-      "DNB",
-      "Bank of England",
-      "gold reserves",
-      "geopolitical risk",
-      "central banks",
-      "financial markets",
-      "crisis preparedness"
-    ],
-    "readTime": "7 min read",
     "articleType": "Analysis & context",
     "author": "The Quest for Profit"
   },
