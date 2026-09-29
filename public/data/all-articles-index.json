@@ -405,12 +405,31 @@
     "date": "September 8, 2026"
   },
   {
-    "slug": "dollar-struggles-fed-rate-hike-expectations-september-2026",
-    "title": "US Dollar Struggles Despite Rising Fed Rate Hike Bets as Yen and Euro Gain",
-    "shortdescription": "The US dollar is struggling despite rising expectations of a September Fed rate hike as yen strength, ECB tightening and global inflation risks limit its advantage.",
+    "id": "finance-new-wall-street",
+    "slug": "wall-street-rallies-ai-oil-federal-reserve-concerns-2026",
+    "date": "September 29, 2026",
     "category": "Finance",
-    "author": "The Quest for Profit",
-    "date": "September 7, 2026"
+    "categories": [
+      "Finance"
+    ],
+    "title": "Wall Street Stocks Rally as AI Optimism Offsets Oil and Fed Rate Concerns",
+    "image": "/images/illustrations/wall-street-rallies-ai-oil-federal-reserve-concerns-2026.webp",
+    "excerpt": "Wall Street rebounds as AI stocks and easing oil prices support equities, while investors weigh higher Treasury yields, inflation and further Federal Reserve rate hikes.",
+    "tags": [
+      "Wall Street",
+      "S&P 500",
+      "Nasdaq",
+      "Dow Jones",
+      "Federal Reserve",
+      "Interest Rates",
+      "AI Stocks",
+      "Oil Prices",
+      "Treasury Yields",
+      "US Markets"
+    ],
+    "readTime": "7 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
   },
   {
     "slug": "oil-gas-prices-surge-iran-war-global-energy-supply-fears",
@@ -623,12 +642,30 @@
     "date": "July 29, 2026"
   },
   {
-    "slug": "claude-ai-public-chat-links-privacy-concerns-2026",
-    "title": "Claude AI Conversations Exposed Online After Users Shared Chats Publicly",
-    "shortdescription": "Some conversations with Anthropic's Claude AI were found publicly accessible through shared links that appeared in search results, raising fresh concerns about AI privacy and user awareness.",
+    "id": "tech-new-bose",
+    "slug": "bose-returns-wired-audio-99-noise-cancelling-usb-c-earbuds-2026",
+    "date": "September 29, 2026",
     "category": "Tech",
-    "author": "The Quest for Profit",
-    "date": "July 28, 2026"
+    "categories": [
+      "Tech"
+    ],
+    "title": "Bose Launches $99 USB-C Wired Earbuds With Active Noise Cancellation",
+    "image": "/images/illustrations/bose-returns-wired-audio-99-noise-cancelling-usb-c-earbuds-2026.webp",
+    "excerpt": "Bose has returned to wired earbuds after 11 years with new $99 Noise Cancelling Wired Earbuds featuring USB-C, ANC, lossless audio and no rechargeable battery.",
+    "tags": [
+      "Bose",
+      "Wired Earbuds",
+      "Noise Cancellation",
+      "USB-C",
+      "Audio Technology",
+      "ANC",
+      "Earbuds",
+      "Consumer Electronics",
+      "Tech News"
+    ],
+    "readTime": "7 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
   },
   {
     "id": "fin-7",
