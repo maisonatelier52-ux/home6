@@ -125,12 +125,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.thequestforprofit.com/markets/alejandro-betancourt-us-venezuela-oil-deal-2026</loc>
-    <lastmod>2026-09-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.thequestforprofit.com/finance/netherlands-gold-moved-london-crisis-preparedness-2026</loc>
     <lastmod>2026-09-03</lastmod>
@@ -173,12 +168,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.thequestforprofit.com/politics/trump-venezuela-65-billion-barrels-oil-deal-2026</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://www.thequestforprofit.com/business/trump-anthropic-retaliation-pentagon-ruling-2026</loc>
     <lastmod>2026-08-28</lastmod>
@@ -549,5 +539,15 @@
   <url>
     <loc>https://www.thequestforprofit.com/finance/wall-street-rallies-ai-oil-federal-reserve-concerns-2026</loc>
     <lastmod>2026-09-29</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.thequestforprofit.com/markets/wall-street-september-2026-treasury-yields-economic-concerns-stocks</loc>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.thequestforprofit.com/politics/republican-senator-blocks-resolution-trump-taxpayer-funded-ads-2026</loc>
+    <lastmod>2026-09-30</lastmod>
   </url>
 </urlset>
