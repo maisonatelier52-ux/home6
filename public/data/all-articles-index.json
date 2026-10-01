@@ -499,12 +499,33 @@
     "date": "September 2, 2026"
   },
   {
-    "slug": "ai-global-economic-downturn-andrew-bailey-g20-warning-2026",
-    "title": "Bank of England Chief Warns AI Market Crash Could Spread Across Global Economy",
-    "shortdescription": "Bank of England Governor Andrew Bailey has warned G20 finance chiefs that an AI market correction could spread globally, while autonomous AI systems could create new cybersecurity risks for financial institutions.",
+    "id": "tech-meta-muse-ai-agents",
+    "slug": "meta-muse-ai-agents-internet-online-problems-2026",
+    "date": "October 1, 2026",
     "category": "Tech",
-    "author": "The Quest for Profit",
-    "date": "September 1, 2026"
+    "categories": [
+      "Tech"
+    ],
+    "title": "Meta Muse AI Agents Could Reshape the Internet — and Create a New Wave of Online Problems",
+    "image": "/images/illustrations/meta-muse-ai-agents-internet-online-problems-2026.webp",
+    "excerpt": "Meta's Muse AI agent can browse the web, shop, book appointments and manage digital tasks, but experts warn widespread AI agents could create new problems for the internet.",
+    "tags": [
+      "Meta",
+      "Muse AI",
+      "Artificial Intelligence",
+      "AI Agents",
+      "Meta AI",
+      "Internet",
+      "Automation",
+      "Cybersecurity",
+      "Privacy",
+      "Social Media",
+      "E-commerce",
+      "Tech News"
+    ],
+    "readTime": "7 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
   },
   {
     "slug": "japan-companies-india-investment-china-risks-2026",
@@ -585,12 +606,31 @@
     "date": "August 28, 2026"
   },
   {
-    "slug": "starmer-donates-biography-downing-street-library-2026",
-    "title": "Keir Starmer Donates His Own Biography to Historic Downing Street Library",
-    "shortdescription": "Former UK Prime Minister Sir Keir Starmer has donated a biography about himself, written by former Labour adviser Tom Baldwin, to the historic Downing Street library.",
+    "id": "pol-christa-pike-failed-execution",
+    "slug": "christa-pike-failed-execution-tennessee-what-happens-next-2026",
+    "date": "October 1, 2026",
     "category": "Politics",
-    "author": "The Quest for Profit",
-    "date": "August 21, 2026"
+    "categories": [
+      "Politics"
+    ],
+    "title": "Christa Pike Remains Alive After Failed Execution Attempt in Tennessee as State Orders Review",
+    "image": "/images/illustrations/christa-pike-failed-execution-tennessee-what-happens-next-2026.webp",
+    "excerpt": "Christa Pike survived Tennessee’s failed lethal-injection execution after two doses of pentobarbital. Here is what happened and what could come next.",
+    "tags": [
+      "Christa Pike",
+      "Tennessee",
+      "Death Penalty",
+      "Lethal Injection",
+      "U.S. Supreme Court",
+      "Bill Lee",
+      "Tennessee Department of Correction",
+      "Capital Punishment",
+      "Legal News",
+      "US Politics"
+    ],
+    "readTime": "7 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
   },
   {
     "slug": "anthony-fauci-contempt-of-congress-vote-rand-paul-covid-investigation",
