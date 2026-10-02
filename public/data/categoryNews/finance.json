@@ -81,60 +81,6 @@
     "author": "The Quest for Profit"
   },
   {
-    "id": "fin-trump-canada-trade-war",
-    "slug": "trump-canadian-firms-us-government-contracts-trade-war-2026",
-    "date": "September 9, 2026",
-    "category": "Finance",
-    "categories": [
-      "Finance"
-    ],
-    "title": "Trump Targets Canadian Companies as US-Canada Trade War Escalates",
-    "image": "/images/illustrations/trump-canadian-firms-us-government-contracts-trade-war-2026.webp",
-    "excerpt": "Trump has ordered US agencies to remove Canadian-origin products from federal purchasing schedules, escalating the trade war beyond tariffs.",
-    "tags": [
-      "Donald Trump",
-      "Canada",
-      "US-Canada Trade War",
-      "Government Contracts",
-      "Tariffs",
-      "Trade Policy",
-      "Federal Procurement",
-      "Mark Carney",
-      "GSA",
-      "Economy"
-    ],
-    "readTime": "9 min read",
-    "articleType": "Analysis & context",
-    "author": "The Quest for Profit"
-  },
-  {
-    "id": "finance-new-wall-street",
-    "slug": "wall-street-rallies-ai-oil-federal-reserve-concerns-2026",
-    "date": "September 29, 2026",
-    "category": "Finance",
-    "categories": [
-      "Finance"
-    ],
-    "title": "Wall Street Stocks Rally as AI Optimism Offsets Oil and Fed Rate Concerns",
-    "image": "/images/illustrations/wall-street-rallies-ai-oil-federal-reserve-concerns-2026.webp",
-    "excerpt": "Wall Street rebounds as AI stocks and easing oil prices support equities, while investors weigh higher Treasury yields, inflation and further Federal Reserve rate hikes.",
-    "tags": [
-      "Wall Street",
-      "S&P 500",
-      "Nasdaq",
-      "Dow Jones",
-      "Federal Reserve",
-      "Interest Rates",
-      "AI Stocks",
-      "Oil Prices",
-      "Treasury Yields",
-      "US Markets"
-    ],
-    "readTime": "7 min read",
-    "articleType": "Analysis & context",
-    "author": "The Quest for Profit"
-  },
-  {
     "id": "fin-8",
     "slug": "wall-street-futures-slip-oil-treasury-yields-ai-concerns-2026",
     "date": "September 22, 2026",
@@ -183,6 +129,34 @@
       "Global Economy"
     ],
     "readTime": "6 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "fin-us-stocks-october-2026",
+    "slug": "us-stocks-start-october-2026-treasury-yields-oil-volatility",
+    "date": "October 2, 2026",
+    "category": "Finance",
+    "categories": [
+      "Finance"
+    ],
+    "title": "US Stocks Post Modest October Gains as Bond Yields and Oil Keep Investors Cautious",
+    "image": "/images/illustrations/us-stocks-start-october-2026-treasury-yields-oil-volatility.webp",
+    "excerpt": "U.S. stocks opened October with modest gains as Treasury yields eased from multi-year highs, while oil prices and inflation concerns kept markets volatile.",
+    "tags": [
+      "US Stocks",
+      "Wall Street",
+      "S&P 500",
+      "Nasdaq",
+      "Dow Jones",
+      "Treasury Yields",
+      "Oil Prices",
+      "Federal Reserve",
+      "Inflation",
+      "Markets",
+      "AI Stocks"
+    ],
+    "readTime": "7 min read",
     "articleType": "Analysis & context",
     "author": "The Quest for Profit"
   }

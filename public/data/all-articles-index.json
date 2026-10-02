@@ -381,14 +381,6 @@
     "date": "September 9, 2026"
   },
   {
-    "slug": "trump-canadian-firms-us-government-contracts-trade-war-2026",
-    "title": "Trump Targets Canadian Companies as US-Canada Trade War Escalates",
-    "shortdescription": "Trump has ordered US agencies to remove Canadian-origin products from federal purchasing schedules, escalating the trade war beyond tariffs.",
-    "category": "Finance",
-    "author": "The Quest for Profit",
-    "date": "September 9, 2026"
-  },
-  {
     "slug": "novartis-del-desiran-muscle-disease-drug-trial-failure-2026",
     "title": "Novartis Shares Fall After Muscle Disease Drug Del-desiran Fails Phase 3 Trial",
     "shortdescription": "Novartis suffered a major pipeline setback after del-desiran failed its Phase 3 trial for myotonic dystrophy, sending shares sharply lower.",
@@ -403,33 +395,6 @@
     "category": "Tech",
     "author": "The Quest for Profit",
     "date": "September 8, 2026"
-  },
-  {
-    "id": "finance-new-wall-street",
-    "slug": "wall-street-rallies-ai-oil-federal-reserve-concerns-2026",
-    "date": "September 29, 2026",
-    "category": "Finance",
-    "categories": [
-      "Finance"
-    ],
-    "title": "Wall Street Stocks Rally as AI Optimism Offsets Oil and Fed Rate Concerns",
-    "image": "/images/illustrations/wall-street-rallies-ai-oil-federal-reserve-concerns-2026.webp",
-    "excerpt": "Wall Street rebounds as AI stocks and easing oil prices support equities, while investors weigh higher Treasury yields, inflation and further Federal Reserve rate hikes.",
-    "tags": [
-      "Wall Street",
-      "S&P 500",
-      "Nasdaq",
-      "Dow Jones",
-      "Federal Reserve",
-      "Interest Rates",
-      "AI Stocks",
-      "Oil Prices",
-      "Treasury Yields",
-      "US Markets"
-    ],
-    "readTime": "7 min read",
-    "articleType": "Analysis & context",
-    "author": "The Quest for Profit"
   },
   {
     "slug": "oil-gas-prices-surge-iran-war-global-energy-supply-fears",
@@ -483,12 +448,31 @@
     "author": "The Quest for Profit"
   },
   {
-    "slug": "self-flying-planes-autonomous-aircraft-future-aviation-2026",
-    "title": "Self-Flying Planes Are Coming, but Can Autonomous Aircraft Really Replace Pilots?",
-    "shortdescription": "Autonomous aircraft are moving beyond drones as companies develop self-flying planes for farming, cargo and eventually passenger travel, but safety and regulation remain major obstacles.",
+    "id": "tech-att-iphone-18-pro-max",
+    "slug": "att-iphone-18-pro-max-ios-27-0-1-cellular-problems",
+    "date": "October 2, 2026",
     "category": "Tech",
-    "author": "The Quest for Profit",
-    "date": "September 2, 2026"
+    "categories": [
+      "Tech"
+    ],
+    "title": "AT&T Warns iPhone 18 Pro Max Users of Cellular Failures and Urges iOS 27.0.1 Update",
+    "image": "/images/illustrations/att-iphone-18-pro-max-ios-27-0-1-cellular-problems.webp",
+    "excerpt": "AT&T is warning some iPhone 18 Pro Max users that calls, texts, data and even 911 access may fail, urging customers to install iOS 27.0.1.",
+    "tags": [
+      "AT&T",
+      "Apple",
+      "iPhone 18 Pro Max",
+      "iOS 27.0.1",
+      "Cellular Issues",
+      "5G",
+      "eSIM",
+      "Apple iPhone",
+      "Mobile Technology",
+      "Tech News"
+    ],
+    "readTime": "7 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
   },
   {
     "slug": "us-venezuela-oil-deal-65-billion-barrels-2026",
@@ -1083,6 +1067,34 @@
       "Investing"
     ],
     "readTime": "6 min read",
+    "articleType": "Analysis & context",
+    "author": "The Quest for Profit"
+  },
+  {
+    "id": "fin-us-stocks-october-2026",
+    "slug": "us-stocks-start-october-2026-treasury-yields-oil-volatility",
+    "date": "October 2, 2026",
+    "category": "Finance",
+    "categories": [
+      "Finance"
+    ],
+    "title": "US Stocks Post Modest October Gains as Bond Yields and Oil Keep Investors Cautious",
+    "image": "/images/illustrations/us-stocks-start-october-2026-treasury-yields-oil-volatility.webp",
+    "excerpt": "U.S. stocks opened October with modest gains as Treasury yields eased from multi-year highs, while oil prices and inflation concerns kept markets volatile.",
+    "tags": [
+      "US Stocks",
+      "Wall Street",
+      "S&P 500",
+      "Nasdaq",
+      "Dow Jones",
+      "Treasury Yields",
+      "Oil Prices",
+      "Federal Reserve",
+      "Inflation",
+      "Markets",
+      "AI Stocks"
+    ],
+    "readTime": "7 min read",
     "articleType": "Analysis & context",
     "author": "The Quest for Profit"
   }
