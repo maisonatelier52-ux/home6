@@ -81,27 +81,29 @@
   },
   {
     "id": "tech-2",
-    "slug": "robots-future-theme-parks-ai-robotics",
-    "date": "September 4, 2026",
+    "slug": "tesla-flying-roadster-spacex-thrusters-unveiled-2026",
+    "date": "October 16, 2026",
     "category": "Tech",
     "categories": [
       "Tech"
     ],
-    "title": "How Robots and AI Are Changing the Future of Theme Parks",
-    "image": "/images/illustrations/robots-future-theme-parks-ai-robotics.webp",
-    "excerpt": "Robots are moving beyond rides and animatronics as Disney and other theme-park operators explore AI, autonomous characters and robotic entertainment.",
+    "title": "Tesla Unveils Flying Roadster with SpaceX Thrusters After Years of Delays",
+    "image": "/images/illustrations/tesla-unvelies.webp",
+    "excerpt": "Tesla has unveiled its redesigned Roadster with SpaceX-inspired thrusters and hovering capabilities. Elon Musk says production is planned for 2028.",
     "tags": [
-      "Robotics",
-      "Artificial Intelligence",
-      "Theme Parks",
-      "Disney",
-      "Animatronics",
-      "Entertainment Technology",
-      "AI",
-      "Future Technology"
+      "Tesla",
+      "Elon Musk",
+      "Tesla Roadster",
+      "SpaceX",
+      "Flying Car",
+      "Electric Vehicles",
+      "Automotive Technology",
+      "Electric Sports Cars",
+      "Innovation",
+      "Future Mobility"
     ],
     "readTime": "6 min read",
-    "articleType": "Explainer",
+    "articleType": "Analysis & context",
     "author": "The Quest for Profit"
   },
   {

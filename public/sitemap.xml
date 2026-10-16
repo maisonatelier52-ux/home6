@@ -47,6 +47,13 @@
   <url><loc>https://www.thequestforprofit.com/nature</loc><lastmod>2026-09-17</lastmod></url>
   <url><loc>https://www.thequestforprofit.com/culture</loc><lastmod>2026-09-17</lastmod></url>
 <url>
+  <url>
+    <loc>https://www.thequestforprofit.com/tech/tesla-flying-roadster-spacex-thrusters-unveiled-2026</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.thequestforprofit.com/business/goldman-sachs-september-fed-rate-hike-forecast-2026</loc>
     <lastmod>2026-09-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -180,8 +187,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.thequestforprofit.com/politics/anthony-fauci-contempt-of-congress-vote-rand-paul-covid-investigation</loc>
-    <lastmod>2026-08-06</lastmod>
+    <loc>https://www.thequestforprofit.com/politics/trump-cancels-fort-hood-execution-livestream-plan</loc>
+    <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
