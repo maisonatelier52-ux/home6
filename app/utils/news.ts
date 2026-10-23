@@ -136,8 +136,8 @@ export function getAutomatedHomeData() {
         slug: a.slug
     }));
     
-    // 4. Module 10 (6, 7, 8, 9)
-    const module10Posts = fullArticles.slice(6, 10).map(a => ({
+    // 4. Module 10 (6, 7)
+    const module10Posts = fullArticles.slice(6, 8).map(a => ({
         title: a.title,
         date: a.date,
         image: a.image,
@@ -162,8 +162,8 @@ export function getAutomatedHomeData() {
         category: a.category
     }));
 
-    // 7. Sidebar Module articleList (15, 16, 17)
-    const sidebarModuleList = fullArticles.slice(15, 18).map(a => ({
+    // 7. Sidebar Module articleList (15, 16, 17, 18)
+    const sidebarModuleList = fullArticles.slice(15, 19).map(a => ({
         category: a.category,
         title: a.title,
         excerpt: a.excerpt || a.shortdescription,
@@ -191,8 +191,8 @@ export function getAutomatedHomeData() {
     // 10. Three Col - Hero (30)
     const threeColHero = mapToColHeroStructure(fullArticles[30]);
 
-    // 11. Three Col - SportNews (31 to 34)
-    const threeColSportNews = fullArticles.slice(31, 35).map(a => ({
+    // 11. Three Col - SportNews (31 to 35)
+    const threeColSportNews = fullArticles.slice(31, 36).map(a => ({
         category: a.category,
         title: a.title,
         excerpt: a.excerpt || a.shortdescription,
@@ -231,8 +231,8 @@ export function getAutomatedHomeData() {
         slug: a.slug
     }));
 
-    // 16. News V2 - Col1 (49 to 53)
-    const newsV2Col1 = fullArticles.slice(49, 54).map(a => ({
+    // 16. News V2 - Col1 (49 to 52)
+    const newsV2Col1 = fullArticles.slice(49, 53).map(a => ({
         category: a.category,
         title: a.title,
         excerpt: a.excerpt || a.shortdescription,
